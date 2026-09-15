@@ -1,0 +1,23 @@
+{
+  "id": "praying-mantis",
+  "created_utc": "2026-09-15T08:55:02.294478+00:00",
+  "source": "masters/praying-mantis.png",
+  "source_sha256": "081d3c824366e4b12a6aaf05b3d11fc9da2b6574247bba47913f94b1f70b5145",
+  "candidate": "revisions/background-cleanup-20260915/praying-mantis-alpha.png",
+  "candidate_sha256": "edd89ee1d28bd385fdf46edec50347e9708d324f3b9ed9936421a1ae3714da93",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 1151561,
+  "opaque_pixels": 411770,
+  "partial_alpha_pixels": 9185,
+  "foreground_fraction": 0.2676952094605079,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

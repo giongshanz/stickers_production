@@ -1,0 +1,23 @@
+{
+  "id": "sewing-machine",
+  "created_utc": "2026-09-15T08:54:31.883569+00:00",
+  "source": "masters/sewing-machine.png",
+  "source_sha256": "5f635a733544b991a93e45c033811a4e82cd7e790c3d20b0561f9f68ae785076",
+  "candidate": "revisions/background-cleanup-20260915/sewing-machine-alpha.png",
+  "candidate_sha256": "b19d4fa5b453b73020e05f38dbfab3d3c2b6982401b14d33a8a5c3ed8c87dff0",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 654873,
+  "opaque_pixels": 909892,
+  "partial_alpha_pixels": 7751,
+  "foreground_fraction": 0.5835508191967522,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

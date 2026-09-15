@@ -1,0 +1,23 @@
+{
+  "id": "terrarium-moss",
+  "created_utc": "2026-09-15T08:54:48.542792+00:00",
+  "source": "masters/terrarium-moss.png",
+  "source_sha256": "78671e7b5552602b9b2297f6d8950cdeb85d74a567bb5b8cf778e538b63b1fc5",
+  "candidate": "revisions/background-cleanup-20260915/terrarium-moss-alpha.png",
+  "candidate_sha256": "b3fec1692cc376c91d3ababbb534b75de39dcd542b34b042916a9a393d3f2e1a",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 910902,
+  "opaque_pixels": 654852,
+  "partial_alpha_pixels": 6762,
+  "foreground_fraction": 0.4207359416374778,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "terrarium-pebbles",
+  "created_utc": "2026-09-15T08:54:48.000075+00:00",
+  "source": "masters/terrarium-pebbles.png",
+  "source_sha256": "453c9b9529b8d89fe704b90fa61f3126253f075a025b3217800bce7618b99be1",
+  "candidate": "revisions/background-cleanup-20260915/terrarium-pebbles-alpha.png",
+  "candidate_sha256": "f070f1747d5fd06c5b588c90898008e9b3a8839cde9ecaa4d7d5af5c1ae54d65",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 1005202,
+  "opaque_pixels": 561583,
+  "partial_alpha_pixels": 5731,
+  "foreground_fraction": 0.36076834830297433,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "mezze-halloumi",
+  "created_utc": "2026-09-15T08:55:10.881074+00:00",
+  "source": "masters/mezze-halloumi.png",
+  "source_sha256": "282e16b1d39578c1a11fe2604802bce95e68ae9112ec7c1354bad6187fe36aa2",
+  "candidate": "revisions/background-cleanup-20260915/mezze-halloumi-alpha.png",
+  "candidate_sha256": "fed96b1c2a2ec0a3427c402c6da09ea6d1e68cfaf418846e1ff49ccc56241f48",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 907621,
+  "opaque_pixels": 659208,
+  "partial_alpha_pixels": 5687,
+  "foreground_fraction": 0.42282240689442907,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

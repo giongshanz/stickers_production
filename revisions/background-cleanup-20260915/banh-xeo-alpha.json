@@ -1,0 +1,23 @@
+{
+  "id": "banh-xeo",
+  "created_utc": "2026-09-15T08:52:26.093511+00:00",
+  "source": "masters/banh-xeo.png",
+  "source_sha256": "13ccd4d106ba4382dbb593fffbeabf5d49ef5f77145cdfba80657e1cf9ba59cb",
+  "candidate": "revisions/background-cleanup-20260915/banh-xeo-alpha.png",
+  "candidate_sha256": "1431e5c6f7689a980c0b9038a75e3f7d28c72f48204ccd9b4736845814050ce9",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 772204,
+  "opaque_pixels": 793780,
+  "partial_alpha_pixels": 6532,
+  "foreground_fraction": 0.5089372699546459,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

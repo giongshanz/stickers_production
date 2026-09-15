@@ -1,0 +1,1 @@
+Mở ../index.html để xem catalogue. stickers/ chứa bản sao PNG có alpha ở bốn góc; _needs-alpha/ chứa bản cần sửa nền. Đây chưa phải bộ được duyệt cuối. Ảnh được sao chép nguyên byte từ masters; bảng topic-map.csv dùng đường dẫn tính từ gốc workspace.

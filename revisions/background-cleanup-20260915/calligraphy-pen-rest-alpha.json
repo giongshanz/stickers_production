@@ -1,0 +1,23 @@
+{
+  "id": "calligraphy-pen-rest",
+  "created_utc": "2026-09-15T08:54:58.018680+00:00",
+  "source": "masters/calligraphy-pen-rest.png",
+  "source_sha256": "084b8be3a45482b1838d78225b32803eb860524714e0b85d239c95f1416932b9",
+  "candidate": "revisions/background-cleanup-20260915/calligraphy-pen-rest-alpha.png",
+  "candidate_sha256": "85bc67e03cde478cb930d0ba93bda063841ad783fc660280379ef31432e120cd",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 1002668,
+  "opaque_pixels": 563554,
+  "partial_alpha_pixels": 6294,
+  "foreground_fraction": 0.36237977864772125,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

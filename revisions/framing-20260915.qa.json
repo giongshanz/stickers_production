@@ -1,0 +1,14 @@
+[
+  {
+    "id": "bongos",
+    "variant": "revisions/bongos-padding-20260915.png",
+    "status": "not_promoted",
+    "reason": "Padding improved but alpha was lost and painted contrast increased. Keep original master."
+  },
+  {
+    "id": "marching-trumpet",
+    "variant": "revisions/marching-trumpet-padding-20260915.png",
+    "status": "not_promoted",
+    "reason": "Padding improved but alpha was lost and painted contrast increased. Keep original master."
+  }
+]

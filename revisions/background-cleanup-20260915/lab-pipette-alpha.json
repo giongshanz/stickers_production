@@ -1,0 +1,23 @@
+{
+  "id": "lab-pipette",
+  "created_utc": "2026-09-15T08:54:58.444094+00:00",
+  "source": "masters/lab-pipette.png",
+  "source_sha256": "16607b293aeeea3df6eb544b913925e26f857cafab1f95f58b3b8c9fd158ebf7",
+  "candidate": "revisions/background-cleanup-20260915/lab-pipette-alpha.png",
+  "candidate_sha256": "7f6e4ba5578a689bd2c6744ad6b82c05747b1efda68926a54c2865655c124127",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 1297817,
+  "opaque_pixels": 269739,
+  "partial_alpha_pixels": 4960,
+  "foreground_fraction": 0.17468757074649796,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

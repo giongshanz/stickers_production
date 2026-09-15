@@ -1,0 +1,23 @@
+{
+  "id": "mezze-baba-ganoush",
+  "created_utc": "2026-09-15T08:55:10.308041+00:00",
+  "source": "masters/mezze-baba-ganoush.png",
+  "source_sha256": "d48213053fb20c6125473a23b71ef10371c0c5f87742134eda620c96cc440a59",
+  "candidate": "revisions/background-cleanup-20260915/mezze-baba-ganoush-alpha.png",
+  "candidate_sha256": "6c4622540c8785ba63391a76110c043fb710d2a925883f0d0d022e20fd320667",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 824711,
+  "opaque_pixels": 742161,
+  "partial_alpha_pixels": 5644,
+  "foreground_fraction": 0.4755468306840757,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

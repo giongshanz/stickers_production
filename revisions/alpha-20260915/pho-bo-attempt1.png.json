@@ -1,0 +1,21 @@
+{
+  "id": "pho-bo",
+  "prompt": "Use case: background-extraction. Edit the supplied sticker. Remove the grey checkerboard backdrop completely and return the same sticker as a transparent-background PNG with real alpha. Preserve the existing painted subject, colors, gentle shading, shapes, details, view and narrow white sticker-cut border. Keep the entire white cut border intact. The empty canvas outside the cut border must be transparent. Do not repaint or sharpen the food, increase contrast, add a shadow, or put any backdrop behind it. One sticker, square canvas, target 512 x 512.",
+  "referenced_image_paths": [
+    "masters/pho-bo.png"
+  ],
+  "variant": "revisions/alpha-20260915/pho-bo-attempt1.png",
+  "qa": {
+    "width": 1254,
+    "height": 1254,
+    "pixel_format": "Format24bppRgb",
+    "corners": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "status": "rejected",
+    "reason": "The edit still contains a printed checkerboard; not promoted."
+  }
+}

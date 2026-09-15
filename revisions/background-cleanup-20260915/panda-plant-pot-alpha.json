@@ -1,0 +1,23 @@
+{
+  "id": "panda-plant-pot",
+  "created_utc": "2026-09-15T08:54:53.551646+00:00",
+  "source": "masters/panda-plant-pot.png",
+  "source_sha256": "6efc6b1493702bb57470b7f4c309bf71c731773a1e9917954cf4f342e9c6b844",
+  "candidate": "revisions/background-cleanup-20260915/panda-plant-pot-alpha.png",
+  "candidate_sha256": "48f1a4c92974c01c8a4bbea7d52ec3ef70a51ff154ac6a9d2a26ba2eee4062d7",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 872356,
+  "opaque_pixels": 692887,
+  "partial_alpha_pixels": 7273,
+  "foreground_fraction": 0.44524825184608613,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

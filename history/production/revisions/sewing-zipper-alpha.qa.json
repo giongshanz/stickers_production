@@ -1,0 +1,6 @@
+{
+  "revision": "sewing-zipper-alpha",
+  "pixel_format": "Format24bppRgb",
+  "corner_alpha": 255,
+  "decision": "Rejected: background retained and contrast increased. Keep original master."
+}

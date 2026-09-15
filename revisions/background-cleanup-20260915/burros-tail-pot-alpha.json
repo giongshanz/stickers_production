@@ -1,0 +1,23 @@
+{
+  "id": "burros-tail-pot",
+  "created_utc": "2026-09-15T08:54:52.998711+00:00",
+  "source": "masters/burros-tail-pot.png",
+  "source_sha256": "f83e2d89a9e048f10c6da236dab6c58676c4d7b010b98d8362c85d7a4ef88de0",
+  "candidate": "revisions/background-cleanup-20260915/burros-tail-pot-alpha.png",
+  "candidate_sha256": "d5aaaa37da91a40a3a62a568edd095a8557a36c3345fb16e7c3c5eab620d9cef",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 845991,
+  "opaque_pixels": 718395,
+  "partial_alpha_pixels": 8130,
+  "foreground_fraction": 0.46201437696023445,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

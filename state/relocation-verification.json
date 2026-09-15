@@ -1,0 +1,37 @@
+{
+  "verified_utc": "2026-09-15T08:02:05.318244+00:00",
+  "passed": true,
+  "platform_tested": "win32",
+  "python_tested": "3.12.14",
+  "test": "Full independent copy into a renamed folder containing spaces and Vietnamese characters; original folder is not used by relocated commands.",
+  "counts": {
+    "verified": true,
+    "manifest_files": 2178,
+    "target_topics": 50,
+    "target_slots": 400,
+    "target_unique": 390,
+    "generated_unique": 173,
+    "missing_unique": 217,
+    "alpha_corners_clear_unique": 96,
+    "needs_alpha_unique": 77,
+    "topics_with_all_images": 22,
+    "generated_topic_slots": 183,
+    "visual_rework_unique": 25,
+    "complete": false
+  },
+  "original_files_accounted_for": 2334,
+  "checks": [
+    "full checksum verification after relocation",
+    "relative reference paths for continuation",
+    "refresh of gallery, delivery and progress from relocated root",
+    "source/delivery/shared-ID SHA-256 equality",
+    "all historical source files accounted for",
+    "old source folders unchanged",
+    "changed metadata rejected",
+    "path escape rejected",
+    "existing master overwrite rejected"
+  ],
+  "no_images_generated": true,
+  "no_image_pixels_modified": true,
+  "limitation": "Relocation executed on Windows. Python tooling uses cross-platform libraries; macOS/Linux were not executed in this check."
+}

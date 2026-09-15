@@ -1,0 +1,23 @@
+{
+  "id": "reptile-feeding-tongs",
+  "created_utc": "2026-09-15T08:55:07.328209+00:00",
+  "source": "masters/reptile-feeding-tongs.png",
+  "source_sha256": "f76f5d893b30534144c1e2bbccad79fce423626f5664ef82d20c969708475ea6",
+  "candidate": "revisions/background-cleanup-20260915/reptile-feeding-tongs-alpha.png",
+  "candidate_sha256": "14e55b7d2d4655e79f0b25b83515f0ab46c076740627774f18afea10c94645ff",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 1236948,
+  "opaque_pixels": 328234,
+  "partial_alpha_pixels": 7334,
+  "foreground_fraction": 0.21339560297001747,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

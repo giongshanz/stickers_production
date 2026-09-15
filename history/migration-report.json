@@ -1,0 +1,31 @@
+{
+  "created_utc": "2026-09-15T07:59:19.875915+00:00",
+  "source_production": "C:\\Users\\sonng\\OneDrive\\Máy tính\\new-stickers-production",
+  "source_delivery": "C:\\Users\\sonng\\OneDrive\\Máy tính\\NewStickers",
+  "destination": "C:\\Users\\sonng\\OneDrive\\Máy tính\\stickers_production",
+  "masters": 173,
+  "delivered_slots": 183,
+  "reference_files": 1708,
+  "historical_records": 176,
+  "unavailable_historical_outputs": [],
+  "unparsed_legacy_log_lines": [
+    {
+      "history_log": "history/production/generation-20260914.jsonl",
+      "line_number": 27,
+      "note": "Legacy line is not valid JSON; original bytes preserved in history."
+    },
+    {
+      "history_log": "history/production/generation-20260914.jsonl",
+      "line_number": 67,
+      "note": "Legacy line is not valid JSON; original bytes preserved in history."
+    },
+    {
+      "history_log": "history/production/generation-20260914.jsonl",
+      "line_number": 77,
+      "note": "Legacy line is not valid JSON; original bytes preserved in history."
+    }
+  ],
+  "old_sources_modified": false,
+  "images_resized": false,
+  "git_files_archived": 98
+}

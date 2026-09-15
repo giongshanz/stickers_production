@@ -1,0 +1,2367 @@
+{
+  "version": "1.1-portable",
+  "style_reference": "references/Stickers",
+  "excluded_style_reference": "Any Unity project sticker collection; never an active style input",
+  "target": {
+    "topics": 50,
+    "slots_per_topic": 8,
+    "total_topic_slots": 400,
+    "unique_assets": 390,
+    "shared_assets": 10
+  },
+  "production_note": "Use original external reference artwork now bundled at references/Stickers. The glossy beehive pilot is rejected; the current beehive-skep master already uses the softer replacement. Preserve existing IDs, subjects and shared mappings. Apply the current separate style prompt. No logos, licensed characters or readable text.",
+  "assets": [
+    {
+      "id": "banh-mi",
+      "subject": "A Vietnamese banh mi baguette with pork, cucumber and cilantro peeking out"
+    },
+    {
+      "id": "pho-bo",
+      "subject": "A ceramic bowl of Vietnamese beef pho with flat noodles, herbs and beef slices"
+    },
+    {
+      "id": "banh-xeo",
+      "subject": "A folded golden Vietnamese crispy pancake showing shrimp and bean sprouts"
+    },
+    {
+      "id": "goi-cuon",
+      "subject": "Two translucent Vietnamese fresh spring rolls showing shrimp, herbs and vermicelli"
+    },
+    {
+      "id": "bun-cha",
+      "subject": "A compact serving of Vietnamese grilled pork with rice noodles and dipping bowl"
+    },
+    {
+      "id": "banh-cuon",
+      "subject": "Soft Vietnamese steamed rice rolls topped with crisp shallots"
+    },
+    {
+      "id": "banh-chung",
+      "subject": "One square Vietnamese banh chung wrapped in dark green leaves and crossed bamboo ties"
+    },
+    {
+      "id": "che-ba-mau",
+      "subject": "A clear dessert glass with three distinct layers of Vietnamese beans, jelly and coconut milk"
+    },
+    {
+      "id": "tet-lucky-envelope",
+      "subject": "A red Vietnamese lucky money envelope decorated with a simple gold blossom, no writing"
+    },
+    {
+      "id": "tet-kumquat-pot",
+      "subject": "A small festive kumquat tree with orange fruits in a red ceramic pot"
+    },
+    {
+      "id": "tet-peach-blossom",
+      "subject": "A graceful branch of pink peach blossoms tied with a red ribbon"
+    },
+    {
+      "id": "tet-lion-head",
+      "subject": "A cheerful Vietnamese lion dance head with red, cream and gold fabric details"
+    },
+    {
+      "id": "tet-watermelon",
+      "subject": "A round watermelon and one triangular red slice arranged as a single sticker"
+    },
+    {
+      "id": "tet-coconut-candy-tray",
+      "subject": "A round divided lacquer tray filled with curled colorful candied coconut strips"
+    },
+    {
+      "id": "tet-firecracker-string",
+      "subject": "A decorative hanging string of red cylindrical firecrackers with gold bands"
+    },
+    {
+      "id": "beehive-skep",
+      "subject": "A golden straw skep beehive with a small entrance and one tiny friendly bee"
+    },
+    {
+      "id": "honey-dipper",
+      "subject": "A wooden honey dipper with a small ribbon of golden honey"
+    },
+    {
+      "id": "bee-smoker",
+      "subject": "A metal beekeeping smoker with a brown bellows and a tiny curl of smoke"
+    },
+    {
+      "id": "beekeeper-veil-hat",
+      "subject": "A wide brim straw beekeeping hat with a white mesh veil, no person"
+    },
+    {
+      "id": "honeycomb-frame",
+      "subject": "A rectangular wooden beehive frame filled with hexagonal golden honeycomb"
+    },
+    {
+      "id": "honey-extractor",
+      "subject": "A small stainless steel honey extractor drum with a hand crank and honey tap"
+    },
+    {
+      "id": "beekeeper-gloves",
+      "subject": "A pair of long cream beekeeping gloves with pale yellow hands"
+    },
+    {
+      "id": "bee-feeding-jar",
+      "subject": "An inverted glass bee feeding jar on a small yellow hive feeder base"
+    },
+    {
+      "id": "honey-pancakes",
+      "subject": "A short stack of fluffy pancakes topped with butter and a light drizzle of honey"
+    },
+    {
+      "id": "honey-waffles",
+      "subject": "A golden square waffle with banana slices and a light honey drizzle"
+    },
+    {
+      "id": "honey-parfait",
+      "subject": "A clear breakfast parfait glass with yogurt, granola and a golden honey layer"
+    },
+    {
+      "id": "honey-toast",
+      "subject": "A slice of toast topped with ricotta, figs and a light drizzle of honey"
+    },
+    {
+      "id": "honey-crumpet",
+      "subject": "A round porous breakfast crumpet topped with a small pool of honey"
+    },
+    {
+      "id": "honey-butter-dish",
+      "subject": "A small butter dish holding pale golden whipped honey butter"
+    },
+    {
+      "id": "honey-lemon-tea",
+      "subject": "A clear mug of amber honey tea with one lemon slice and a cinnamon stick"
+    },
+    {
+      "id": "terracotta-amphora",
+      "subject": "A small unglazed terracotta amphora with two handles and a simple dark geometric band"
+    },
+    {
+      "id": "pottery-wheel",
+      "subject": "A compact pottery wheel with one unfinished terracotta bowl centered on its round wheel head"
+    },
+    {
+      "id": "wet-clay-lump",
+      "subject": "A moist brown lump of pottery clay with one thumb indentation"
+    },
+    {
+      "id": "potter-rib-tool",
+      "subject": "A kidney shaped wooden potter's rib tool with one round finger hole"
+    },
+    {
+      "id": "clay-wire-cutter",
+      "subject": "A curved pottery cutting wire connecting two small wooden handles"
+    },
+    {
+      "id": "loop-trimming-tool",
+      "subject": "A wooden handled pottery trimming tool with a rounded metal loop"
+    },
+    {
+      "id": "glazing-brush",
+      "subject": "A thick pottery glazing brush with a bamboo handle and broad soft bristles"
+    },
+    {
+      "id": "ceramic-kiln",
+      "subject": "A small brick pottery kiln with an arched front opening, a clay vase on a shelf and a short chimney"
+    },
+    {
+      "id": "excavation-trowel",
+      "subject": "An archaeologist's short triangular excavation trowel with a worn wooden handle"
+    },
+    {
+      "id": "archaeology-sieve",
+      "subject": "A square wooden archaeology sieve with wire mesh and a few small stones"
+    },
+    {
+      "id": "artifact-brush",
+      "subject": "A small archaeological dusting brush with a short dark handle and rounded bristles"
+    },
+    {
+      "id": "stratigraphy-block",
+      "subject": "A cutaway earth block showing four clearly colored archaeological soil layers"
+    },
+    {
+      "id": "stone-tablet",
+      "subject": "An ancient chipped stone tablet with simple abstract incised pictographs"
+    },
+    {
+      "id": "mosaic-fragment",
+      "subject": "A broken ancient mosaic fragment with a blue and cream geometric pattern"
+    },
+    {
+      "id": "amphitheatre-model",
+      "subject": "A small freestanding ruin of a circular stone amphitheatre"
+    },
+    {
+      "id": "tailor-dress-form",
+      "subject": "A plain cream tailor's dress form torso on a brown wooden stand"
+    },
+    {
+      "id": "sewing-machine",
+      "subject": "A small vintage mint green sewing machine with a small fabric scrap under its needle"
+    },
+    {
+      "id": "tomato-pincushion",
+      "subject": "A red tomato shaped pincushion with several colored pin heads"
+    },
+    {
+      "id": "fabric-shears",
+      "subject": "A pair of heavy tailor's fabric shears with dark handles"
+    },
+    {
+      "id": "seam-ripper",
+      "subject": "A small sewing seam ripper with a pink handle and forked metal tip"
+    },
+    {
+      "id": "tape-measure-coil",
+      "subject": "A loosely coiled yellow tailor's measuring tape with simple tick marks, no readable numbers"
+    },
+    {
+      "id": "thread-spool-rack",
+      "subject": "A small wooden rack holding six pastel sewing thread spools"
+    },
+    {
+      "id": "sewing-zipper",
+      "subject": "A partially open teal clothing zipper with a simple metal pull"
+    },
+    {
+      "id": "theatre-masks",
+      "subject": "A pair of classic comedy and tragedy theatre masks, warm ivory and muted red"
+    },
+    {
+      "id": "stage-spotlight",
+      "subject": "A black theatrical stage spotlight with four barn doors on a small support"
+    },
+    {
+      "id": "red-theatre-curtain",
+      "subject": "A pair of parted red velvet theatre curtains with gold tiebacks, no background"
+    },
+    {
+      "id": "theatre-ticket",
+      "subject": "Two cream theatre admission tickets with a small mask emblem, no readable writing"
+    },
+    {
+      "id": "proscenium-stage-model",
+      "subject": "A miniature wooden theatre stage with an arch and small empty raised platform"
+    },
+    {
+      "id": "opera-binoculars",
+      "subject": "A pair of small cream and brass opera binoculars with a short handle"
+    },
+    {
+      "id": "theatrical-mustache",
+      "subject": "A curled black theatrical false mustache attached to a thin wooden prop stick"
+    },
+    {
+      "id": "mushroom-basket",
+      "subject": "A low wicker foraging basket holding three varied woodland mushrooms"
+    },
+    {
+      "id": "fly-agaric",
+      "subject": "A red fly agaric mushroom with cream spots and a thick pale stem"
+    },
+    {
+      "id": "chanterelle",
+      "subject": "A cluster of three golden chanterelle mushrooms with funnel shaped caps"
+    },
+    {
+      "id": "morel",
+      "subject": "A brown morel mushroom with a tall honeycomb textured cap"
+    },
+    {
+      "id": "oyster-mushroom",
+      "subject": "A layered cluster of pale gray oyster mushrooms growing from one short stem base"
+    },
+    {
+      "id": "porcini",
+      "subject": "A stout porcini mushroom with a broad brown cap and thick cream stem"
+    },
+    {
+      "id": "lions-mane-mushroom",
+      "subject": "A cream lion's mane mushroom forming a soft ball of cascading fine spines"
+    },
+    {
+      "id": "coral-fungus",
+      "subject": "A small golden coral fungus with many rounded branching tips"
+    },
+    {
+      "id": "foraging-knife",
+      "subject": "A folding mushroom knife with a curved blade and brush at the handle end"
+    },
+    {
+      "id": "wild-blackberry-branch",
+      "subject": "A short blackberry branch carrying ripe purple berries and serrated green leaves"
+    },
+    {
+      "id": "wild-chestnut",
+      "subject": "An opened spiky green chestnut husk revealing two smooth brown chestnuts"
+    },
+    {
+      "id": "wild-rosehips",
+      "subject": "A short twig carrying orange rosehips and a few small green leaves"
+    },
+    {
+      "id": "wild-garlic-bundle",
+      "subject": "A small tied bundle of broad wild garlic leaves with white star shaped flowers"
+    },
+    {
+      "id": "fiddlehead-ferns",
+      "subject": "Three fresh green fiddlehead fern shoots with tightly curled tips"
+    },
+    {
+      "id": "foraging-field-guide",
+      "subject": "An open pocket field guide displaying a mushroom sketch and a leaf sketch, no writing"
+    },
+    {
+      "id": "haworthia-pot",
+      "subject": "A compact zebra haworthia succulent with white striped pointed leaves in a plain terracotta pot"
+    },
+    {
+      "id": "closed-jar-terrarium",
+      "subject": "A closed glass jar terrarium containing moss, a tiny fern and layers of soil"
+    },
+    {
+      "id": "terrarium-tweezers",
+      "subject": "A pair of long slender curved terrarium tweezers"
+    },
+    {
+      "id": "terrarium-mister",
+      "subject": "A small ribbed amber glass plant mister with a brass spray top"
+    },
+    {
+      "id": "terrarium-pebbles",
+      "subject": "A small open kraft pouch spilling a few smooth decorative terrarium pebbles"
+    },
+    {
+      "id": "terrarium-moss",
+      "subject": "A rounded cushion of lush green terrarium moss on a thin soil base"
+    },
+    {
+      "id": "terrarium-charcoal",
+      "subject": "A small wooden scoop holding several irregular black activated charcoal chunks"
+    },
+    {
+      "id": "terrarium-funnel",
+      "subject": "A small copper funnel with a long narrow stem for arranging terrarium substrate"
+    },
+    {
+      "id": "echeveria-pot",
+      "subject": "A pale blue green echeveria succulent with a broad layered rosette in a cream pot"
+    },
+    {
+      "id": "jade-plant-pot",
+      "subject": "A compact jade plant with thick oval green leaves in a muted blue pot"
+    },
+    {
+      "id": "string-of-pearls-pot",
+      "subject": "A string of pearls succulent with dangling round green beads in a hanging cream pot"
+    },
+    {
+      "id": "lithops-pot",
+      "subject": "A small cluster of split pebble shaped lithops plants in a shallow sand filled pot"
+    },
+    {
+      "id": "burros-tail-pot",
+      "subject": "A burro's tail succulent with thick cascading braided stems in a blush pot"
+    },
+    {
+      "id": "panda-plant-pot",
+      "subject": "A fuzzy pale green panda plant with brown edged oval leaves in a gray pot"
+    },
+    {
+      "id": "aeonium-pot",
+      "subject": "A dark burgundy aeonium succulent with a tall stem and flat rosette in a beige pot"
+    },
+    {
+      "id": "staghorn-coral",
+      "subject": "A single muted golden staghorn coral colony with thick branching antler shapes"
+    },
+    {
+      "id": "snorkel-mask",
+      "subject": "A teal snorkeling mask with two clear lenses and a soft silicone nose pocket"
+    },
+    {
+      "id": "snorkel-tube",
+      "subject": "A curved orange snorkeling tube with a black mouthpiece and splash guard"
+    },
+    {
+      "id": "swim-fins",
+      "subject": "A pair of turquoise short snorkeling fins"
+    },
+    {
+      "id": "dive-rashguard",
+      "subject": "A blue long sleeved snorkeling rashguard laid flat with simple coral colored side panels"
+    },
+    {
+      "id": "surface-marker-buoy",
+      "subject": "An inflated orange snorkeling safety buoy with a short coiled tether"
+    },
+    {
+      "id": "underwater-camera",
+      "subject": "A compact underwater camera inside a clear waterproof housing with a wrist strap"
+    },
+    {
+      "id": "reef-id-slate",
+      "subject": "A waterproof snorkeling identification slate displaying three small reef fish icons, no writing"
+    },
+    {
+      "id": "brain-coral",
+      "subject": "A round beige brain coral with clear softly winding grooves"
+    },
+    {
+      "id": "table-coral",
+      "subject": "A broad flat terracotta table coral raised on a short branching trunk"
+    },
+    {
+      "id": "coral-nursery-tree",
+      "subject": "A small underwater coral nursery frame with several hanging coral fragments"
+    },
+    {
+      "id": "coral-frag-plug",
+      "subject": "A single pink coral fragment attached to a round white propagation plug"
+    },
+    {
+      "id": "coral-cement-bucket",
+      "subject": "A small coral restoration bucket holding pale putty with a short wooden spatula"
+    },
+    {
+      "id": "coral-monitoring-quadrat",
+      "subject": "A square yellow reef survey quadrat frame with a simple internal grid"
+    },
+    {
+      "id": "coral-cleaning-brush",
+      "subject": "A small hand brush with aqua handle and stiff pale bristles for coral nursery care"
+    },
+    {
+      "id": "wax-seal-stamp",
+      "subject": "A wooden handled wax seal stamp standing beside one simple red circular wax seal"
+    },
+    {
+      "id": "postal-mailbox",
+      "subject": "A freestanding red postal collection box with a curved top and envelope emblem"
+    },
+    {
+      "id": "postal-satchel",
+      "subject": "A worn brown postal delivery satchel with two envelopes peeking out"
+    },
+    {
+      "id": "postal-parcel",
+      "subject": "A kraft paper parcel neatly tied with cream twine and a blank cream label"
+    },
+    {
+      "id": "postage-stamp-sheet",
+      "subject": "A perforated sheet of six pastel postage stamps showing simple flower icons, no writing"
+    },
+    {
+      "id": "postal-scale",
+      "subject": "A small vintage postal weighing scale with a cream dial and brass tray"
+    },
+    {
+      "id": "airmail-envelope",
+      "subject": "A closed airmail envelope with a red and blue striped edge and blank address area"
+    },
+    {
+      "id": "postmark-stamper",
+      "subject": "A short black handled round postal rubber stamper with a red ink pad"
+    },
+    {
+      "id": "calligraphy-dip-pen",
+      "subject": "A walnut calligraphy dip pen with a small brass pointed nib"
+    },
+    {
+      "id": "calligraphy-ink-bottle",
+      "subject": "A squat dark indigo ink bottle with a simple cork stopper and a tiny ink droplet"
+    },
+    {
+      "id": "calligraphy-brush",
+      "subject": "A tapered calligraphy brush with a bamboo shaft and dark pointed bristles"
+    },
+    {
+      "id": "calligraphy-inkstone",
+      "subject": "An oval dark slate inkstone with a shallow glossy ink well"
+    },
+    {
+      "id": "calligraphy-paper-scroll",
+      "subject": "A partly unrolled cream calligraphy paper scroll, blank without writing"
+    },
+    {
+      "id": "calligraphy-pen-rest",
+      "subject": "A small ceramic mountain shaped brush rest in pale blue"
+    },
+    {
+      "id": "calligraphy-nib-tin",
+      "subject": "An open shallow metal tin holding four differently shaped calligraphy nibs"
+    },
+    {
+      "id": "glass-thermometer",
+      "subject": "A slender glass thermometer with a red liquid column and simple tick marks, no numbers"
+    },
+    {
+      "id": "lab-microscope",
+      "subject": "A compact cream laboratory microscope with a black stage and twin objective lenses"
+    },
+    {
+      "id": "lab-test-tube-rack",
+      "subject": "A wooden rack holding four test tubes filled with muted colored liquids"
+    },
+    {
+      "id": "lab-erlenmeyer-flask",
+      "subject": "A clear Erlenmeyer flask holding pale violet liquid with a few small bubbles"
+    },
+    {
+      "id": "lab-petri-dish",
+      "subject": "A closed transparent petri dish containing a few softly colored circular colonies"
+    },
+    {
+      "id": "lab-pipette",
+      "subject": "A laboratory transfer pipette with a teal rubber bulb and one small blue droplet"
+    },
+    {
+      "id": "lab-centrifuge",
+      "subject": "A small benchtop centrifuge with a partially open lid showing four sample slots"
+    },
+    {
+      "id": "lab-safety-goggles",
+      "subject": "A pair of clear laboratory safety goggles with a pale blue elastic strap"
+    },
+    {
+      "id": "weather-anemometer",
+      "subject": "A compact weather anemometer with three hemispherical wind cups on a vertical stand"
+    },
+    {
+      "id": "weather-wind-vane",
+      "subject": "A metal wind vane with a simple arrow and a rooster silhouette, no letters"
+    },
+    {
+      "id": "weather-rain-gauge",
+      "subject": "A clear cylindrical rain gauge with a little blue collected water and simple tick marks"
+    },
+    {
+      "id": "weather-barometer",
+      "subject": "A round cream and brass analog barometer with a needle and simple weather icons"
+    },
+    {
+      "id": "weather-balloon",
+      "subject": "A pale cream inflated weather balloon with a tiny sensor box hanging below"
+    },
+    {
+      "id": "weather-windsock",
+      "subject": "An orange and cream striped windsock on a short gray pole with a small base"
+    },
+    {
+      "id": "weather-shelter",
+      "subject": "A small white louvered weather instrument shelter standing on four short legs"
+    },
+    {
+      "id": "snare-drum",
+      "subject": "A red wooden snare drum with cream drumheads and two crossed wooden drumsticks"
+    },
+    {
+      "id": "djembe",
+      "subject": "A carved wooden djembe drum with a cream skin head and dark rope lacing"
+    },
+    {
+      "id": "bongos",
+      "subject": "A joined pair of small orange wooden bongo drums"
+    },
+    {
+      "id": "tambourine",
+      "subject": "A round teal tambourine with silver jingles and a cream drumhead"
+    },
+    {
+      "id": "maracas",
+      "subject": "A pair of red and yellow wooden maracas with simple curved decorations"
+    },
+    {
+      "id": "triangle-instrument",
+      "subject": "A silver musical triangle hanging from a small loop beside its metal beater"
+    },
+    {
+      "id": "kalimba",
+      "subject": "A small wooden kalimba with seven visible silver tines and a round sound hole"
+    },
+    {
+      "id": "handpan",
+      "subject": "A blue gray handpan percussion instrument with a central dome and round tone fields"
+    },
+    {
+      "id": "marching-bass-drum",
+      "subject": "A large blue marching bass drum with a white carrying harness and one soft mallet"
+    },
+    {
+      "id": "marching-sousaphone",
+      "subject": "A coiled brass sousaphone with a large upward facing bell"
+    },
+    {
+      "id": "marching-trumpet",
+      "subject": "A polished but softly shaded brass trumpet with three valves"
+    },
+    {
+      "id": "marching-clarinet",
+      "subject": "A black clarinet with cream silver keys and a flared bell"
+    },
+    {
+      "id": "marching-cymbals",
+      "subject": "A pair of round brass clash cymbals with brown hand straps"
+    },
+    {
+      "id": "band-shako",
+      "subject": "A navy marching band shako hat with a cream plume and gold chin strap"
+    },
+    {
+      "id": "drum-major-mace",
+      "subject": "A ceremonial drum major's mace with a silver globe top and blue tassel"
+    },
+    {
+      "id": "ladybird",
+      "subject": "A small red ladybird beetle with black spots and friendly simple eyes"
+    },
+    {
+      "id": "praying-mantis",
+      "subject": "A green praying mantis standing with its distinctive folded forelegs"
+    },
+    {
+      "id": "dragonfly",
+      "subject": "A slender blue dragonfly with four translucent veined wings"
+    },
+    {
+      "id": "grasshopper",
+      "subject": "A green grasshopper with long folded hind legs and two slim antennae"
+    },
+    {
+      "id": "stag-beetle",
+      "subject": "A chestnut brown stag beetle with large branching mandibles"
+    },
+    {
+      "id": "leaf-insect",
+      "subject": "A pale green leaf insect with broad leaf shaped legs and body"
+    },
+    {
+      "id": "rhinoceros-beetle",
+      "subject": "A dark brown rhinoceros beetle with a single curved horn"
+    },
+    {
+      "id": "lacewing",
+      "subject": "A delicate pale green lacewing insect with two long transparent netted wings"
+    },
+    {
+      "id": "reptile-glass-enclosure",
+      "subject": "A small glass reptile enclosure with a branch, sand and an empty basking rock"
+    },
+    {
+      "id": "reptile-heat-lamp",
+      "subject": "A black dome reptile heat lamp on a short adjustable clamp arm"
+    },
+    {
+      "id": "reptile-hide-cave",
+      "subject": "A low brown reptile hide shaped like a hollow stone cave"
+    },
+    {
+      "id": "reptile-water-dish",
+      "subject": "A shallow textured sandstone reptile water dish holding clear water"
+    },
+    {
+      "id": "reptile-cork-tunnel",
+      "subject": "A short hollow cork bark tunnel with an irregular rough surface"
+    },
+    {
+      "id": "reptile-climbing-branch",
+      "subject": "A freestanding forked dry branch for a reptile enclosure"
+    },
+    {
+      "id": "reptile-hygrometer",
+      "subject": "A small round green terrarium humidity gauge with a simple needle and colored zones"
+    },
+    {
+      "id": "reptile-feeding-tongs",
+      "subject": "Long blunt reptile feeding tongs with pale silicone covered tips"
+    },
+    {
+      "id": "wetland-cattails",
+      "subject": "Three brown cattail flower spikes with long narrow green leaves"
+    },
+    {
+      "id": "wetland-water-lily",
+      "subject": "A soft pink water lily blossom floating on one round green lily pad"
+    },
+    {
+      "id": "wetland-kingfisher",
+      "subject": "A blue and orange kingfisher perched on a short broken reed stem"
+    },
+    {
+      "id": "wetland-heron",
+      "subject": "A slender gray heron standing with its neck gently curved"
+    },
+    {
+      "id": "wetland-otter",
+      "subject": "A playful brown river otter sitting upright with its small paws together"
+    },
+    {
+      "id": "wetland-beaver",
+      "subject": "A brown beaver with a broad flat textured tail holding a short branch"
+    },
+    {
+      "id": "wetland-water-strider",
+      "subject": "A water strider insect with very long slim legs and small stylized ripple rings"
+    },
+    {
+      "id": "wetland-muskrat",
+      "subject": "A small round brown muskrat with a long narrow scaly tail"
+    },
+    {
+      "id": "tidepool-hermit-crab",
+      "subject": "A small orange hermit crab peeking out of a cream spiral shell"
+    },
+    {
+      "id": "tidepool-anemone",
+      "subject": "A sea anemone with soft pink tentacles attached to a small gray pebble"
+    },
+    {
+      "id": "tidepool-limpet",
+      "subject": "A ridged conical limpet shell resting on a small flat dark rock"
+    },
+    {
+      "id": "tidepool-barnacles",
+      "subject": "A cluster of pale barnacle cones attached to a rounded rock"
+    },
+    {
+      "id": "tidepool-chiton",
+      "subject": "An oval chiton with eight overlapping green gray shell plates"
+    },
+    {
+      "id": "tidepool-blenny",
+      "subject": "A small mottled orange blenny fish with large eyes and a curved tail"
+    },
+    {
+      "id": "tidepool-sea-lettuce",
+      "subject": "A bright green ruffled cluster of sea lettuce seaweed"
+    },
+    {
+      "id": "tidepool-brittle-star",
+      "subject": "A small purple brittle star with five long slender curling arms"
+    },
+    {
+      "id": "fossil-ammonite",
+      "subject": "A brown spiral ammonite fossil embedded in a broken cream rock slab"
+    },
+    {
+      "id": "fossil-trilobite",
+      "subject": "A dark gray trilobite fossil with distinct segmented ridges in a flat stone"
+    },
+    {
+      "id": "fossil-fern",
+      "subject": "A long fern leaf fossil impressed into a warm sandstone slab"
+    },
+    {
+      "id": "fossil-shark-tooth",
+      "subject": "A large triangular fossil shark tooth with a dark root and tan enamel"
+    },
+    {
+      "id": "fossil-dinosaur-footprint",
+      "subject": "A three toed dinosaur footprint pressed into a small sandstone block"
+    },
+    {
+      "id": "fossil-plaster-jacket",
+      "subject": "A partly opened white plaster fossil jacket revealing one brown fossil bone"
+    },
+    {
+      "id": "fossil-rock-hammer",
+      "subject": "A paleontology rock hammer with one square head and one pointed end"
+    },
+    {
+      "id": "fossil-amber-insect",
+      "subject": "A warm translucent amber nugget enclosing a tiny dark ancient insect"
+    },
+    {
+      "id": "observatory-telescope",
+      "subject": "A cream astronomical refractor telescope mounted on a sturdy navy tripod"
+    },
+    {
+      "id": "observatory-dome",
+      "subject": "A small round white observatory building with its dome viewing slit open"
+    },
+    {
+      "id": "observatory-star-chart",
+      "subject": "A circular navy star chart showing a few gold star dots and connecting lines, no writing"
+    },
+    {
+      "id": "observatory-armillary",
+      "subject": "A small brass armillary sphere with interlocking rings on a wooden pedestal"
+    },
+    {
+      "id": "observatory-orrery",
+      "subject": "A miniature brass mechanical orrery with a central sun and four small planets on arms"
+    },
+    {
+      "id": "observatory-eyepiece",
+      "subject": "A short black telescope eyepiece with one blue glass lens and a rubber eyecup"
+    },
+    {
+      "id": "observatory-red-torch",
+      "subject": "A small red filtered astronomer's flashlight casting only a tiny red glow at its lens"
+    },
+    {
+      "id": "observatory-meteorite",
+      "subject": "A dark irregular iron meteorite with shallow thumbprint depressions"
+    },
+    {
+      "id": "mineral-amethyst",
+      "subject": "A cluster of muted violet amethyst crystals on a pale rock base"
+    },
+    {
+      "id": "mineral-pyrite",
+      "subject": "A group of brassy cubic pyrite crystals with clear angular faces"
+    },
+    {
+      "id": "mineral-malachite",
+      "subject": "A polished malachite stone showing concentric dark and light green bands"
+    },
+    {
+      "id": "mineral-fluorite",
+      "subject": "A cluster of translucent mint and lilac cubic fluorite crystals"
+    },
+    {
+      "id": "mineral-rose-quartz",
+      "subject": "A rough pale pink rose quartz chunk with softly irregular facets"
+    },
+    {
+      "id": "mineral-selenite",
+      "subject": "A creamy white selenite crystal tower with long vertical striations"
+    },
+    {
+      "id": "mineral-geode",
+      "subject": "A split rounded agate geode with layered blue gray bands and a crystal center"
+    },
+    {
+      "id": "mineral-azurite",
+      "subject": "A rough deep blue azurite mineral cluster on a small brown matrix"
+    },
+    {
+      "id": "caving-helmet",
+      "subject": "A yellow caving helmet with a small round headlamp and dark chin strap"
+    },
+    {
+      "id": "caving-rope-coil",
+      "subject": "A neat coil of orange caving rope secured with a short tie"
+    },
+    {
+      "id": "caving-ascender",
+      "subject": "A blue handled mechanical rope ascender with a silver toothed cam"
+    },
+    {
+      "id": "caving-descender",
+      "subject": "A silver figure eight climbing descender with a small locking carabiner"
+    },
+    {
+      "id": "caving-suit",
+      "subject": "A mustard yellow protective caving suit with dark reinforced knees"
+    },
+    {
+      "id": "caving-survey-kit",
+      "subject": "A small cave survey clipboard with a simple passage outline and compact compass"
+    },
+    {
+      "id": "caving-stalactite",
+      "subject": "A group of three warm limestone stalactites hanging from a small rock cap"
+    },
+    {
+      "id": "caving-stalagmite",
+      "subject": "A layered warm limestone stalagmite standing upright on a small rock base"
+    },
+    {
+      "id": "railway-signal",
+      "subject": "A vintage railway semaphore signal with a red and cream arm on a short post"
+    },
+    {
+      "id": "railway-locomotive",
+      "subject": "A small dark green steam locomotive with red wheels and a short cream steam puff"
+    },
+    {
+      "id": "railway-platform-clock",
+      "subject": "A double sided cream station clock hanging from a curved dark bracket"
+    },
+    {
+      "id": "railway-conductor-hat",
+      "subject": "A navy railway conductor cap with a small gold wing emblem"
+    },
+    {
+      "id": "railway-ticket-punch",
+      "subject": "A compact silver railway conductor ticket punch with dark handles"
+    },
+    {
+      "id": "railway-luggage-trolley",
+      "subject": "A green station luggage trolley carrying two compact brown cases"
+    },
+    {
+      "id": "railway-buffer-stop",
+      "subject": "A short railway buffer stop with black beams and a red horizontal bumper"
+    },
+    {
+      "id": "railway-crossing-gate",
+      "subject": "A red and cream striped railway crossing barrier on a small base"
+    },
+    {
+      "id": "harbor-tugboat",
+      "subject": "A compact navy and cream tugboat with red trim and two black tire fenders"
+    },
+    {
+      "id": "harbor-mooring-bollard",
+      "subject": "A short dark teal harbor mooring bollard with a thick cream rope loop"
+    },
+    {
+      "id": "harbor-buoy",
+      "subject": "A red and cream navigation buoy with a small black bell framework"
+    },
+    {
+      "id": "harbor-dock-cleat",
+      "subject": "A silver dock cleat fixed to a small wooden block with neatly wrapped rope"
+    },
+    {
+      "id": "harbor-lobster-trap",
+      "subject": "A weathered wooden lobster trap with curved ribs and a small rope coil"
+    },
+    {
+      "id": "harbor-ship-wheel",
+      "subject": "A warm wooden ship's steering wheel with eight handles and brass center"
+    },
+    {
+      "id": "harbor-lighthouse",
+      "subject": "A short cream lighthouse with red roof and one small attached keeper door"
+    },
+    {
+      "id": "harbor-cargo-crane",
+      "subject": "A compact yellow harbor cargo crane lifting one small blue container"
+    },
+    {
+      "id": "vineyard-grape-trellis",
+      "subject": "A small wooden trellis supporting green vine leaves and two purple grape bunches"
+    },
+    {
+      "id": "vineyard-pruning-shears",
+      "subject": "A pair of red handled vineyard pruning shears with short curved blades"
+    },
+    {
+      "id": "vineyard-grape-basket",
+      "subject": "A broad wicker harvest basket overflowing with purple and pale green grapes"
+    },
+    {
+      "id": "vineyard-oak-barrel",
+      "subject": "A small oak wine barrel with dark iron hoops and a wooden tap"
+    },
+    {
+      "id": "vineyard-grape-press",
+      "subject": "A compact traditional wooden grape press with a red metal screw"
+    },
+    {
+      "id": "vineyard-carafe",
+      "subject": "A simple clear glass carafe half filled with muted burgundy grape juice"
+    },
+    {
+      "id": "vineyard-corkscrew",
+      "subject": "A wooden handled corkscrew with a short silver spiral"
+    },
+    {
+      "id": "vineyard-vine-cutting",
+      "subject": "A rooted grapevine cutting with two green leaves in a small nursery sleeve"
+    },
+    {
+      "id": "pasta-hand-crank-machine",
+      "subject": "A cream hand crank pasta roller with a golden sheet of dough emerging"
+    },
+    {
+      "id": "pasta-tagliatelle-nest",
+      "subject": "A single loosely coiled nest of golden tagliatelle ribbons"
+    },
+    {
+      "id": "pasta-ravioli",
+      "subject": "Three square ravioli with crimped edges arranged as one compact sticker"
+    },
+    {
+      "id": "pasta-gnocchi-board",
+      "subject": "A small ridged wooden gnocchi board with two pale dough pillows"
+    },
+    {
+      "id": "pasta-farfalle",
+      "subject": "A small group of five golden bow tie farfalle pasta pieces"
+    },
+    {
+      "id": "pasta-tortellini",
+      "subject": "Three plump ring shaped tortellini arranged as one compact sticker"
+    },
+    {
+      "id": "pasta-wheel-cutter",
+      "subject": "A wooden handled fluted pasta cutting wheel"
+    },
+    {
+      "id": "pasta-drying-rack",
+      "subject": "A small wooden pasta drying rack draped with golden spaghetti strands"
+    },
+    {
+      "id": "dumpling-bamboo-steamer",
+      "subject": "A round bamboo steamer holding three white soup dumplings"
+    },
+    {
+      "id": "dumpling-har-gow",
+      "subject": "Three translucent shrimp dumplings with pleated crescent edges"
+    },
+    {
+      "id": "dumpling-siu-mai",
+      "subject": "Three open topped yellow siu mai dumplings with small orange centers"
+    },
+    {
+      "id": "dumpling-bao",
+      "subject": "A fluffy white steamed bao bun with a softly twisted top"
+    },
+    {
+      "id": "dumpling-mandu",
+      "subject": "A crescent Korean mandu dumpling with wide hand pinched pleats"
+    },
+    {
+      "id": "dumpling-momo",
+      "subject": "A round Nepalese momo dumpling with a neatly pleated top knot"
+    },
+    {
+      "id": "dumpling-rolling-pin",
+      "subject": "A small slender wooden dumpling rolling pin beside one round dough wrapper"
+    },
+    {
+      "id": "dumpling-dipping-dish",
+      "subject": "A small white dipping dish with dark sauce and a few pale ginger strips"
+    },
+    {
+      "id": "mezze-hummus",
+      "subject": "A shallow ceramic bowl of hummus with a spiral groove and a few chickpeas"
+    },
+    {
+      "id": "mezze-falafel",
+      "subject": "Three round golden falafel balls with one cut open to show a green interior"
+    },
+    {
+      "id": "mezze-pita",
+      "subject": "A soft round pita bread cut into three overlapping wedges"
+    },
+    {
+      "id": "mezze-dolma",
+      "subject": "Three glossy olive green stuffed grape leaf rolls tied by their folded leaves"
+    },
+    {
+      "id": "mezze-tzatziki",
+      "subject": "A small blue ceramic bowl of creamy tzatziki with cucumber and dill"
+    },
+    {
+      "id": "mezze-olive-dish",
+      "subject": "A small oval dish holding green and purple olives with one olive leaf"
+    },
+    {
+      "id": "mezze-baba-ganoush",
+      "subject": "A shallow terracotta bowl of smoky eggplant dip topped with a few pomegranate seeds"
+    },
+    {
+      "id": "mezze-halloumi",
+      "subject": "Three grilled halloumi cheese rectangles with soft golden grill marks"
+    },
+    {
+      "id": "picnic-hamper",
+      "subject": "An open wicker picnic hamper with a cream lining and two simple plates"
+    },
+    {
+      "id": "picnic-checkered-cloth",
+      "subject": "A loosely folded red and cream gingham picnic cloth"
+    },
+    {
+      "id": "picnic-sandwich-wrap",
+      "subject": "A thick triangular sandwich partly wrapped in kraft paper and tied with twine"
+    },
+    {
+      "id": "picnic-lemonade-dispenser",
+      "subject": "A clear lemonade dispenser jar with lemon slices, a wooden lid and a small tap"
+    },
+    {
+      "id": "picnic-bento-box",
+      "subject": "An open wooden picnic lunch box with rice balls, vegetables and a small omelet roll"
+    },
+    {
+      "id": "picnic-insulated-flask",
+      "subject": "A muted coral insulated flask with a cream cup shaped lid"
+    },
+    {
+      "id": "picnic-reusable-cutlery",
+      "subject": "A fork, spoon and knife tucked into a small rolled canvas cutlery pouch"
+    },
+    {
+      "id": "picnic-grass-mat",
+      "subject": "A partly rolled woven straw picnic mat secured by two tan straps"
+    },
+    {
+      "id": "soap-lavender-bar",
+      "subject": "A rectangular handmade lavender soap bar with a few purple flower buds on top"
+    },
+    {
+      "id": "soap-loaf-mold",
+      "subject": "A wooden soap loaf mold holding a pale mint soap slab with a swirled top"
+    },
+    {
+      "id": "soap-wire-cutter",
+      "subject": "A small wooden soap cutting frame with one taut vertical wire"
+    },
+    {
+      "id": "soap-silicone-flower-mold",
+      "subject": "A flexible pink silicone soap mold with three flower shaped cavities"
+    },
+    {
+      "id": "soap-essential-oil",
+      "subject": "A small amber essential oil bottle with a dark dropper top and leaf emblem"
+    },
+    {
+      "id": "soap-mixing-pitcher",
+      "subject": "A cream pouring pitcher holding pale blue soap mixture with a short spatula"
+    },
+    {
+      "id": "soap-oatmeal-bar",
+      "subject": "An oval oatmeal soap bar with tiny oat flecks and a kraft paper band"
+    },
+    {
+      "id": "soap-curing-rack",
+      "subject": "A small two tier wooden rack holding neatly spaced pastel handmade soap bars"
+    },
+    {
+      "id": "glassblowing-pipe",
+      "subject": "A long glassblower's blowpipe with a small warm orange glass bubble at its tip"
+    },
+    {
+      "id": "glassblowing-jacks",
+      "subject": "A pair of long dark steel glassblowing jacks with gently curved blades"
+    },
+    {
+      "id": "glassblowing-marver",
+      "subject": "A compact steel marver table with a small rounded orange glass gather"
+    },
+    {
+      "id": "glassblowing-furnace",
+      "subject": "A small brick glassblowing furnace with a round warm orange opening"
+    },
+    {
+      "id": "glassblowing-vase",
+      "subject": "A handmade pale aqua glass vase with a gently wavy rim"
+    },
+    {
+      "id": "glassblowing-paperweight",
+      "subject": "A round clear glass paperweight containing a simple muted blue spiral"
+    },
+    {
+      "id": "glassblowing-block",
+      "subject": "A wooden glassblowing shaping block with a scooped round recess and long handle"
+    },
+    {
+      "id": "glassblowing-shears",
+      "subject": "A pair of long steel glassblowing diamond shears with broad dark handles"
+    },
+    {
+      "id": "leathercraft-stitching-pony",
+      "subject": "A small wooden leather stitching pony holding a tan leather strip"
+    },
+    {
+      "id": "leathercraft-awl",
+      "subject": "A short leatherworker's awl with a rounded wooden handle and pointed steel shaft"
+    },
+    {
+      "id": "leathercraft-edge-beveler",
+      "subject": "A wooden handled leather edge beveler with a short forked steel tip"
+    },
+    {
+      "id": "leathercraft-pricking-iron",
+      "subject": "A dark metal leather pricking iron with four evenly spaced teeth"
+    },
+    {
+      "id": "leathercraft-mallet",
+      "subject": "A pale wooden leathercraft mallet with a broad cylindrical head"
+    },
+    {
+      "id": "leathercraft-saddle-stitch",
+      "subject": "A tan leather card sleeve with visible cream saddle stitching"
+    },
+    {
+      "id": "leathercraft-belt-buckle",
+      "subject": "A warm brown leather belt end threaded through a simple brass buckle"
+    },
+    {
+      "id": "leathercraft-hide-roll",
+      "subject": "A rolled piece of chestnut leather with an irregular natural edge"
+    },
+    {
+      "id": "weaving-table-loom",
+      "subject": "A compact wooden table loom with a partly woven teal and cream cloth"
+    },
+    {
+      "id": "weaving-shuttle",
+      "subject": "A long wooden boat shuttle holding a spool of muted rust yarn"
+    },
+    {
+      "id": "weaving-heddle",
+      "subject": "A rectangular wooden rigid heddle with alternating narrow slots and holes"
+    },
+    {
+      "id": "weaving-yarn-cones",
+      "subject": "Three tall yarn cones in muted coral, cream and sage"
+    },
+    {
+      "id": "weaving-warping-board",
+      "subject": "A square wooden warping board with cream yarn zigzagging around pegs"
+    },
+    {
+      "id": "weaving-beater-comb",
+      "subject": "A broad wooden weaving beater comb with long widely spaced teeth"
+    },
+    {
+      "id": "weaving-tapestry",
+      "subject": "A small finished woven wall hanging with geometric earth toned bands and fringe"
+    },
+    {
+      "id": "weaving-drop-spindle",
+      "subject": "A wooden drop spindle with a round whorl and a small bundle of cream wool yarn"
+    },
+    {
+      "id": "printmaking-brayer",
+      "subject": "A small rubber ink brayer with a red handle and black roller"
+    },
+    {
+      "id": "printmaking-lino-block",
+      "subject": "A square linocut block carved with a simple leaf design"
+    },
+    {
+      "id": "printmaking-gouge",
+      "subject": "A wooden handled linocut gouge with a short curved steel cutting tip"
+    },
+    {
+      "id": "printmaking-ink-tube",
+      "subject": "A small crumpled tube of dark blue block printing ink with a plain colored band"
+    },
+    {
+      "id": "printmaking-baren",
+      "subject": "A round bamboo wrapped printmaking baren with a knotted hand grip"
+    },
+    {
+      "id": "printmaking-press",
+      "subject": "A small tabletop relief printing press with a black roller and round handwheel"
+    },
+    {
+      "id": "printmaking-ink-slab",
+      "subject": "A rectangular glass inking slab with a thin patch of teal ink"
+    },
+    {
+      "id": "printmaking-leaf-print",
+      "subject": "A cream printmaking paper sheet bearing one simple terracotta leaf impression"
+    },
+    {
+      "id": "bookbinding-press",
+      "subject": "A small wooden bookbinding press with two large vertical threaded screws"
+    },
+    {
+      "id": "bookbinding-bone-folder",
+      "subject": "A smooth cream bookbinding bone folder with one gently pointed end"
+    },
+    {
+      "id": "bookbinding-sewing-frame",
+      "subject": "A wooden bookbinding sewing frame holding three vertical linen cords"
+    },
+    {
+      "id": "bookbinding-signatures",
+      "subject": "A neat stack of folded cream paper signatures with their folded spines visible"
+    },
+    {
+      "id": "bookbinding-linen-thread",
+      "subject": "A small spool of natural linen thread with one curved bookbinding needle"
+    },
+    {
+      "id": "bookbinding-glue-pot",
+      "subject": "A squat cream bookbinding paste pot with a broad flat brush resting inside"
+    },
+    {
+      "id": "bookbinding-cloth-roll",
+      "subject": "A short roll of muted navy book cloth with its cream reverse edge visible"
+    },
+    {
+      "id": "bookbinding-handbound-journal",
+      "subject": "A closed ochre hand bound journal with exposed cream stitching along its spine"
+    },
+    {
+      "id": "clockmaking-pocket-watch",
+      "subject": "An open brass pocket watch revealing a simple arrangement of small gears"
+    },
+    {
+      "id": "clockmaking-gear-train",
+      "subject": "Three interlocking brass clock gears of different sizes on a compact plate"
+    },
+    {
+      "id": "clockmaking-pendulum",
+      "subject": "A wooden clock pendulum with a round brass bob"
+    },
+    {
+      "id": "clockmaking-mainspring",
+      "subject": "A curled dark steel clock mainspring partly unwound from its round housing"
+    },
+    {
+      "id": "clockmaking-loupe",
+      "subject": "A black watchmaker's eye loupe with a short tapered barrel"
+    },
+    {
+      "id": "clockmaking-oiler",
+      "subject": "A fine watchmaker's precision oiler with a blue handle and a tiny oil droplet"
+    },
+    {
+      "id": "clockmaking-key",
+      "subject": "A small brass butterfly shaped clock winding key"
+    },
+    {
+      "id": "clockmaking-movement-holder",
+      "subject": "A compact metal watch movement holder supporting a round silver clockwork mechanism"
+    },
+    {
+      "id": "detective-magnifier",
+      "subject": "A round brass magnifying glass with a dark wooden handle"
+    },
+    {
+      "id": "detective-evidence-envelope",
+      "subject": "A small kraft evidence envelope with a simple fingerprint emblem and blank label"
+    },
+    {
+      "id": "detective-fingerprint-kit",
+      "subject": "An open compact tin containing a fingerprint dust brush and a small dark powder jar"
+    },
+    {
+      "id": "detective-trench-coat",
+      "subject": "A beige detective trench coat with a belt and broad lapels, hanging without a person"
+    },
+    {
+      "id": "detective-notebook",
+      "subject": "A small open dark notebook showing simple footprint sketches, no readable writing"
+    },
+    {
+      "id": "detective-evidence-marker",
+      "subject": "A yellow triangular evidence marker with a simple black dot emblem, no numbers"
+    },
+    {
+      "id": "detective-fingerprint-card",
+      "subject": "A white fingerprint record card showing five distinct black fingerprint ovals"
+    },
+    {
+      "id": "detective-footprint-cast",
+      "subject": "A pale plaster cast of a boot sole showing clear tread patterns"
+    },
+    {
+      "id": "shipwreck-diving-helmet",
+      "subject": "A vintage copper deep sea diving helmet with round glass viewing ports"
+    },
+    {
+      "id": "shipwreck-air-tank",
+      "subject": "A compact scuba air tank with a regulator hose and muted yellow valve guard"
+    },
+    {
+      "id": "shipwreck-rusted-anchor",
+      "subject": "An old iron anchor with reddish rust patches and a short broken chain"
+    },
+    {
+      "id": "shipwreck-porthole",
+      "subject": "A weathered brass ship porthole with a small green seaweed strand"
+    },
+    {
+      "id": "shipwreck-treasure-chest",
+      "subject": "A small partly open water worn treasure chest showing a few muted gold coins"
+    },
+    {
+      "id": "shipwreck-ship-bell",
+      "subject": "An aged brass ship bell with a small rope pull and green patina"
+    },
+    {
+      "id": "shipwreck-diving-torch",
+      "subject": "A chunky waterproof navy diving torch with a wrist lanyard"
+    },
+    {
+      "id": "shipwreck-ceramic-bottle",
+      "subject": "A corked antique ceramic bottle with a few tiny barnacles attached near its base"
+    },
+    {
+      "id": "desert-dromedary",
+      "subject": "A friendly single humped dromedary camel wearing a simple woven saddle blanket"
+    },
+    {
+      "id": "desert-caravan-tent",
+      "subject": "A low striped Bedouin style canvas tent with an open triangular entrance"
+    },
+    {
+      "id": "desert-water-skin",
+      "subject": "A tan leather water skin with a wooden stopper and braided strap"
+    },
+    {
+      "id": "desert-brass-coffee-pot",
+      "subject": "A traditional curved brass dallah coffee pot with a tall finial lid"
+    },
+    {
+      "id": "desert-date-bunch",
+      "subject": "A hanging bunch of reddish brown dates on a short golden stem"
+    },
+    {
+      "id": "desert-woven-saddlebag",
+      "subject": "A pair of colorful geometric woven caravan saddlebags joined by a fabric bridge"
+    },
+    {
+      "id": "desert-sand-rose",
+      "subject": "A beige desert rose gypsum cluster formed from rounded petal like crystal blades"
+    },
+    {
+      "id": "desert-navigation-compass",
+      "subject": "A small open brass navigation compass with a simple star dial, no letters"
+    },
+    {
+      "id": "arctic-research-hut",
+      "subject": "A small red polar research cabin standing on short stilts with one frosted window"
+    },
+    {
+      "id": "arctic-ice-auger",
+      "subject": "A blue ice core auger with a silver spiral shaft and two side handles"
+    },
+    {
+      "id": "arctic-core-sample",
+      "subject": "A translucent pale blue cylindrical ice core sample resting in a short gray tray"
+    },
+    {
+      "id": "arctic-snowmobile",
+      "subject": "A compact orange scientific snowmobile with two front skis and a black seat"
+    },
+    {
+      "id": "arctic-sample-case",
+      "subject": "A sturdy pale blue insulated sample case with a simple snowflake emblem"
+    },
+    {
+      "id": "arctic-expedition-parka",
+      "subject": "A red polar expedition parka with a thick cream fur trimmed hood"
+    },
+    {
+      "id": "arctic-satellite-phone",
+      "subject": "A rugged yellow satellite phone with a short dark antenna and blank screen"
+    },
+    {
+      "id": "arctic-snow-goggles",
+      "subject": "A pair of cream traditional slit snow goggles with a simple brown cord"
+    },
+    {
+      "id": "fairy-acorn-house",
+      "subject": "A tiny acorn shaped fairy house with a round door and one small oval window"
+    },
+    {
+      "id": "fairy-petal-chair",
+      "subject": "A miniature fairy chair made from curled pink flower petals and slender twigs"
+    },
+    {
+      "id": "fairy-thimble-bucket",
+      "subject": "A tiny silver thimble used as a fairy bucket with a curved twig handle"
+    },
+    {
+      "id": "fairy-leaf-boat",
+      "subject": "A curled green leaf boat with a small pale petal sail"
+    },
+    {
+      "id": "fairy-seed-lantern",
+      "subject": "A tiny hanging lantern made from a golden seed pod with a soft cream glow"
+    },
+    {
+      "id": "fairy-dewdrop-watering-can",
+      "subject": "A miniature translucent dewdrop shaped watering can with a curled green stem handle"
+    },
+    {
+      "id": "fairy-pebble-bridge",
+      "subject": "A tiny arched fairy garden bridge built from rounded pastel pebbles"
+    },
+    {
+      "id": "fairy-winged-snail",
+      "subject": "A small friendly snail with delicate pale blue fairy wings and a lavender shell"
+    },
+    {
+      "id": "apothecary-mortar-pestle",
+      "subject": "A dark green stone mortar and pestle holding a few crushed lavender leaves"
+    },
+    {
+      "id": "apothecary-herb-bundle",
+      "subject": "A hanging bundle of sage and rosemary tied with natural twine"
+    },
+    {
+      "id": "apothecary-drawer-chest",
+      "subject": "A tiny wooden apothecary cabinet with nine small square drawers and round brass pulls"
+    },
+    {
+      "id": "apothecary-potion-bottle",
+      "subject": "A rounded muted violet herbal potion bottle with a cork and simple leaf shaped charm"
+    },
+    {
+      "id": "apothecary-drying-rack",
+      "subject": "A small circular wooden herb drying rack with three hanging plant bundles"
+    },
+    {
+      "id": "apothecary-balance-scale",
+      "subject": "A compact brass balance scale with two small suspended pans"
+    },
+    {
+      "id": "apothecary-crescent-vial",
+      "subject": "A crescent moon shaped glass vial containing pale blue herbal liquid"
+    },
+    {
+      "id": "apothecary-herbal-salve",
+      "subject": "An open small amber salve jar showing pale green balm and a loose cream lid"
+    },
+    {
+      "id": "canal-gabled-house",
+      "subject": "A narrow terracotta canal house with a stepped gable and three tall cream windows"
+    },
+    {
+      "id": "canal-houseboat",
+      "subject": "A compact blue houseboat with a cream cabin roof and two round windows"
+    },
+    {
+      "id": "canal-stone-bridge",
+      "subject": "A small single arch stone footbridge with simple dark iron railings"
+    },
+    {
+      "id": "canal-lock-gate",
+      "subject": "A pair of wooden canal lock gates meeting in a shallow V with short beam handles"
+    },
+    {
+      "id": "canal-bicycle",
+      "subject": "A cream city bicycle with a brown wicker front basket carrying two tulips"
+    },
+    {
+      "id": "canal-quayside-lamp",
+      "subject": "A dark green curved canal side streetlamp on a short square stone base"
+    },
+    {
+      "id": "canal-flower-box",
+      "subject": "A blue wooden window box overflowing with soft pink geraniums"
+    },
+    {
+      "id": "canal-rowboat",
+      "subject": "A small green wooden rowboat with two cream oars resting across its seats"
+    },
+    {
+      "id": "access-manual-wheelchair",
+      "subject": "A compact blue manual wheelchair with large rear wheels and black footrests"
+    },
+    {
+      "id": "access-white-cane",
+      "subject": "A folding white mobility cane with a red lower section and a black wrist loop"
+    },
+    {
+      "id": "access-hearing-aid",
+      "subject": "A small beige behind the ear hearing aid with a clear curved ear tube"
+    },
+    {
+      "id": "access-braille-slate",
+      "subject": "A blue braille writing slate with orderly raised dot cells and its small stylus"
+    },
+    {
+      "id": "access-forearm-crutch",
+      "subject": "A teal forearm crutch with a curved cuff and gray rubber foot"
+    },
+    {
+      "id": "access-walker",
+      "subject": "A compact silver walking frame with two front wheels and teal hand grips"
+    },
+    {
+      "id": "access-reaching-aid",
+      "subject": "A lightweight reaching aid with a blue squeeze handle and rubber tipped gripper"
+    },
+    {
+      "id": "access-portable-ramp",
+      "subject": "A small folded out silver portable access ramp with raised side edges"
+    }
+  ],
+  "topics": [
+    {
+      "slug": "vietnamese-cuisine",
+      "name_vi": "Món Việt",
+      "asset_ids": [
+        "banh-mi",
+        "pho-bo",
+        "banh-xeo",
+        "goi-cuon",
+        "bun-cha",
+        "banh-cuon",
+        "banh-chung",
+        "che-ba-mau"
+      ]
+    },
+    {
+      "slug": "vietnamese-tet",
+      "name_vi": "Tết Việt",
+      "asset_ids": [
+        "banh-chung",
+        "tet-lucky-envelope",
+        "tet-kumquat-pot",
+        "tet-peach-blossom",
+        "tet-lion-head",
+        "tet-watermelon",
+        "tet-coconut-candy-tray",
+        "tet-firecracker-string"
+      ]
+    },
+    {
+      "slug": "beekeeping",
+      "name_vi": "Nghề nuôi ong",
+      "asset_ids": [
+        "beehive-skep",
+        "honey-dipper",
+        "bee-smoker",
+        "beekeeper-veil-hat",
+        "honeycomb-frame",
+        "honey-extractor",
+        "beekeeper-gloves",
+        "bee-feeding-jar"
+      ]
+    },
+    {
+      "slug": "honey-breakfast",
+      "name_vi": "Bữa sáng với mật ong",
+      "asset_ids": [
+        "honey-dipper",
+        "honey-pancakes",
+        "honey-waffles",
+        "honey-parfait",
+        "honey-toast",
+        "honey-crumpet",
+        "honey-butter-dish",
+        "honey-lemon-tea"
+      ]
+    },
+    {
+      "slug": "pottery-studio",
+      "name_vi": "Xưởng gốm",
+      "asset_ids": [
+        "terracotta-amphora",
+        "pottery-wheel",
+        "wet-clay-lump",
+        "potter-rib-tool",
+        "clay-wire-cutter",
+        "loop-trimming-tool",
+        "glazing-brush",
+        "ceramic-kiln"
+      ]
+    },
+    {
+      "slug": "archaeology",
+      "name_vi": "Khảo cổ học",
+      "asset_ids": [
+        "terracotta-amphora",
+        "excavation-trowel",
+        "archaeology-sieve",
+        "artifact-brush",
+        "stratigraphy-block",
+        "stone-tablet",
+        "mosaic-fragment",
+        "amphitheatre-model"
+      ]
+    },
+    {
+      "slug": "sewing-room",
+      "name_vi": "Góc may vá",
+      "asset_ids": [
+        "tailor-dress-form",
+        "sewing-machine",
+        "tomato-pincushion",
+        "fabric-shears",
+        "seam-ripper",
+        "tape-measure-coil",
+        "thread-spool-rack",
+        "sewing-zipper"
+      ]
+    },
+    {
+      "slug": "theatre-backstage",
+      "name_vi": "Hậu trường sân khấu",
+      "asset_ids": [
+        "tailor-dress-form",
+        "theatre-masks",
+        "stage-spotlight",
+        "red-theatre-curtain",
+        "theatre-ticket",
+        "proscenium-stage-model",
+        "opera-binoculars",
+        "theatrical-mustache"
+      ]
+    },
+    {
+      "slug": "forest-fungi",
+      "name_vi": "Nấm rừng",
+      "asset_ids": [
+        "mushroom-basket",
+        "fly-agaric",
+        "chanterelle",
+        "morel",
+        "oyster-mushroom",
+        "porcini",
+        "lions-mane-mushroom",
+        "coral-fungus"
+      ]
+    },
+    {
+      "slug": "woodland-foraging",
+      "name_vi": "Hái lượm trong rừng",
+      "asset_ids": [
+        "mushroom-basket",
+        "foraging-knife",
+        "wild-blackberry-branch",
+        "wild-chestnut",
+        "wild-rosehips",
+        "wild-garlic-bundle",
+        "fiddlehead-ferns",
+        "foraging-field-guide"
+      ]
+    },
+    {
+      "slug": "terrarium-workshop",
+      "name_vi": "Làm terrarium",
+      "asset_ids": [
+        "haworthia-pot",
+        "closed-jar-terrarium",
+        "terrarium-tweezers",
+        "terrarium-mister",
+        "terrarium-pebbles",
+        "terrarium-moss",
+        "terrarium-charcoal",
+        "terrarium-funnel"
+      ]
+    },
+    {
+      "slug": "succulent-collection",
+      "name_vi": "Bộ sưu tập sen đá",
+      "asset_ids": [
+        "haworthia-pot",
+        "echeveria-pot",
+        "jade-plant-pot",
+        "string-of-pearls-pot",
+        "lithops-pot",
+        "burros-tail-pot",
+        "panda-plant-pot",
+        "aeonium-pot"
+      ]
+    },
+    {
+      "slug": "snorkeling",
+      "name_vi": "Lặn ngắm san hô",
+      "asset_ids": [
+        "staghorn-coral",
+        "snorkel-mask",
+        "snorkel-tube",
+        "swim-fins",
+        "dive-rashguard",
+        "surface-marker-buoy",
+        "underwater-camera",
+        "reef-id-slate"
+      ]
+    },
+    {
+      "slug": "coral-restoration",
+      "name_vi": "Vườn ươm san hô",
+      "asset_ids": [
+        "staghorn-coral",
+        "brain-coral",
+        "table-coral",
+        "coral-nursery-tree",
+        "coral-frag-plug",
+        "coral-cement-bucket",
+        "coral-monitoring-quadrat",
+        "coral-cleaning-brush"
+      ]
+    },
+    {
+      "slug": "post-office",
+      "name_vi": "Bưu điện",
+      "asset_ids": [
+        "wax-seal-stamp",
+        "postal-mailbox",
+        "postal-satchel",
+        "postal-parcel",
+        "postage-stamp-sheet",
+        "postal-scale",
+        "airmail-envelope",
+        "postmark-stamper"
+      ]
+    },
+    {
+      "slug": "calligraphy-desk",
+      "name_vi": "Bàn thư pháp",
+      "asset_ids": [
+        "wax-seal-stamp",
+        "calligraphy-dip-pen",
+        "calligraphy-ink-bottle",
+        "calligraphy-brush",
+        "calligraphy-inkstone",
+        "calligraphy-paper-scroll",
+        "calligraphy-pen-rest",
+        "calligraphy-nib-tin"
+      ]
+    },
+    {
+      "slug": "science-laboratory",
+      "name_vi": "Phòng thí nghiệm",
+      "asset_ids": [
+        "glass-thermometer",
+        "lab-microscope",
+        "lab-test-tube-rack",
+        "lab-erlenmeyer-flask",
+        "lab-petri-dish",
+        "lab-pipette",
+        "lab-centrifuge",
+        "lab-safety-goggles"
+      ]
+    },
+    {
+      "slug": "weather-station",
+      "name_vi": "Trạm khí tượng",
+      "asset_ids": [
+        "glass-thermometer",
+        "weather-anemometer",
+        "weather-wind-vane",
+        "weather-rain-gauge",
+        "weather-barometer",
+        "weather-balloon",
+        "weather-windsock",
+        "weather-shelter"
+      ]
+    },
+    {
+      "slug": "percussion",
+      "name_vi": "Nhạc cụ gõ",
+      "asset_ids": [
+        "snare-drum",
+        "djembe",
+        "bongos",
+        "tambourine",
+        "maracas",
+        "triangle-instrument",
+        "kalimba",
+        "handpan"
+      ]
+    },
+    {
+      "slug": "marching-band",
+      "name_vi": "Đội nhạc diễu hành",
+      "asset_ids": [
+        "snare-drum",
+        "marching-bass-drum",
+        "marching-sousaphone",
+        "marching-trumpet",
+        "marching-clarinet",
+        "marching-cymbals",
+        "band-shako",
+        "drum-major-mace"
+      ]
+    },
+    {
+      "slug": "garden-insects",
+      "name_vi": "Côn trùng vườn",
+      "asset_ids": [
+        "ladybird",
+        "praying-mantis",
+        "dragonfly",
+        "grasshopper",
+        "stag-beetle",
+        "leaf-insect",
+        "rhinoceros-beetle",
+        "lacewing"
+      ]
+    },
+    {
+      "slug": "reptile-habitat",
+      "name_vi": "Ngôi nhà bò sát",
+      "asset_ids": [
+        "reptile-glass-enclosure",
+        "reptile-heat-lamp",
+        "reptile-hide-cave",
+        "reptile-water-dish",
+        "reptile-cork-tunnel",
+        "reptile-climbing-branch",
+        "reptile-hygrometer",
+        "reptile-feeding-tongs"
+      ]
+    },
+    {
+      "slug": "freshwater-wetland",
+      "name_vi": "Đầm nước ngọt",
+      "asset_ids": [
+        "wetland-cattails",
+        "wetland-water-lily",
+        "wetland-kingfisher",
+        "wetland-heron",
+        "wetland-otter",
+        "wetland-beaver",
+        "wetland-water-strider",
+        "wetland-muskrat"
+      ]
+    },
+    {
+      "slug": "rock-pool",
+      "name_vi": "Hồ thủy triều",
+      "asset_ids": [
+        "tidepool-hermit-crab",
+        "tidepool-anemone",
+        "tidepool-limpet",
+        "tidepool-barnacles",
+        "tidepool-chiton",
+        "tidepool-blenny",
+        "tidepool-sea-lettuce",
+        "tidepool-brittle-star"
+      ]
+    },
+    {
+      "slug": "fossil-dig",
+      "name_vi": "Khai quật hóa thạch",
+      "asset_ids": [
+        "fossil-ammonite",
+        "fossil-trilobite",
+        "fossil-fern",
+        "fossil-shark-tooth",
+        "fossil-dinosaur-footprint",
+        "fossil-plaster-jacket",
+        "fossil-rock-hammer",
+        "fossil-amber-insect"
+      ]
+    },
+    {
+      "slug": "observatory",
+      "name_vi": "Đài quan sát",
+      "asset_ids": [
+        "observatory-telescope",
+        "observatory-dome",
+        "observatory-star-chart",
+        "observatory-armillary",
+        "observatory-orrery",
+        "observatory-eyepiece",
+        "observatory-red-torch",
+        "observatory-meteorite"
+      ]
+    },
+    {
+      "slug": "mineral-collection",
+      "name_vi": "Bộ sưu tập khoáng vật",
+      "asset_ids": [
+        "mineral-amethyst",
+        "mineral-pyrite",
+        "mineral-malachite",
+        "mineral-fluorite",
+        "mineral-rose-quartz",
+        "mineral-selenite",
+        "mineral-geode",
+        "mineral-azurite"
+      ]
+    },
+    {
+      "slug": "cave-exploration",
+      "name_vi": "Thám hiểm hang động",
+      "asset_ids": [
+        "caving-helmet",
+        "caving-rope-coil",
+        "caving-ascender",
+        "caving-descender",
+        "caving-suit",
+        "caving-survey-kit",
+        "caving-stalactite",
+        "caving-stalagmite"
+      ]
+    },
+    {
+      "slug": "railway-station",
+      "name_vi": "Ga tàu hỏa",
+      "asset_ids": [
+        "railway-signal",
+        "railway-locomotive",
+        "railway-platform-clock",
+        "railway-conductor-hat",
+        "railway-ticket-punch",
+        "railway-luggage-trolley",
+        "railway-buffer-stop",
+        "railway-crossing-gate"
+      ]
+    },
+    {
+      "slug": "harbor-life",
+      "name_vi": "Bến cảng",
+      "asset_ids": [
+        "harbor-tugboat",
+        "harbor-mooring-bollard",
+        "harbor-buoy",
+        "harbor-dock-cleat",
+        "harbor-lobster-trap",
+        "harbor-ship-wheel",
+        "harbor-lighthouse",
+        "harbor-cargo-crane"
+      ]
+    },
+    {
+      "slug": "vineyard",
+      "name_vi": "Vườn nho",
+      "asset_ids": [
+        "vineyard-grape-trellis",
+        "vineyard-pruning-shears",
+        "vineyard-grape-basket",
+        "vineyard-oak-barrel",
+        "vineyard-grape-press",
+        "vineyard-carafe",
+        "vineyard-corkscrew",
+        "vineyard-vine-cutting"
+      ]
+    },
+    {
+      "slug": "pasta-workshop",
+      "name_vi": "Xưởng mì Ý",
+      "asset_ids": [
+        "pasta-hand-crank-machine",
+        "pasta-tagliatelle-nest",
+        "pasta-ravioli",
+        "pasta-gnocchi-board",
+        "pasta-farfalle",
+        "pasta-tortellini",
+        "pasta-wheel-cutter",
+        "pasta-drying-rack"
+      ]
+    },
+    {
+      "slug": "dumpling-table",
+      "name_vi": "Bàn bánh hấp",
+      "asset_ids": [
+        "dumpling-bamboo-steamer",
+        "dumpling-har-gow",
+        "dumpling-siu-mai",
+        "dumpling-bao",
+        "dumpling-mandu",
+        "dumpling-momo",
+        "dumpling-rolling-pin",
+        "dumpling-dipping-dish"
+      ]
+    },
+    {
+      "slug": "mediterranean-mezze",
+      "name_vi": "Bàn ăn Địa Trung Hải",
+      "asset_ids": [
+        "mezze-hummus",
+        "mezze-falafel",
+        "mezze-pita",
+        "mezze-dolma",
+        "mezze-tzatziki",
+        "mezze-olive-dish",
+        "mezze-baba-ganoush",
+        "mezze-halloumi"
+      ]
+    },
+    {
+      "slug": "picnic-day",
+      "name_vi": "Buổi picnic",
+      "asset_ids": [
+        "picnic-hamper",
+        "picnic-checkered-cloth",
+        "picnic-sandwich-wrap",
+        "picnic-lemonade-dispenser",
+        "picnic-bento-box",
+        "picnic-insulated-flask",
+        "picnic-reusable-cutlery",
+        "picnic-grass-mat"
+      ]
+    },
+    {
+      "slug": "soap-making",
+      "name_vi": "Làm xà phòng",
+      "asset_ids": [
+        "soap-lavender-bar",
+        "soap-loaf-mold",
+        "soap-wire-cutter",
+        "soap-silicone-flower-mold",
+        "soap-essential-oil",
+        "soap-mixing-pitcher",
+        "soap-oatmeal-bar",
+        "soap-curing-rack"
+      ]
+    },
+    {
+      "slug": "glassblowing",
+      "name_vi": "Nghề thổi thủy tinh",
+      "asset_ids": [
+        "glassblowing-pipe",
+        "glassblowing-jacks",
+        "glassblowing-marver",
+        "glassblowing-furnace",
+        "glassblowing-vase",
+        "glassblowing-paperweight",
+        "glassblowing-block",
+        "glassblowing-shears"
+      ]
+    },
+    {
+      "slug": "leathercraft",
+      "name_vi": "Đồ da thủ công",
+      "asset_ids": [
+        "leathercraft-stitching-pony",
+        "leathercraft-awl",
+        "leathercraft-edge-beveler",
+        "leathercraft-pricking-iron",
+        "leathercraft-mallet",
+        "leathercraft-saddle-stitch",
+        "leathercraft-belt-buckle",
+        "leathercraft-hide-roll"
+      ]
+    },
+    {
+      "slug": "weaving-studio",
+      "name_vi": "Xưởng dệt",
+      "asset_ids": [
+        "weaving-table-loom",
+        "weaving-shuttle",
+        "weaving-heddle",
+        "weaving-yarn-cones",
+        "weaving-warping-board",
+        "weaving-beater-comb",
+        "weaving-tapestry",
+        "weaving-drop-spindle"
+      ]
+    },
+    {
+      "slug": "printmaking",
+      "name_vi": "Nghệ thuật in thủ công",
+      "asset_ids": [
+        "printmaking-brayer",
+        "printmaking-lino-block",
+        "printmaking-gouge",
+        "printmaking-ink-tube",
+        "printmaking-baren",
+        "printmaking-press",
+        "printmaking-ink-slab",
+        "printmaking-leaf-print"
+      ]
+    },
+    {
+      "slug": "bookbinding",
+      "name_vi": "Đóng sách thủ công",
+      "asset_ids": [
+        "bookbinding-press",
+        "bookbinding-bone-folder",
+        "bookbinding-sewing-frame",
+        "bookbinding-signatures",
+        "bookbinding-linen-thread",
+        "bookbinding-glue-pot",
+        "bookbinding-cloth-roll",
+        "bookbinding-handbound-journal"
+      ]
+    },
+    {
+      "slug": "clockmaking",
+      "name_vi": "Xưởng đồng hồ",
+      "asset_ids": [
+        "clockmaking-pocket-watch",
+        "clockmaking-gear-train",
+        "clockmaking-pendulum",
+        "clockmaking-mainspring",
+        "clockmaking-loupe",
+        "clockmaking-oiler",
+        "clockmaking-key",
+        "clockmaking-movement-holder"
+      ]
+    },
+    {
+      "slug": "detective-desk",
+      "name_vi": "Bàn thám tử",
+      "asset_ids": [
+        "detective-magnifier",
+        "detective-evidence-envelope",
+        "detective-fingerprint-kit",
+        "detective-trench-coat",
+        "detective-notebook",
+        "detective-evidence-marker",
+        "detective-fingerprint-card",
+        "detective-footprint-cast"
+      ]
+    },
+    {
+      "slug": "shipwreck-diving",
+      "name_vi": "Khám phá tàu đắm",
+      "asset_ids": [
+        "shipwreck-diving-helmet",
+        "shipwreck-air-tank",
+        "shipwreck-rusted-anchor",
+        "shipwreck-porthole",
+        "shipwreck-treasure-chest",
+        "shipwreck-ship-bell",
+        "shipwreck-diving-torch",
+        "shipwreck-ceramic-bottle"
+      ]
+    },
+    {
+      "slug": "desert-caravan",
+      "name_vi": "Đoàn lữ hành sa mạc",
+      "asset_ids": [
+        "desert-dromedary",
+        "desert-caravan-tent",
+        "desert-water-skin",
+        "desert-brass-coffee-pot",
+        "desert-date-bunch",
+        "desert-woven-saddlebag",
+        "desert-sand-rose",
+        "desert-navigation-compass"
+      ]
+    },
+    {
+      "slug": "arctic-research",
+      "name_vi": "Trạm nghiên cứu Bắc Cực",
+      "asset_ids": [
+        "arctic-research-hut",
+        "arctic-ice-auger",
+        "arctic-core-sample",
+        "arctic-snowmobile",
+        "arctic-sample-case",
+        "arctic-expedition-parka",
+        "arctic-satellite-phone",
+        "arctic-snow-goggles"
+      ]
+    },
+    {
+      "slug": "fairy-garden",
+      "name_vi": "Khu vườn tiên",
+      "asset_ids": [
+        "fairy-acorn-house",
+        "fairy-petal-chair",
+        "fairy-thimble-bucket",
+        "fairy-leaf-boat",
+        "fairy-seed-lantern",
+        "fairy-dewdrop-watering-can",
+        "fairy-pebble-bridge",
+        "fairy-winged-snail"
+      ]
+    },
+    {
+      "slug": "herbal-apothecary",
+      "name_vi": "Tiệm thảo dược cổ tích",
+      "asset_ids": [
+        "apothecary-mortar-pestle",
+        "apothecary-herb-bundle",
+        "apothecary-drawer-chest",
+        "apothecary-potion-bottle",
+        "apothecary-drying-rack",
+        "apothecary-balance-scale",
+        "apothecary-crescent-vial",
+        "apothecary-herbal-salve"
+      ]
+    },
+    {
+      "slug": "canal-town",
+      "name_vi": "Thị trấn bên kênh",
+      "asset_ids": [
+        "canal-gabled-house",
+        "canal-houseboat",
+        "canal-stone-bridge",
+        "canal-lock-gate",
+        "canal-bicycle",
+        "canal-quayside-lamp",
+        "canal-flower-box",
+        "canal-rowboat"
+      ]
+    },
+    {
+      "slug": "accessible-everyday",
+      "name_vi": "Đồ dùng hỗ trợ tiếp cận",
+      "asset_ids": [
+        "access-manual-wheelchair",
+        "access-white-cane",
+        "access-hearing-aid",
+        "access-braille-slate",
+        "access-forearm-crutch",
+        "access-walker",
+        "access-reaching-aid",
+        "access-portable-ramp"
+      ]
+    }
+  ],
+  "shared_assets": [
+    {
+      "id": "banh-chung",
+      "topic_slugs": [
+        "vietnamese-cuisine",
+        "vietnamese-tet"
+      ]
+    },
+    {
+      "id": "honey-dipper",
+      "topic_slugs": [
+        "beekeeping",
+        "honey-breakfast"
+      ]
+    },
+    {
+      "id": "terracotta-amphora",
+      "topic_slugs": [
+        "pottery-studio",
+        "archaeology"
+      ]
+    },
+    {
+      "id": "tailor-dress-form",
+      "topic_slugs": [
+        "sewing-room",
+        "theatre-backstage"
+      ]
+    },
+    {
+      "id": "mushroom-basket",
+      "topic_slugs": [
+        "forest-fungi",
+        "woodland-foraging"
+      ]
+    },
+    {
+      "id": "haworthia-pot",
+      "topic_slugs": [
+        "terrarium-workshop",
+        "succulent-collection"
+      ]
+    },
+    {
+      "id": "staghorn-coral",
+      "topic_slugs": [
+        "snorkeling",
+        "coral-restoration"
+      ]
+    },
+    {
+      "id": "wax-seal-stamp",
+      "topic_slugs": [
+        "post-office",
+        "calligraphy-desk"
+      ]
+    },
+    {
+      "id": "glass-thermometer",
+      "topic_slugs": [
+        "science-laboratory",
+        "weather-station"
+      ]
+    },
+    {
+      "id": "snare-drum",
+      "topic_slugs": [
+        "percussion",
+        "marching-band"
+      ]
+    }
+  ],
+  "qa": {
+    "topic_count": 50,
+    "total_topic_slots": 400,
+    "unique_assets": 390,
+    "shared_assets": 10,
+    "all_topics_have_eight": true,
+    "shared_membership_exactly_two": true
+  },
+  "output_spec": {
+    "target_width": 512,
+    "target_height": 512,
+    "format": "PNG",
+    "background": "transparent",
+    "prompt_target_only": true,
+    "resize_existing": false,
+    "scripted_resizing": false,
+    "record_actual_dimensions": true
+  }
+}

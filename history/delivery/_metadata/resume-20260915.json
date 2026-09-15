@@ -1,0 +1,37 @@
+{
+  "updated_utc": "2026-09-15T03:20:19.596Z",
+  "reason": "Built-in image generation returned HTTP 429 usage_limit_reached on wetland-heron.",
+  "reset_utc": "2026-09-15T07:03:27.000Z",
+  "generated_unique": 173,
+  "topics_with_all_images": 22,
+  "target_topics": 50,
+  "target_unique": 390,
+  "prompt_target_dimensions": [
+    512,
+    512
+  ],
+  "scripted_resizing": false,
+  "production_root": "C:/Users/sonng/OneDrive/Máy tính/new-stickers-production",
+  "delivery_root": "C:/Users/sonng/OneDrive/Máy tính/NewStickers",
+  "resume_ids": [
+    "wetland-heron",
+    "wetland-otter",
+    "wetland-beaver",
+    "wetland-water-strider",
+    "wetland-muskrat",
+    "tidepool-hermit-crab",
+    "tidepool-anemone",
+    "tidepool-limpet",
+    "tidepool-barnacles",
+    "tidepool-chiton",
+    "tidepool-blenny",
+    "tidepool-sea-lettuce",
+    "tidepool-brittle-star"
+  ],
+  "remaining_work": "Continue missing assets in sticker-plan.json, repair RGB backgrounds with the built-in tool, and resolve visual-qa rework candidates. Existing masters and rejected framing revisions are preserved.",
+  "new_unique_this_turn": 54,
+  "framing_trials": {
+    "bongos": "not promoted; lost alpha and increased contrast",
+    "marching-trumpet": "not promoted; lost alpha and increased contrast"
+  }
+}

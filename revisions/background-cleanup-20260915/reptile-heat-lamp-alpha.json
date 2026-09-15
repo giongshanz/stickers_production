@@ -1,0 +1,23 @@
+{
+  "id": "reptile-heat-lamp",
+  "created_utc": "2026-09-15T08:55:04.393153+00:00",
+  "source": "masters/reptile-heat-lamp.png",
+  "source_sha256": "9ba39e12250bcdb444f668563ee9398c563b993eb9392511898139719976f6de",
+  "candidate": "revisions/background-cleanup-20260915/reptile-heat-lamp-alpha.png",
+  "candidate_sha256": "9623e48bb7e402e6df353719bcbee8d42edfea37d83a441b8c5550730c5e38d1",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 1068318,
+  "opaque_pixels": 496494,
+  "partial_alpha_pixels": 7704,
+  "foreground_fraction": 0.32063139580137817,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

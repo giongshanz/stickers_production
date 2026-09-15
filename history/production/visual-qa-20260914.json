@@ -1,0 +1,267 @@
+{
+  "reviewed_ids": [
+    "bun-cha",
+    "banh-cuon",
+    "banh-chung",
+    "che-ba-mau",
+    "tet-lucky-envelope",
+    "tet-kumquat-pot",
+    "tet-peach-blossom",
+    "tet-lion-head",
+    "tet-watermelon",
+    "tet-coconut-candy-tray",
+    "tet-firecracker-string",
+    "honey-dipper",
+    "bee-smoker",
+    "honeycomb-frame",
+    "honey-extractor",
+    "beekeeper-gloves",
+    "bee-feeding-jar",
+    "honey-pancakes",
+    "honey-waffles",
+    "honey-parfait",
+    "honey-toast",
+    "honey-crumpet",
+    "honey-butter-dish",
+    "honey-lemon-tea",
+    "terracotta-amphora",
+    "wet-clay-lump",
+    "potter-rib-tool",
+    "clay-wire-cutter",
+    "loop-trimming-tool",
+    "glazing-brush",
+    "ceramic-kiln",
+    "excavation-trowel",
+    "archaeology-sieve",
+    "artifact-brush",
+    "stratigraphy-block",
+    "stone-tablet",
+    "mosaic-fragment",
+    "amphitheatre-model",
+    "tailor-dress-form",
+    "fabric-shears",
+    "tomato-pincushion",
+    "tape-measure-coil",
+    "seam-ripper",
+    "thread-spool-rack",
+    "sewing-zipper",
+    "theatre-masks",
+    "stage-spotlight",
+    "red-theatre-curtain",
+    "theatre-ticket",
+    "proscenium-stage-model",
+    "theatrical-mustache",
+    "opera-binoculars",
+    "mushroom-basket",
+    "fly-agaric",
+    "chanterelle",
+    "morel",
+    "oyster-mushroom",
+    "porcini",
+    "lions-mane-mushroom",
+    "coral-fungus",
+    "foraging-knife",
+    "wild-blackberry-branch",
+    "wild-chestnut",
+    "wild-rosehips",
+    "wild-garlic-bundle",
+    "fiddlehead-ferns",
+    "haworthia-pot",
+    "foraging-field-guide",
+    "closed-jar-terrarium",
+    "terrarium-tweezers",
+    "terrarium-mister",
+    "terrarium-pebbles",
+    "terrarium-moss",
+    "terrarium-charcoal",
+    "terrarium-funnel",
+    "echeveria-pot",
+    "jade-plant-pot",
+    "string-of-pearls-pot",
+    "lithops-pot",
+    "burros-tail-pot",
+    "panda-plant-pot",
+    "aeonium-pot",
+    "staghorn-coral",
+    "snorkel-mask",
+    "snorkel-tube",
+    "swim-fins",
+    "dive-rashguard",
+    "surface-marker-buoy",
+    "underwater-camera",
+    "reef-id-slate",
+    "brain-coral",
+    "table-coral",
+    "coral-nursery-tree",
+    "coral-frag-plug",
+    "coral-cement-bucket",
+    "coral-monitoring-quadrat",
+    "coral-cleaning-brush",
+    "postal-mailbox",
+    "wax-seal-stamp",
+    "postal-satchel",
+    "postal-parcel",
+    "postage-stamp-sheet",
+    "postal-scale",
+    "airmail-envelope",
+    "postmark-stamper",
+    "calligraphy-dip-pen",
+    "calligraphy-ink-bottle",
+    "calligraphy-brush",
+    "calligraphy-inkstone",
+    "calligraphy-paper-scroll",
+    "calligraphy-pen-rest",
+    "calligraphy-nib-tin",
+    "glass-thermometer",
+    "lab-microscope",
+    "lab-test-tube-rack",
+    "lab-erlenmeyer-flask",
+    "lab-petri-dish",
+    "lab-pipette",
+    "lab-centrifuge",
+    "lab-safety-goggles",
+    "weather-anemometer",
+    "weather-wind-vane",
+    "snare-drum",
+    "djembe",
+    "bongos",
+    "tambourine",
+    "maracas",
+    "triangle-instrument",
+    "kalimba",
+    "handpan",
+    "marching-bass-drum",
+    "marching-sousaphone",
+    "marching-trumpet",
+    "marching-clarinet",
+    "marching-cymbals",
+    "band-shako",
+    "drum-major-mace",
+    "ladybird",
+    "praying-mantis",
+    "dragonfly",
+    "grasshopper",
+    "stag-beetle",
+    "leaf-insect",
+    "rhinoceros-beetle",
+    "lacewing",
+    "reptile-glass-enclosure",
+    "reptile-heat-lamp",
+    "reptile-hide-cave",
+    "reptile-water-dish",
+    "reptile-cork-tunnel",
+    "reptile-climbing-branch",
+    "reptile-hygrometer",
+    "reptile-feeding-tongs",
+    "wetland-cattails",
+    "wetland-water-lily",
+    "wetland-kingfisher"
+  ],
+  "style_reference": "desktop Stickers only",
+  "subject_check": "See rework_candidates; other reviewed subjects provisionally accepted",
+  "style_notes": "Warm mid-light palette, local tinted outlines, modest painterly volume. Fine white fringe on some alpha exports should be reviewed at game scale.",
+  "background_notes": "Alpha varies by export. Refer to per-file status in progress.json; several masters contain printed checkerboards and require background correction. Visual review here does not certify transparency.",
+  "dimensions": "Actual generated dimensions preserved; new prompt target is 512x512 only.",
+  "rework_candidates": [
+    {
+      "id": "tailor-dress-form",
+      "reason": "White cut margin reaches the top canvas edge; needs clear top padding."
+    },
+    {
+      "id": "terrarium-mister",
+      "reason": "Reduce broad white glass reflections and metallic shine; use softer matte painted color patches to match desktop references."
+    },
+    {
+      "id": "terrarium-moss",
+      "reason": "Mushrooms dominate the silhouette. Simplify to a low moss cushion without prominent mushrooms so the subject reads clearly as moss."
+    },
+    {
+      "id": "snorkel-mask",
+      "reason": "White sticker margin touches both side edges. Reframe with clear padding."
+    },
+    {
+      "id": "snorkel-tube",
+      "reason": "Small white export debris reaches top canvas edge. Clean edge and reframe slightly smaller."
+    },
+    {
+      "id": "dive-rashguard",
+      "reason": "Side padding is only about 1.4 percent of canvas width; increase clear padding and clean underarm alpha edges."
+    },
+    {
+      "id": "table-coral",
+      "reason": "The planned broad flat canopy became a deep cupped form; redraw as a flat table-like canopy on short branching supports. Increase side padding."
+    },
+    {
+      "id": "coral-nursery-tree",
+      "reason": "Clean the white export remnants inside the frame so the spaces around hanging coral are transparent; increase side padding."
+    },
+    {
+      "id": "coral-monitoring-quadrat",
+      "reason": "Remove white export remnants and speckled alpha from all nine grid openings; keep only a narrow clean white cut margin."
+    },
+    {
+      "id": "calligraphy-inkstone",
+      "reason": "Reduce mottled stone texture and near-black recessed shading; keep two or three softer slate-gray painted planes matching the desktop references."
+    },
+    {
+      "id": "lab-microscope",
+      "reason": "Clean white remnants in the opening beneath the objective lenses; retain a narrow even cut margin around the hardware and clear transparent gaps."
+    },
+    {
+      "id": "weather-anemometer",
+      "reason": "Remove irregular white debris between the rotating cups and the central stand; keep the white cut margin narrow and the surrounding gaps transparent."
+    },
+    {
+      "id": "weather-wind-vane",
+      "reason": "Clean detached white specks in the open spaces above and below the arrow without changing the painted rooster or palette."
+    },
+    {
+      "id": "bongos",
+      "reason": "Both side edges are too close to the canvas and include white export debris. Reframe the full paired drums smaller with clear padding."
+    },
+    {
+      "id": "maracas",
+      "reason": "Remove detached white specks above the shakers and around the crossed handles while preserving the artwork."
+    },
+    {
+      "id": "triangle-instrument",
+      "reason": "Clean white remnants inside the triangular opening and between the triangle and beater; preserve a narrow even sticker border."
+    },
+    {
+      "id": "marching-trumpet",
+      "reason": "Reframe smaller with clear padding on both sides and remove white export remnants in the tubing openings."
+    },
+    {
+      "id": "marching-bass-drum",
+      "reason": "Clean white fill and ragged alpha in the openings beneath the shoulder harness while preserving the white hardware and narrow sticker margin."
+    },
+    {
+      "id": "marching-sousaphone",
+      "reason": "Clean detached white remnants in the large coil and under the bell; preserve the painted brass shading."
+    },
+    {
+      "id": "drum-major-mace",
+      "reason": "Clean the irregular white fill between the tassels and the shaft without changing the design."
+    },
+    {
+      "id": "dragonfly",
+      "reason": "Add small recognizable insect legs beneath the thorax; keep four wings and the existing soft painted style."
+    },
+    {
+      "id": "grasshopper",
+      "reason": "Remove white export remnants between the antennae and legs while keeping thin even cut margins."
+    },
+    {
+      "id": "stag-beetle",
+      "reason": "Remove extensive white export remnants in gaps between legs, antennae and horns or mandibles; preserve the existing anatomy and soft painted palette."
+    },
+    {
+      "id": "leaf-insect",
+      "reason": "Remove extensive white export remnants in gaps between legs, antennae and horns or mandibles; preserve the existing anatomy and soft painted palette."
+    },
+    {
+      "id": "rhinoceros-beetle",
+      "reason": "Remove extensive white export remnants in gaps between legs, antennae and horns or mandibles; preserve the existing anatomy and soft painted palette."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "calligraphy-brush",
+  "created_utc": "2026-09-15T08:54:56.498314+00:00",
+  "source": "masters/calligraphy-brush.png",
+  "source_sha256": "2d3db09fb103d90dd216c481f01f2bc7845ef47b430a208a393e1df16f6e6904",
+  "candidate": "revisions/background-cleanup-20260915/calligraphy-brush-alpha.png",
+  "candidate_sha256": "b909d417f91f4b4c36e121c49a228bde13a357c8bbe2c69088b9127ede0b430f",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 1276151,
+  "opaque_pixels": 289516,
+  "partial_alpha_pixels": 6849,
+  "foreground_fraction": 0.18846549097115706,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

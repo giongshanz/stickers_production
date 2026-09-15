@@ -1,0 +1,23 @@
+{
+  "id": "morel",
+  "created_utc": "2026-09-15T08:54:36.926107+00:00",
+  "source": "masters/morel.png",
+  "source_sha256": "f2d9d5ec7278188cadfb943d98a4de4307b1987ced37e6d73808a1577b7f984f",
+  "candidate": "revisions/background-cleanup-20260915/morel-alpha.png",
+  "candidate_sha256": "69f78763eb50274eec5cf75eeffb988427121146fac809231043a9581fa1f277",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 1075043,
+  "opaque_pixels": 491744,
+  "partial_alpha_pixels": 5729,
+  "foreground_fraction": 0.3163548097443842,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

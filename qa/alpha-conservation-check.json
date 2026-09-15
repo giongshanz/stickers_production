@@ -1,0 +1,527 @@
+[
+  {
+    "id": "banh-mi",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.528137074598923,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "pho-bo",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 6,
+    "foreground_fraction": 0.55939526211498,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "banh-xeo",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.5089372699546459,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "goi-cuon",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.46830111744490993,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "tet-lucky-envelope",
+    "removed_color_pixels": 50,
+    "removed_dark_pixels": 2593,
+    "foreground_fraction": 0.40294216402249644,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "beehive-skep",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 605165,
+    "foreground_fraction": 0.6041814518898377,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "beekeeper-veil-hat",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 9,
+    "foreground_fraction": 0.6149463662054949,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "honey-pancakes",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.5661653045183642,
+    "border_white_fraction": 0.41327751196172247
+  },
+  {
+    "id": "honey-waffles",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 504,
+    "foreground_fraction": 0.45546309226742365,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "honey-parfait",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 216,
+    "foreground_fraction": 0.4028722124289991,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "honey-toast",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 227,
+    "foreground_fraction": 0.5074727379562434,
+    "border_white_fraction": 0.4178628389154705
+  },
+  {
+    "id": "honey-butter-dish",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 1476,
+    "foreground_fraction": 0.4045535943672433,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "honey-lemon-tea",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 64,
+    "foreground_fraction": 0.48585960333630945,
+    "border_white_fraction": 0.45215311004784686
+  },
+  {
+    "id": "pottery-wheel",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 5,
+    "foreground_fraction": 0.5829962938373918,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "ceramic-kiln",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 29,
+    "foreground_fraction": 0.5053989911708371,
+    "border_white_fraction": 0.35127591706539074
+  },
+  {
+    "id": "sewing-machine",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.5835508191967522,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "sewing-zipper",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 584,
+    "foreground_fraction": 0.2836479883193557,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "stage-spotlight",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 242,
+    "foreground_fraction": 0.43302580069137614,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "theatre-ticket",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.4521740955258961,
+    "border_white_fraction": 0.3524720893141946
+  },
+  {
+    "id": "proscenium-stage-model",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.5206109190621908,
+    "border_white_fraction": 0.4565390749601276
+  },
+  {
+    "id": "opera-binoculars",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.32453151510064127,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "mushroom-basket",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 8,
+    "foreground_fraction": 0.5025360632260657,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "chanterelle",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.48150098313785045,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "morel",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 39,
+    "foreground_fraction": 0.3163548097443842,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "oyster-mushroom",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 43,
+    "foreground_fraction": 0.41075321332183584,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "porcini",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.4027685568859077,
+    "border_white_fraction": 0.47228867623604465
+  },
+  {
+    "id": "lions-mane-mushroom",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 5,
+    "foreground_fraction": 0.5005831419203366,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "coral-fungus",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 1,
+    "foreground_fraction": 0.3945969389182686,
+    "border_white_fraction": 0.458133971291866
+  },
+  {
+    "id": "wild-blackberry-branch",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 319,
+    "foreground_fraction": 0.41106990326330545,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "wild-chestnut",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.4185254712829631,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "wild-rosehips",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.40926324438034334,
+    "border_white_fraction": 0.4810606060606061
+  },
+  {
+    "id": "fiddlehead-ferns",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 1867,
+    "foreground_fraction": 0.3859362957197256,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "foraging-field-guide",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.44732199863149247,
+    "border_white_fraction": 0.2494019138755981
+  },
+  {
+    "id": "haworthia-pot",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 1,
+    "foreground_fraction": 0.35617189268662447,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "closed-jar-terrarium",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 238,
+    "foreground_fraction": 0.47059680155877587,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "terrarium-tweezers",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 5112,
+    "foreground_fraction": 0.16345016521294536,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "terrarium-mister",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.35130771324425314,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "terrarium-pebbles",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 10904,
+    "foreground_fraction": 0.36076834830297433,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "terrarium-moss",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.4207359416374778,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "terrarium-charcoal",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.30654950410679443,
+    "border_white_fraction": 0.47368421052631576
+  },
+  {
+    "id": "terrarium-funnel",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 475,
+    "foreground_fraction": 0.2740945084183563,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "echeveria-pot",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.4352508972881675,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "jade-plant-pot",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 7,
+    "foreground_fraction": 0.39785731909882,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "string-of-pearls-pot",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.36031429886881916,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "lithops-pot",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 2,
+    "foreground_fraction": 0.45413019644951147,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "burros-tail-pot",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.46201437696023445,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "panda-plant-pot",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 1090,
+    "foreground_fraction": 0.44524825184608613,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "aeonium-pot",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.37738312360573756,
+    "border_white_fraction": 0.030103668261562997
+  },
+  {
+    "id": "coral-cement-bucket",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 7006,
+    "foreground_fraction": 0.440220640044362,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "coral-cleaning-brush",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 4160,
+    "foreground_fraction": 0.3582628094086165,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "calligraphy-brush",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 943,
+    "foreground_fraction": 0.18846549097115706,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "calligraphy-inkstone",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.38498241035385333,
+    "border_white_fraction": 0.4866427432216906
+  },
+  {
+    "id": "calligraphy-pen-rest",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 3842,
+    "foreground_fraction": 0.36237977864772125,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "lab-pipette",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 842,
+    "foreground_fraction": 0.17468757074649796,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "lab-centrifuge",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 773,
+    "foreground_fraction": 0.4634235836074164,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "weather-rain-gauge",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 29943,
+    "foreground_fraction": 0.2498944366861768,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "weather-barometer",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.47180569227912467,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "weather-shelter",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 765,
+    "foreground_fraction": 0.5093029260115637,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "djembe",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 127,
+    "foreground_fraction": 0.3818593896659875,
+    "border_white_fraction": 0.4728867623604466
+  },
+  {
+    "id": "praying-mantis",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 546,
+    "foreground_fraction": 0.2676952094605079,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "dragonfly",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 3260,
+    "foreground_fraction": 0.32034332242088476,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "lacewing",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 54,
+    "foreground_fraction": 0.3140915577329579,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "reptile-glass-enclosure",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 8098,
+    "foreground_fraction": 0.5292957273566692,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "reptile-heat-lamp",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 110,
+    "foreground_fraction": 0.32063139580137817,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "reptile-cork-tunnel",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 9,
+    "foreground_fraction": 0.45551841761864426,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "reptile-climbing-branch",
+    "removed_color_pixels": 499,
+    "removed_dark_pixels": 21,
+    "foreground_fraction": 0.2678974331580728,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "reptile-hygrometer",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 2087,
+    "foreground_fraction": 0.4238526030895711,
+    "border_white_fraction": 0.02751196172248804
+  },
+  {
+    "id": "reptile-feeding-tongs",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 471,
+    "foreground_fraction": 0.21339560297001747,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "wetland-cattails",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 118,
+    "foreground_fraction": 0.3511646304393723,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "wetland-water-lily",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 491,
+    "foreground_fraction": 0.4766609687914145,
+    "border_white_fraction": 0.2292663476874003
+  },
+  {
+    "id": "wetland-kingfisher",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 102,
+    "foreground_fraction": 0.33597750356753125,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "mezze-baba-ganoush",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.4755468306840757,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "mezze-halloumi",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.42282240689442907,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "picnic-hamper",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.5766624950079999,
+    "border_white_fraction": 0.0
+  },
+  {
+    "id": "picnic-checkered-cloth",
+    "removed_color_pixels": 0,
+    "removed_dark_pixels": 0,
+    "foreground_fraction": 0.48780107801764816,
+    "border_white_fraction": 0.4696969696969697
+  }
+]

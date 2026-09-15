@@ -1,0 +1,23 @@
+{
+  "id": "honey-toast",
+  "created_utc": "2026-09-15T08:54:28.073834+00:00",
+  "source": "masters/honey-toast.png",
+  "source_sha256": "feb0fb99eed85e7258e8058c4063b45525a39ce33f73d05653a061082ef05c50",
+  "candidate": "revisions/background-cleanup-20260915/honey-toast-alpha.png",
+  "candidate_sha256": "3826c8fb252391b92017379a0d1db8f93e6b14760ea203a16f7133825014ecf6",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 774507,
+  "opaque_pixels": 791979,
+  "partial_alpha_pixels": 6030,
+  "foreground_fraction": 0.5074727379562434,
+  "source_border_white_fraction": 0.4178628389154705,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

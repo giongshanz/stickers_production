@@ -1,0 +1,23 @@
+{
+  "id": "terrarium-charcoal",
+  "created_utc": "2026-09-15T08:54:49.421999+00:00",
+  "source": "masters/terrarium-charcoal.png",
+  "source_sha256": "cca8b7025b4bbceda3e8599a5b00e86b46958553ece503dfe9eac468eb2db211",
+  "candidate": "revisions/background-cleanup-20260915/terrarium-charcoal-alpha.png",
+  "candidate_sha256": "0ba70db41751bad458875de86a7ed41377b7760f60e1a89482ecea0596e52ce9",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 1090462,
+  "opaque_pixels": 476762,
+  "partial_alpha_pixels": 5292,
+  "foreground_fraction": 0.30654950410679443,
+  "source_border_white_fraction": 0.47368421052631576,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

@@ -1,0 +1,92 @@
+{
+  "profiles": {
+    "objects": {
+      "references": [
+        "references/Stickers/8-Gardening/8-Gardening_1.png",
+        "references/Stickers/2. Home appliance/68-Home Appliance_2.png"
+      ],
+      "suffix": "Clear simple silhouette, modest hand-painted detail; follow the references' quiet local shading. Keep the complete sticker-cut margin comfortably inside the canvas."
+    },
+    "insects": {
+      "references": [
+        "references/Stickers/Frog/4-frog_4.png",
+        "references/Stickers/Leaves/30_Leaves_1.png"
+      ],
+      "suffix": "Clear recognizable silhouette, modest hand-painted detail; follow the references' quiet local shading. The entire sticker including its narrow white cut margin occupies about 80 percent of the canvas in its longest dimension, with comfortable transparent padding on every side. Keep natural anatomical features recognizable. Decorative patterns only if inherent to this subject."
+    },
+    "plants": {
+      "references": [
+        "references/Stickers/Leaves/30_Leaves_1.png",
+        "references/Stickers/8-Gardening/8-Gardening_1.png"
+      ],
+      "suffix": "Clear recognizable silhouette, modest hand-painted detail; follow the references' quiet local shading. The entire sticker including its narrow white cut margin occupies about 80 percent of the canvas in its longest dimension, with comfortable transparent padding on every side. Keep natural anatomical features recognizable. Decorative patterns only if inherent to this subject."
+    },
+    "birds": {
+      "references": [
+        "references/Stickers/Bird/22_bird_1.png",
+        "references/Stickers/Frog/4-frog_4.png"
+      ],
+      "suffix": "Clear recognizable silhouette, modest hand-painted detail; follow the references' quiet local shading. The entire sticker including its narrow white cut margin occupies about 80 percent of the canvas in its longest dimension, with comfortable transparent padding on every side. Keep natural anatomical features recognizable. Decorative patterns only if inherent to this subject."
+    },
+    "mammals": {
+      "references": [
+        "references/Stickers/1_Animals/cow.png",
+        "references/Stickers/Frog/4-frog_4.png"
+      ],
+      "suffix": "Clear recognizable silhouette, modest hand-painted detail; follow the references' quiet local shading. The entire sticker including its narrow white cut margin occupies about 80 percent of the canvas in its longest dimension, with comfortable transparent padding on every side. Keep natural anatomical features recognizable. Decorative patterns only if inherent to this subject."
+    },
+    "marine": {
+      "references": [
+        "references/Stickers/19_MarineLife/marine_life_1.png",
+        "references/Stickers/8-Gardening/8-Gardening_1.png"
+      ],
+      "suffix": "Clear recognizable silhouette, modest hand-painted detail; follow the references' quiet local shading. The entire sticker including its narrow white cut margin occupies about 80 percent of the canvas in its longest dimension, with comfortable transparent padding on every side. Keep natural anatomical features recognizable. Decorative patterns only if inherent to this subject."
+    },
+    "food": {
+      "references": [
+        "references/Stickers/1-Bakery & Coffee Cafe/Bakery-&-Coffee-Cafe_1.png",
+        "references/Stickers/8-Gardening/8-Gardening_1.png"
+      ],
+      "suffix": "Clear simple silhouette, modest hand-painted detail; follow the references' quiet local shading. Keep the complete sticker-cut margin comfortably inside the canvas."
+    },
+    "reptile-objects": {
+      "references": [
+        "references/Stickers/8-Gardening/8-Gardening_1.png",
+        "references/Stickers/2. Home appliance/68-Home Appliance_2.png"
+      ],
+      "suffix": "Clear recognizable silhouette, modest hand-painted detail; follow the references' quiet local shading. The entire sticker including its narrow white cut margin occupies about 80 percent of the canvas in its longest dimension, with comfortable transparent padding on every side. Keep natural anatomical features recognizable. Decorative patterns only if inherent to this subject."
+    }
+  },
+  "topic_profiles": {
+    "garden-insects": "insects",
+    "reptile-habitat": "reptile-objects",
+    "freshwater-wetland": "plants",
+    "rock-pool": "marine",
+    "forest-fungi": "plants",
+    "woodland-foraging": "plants",
+    "succulent-collection": "plants",
+    "vineyard": "plants",
+    "pasta-workshop": "food",
+    "dumpling-table": "food",
+    "mediterranean-mezze": "food",
+    "herbal-apothecary": "plants"
+  },
+  "asset_profiles": {
+    "wetland-kingfisher": "birds",
+    "wetland-heron": "birds",
+    "wetland-otter": "mammals",
+    "wetland-beaver": "mammals",
+    "wetland-muskrat": "mammals"
+  },
+  "gallery_references": [
+    "references/Stickers/8-Gardening/8-Gardening_1.png",
+    "references/Stickers/2. Home appliance/68-Home Appliance_2.png",
+    "references/Stickers/3_Flowers/Flower_3.png",
+    "references/Stickers/Shirts/19_Shirts_1.png",
+    "references/Stickers/Frog/4-frog_4.png",
+    "references/Stickers/Bird/22_bird_1.png",
+    "references/Stickers/1_Animals/cow.png",
+    "references/Stickers/19_MarineLife/marine_life_1.png"
+  ],
+  "note": "Preserves the active next-topic reference choices. Remaining-topic defaults are starting points; inspect original reference artwork and save the exact references used in each request."
+}

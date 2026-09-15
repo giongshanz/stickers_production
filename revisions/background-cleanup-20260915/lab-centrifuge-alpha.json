@@ -1,0 +1,23 @@
+{
+  "id": "lab-centrifuge",
+  "created_utc": "2026-09-15T08:54:58.860523+00:00",
+  "source": "masters/lab-centrifuge.png",
+  "source_sha256": "55e7e123bc2e181a2c9d8d9784d87e24c4ce0285e54fcd155b958673c5de09e1",
+  "candidate": "revisions/background-cleanup-20260915/lab-centrifuge-alpha.png",
+  "candidate_sha256": "0310342656926cc30a6804aa8bd5f5ae340c0b3fbcd0ddd85dce4750951b08b6",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 843775,
+  "opaque_pixels": 722542,
+  "partial_alpha_pixels": 6199,
+  "foreground_fraction": 0.4634235836074164,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

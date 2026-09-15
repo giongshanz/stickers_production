@@ -1,0 +1,1498 @@
+[
+  {
+    "id": "airmail-envelope",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      85,
+      149,
+      92,
+      137
+    ],
+    "transparent_pixels": 836016,
+    "partial_alpha_pixels": 735230,
+    "opaque_pixels": 1270,
+    "review_edge": false
+  },
+  {
+    "id": "amphitheatre-model",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      52,
+      96,
+      48,
+      92
+    ],
+    "transparent_pixels": 632908,
+    "partial_alpha_pixels": 937861,
+    "opaque_pixels": 1747,
+    "review_edge": false
+  },
+  {
+    "id": "archaeology-sieve",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      36,
+      168,
+      33,
+      166
+    ],
+    "transparent_pixels": 878093,
+    "partial_alpha_pixels": 693857,
+    "opaque_pixels": 566,
+    "review_edge": false
+  },
+  {
+    "id": "artifact-brush",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      225,
+      100,
+      136,
+      72
+    ],
+    "transparent_pixels": 1136104,
+    "partial_alpha_pixels": 435253,
+    "opaque_pixels": 1159,
+    "review_edge": false
+  },
+  {
+    "id": "band-shako",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      256,
+      58,
+      241,
+      63
+    ],
+    "transparent_pixels": 915002,
+    "partial_alpha_pixels": 656335,
+    "opaque_pixels": 1179,
+    "review_edge": false
+  },
+  {
+    "id": "banh-chung",
+    "dimensions": [
+      1379,
+      1141
+    ],
+    "padding_left_top_right_bottom": [
+      111,
+      59,
+      108,
+      56
+    ],
+    "transparent_pixels": 782150,
+    "partial_alpha_pixels": 789719,
+    "opaque_pixels": 1570,
+    "review_edge": false
+  },
+  {
+    "id": "banh-cuon",
+    "dimensions": [
+      1436,
+      1096
+    ],
+    "padding_left_top_right_bottom": [
+      118,
+      75,
+      117,
+      115
+    ],
+    "transparent_pixels": 777550,
+    "partial_alpha_pixels": 795197,
+    "opaque_pixels": 1109,
+    "review_edge": false
+  },
+  {
+    "id": "bee-feeding-jar",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      222,
+      57,
+      223,
+      54
+    ],
+    "transparent_pixels": 885785,
+    "partial_alpha_pixels": 685317,
+    "opaque_pixels": 1414,
+    "review_edge": false
+  },
+  {
+    "id": "bee-smoker",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      96,
+      55,
+      94,
+      59
+    ],
+    "transparent_pixels": 917006,
+    "partial_alpha_pixels": 653423,
+    "opaque_pixels": 2087,
+    "review_edge": false
+  },
+  {
+    "id": "beekeeper-gloves",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      160,
+      59,
+      149,
+      55
+    ],
+    "transparent_pixels": 885513,
+    "partial_alpha_pixels": 685830,
+    "opaque_pixels": 1173,
+    "review_edge": false
+  },
+  {
+    "id": "bongos",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      36,
+      230,
+      25,
+      239
+    ],
+    "transparent_pixels": 863754,
+    "partial_alpha_pixels": 706940,
+    "opaque_pixels": 1822,
+    "review_edge": true
+  },
+  {
+    "id": "brain-coral",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      109,
+      135,
+      106,
+      119
+    ],
+    "transparent_pixels": 756264,
+    "partial_alpha_pixels": 814806,
+    "opaque_pixels": 1446,
+    "review_edge": false
+  },
+  {
+    "id": "bun-cha",
+    "dimensions": [
+      1437,
+      1095
+    ],
+    "padding_left_top_right_bottom": [
+      61,
+      76,
+      49,
+      73
+    ],
+    "transparent_pixels": 744650,
+    "partial_alpha_pixels": 828840,
+    "opaque_pixels": 25,
+    "review_edge": false
+  },
+  {
+    "id": "calligraphy-dip-pen",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      220,
+      116,
+      91,
+      125
+    ],
+    "transparent_pixels": 1322109,
+    "partial_alpha_pixels": 249922,
+    "opaque_pixels": 485,
+    "review_edge": false
+  },
+  {
+    "id": "calligraphy-ink-bottle",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      177,
+      128,
+      176,
+      130
+    ],
+    "transparent_pixels": 873098,
+    "partial_alpha_pixels": 698462,
+    "opaque_pixels": 956,
+    "review_edge": false
+  },
+  {
+    "id": "calligraphy-nib-tin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      124,
+      96,
+      105,
+      66
+    ],
+    "transparent_pixels": 751328,
+    "partial_alpha_pixels": 819819,
+    "opaque_pixels": 1369,
+    "review_edge": false
+  },
+  {
+    "id": "calligraphy-paper-scroll",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      112,
+      75,
+      88,
+      73
+    ],
+    "transparent_pixels": 850469,
+    "partial_alpha_pixels": 720330,
+    "opaque_pixels": 1717,
+    "review_edge": false
+  },
+  {
+    "id": "che-ba-mau",
+    "dimensions": [
+      1272,
+      1236
+    ],
+    "padding_left_top_right_bottom": [
+      250,
+      82,
+      250,
+      83
+    ],
+    "transparent_pixels": 934011,
+    "partial_alpha_pixels": 636929,
+    "opaque_pixels": 1252,
+    "review_edge": false
+  },
+  {
+    "id": "clay-wire-cutter",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      112,
+      254,
+      119,
+      205
+    ],
+    "transparent_pixels": 1353592,
+    "partial_alpha_pixels": 217659,
+    "opaque_pixels": 1265,
+    "review_edge": false
+  },
+  {
+    "id": "coral-frag-plug",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      172,
+      85,
+      161,
+      90
+    ],
+    "transparent_pixels": 903604,
+    "partial_alpha_pixels": 667455,
+    "opaque_pixels": 1457,
+    "review_edge": false
+  },
+  {
+    "id": "coral-monitoring-quadrat",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      76,
+      104,
+      50,
+      81
+    ],
+    "transparent_pixels": 889618,
+    "partial_alpha_pixels": 678882,
+    "opaque_pixels": 4016,
+    "review_edge": false
+  },
+  {
+    "id": "coral-nursery-tree",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      22,
+      148,
+      18,
+      107
+    ],
+    "transparent_pixels": 753367,
+    "partial_alpha_pixels": 816746,
+    "opaque_pixels": 2403,
+    "review_edge": true
+  },
+  {
+    "id": "dive-rashguard",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      17,
+      122,
+      18,
+      129
+    ],
+    "transparent_pixels": 669546,
+    "partial_alpha_pixels": 901178,
+    "opaque_pixels": 1792,
+    "review_edge": true
+  },
+  {
+    "id": "excavation-trowel",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      118,
+      91,
+      43,
+      78
+    ],
+    "transparent_pixels": 1151424,
+    "partial_alpha_pixels": 420703,
+    "opaque_pixels": 389,
+    "review_edge": false
+  },
+  {
+    "id": "fabric-shears",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      117,
+      219,
+      110,
+      206
+    ],
+    "transparent_pixels": 1213744,
+    "partial_alpha_pixels": 357613,
+    "opaque_pixels": 1159,
+    "review_edge": false
+  },
+  {
+    "id": "fly-agaric",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      189,
+      156,
+      188,
+      123
+    ],
+    "transparent_pixels": 1034894,
+    "partial_alpha_pixels": 537586,
+    "opaque_pixels": 36,
+    "review_edge": false
+  },
+  {
+    "id": "glass-thermometer",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      349,
+      76,
+      270,
+      98
+    ],
+    "transparent_pixels": 1273553,
+    "partial_alpha_pixels": 298279,
+    "opaque_pixels": 684,
+    "review_edge": false
+  },
+  {
+    "id": "glazing-brush",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      186,
+      67,
+      127,
+      47
+    ],
+    "transparent_pixels": 1095160,
+    "partial_alpha_pixels": 476592,
+    "opaque_pixels": 764,
+    "review_edge": false
+  },
+  {
+    "id": "handpan",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      80,
+      230,
+      81,
+      219
+    ],
+    "transparent_pixels": 908475,
+    "partial_alpha_pixels": 663831,
+    "opaque_pixels": 210,
+    "review_edge": false
+  },
+  {
+    "id": "honey-crumpet",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      104,
+      229,
+      104,
+      226
+    ],
+    "transparent_pixels": 882102,
+    "partial_alpha_pixels": 689954,
+    "opaque_pixels": 460,
+    "review_edge": false
+  },
+  {
+    "id": "honey-dipper",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      87,
+      149,
+      74,
+      145
+    ],
+    "transparent_pixels": 1169598,
+    "partial_alpha_pixels": 401179,
+    "opaque_pixels": 1739,
+    "review_edge": false
+  },
+  {
+    "id": "honey-extractor",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      221,
+      98,
+      63,
+      101
+    ],
+    "transparent_pixels": 954086,
+    "partial_alpha_pixels": 617097,
+    "opaque_pixels": 1333,
+    "review_edge": false
+  },
+  {
+    "id": "honeycomb-frame",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      80,
+      106,
+      57,
+      67
+    ],
+    "transparent_pixels": 712800,
+    "partial_alpha_pixels": 857869,
+    "opaque_pixels": 1847,
+    "review_edge": false
+  },
+  {
+    "id": "kalimba",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      157,
+      125,
+      171,
+      119
+    ],
+    "transparent_pixels": 842244,
+    "partial_alpha_pixels": 729481,
+    "opaque_pixels": 791,
+    "review_edge": false
+  },
+  {
+    "id": "lab-erlenmeyer-flask",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      232,
+      70,
+      232,
+      84
+    ],
+    "transparent_pixels": 986407,
+    "partial_alpha_pixels": 584793,
+    "opaque_pixels": 1316,
+    "review_edge": false
+  },
+  {
+    "id": "lab-microscope",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      253,
+      38,
+      240,
+      37
+    ],
+    "transparent_pixels": 1014348,
+    "partial_alpha_pixels": 557110,
+    "opaque_pixels": 1058,
+    "review_edge": false
+  },
+  {
+    "id": "lab-petri-dish",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      137,
+      223,
+      137,
+      221
+    ],
+    "transparent_pixels": 899415,
+    "partial_alpha_pixels": 672595,
+    "opaque_pixels": 506,
+    "review_edge": false
+  },
+  {
+    "id": "lab-safety-goggles",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      47,
+      318,
+      33,
+      304
+    ],
+    "transparent_pixels": 1010937,
+    "partial_alpha_pixels": 560803,
+    "opaque_pixels": 776,
+    "review_edge": false
+  },
+  {
+    "id": "lab-test-tube-rack",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      86,
+      192,
+      65,
+      160
+    ],
+    "transparent_pixels": 804471,
+    "partial_alpha_pixels": 766734,
+    "opaque_pixels": 1311,
+    "review_edge": false
+  },
+  {
+    "id": "loop-trimming-tool",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      143,
+      61,
+      143,
+      61
+    ],
+    "transparent_pixels": 1197789,
+    "partial_alpha_pixels": 374417,
+    "opaque_pixels": 310,
+    "review_edge": false
+  },
+  {
+    "id": "maracas",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      123,
+      70,
+      126,
+      72
+    ],
+    "transparent_pixels": 944318,
+    "partial_alpha_pixels": 626505,
+    "opaque_pixels": 1693,
+    "review_edge": false
+  },
+  {
+    "id": "marching-bass-drum",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      102,
+      58,
+      76,
+      64
+    ],
+    "transparent_pixels": 746244,
+    "partial_alpha_pixels": 824471,
+    "opaque_pixels": 1801,
+    "review_edge": false
+  },
+  {
+    "id": "marching-clarinet",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      140,
+      62,
+      136,
+      65
+    ],
+    "transparent_pixels": 1313005,
+    "partial_alpha_pixels": 259300,
+    "opaque_pixels": 211,
+    "review_edge": false
+  },
+  {
+    "id": "marching-cymbals",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      82,
+      197,
+      51,
+      188
+    ],
+    "transparent_pixels": 846075,
+    "partial_alpha_pixels": 726151,
+    "opaque_pixels": 290,
+    "review_edge": false
+  },
+  {
+    "id": "marching-sousaphone",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      223,
+      32,
+      165,
+      33
+    ],
+    "transparent_pixels": 943978,
+    "partial_alpha_pixels": 627678,
+    "opaque_pixels": 860,
+    "review_edge": false
+  },
+  {
+    "id": "marching-trumpet",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      22,
+      267,
+      17,
+      273
+    ],
+    "transparent_pixels": 1082726,
+    "partial_alpha_pixels": 488746,
+    "opaque_pixels": 1044,
+    "review_edge": true
+  },
+  {
+    "id": "mosaic-fragment",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      86,
+      99,
+      84,
+      84
+    ],
+    "transparent_pixels": 739178,
+    "partial_alpha_pixels": 832308,
+    "opaque_pixels": 1030,
+    "review_edge": false
+  },
+  {
+    "id": "postage-stamp-sheet",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      49,
+      117,
+      50,
+      80
+    ],
+    "transparent_pixels": 707775,
+    "partial_alpha_pixels": 863444,
+    "opaque_pixels": 1297,
+    "review_edge": false
+  },
+  {
+    "id": "postal-mailbox",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      220,
+      108,
+      221,
+      98
+    ],
+    "transparent_pixels": 886723,
+    "partial_alpha_pixels": 684098,
+    "opaque_pixels": 1695,
+    "review_edge": false
+  },
+  {
+    "id": "postal-parcel",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      118,
+      169,
+      113,
+      162
+    ],
+    "transparent_pixels": 818842,
+    "partial_alpha_pixels": 752602,
+    "opaque_pixels": 1072,
+    "review_edge": false
+  },
+  {
+    "id": "postal-satchel",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      33,
+      101,
+      27,
+      93
+    ],
+    "transparent_pixels": 647562,
+    "partial_alpha_pixels": 923416,
+    "opaque_pixels": 1538,
+    "review_edge": false
+  },
+  {
+    "id": "postal-scale",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      186,
+      85,
+      190,
+      70
+    ],
+    "transparent_pixels": 853391,
+    "partial_alpha_pixels": 717186,
+    "opaque_pixels": 1939,
+    "review_edge": false
+  },
+  {
+    "id": "postmark-stamper",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      214,
+      109,
+      141,
+      103
+    ],
+    "transparent_pixels": 1020516,
+    "partial_alpha_pixels": 551105,
+    "opaque_pixels": 895,
+    "review_edge": false
+  },
+  {
+    "id": "potter-rib-tool",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      189,
+      110,
+      171,
+      105
+    ],
+    "transparent_pixels": 936767,
+    "partial_alpha_pixels": 635101,
+    "opaque_pixels": 648,
+    "review_edge": false
+  },
+  {
+    "id": "red-theatre-curtain",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      97,
+      109,
+      97,
+      112
+    ],
+    "transparent_pixels": 857099,
+    "partial_alpha_pixels": 713319,
+    "opaque_pixels": 2098,
+    "review_edge": false
+  },
+  {
+    "id": "reef-id-slate",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      38,
+      180,
+      25,
+      162
+    ],
+    "transparent_pixels": 764720,
+    "partial_alpha_pixels": 806776,
+    "opaque_pixels": 1020,
+    "review_edge": true
+  },
+  {
+    "id": "seam-ripper",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      164,
+      98,
+      154,
+      96
+    ],
+    "transparent_pixels": 1286629,
+    "partial_alpha_pixels": 285507,
+    "opaque_pixels": 380,
+    "review_edge": false
+  },
+  {
+    "id": "snare-drum",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      145,
+      123,
+      143,
+      157
+    ],
+    "transparent_pixels": 815045,
+    "partial_alpha_pixels": 757020,
+    "opaque_pixels": 451,
+    "review_edge": false
+  },
+  {
+    "id": "snorkel-mask",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      19,
+      215,
+      17,
+      213
+    ],
+    "transparent_pixels": 803739,
+    "partial_alpha_pixels": 767787,
+    "opaque_pixels": 990,
+    "review_edge": true
+  },
+  {
+    "id": "snorkel-tube",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      215,
+      37,
+      192,
+      63
+    ],
+    "transparent_pixels": 1211358,
+    "partial_alpha_pixels": 360021,
+    "opaque_pixels": 1137,
+    "review_edge": false
+  },
+  {
+    "id": "staghorn-coral",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      37,
+      95,
+      34,
+      67
+    ],
+    "transparent_pixels": 769458,
+    "partial_alpha_pixels": 801847,
+    "opaque_pixels": 1211,
+    "review_edge": false
+  },
+  {
+    "id": "stone-tablet",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      231,
+      114,
+      216,
+      102
+    ],
+    "transparent_pixels": 880361,
+    "partial_alpha_pixels": 691046,
+    "opaque_pixels": 1109,
+    "review_edge": false
+  },
+  {
+    "id": "stratigraphy-block",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      152,
+      125,
+      151,
+      117
+    ],
+    "transparent_pixels": 718383,
+    "partial_alpha_pixels": 853989,
+    "opaque_pixels": 144,
+    "review_edge": false
+  },
+  {
+    "id": "surface-marker-buoy",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      49,
+      188,
+      36,
+      170
+    ],
+    "transparent_pixels": 903109,
+    "partial_alpha_pixels": 668979,
+    "opaque_pixels": 428,
+    "review_edge": false
+  },
+  {
+    "id": "swim-fins",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      88,
+      99,
+      83,
+      65
+    ],
+    "transparent_pixels": 820804,
+    "partial_alpha_pixels": 751513,
+    "opaque_pixels": 199,
+    "review_edge": false
+  },
+  {
+    "id": "table-coral",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      16,
+      198,
+      13,
+      161
+    ],
+    "transparent_pixels": 900713,
+    "partial_alpha_pixels": 671131,
+    "opaque_pixels": 672,
+    "review_edge": true
+  },
+  {
+    "id": "tailor-dress-form",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      406,
+      22,
+      399,
+      53
+    ],
+    "transparent_pixels": 1224659,
+    "partial_alpha_pixels": 346933,
+    "opaque_pixels": 924,
+    "review_edge": true
+  },
+  {
+    "id": "tambourine",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      58,
+      216,
+      40,
+      233
+    ],
+    "transparent_pixels": 867722,
+    "partial_alpha_pixels": 704515,
+    "opaque_pixels": 279,
+    "review_edge": false
+  },
+  {
+    "id": "tape-measure-coil",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      83,
+      210,
+      67,
+      204
+    ],
+    "transparent_pixels": 999522,
+    "partial_alpha_pixels": 572618,
+    "opaque_pixels": 376,
+    "review_edge": false
+  },
+  {
+    "id": "terracotta-amphora",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      222,
+      99,
+      223,
+      90
+    ],
+    "transparent_pixels": 927886,
+    "partial_alpha_pixels": 644303,
+    "opaque_pixels": 327,
+    "review_edge": false
+  },
+  {
+    "id": "tet-coconut-candy-tray",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      85,
+      157,
+      84,
+      172
+    ],
+    "transparent_pixels": 745762,
+    "partial_alpha_pixels": 825705,
+    "opaque_pixels": 1049,
+    "review_edge": false
+  },
+  {
+    "id": "tet-firecracker-string",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      334,
+      48,
+      340,
+      111
+    ],
+    "transparent_pixels": 1212745,
+    "partial_alpha_pixels": 358842,
+    "opaque_pixels": 929,
+    "review_edge": false
+  },
+  {
+    "id": "tet-kumquat-pot",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      238,
+      38,
+      206,
+      41
+    ],
+    "transparent_pixels": 923236,
+    "partial_alpha_pixels": 648294,
+    "opaque_pixels": 986,
+    "review_edge": false
+  },
+  {
+    "id": "tet-lion-head",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      143,
+      59,
+      126,
+      66
+    ],
+    "transparent_pixels": 707816,
+    "partial_alpha_pixels": 863077,
+    "opaque_pixels": 1623,
+    "review_edge": false
+  },
+  {
+    "id": "tet-peach-blossom",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      216,
+      47,
+      184,
+      35
+    ],
+    "transparent_pixels": 1065863,
+    "partial_alpha_pixels": 504786,
+    "opaque_pixels": 1867,
+    "review_edge": false
+  },
+  {
+    "id": "tet-watermelon",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      105,
+      118,
+      78,
+      108
+    ],
+    "transparent_pixels": 787374,
+    "partial_alpha_pixels": 784516,
+    "opaque_pixels": 626,
+    "review_edge": false
+  },
+  {
+    "id": "theatre-masks",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      78,
+      187,
+      69,
+      184
+    ],
+    "transparent_pixels": 924915,
+    "partial_alpha_pixels": 645722,
+    "opaque_pixels": 1879,
+    "review_edge": false
+  },
+  {
+    "id": "theatrical-mustache",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      161,
+      227,
+      114,
+      172
+    ],
+    "transparent_pixels": 1243345,
+    "partial_alpha_pixels": 327730,
+    "opaque_pixels": 1441,
+    "review_edge": false
+  },
+  {
+    "id": "thread-spool-rack",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      68,
+      152,
+      56,
+      118
+    ],
+    "transparent_pixels": 780281,
+    "partial_alpha_pixels": 790500,
+    "opaque_pixels": 1735,
+    "review_edge": false
+  },
+  {
+    "id": "tomato-pincushion",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      171,
+      114,
+      171,
+      128
+    ],
+    "transparent_pixels": 852017,
+    "partial_alpha_pixels": 720063,
+    "opaque_pixels": 436,
+    "review_edge": false
+  },
+  {
+    "id": "triangle-instrument",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      155,
+      126,
+      125,
+      141
+    ],
+    "transparent_pixels": 1158724,
+    "partial_alpha_pixels": 412026,
+    "opaque_pixels": 1766,
+    "review_edge": false
+  },
+  {
+    "id": "underwater-camera",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      70,
+      149,
+      64,
+      121
+    ],
+    "transparent_pixels": 768265,
+    "partial_alpha_pixels": 801911,
+    "opaque_pixels": 2340,
+    "review_edge": false
+  },
+  {
+    "id": "wax-seal-stamp",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      273,
+      112,
+      199,
+      114
+    ],
+    "transparent_pixels": 1111702,
+    "partial_alpha_pixels": 460199,
+    "opaque_pixels": 615,
+    "review_edge": false
+  },
+  {
+    "id": "weather-anemometer",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      133,
+      128,
+      60,
+      114
+    ],
+    "transparent_pixels": 1003239,
+    "partial_alpha_pixels": 569207,
+    "opaque_pixels": 70,
+    "review_edge": false
+  },
+  {
+    "id": "weather-balloon",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      255,
+      43,
+      255,
+      47
+    ],
+    "transparent_pixels": 1055245,
+    "partial_alpha_pixels": 515418,
+    "opaque_pixels": 1853,
+    "review_edge": false
+  },
+  {
+    "id": "weather-wind-vane",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      139,
+      41,
+      139,
+      56
+    ],
+    "transparent_pixels": 956037,
+    "partial_alpha_pixels": 614829,
+    "opaque_pixels": 1650,
+    "review_edge": false
+  },
+  {
+    "id": "weather-windsock",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      113,
+      135,
+      109,
+      127
+    ],
+    "transparent_pixels": 1113262,
+    "partial_alpha_pixels": 456746,
+    "opaque_pixels": 2508,
+    "review_edge": false
+  },
+  {
+    "id": "wet-clay-lump",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "padding_left_top_right_bottom": [
+      153,
+      201,
+      126,
+      181
+    ],
+    "transparent_pixels": 914409,
+    "partial_alpha_pixels": 657306,
+    "opaque_pixels": 801,
+    "review_edge": false
+  }
+]

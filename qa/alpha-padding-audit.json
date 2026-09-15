@@ -1,0 +1,3639 @@
+{
+  "updated_utc": "2026-09-15T08:03:42.682987+00:00",
+  "padding_definition": "Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",
+  "assets": [
+    {
+      "id": "banh-mi",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "pho-bo",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "banh-xeo",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "goi-cuon",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "bun-cha",
+      "width": 1437,
+      "height": 1095,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        54,
+        69,
+        45,
+        64
+      ],
+      "review_edge": false,
+      "transparent_pixels": 744650,
+      "partial_alpha_pixels": 828840,
+      "opaque_pixels": 25
+    },
+    {
+      "id": "banh-cuon",
+      "width": 1436,
+      "height": 1096,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        110,
+        72,
+        73,
+        107
+      ],
+      "review_edge": false,
+      "transparent_pixels": 777550,
+      "partial_alpha_pixels": 795197,
+      "opaque_pixels": 1109
+    },
+    {
+      "id": "banh-chung",
+      "width": 1379,
+      "height": 1141,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        73,
+        9,
+        102,
+        22
+      ],
+      "review_edge": true,
+      "transparent_pixels": 782150,
+      "partial_alpha_pixels": 789719,
+      "opaque_pixels": 1570
+    },
+    {
+      "id": "che-ba-mau",
+      "width": 1272,
+      "height": 1236,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        162,
+        37,
+        62,
+        64
+      ],
+      "review_edge": false,
+      "transparent_pixels": 934011,
+      "partial_alpha_pixels": 636929,
+      "opaque_pixels": 1252
+    },
+    {
+      "id": "tet-lucky-envelope",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "tet-kumquat-pot",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        212,
+        33,
+        201,
+        30
+      ],
+      "review_edge": false,
+      "transparent_pixels": 923236,
+      "partial_alpha_pixels": 648294,
+      "opaque_pixels": 986
+    },
+    {
+      "id": "tet-peach-blossom",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        111,
+        19,
+        54,
+        28
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1065863,
+      "partial_alpha_pixels": 504786,
+      "opaque_pixels": 1867
+    },
+    {
+      "id": "tet-lion-head",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        50,
+        32,
+        59
+      ],
+      "review_edge": true,
+      "transparent_pixels": 707816,
+      "partial_alpha_pixels": 863077,
+      "opaque_pixels": 1623
+    },
+    {
+      "id": "tet-watermelon",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        53,
+        64,
+        88
+      ],
+      "review_edge": true,
+      "transparent_pixels": 787374,
+      "partial_alpha_pixels": 784516,
+      "opaque_pixels": 626
+    },
+    {
+      "id": "tet-coconut-candy-tray",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        77,
+        130,
+        54,
+        99
+      ],
+      "review_edge": false,
+      "transparent_pixels": 745762,
+      "partial_alpha_pixels": 825705,
+      "opaque_pixels": 1049
+    },
+    {
+      "id": "tet-firecracker-string",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        97,
+        45,
+        62,
+        72
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1212745,
+      "partial_alpha_pixels": 358842,
+      "opaque_pixels": 929
+    },
+    {
+      "id": "beehive-skep",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "honey-dipper",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        81,
+        15,
+        69,
+        72
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1169598,
+      "partial_alpha_pixels": 401179,
+      "opaque_pixels": 1739
+    },
+    {
+      "id": "bee-smoker",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        81,
+        19,
+        80,
+        46
+      ],
+      "review_edge": true,
+      "transparent_pixels": 917006,
+      "partial_alpha_pixels": 653423,
+      "opaque_pixels": 2087
+    },
+    {
+      "id": "beekeeper-veil-hat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "honeycomb-frame",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        76,
+        103,
+        48,
+        24
+      ],
+      "review_edge": true,
+      "transparent_pixels": 712800,
+      "partial_alpha_pixels": 857869,
+      "opaque_pixels": 1847
+    },
+    {
+      "id": "honey-extractor",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        105,
+        53,
+        58,
+        22
+      ],
+      "review_edge": true,
+      "transparent_pixels": 954086,
+      "partial_alpha_pixels": 617097,
+      "opaque_pixels": 1333
+    },
+    {
+      "id": "beekeeper-gloves",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        73,
+        53,
+        143,
+        43
+      ],
+      "review_edge": false,
+      "transparent_pixels": 885513,
+      "partial_alpha_pixels": 685830,
+      "opaque_pixels": 1173
+    },
+    {
+      "id": "bee-feeding-jar",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        48,
+        118,
+        46
+      ],
+      "review_edge": true,
+      "transparent_pixels": 885785,
+      "partial_alpha_pixels": 685317,
+      "opaque_pixels": 1414
+    },
+    {
+      "id": "honey-pancakes",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "honey-waffles",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "honey-parfait",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "honey-toast",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "honey-crumpet",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        95,
+        33,
+        95,
+        72
+      ],
+      "review_edge": false,
+      "transparent_pixels": 882102,
+      "partial_alpha_pixels": 689954,
+      "opaque_pixels": 460
+    },
+    {
+      "id": "honey-butter-dish",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "honey-lemon-tea",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "terracotta-amphora",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        105,
+        53,
+        8,
+        56
+      ],
+      "review_edge": true,
+      "transparent_pixels": 927886,
+      "partial_alpha_pixels": 644303,
+      "opaque_pixels": 327
+    },
+    {
+      "id": "pottery-wheel",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "wet-clay-lump",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        103,
+        194,
+        62,
+        72
+      ],
+      "review_edge": false,
+      "transparent_pixels": 914409,
+      "partial_alpha_pixels": 657306,
+      "opaque_pixels": 801
+    },
+    {
+      "id": "potter-rib-tool",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        49,
+        17,
+        52,
+        28
+      ],
+      "review_edge": true,
+      "transparent_pixels": 936767,
+      "partial_alpha_pixels": 635101,
+      "opaque_pixels": 648
+    },
+    {
+      "id": "clay-wire-cutter",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        97,
+        52,
+        111,
+        56
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1353592,
+      "partial_alpha_pixels": 217659,
+      "opaque_pixels": 1265
+    },
+    {
+      "id": "loop-trimming-tool",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        59,
+        31,
+        62,
+        46
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1197789,
+      "partial_alpha_pixels": 374417,
+      "opaque_pixels": 310
+    },
+    {
+      "id": "glazing-brush",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        130,
+        43,
+        116,
+        33
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1095160,
+      "partial_alpha_pixels": 476592,
+      "opaque_pixels": 764
+    },
+    {
+      "id": "ceramic-kiln",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "excavation-trowel",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        111,
+        52,
+        34,
+        72
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1151424,
+      "partial_alpha_pixels": 420703,
+      "opaque_pixels": 389
+    },
+    {
+      "id": "archaeology-sieve",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        103,
+        20,
+        72
+      ],
+      "review_edge": true,
+      "transparent_pixels": 878093,
+      "partial_alpha_pixels": 693857,
+      "opaque_pixels": 566
+    },
+    {
+      "id": "artifact-brush",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        101,
+        96,
+        130,
+        62
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1136104,
+      "partial_alpha_pixels": 435253,
+      "opaque_pixels": 1159
+    },
+    {
+      "id": "stratigraphy-block",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        17,
+        16,
+        56
+      ],
+      "review_edge": true,
+      "transparent_pixels": 718383,
+      "partial_alpha_pixels": 853989,
+      "opaque_pixels": 144
+    },
+    {
+      "id": "stone-tablet",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        41,
+        37,
+        54,
+        24
+      ],
+      "review_edge": true,
+      "transparent_pixels": 880361,
+      "partial_alpha_pixels": 691046,
+      "opaque_pixels": 1109
+    },
+    {
+      "id": "mosaic-fragment",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        81,
+        93,
+        78,
+        74
+      ],
+      "review_edge": false,
+      "transparent_pixels": 739178,
+      "partial_alpha_pixels": 832308,
+      "opaque_pixels": 1030
+    },
+    {
+      "id": "amphitheatre-model",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        45,
+        47,
+        32,
+        36
+      ],
+      "review_edge": false,
+      "transparent_pixels": 632908,
+      "partial_alpha_pixels": 937861,
+      "opaque_pixels": 1747
+    },
+    {
+      "id": "tailor-dress-form",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        97,
+        0,
+        62,
+        43
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1224659,
+      "partial_alpha_pixels": 346933,
+      "opaque_pixels": 924
+    },
+    {
+      "id": "sewing-machine",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "tomato-pincushion",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        91,
+        24,
+        88,
+        58
+      ],
+      "review_edge": true,
+      "transparent_pixels": 852017,
+      "partial_alpha_pixels": 720063,
+      "opaque_pixels": 436
+    },
+    {
+      "id": "fabric-shears",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        111,
+        53,
+        62,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1213744,
+      "partial_alpha_pixels": 357613,
+      "opaque_pixels": 1159
+    },
+    {
+      "id": "seam-ripper",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        57,
+        53,
+        88,
+        72
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1286629,
+      "partial_alpha_pixels": 285507,
+      "opaque_pixels": 380
+    },
+    {
+      "id": "tape-measure-coil",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        78,
+        146,
+        60,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 999522,
+      "partial_alpha_pixels": 572618,
+      "opaque_pixels": 376
+    },
+    {
+      "id": "thread-spool-rack",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        63,
+        53,
+        6,
+        112
+      ],
+      "review_edge": true,
+      "transparent_pixels": 780281,
+      "partial_alpha_pixels": 790500,
+      "opaque_pixels": 1735
+    },
+    {
+      "id": "sewing-zipper",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "theatre-masks",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        68,
+        19,
+        56,
+        155
+      ],
+      "review_edge": true,
+      "transparent_pixels": 924915,
+      "partial_alpha_pixels": 645722,
+      "opaque_pixels": 1879
+    },
+    {
+      "id": "stage-spotlight",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "red-theatre-curtain",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        57,
+        53,
+        94,
+        48
+      ],
+      "review_edge": false,
+      "transparent_pixels": 857099,
+      "partial_alpha_pixels": 713319,
+      "opaque_pixels": 2098
+    },
+    {
+      "id": "theatre-ticket",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "proscenium-stage-model",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "opera-binoculars",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "theatrical-mustache",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        33,
+        179,
+        52,
+        72
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1243345,
+      "partial_alpha_pixels": 327730,
+      "opaque_pixels": 1441
+    },
+    {
+      "id": "mushroom-basket",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "fly-agaric",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        57,
+        21,
+        38,
+        16
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1034894,
+      "partial_alpha_pixels": 537586,
+      "opaque_pixels": 36
+    },
+    {
+      "id": "chanterelle",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "morel",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "oyster-mushroom",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "porcini",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "lions-mane-mushroom",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "coral-fungus",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "foraging-knife",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "wild-blackberry-branch",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "wild-chestnut",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "wild-rosehips",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "wild-garlic-bundle",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "fiddlehead-ferns",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "foraging-field-guide",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "haworthia-pot",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "closed-jar-terrarium",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "terrarium-tweezers",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "terrarium-mister",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "terrarium-pebbles",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "terrarium-moss",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "terrarium-charcoal",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "terrarium-funnel",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "echeveria-pot",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "jade-plant-pot",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "string-of-pearls-pot",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "lithops-pot",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "burros-tail-pot",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "panda-plant-pot",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "aeonium-pot",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "staghorn-coral",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        53,
+        30,
+        59
+      ],
+      "review_edge": true,
+      "transparent_pixels": 769458,
+      "partial_alpha_pixels": 801847,
+      "opaque_pixels": 1211
+    },
+    {
+      "id": "snorkel-mask",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        53,
+        0,
+        72
+      ],
+      "review_edge": true,
+      "transparent_pixels": 803739,
+      "partial_alpha_pixels": 767787,
+      "opaque_pixels": 990
+    },
+    {
+      "id": "snorkel-tube",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        65,
+        0,
+        84,
+        17
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1211358,
+      "partial_alpha_pixels": 360021,
+      "opaque_pixels": 1137
+    },
+    {
+      "id": "swim-fins",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        39,
+        93,
+        78,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 820804,
+      "partial_alpha_pixels": 751513,
+      "opaque_pixels": 199
+    },
+    {
+      "id": "dive-rashguard",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        53,
+        15,
+        112
+      ],
+      "review_edge": true,
+      "transparent_pixels": 669546,
+      "partial_alpha_pixels": 901178,
+      "opaque_pixels": 1792
+    },
+    {
+      "id": "surface-marker-buoy",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        41,
+        166,
+        30,
+        153
+      ],
+      "review_edge": false,
+      "transparent_pixels": 903109,
+      "partial_alpha_pixels": 668979,
+      "opaque_pixels": 428
+    },
+    {
+      "id": "underwater-camera",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        66,
+        51,
+        30,
+        56
+      ],
+      "review_edge": false,
+      "transparent_pixels": 768265,
+      "partial_alpha_pixels": 801911,
+      "opaque_pixels": 2340
+    },
+    {
+      "id": "reef-id-slate",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        21,
+        1,
+        16
+      ],
+      "review_edge": true,
+      "transparent_pixels": 764720,
+      "partial_alpha_pixels": 806776,
+      "opaque_pixels": 1020
+    },
+    {
+      "id": "brain-coral",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        17,
+        20,
+        110
+      ],
+      "review_edge": true,
+      "transparent_pixels": 756264,
+      "partial_alpha_pixels": 814806,
+      "opaque_pixels": 1446
+    },
+    {
+      "id": "table-coral",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        49,
+        0,
+        72
+      ],
+      "review_edge": true,
+      "transparent_pixels": 900713,
+      "partial_alpha_pixels": 671131,
+      "opaque_pixels": 672
+    },
+    {
+      "id": "coral-nursery-tree",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        145,
+        0,
+        68
+      ],
+      "review_edge": true,
+      "transparent_pixels": 753367,
+      "partial_alpha_pixels": 816746,
+      "opaque_pixels": 2403
+    },
+    {
+      "id": "coral-frag-plug",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        164,
+        52,
+        54,
+        71
+      ],
+      "review_edge": false,
+      "transparent_pixels": 903604,
+      "partial_alpha_pixels": 667455,
+      "opaque_pixels": 1457
+    },
+    {
+      "id": "coral-cement-bucket",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "coral-monitoring-quadrat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        49,
+        100,
+        16,
+        56
+      ],
+      "review_edge": true,
+      "transparent_pixels": 889618,
+      "partial_alpha_pixels": 678882,
+      "opaque_pixels": 4016
+    },
+    {
+      "id": "coral-cleaning-brush",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "wax-seal-stamp",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        41,
+        53,
+        46,
+        82
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1111702,
+      "partial_alpha_pixels": 460199,
+      "opaque_pixels": 615
+    },
+    {
+      "id": "postal-mailbox",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        39,
+        32,
+        80
+      ],
+      "review_edge": true,
+      "transparent_pixels": 886723,
+      "partial_alpha_pixels": 684098,
+      "opaque_pixels": 1695
+    },
+    {
+      "id": "postal-satchel",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        39,
+        0,
+        26
+      ],
+      "review_edge": true,
+      "transparent_pixels": 647562,
+      "partial_alpha_pixels": 923416,
+      "opaque_pixels": 1538
+    },
+    {
+      "id": "postal-parcel",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        97,
+        125,
+        36,
+        72
+      ],
+      "review_edge": false,
+      "transparent_pixels": 818842,
+      "partial_alpha_pixels": 752602,
+      "opaque_pixels": 1072
+    },
+    {
+      "id": "postage-stamp-sheet",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        43,
+        113,
+        46,
+        50
+      ],
+      "review_edge": false,
+      "transparent_pixels": 707775,
+      "partial_alpha_pixels": 863444,
+      "opaque_pixels": 1297
+    },
+    {
+      "id": "postal-scale",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        29,
+        50,
+        187,
+        40
+      ],
+      "review_edge": false,
+      "transparent_pixels": 853391,
+      "partial_alpha_pixels": 717186,
+      "opaque_pixels": 1939
+    },
+    {
+      "id": "airmail-envelope",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        119,
+        62,
+        126
+      ],
+      "review_edge": true,
+      "transparent_pixels": 836016,
+      "partial_alpha_pixels": 735230,
+      "opaque_pixels": 1270
+    },
+    {
+      "id": "postmark-stamper",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        27,
+        11,
+        38,
+        72
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1020516,
+      "partial_alpha_pixels": 551105,
+      "opaque_pixels": 895
+    },
+    {
+      "id": "calligraphy-dip-pen",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        111,
+        53,
+        86,
+        56
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1322109,
+      "partial_alpha_pixels": 249922,
+      "opaque_pixels": 485
+    },
+    {
+      "id": "calligraphy-ink-bottle",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        121,
+        54,
+        67
+      ],
+      "review_edge": true,
+      "transparent_pixels": 873098,
+      "partial_alpha_pixels": 698462,
+      "opaque_pixels": 956
+    },
+    {
+      "id": "calligraphy-brush",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "calligraphy-inkstone",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "calligraphy-paper-scroll",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        50,
+        19,
+        55
+      ],
+      "review_edge": true,
+      "transparent_pixels": 850469,
+      "partial_alpha_pixels": 720330,
+      "opaque_pixels": 1717
+    },
+    {
+      "id": "calligraphy-pen-rest",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "calligraphy-nib-tin",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        57,
+        53,
+        94,
+        50
+      ],
+      "review_edge": false,
+      "transparent_pixels": 751328,
+      "partial_alpha_pixels": 819819,
+      "opaque_pixels": 1369
+    },
+    {
+      "id": "glass-thermometer",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        97,
+        54,
+        60,
+        56
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1273553,
+      "partial_alpha_pixels": 298279,
+      "opaque_pixels": 684
+    },
+    {
+      "id": "lab-microscope",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        99,
+        33,
+        54,
+        30
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1014348,
+      "partial_alpha_pixels": 557110,
+      "opaque_pixels": 1058
+    },
+    {
+      "id": "lab-test-tube-rack",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        49,
+        97,
+        50,
+        153
+      ],
+      "review_edge": false,
+      "transparent_pixels": 804471,
+      "partial_alpha_pixels": 766734,
+      "opaque_pixels": 1311
+    },
+    {
+      "id": "lab-erlenmeyer-flask",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        54,
+        62,
+        64
+      ],
+      "review_edge": true,
+      "transparent_pixels": 986407,
+      "partial_alpha_pixels": 584793,
+      "opaque_pixels": 1316
+    },
+    {
+      "id": "lab-petri-dish",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        41,
+        194,
+        44,
+        64
+      ],
+      "review_edge": false,
+      "transparent_pixels": 899415,
+      "partial_alpha_pixels": 672595,
+      "opaque_pixels": 506
+    },
+    {
+      "id": "lab-pipette",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "lab-centrifuge",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "lab-safety-goggles",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        52,
+        6,
+        293
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1010937,
+      "partial_alpha_pixels": 560803,
+      "opaque_pixels": 776
+    },
+    {
+      "id": "weather-anemometer",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        63,
+        53,
+        16,
+        82
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1003239,
+      "partial_alpha_pixels": 569207,
+      "opaque_pixels": 70
+    },
+    {
+      "id": "weather-wind-vane",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        55,
+        32,
+        116,
+        48
+      ],
+      "review_edge": false,
+      "transparent_pixels": 956037,
+      "partial_alpha_pixels": 614829,
+      "opaque_pixels": 1650
+    },
+    {
+      "id": "weather-rain-gauge",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "weather-barometer",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "weather-balloon",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        210,
+        21,
+        175,
+        44
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1055245,
+      "partial_alpha_pixels": 515418,
+      "opaque_pixels": 1853
+    },
+    {
+      "id": "weather-windsock",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        97,
+        33,
+        56,
+        57
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1113262,
+      "partial_alpha_pixels": 456746,
+      "opaque_pixels": 2508
+    },
+    {
+      "id": "weather-shelter",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "snare-drum",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        59,
+        61,
+        131,
+        34
+      ],
+      "review_edge": false,
+      "transparent_pixels": 815045,
+      "partial_alpha_pixels": 757020,
+      "opaque_pixels": 451
+    },
+    {
+      "id": "djembe",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "bongos",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        85,
+        0,
+        72
+      ],
+      "review_edge": true,
+      "transparent_pixels": 863754,
+      "partial_alpha_pixels": 706940,
+      "opaque_pixels": 1822
+    },
+    {
+      "id": "tambourine",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        33,
+        3,
+        29,
+        50
+      ],
+      "review_edge": true,
+      "transparent_pixels": 867722,
+      "partial_alpha_pixels": 704515,
+      "opaque_pixels": 279
+    },
+    {
+      "id": "maracas",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        97,
+        0,
+        118,
+        64
+      ],
+      "review_edge": true,
+      "transparent_pixels": 944318,
+      "partial_alpha_pixels": 626505,
+      "opaque_pixels": 1693
+    },
+    {
+      "id": "triangle-instrument",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        120,
+        56,
+        24
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1158724,
+      "partial_alpha_pixels": 412026,
+      "opaque_pixels": 1766
+    },
+    {
+      "id": "kalimba",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        103,
+        85,
+        35,
+        72
+      ],
+      "review_edge": false,
+      "transparent_pixels": 842244,
+      "partial_alpha_pixels": 729481,
+      "opaque_pixels": 791
+    },
+    {
+      "id": "handpan",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        77,
+        32,
+        15
+      ],
+      "review_edge": true,
+      "transparent_pixels": 908475,
+      "partial_alpha_pixels": 663831,
+      "opaque_pixels": 210
+    },
+    {
+      "id": "marching-bass-drum",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        95,
+        49,
+        50,
+        60
+      ],
+      "review_edge": false,
+      "transparent_pixels": 746244,
+      "partial_alpha_pixels": 824471,
+      "opaque_pixels": 1801
+    },
+    {
+      "id": "marching-sousaphone",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        41,
+        29,
+        159,
+        28
+      ],
+      "review_edge": false,
+      "transparent_pixels": 943978,
+      "partial_alpha_pixels": 627678,
+      "opaque_pixels": 860
+    },
+    {
+      "id": "marching-trumpet",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        53,
+        0,
+        267
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1082726,
+      "partial_alpha_pixels": 488746,
+      "opaque_pixels": 1044
+    },
+    {
+      "id": "marching-clarinet",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        49,
+        31,
+        62,
+        51
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1313005,
+      "partial_alpha_pixels": 259300,
+      "opaque_pixels": 211
+    },
+    {
+      "id": "marching-cymbals",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        49,
+        51,
+        24,
+        157
+      ],
+      "review_edge": true,
+      "transparent_pixels": 846075,
+      "partial_alpha_pixels": 726151,
+      "opaque_pixels": 290
+    },
+    {
+      "id": "band-shako",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        251,
+        53,
+        235,
+        56
+      ],
+      "review_edge": false,
+      "transparent_pixels": 915002,
+      "partial_alpha_pixels": 656335,
+      "opaque_pixels": 1179
+    },
+    {
+      "id": "drum-major-mace",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        144,
+        18,
+        48,
+        34
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1232740,
+      "partial_alpha_pixels": 339044,
+      "opaque_pixels": 732
+    },
+    {
+      "id": "ladybird",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        57,
+        53,
+        20,
+        26
+      ],
+      "review_edge": true,
+      "transparent_pixels": 865726,
+      "partial_alpha_pixels": 705909,
+      "opaque_pixels": 881
+    },
+    {
+      "id": "praying-mantis",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "dragonfly",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "grasshopper",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        105,
+        93,
+        64,
+        111
+      ],
+      "review_edge": false,
+      "transparent_pixels": 983536,
+      "partial_alpha_pixels": 587051,
+      "opaque_pixels": 1929
+    },
+    {
+      "id": "stag-beetle",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        45,
+        19,
+        6,
+        48
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1013943,
+      "partial_alpha_pixels": 556628,
+      "opaque_pixels": 1945
+    },
+    {
+      "id": "leaf-insect",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        137,
+        66,
+        48,
+        38
+      ],
+      "review_edge": false,
+      "transparent_pixels": 946210,
+      "partial_alpha_pixels": 623024,
+      "opaque_pixels": 3282
+    },
+    {
+      "id": "rhinoceros-beetle",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        59,
+        35,
+        60,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 932780,
+      "partial_alpha_pixels": 637784,
+      "opaque_pixels": 1952
+    },
+    {
+      "id": "lacewing",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "reptile-glass-enclosure",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "reptile-heat-lamp",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "reptile-hide-cave",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        42,
+        104,
+        44,
+        121
+      ],
+      "review_edge": false,
+      "transparent_pixels": 868569,
+      "partial_alpha_pixels": 703153,
+      "opaque_pixels": 794
+    },
+    {
+      "id": "reptile-water-dish",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        212,
+        25,
+        72
+      ],
+      "review_edge": true,
+      "transparent_pixels": 943739,
+      "partial_alpha_pixels": 627762,
+      "opaque_pixels": 1015
+    },
+    {
+      "id": "reptile-cork-tunnel",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "reptile-climbing-branch",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "reptile-hygrometer",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "reptile-feeding-tongs",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "wetland-cattails",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "wetland-water-lily",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "wetland-kingfisher",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "mezze-baba-ganoush",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "mezze-halloumi",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "picnic-hamper",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    },
+    {
+      "id": "picnic-checkered-cloth",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 0,
+      "partial_alpha_pixels": 0,
+      "opaque_pixels": 1572516
+    }
+  ]
+}

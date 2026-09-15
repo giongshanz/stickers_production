@@ -1,0 +1,23 @@
+{
+  "id": "lions-mane-mushroom",
+  "created_utc": "2026-09-15T08:54:38.939805+00:00",
+  "source": "masters/lions-mane-mushroom.png",
+  "source_sha256": "000135d592f0a561f6fda5b08a6af3d51cf28e11da4096782a3e98845b0982eb",
+  "candidate": "revisions/background-cleanup-20260915/lions-mane-mushroom-alpha.png",
+  "candidate_sha256": "90c7fd67591f906a6803f2edbf2970803276bc73dfd7b53d51f6dec0f8f3fa6e",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 785341,
+  "opaque_pixels": 781130,
+  "partial_alpha_pixels": 6045,
+  "foreground_fraction": 0.5005831419203366,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

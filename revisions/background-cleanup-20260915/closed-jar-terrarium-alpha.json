@@ -1,0 +1,23 @@
+{
+  "id": "closed-jar-terrarium",
+  "created_utc": "2026-09-15T08:54:46.520326+00:00",
+  "source": "masters/closed-jar-terrarium.png",
+  "source_sha256": "95f1b6d93e153a340c4f3c4dd1cc82e3004e2c94ab6230877a256421f6ca1e75",
+  "candidate": "revisions/background-cleanup-20260915/closed-jar-terrarium-alpha.png",
+  "candidate_sha256": "2356620bcd9ff8fb8778db2720f38bf7ecc747afe0d6d789a45a761785d2f385",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 832495,
+  "opaque_pixels": 733863,
+  "partial_alpha_pixels": 6158,
+  "foreground_fraction": 0.47059680155877587,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

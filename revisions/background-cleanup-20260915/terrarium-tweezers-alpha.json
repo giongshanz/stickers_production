@@ -1,0 +1,23 @@
+{
+  "id": "terrarium-tweezers",
+  "created_utc": "2026-09-15T08:54:47.040502+00:00",
+  "source": "masters/terrarium-tweezers.png",
+  "source_sha256": "5aa49a060eaf2293286ebe2a19b86c771fb518ab44b5f782d9231a8ec86b808c",
+  "candidate": "revisions/background-cleanup-20260915/terrarium-tweezers-alpha.png",
+  "candidate_sha256": "49c272f840e5ac40ee3788b8137e14b00652a282fcd2afe7e2ca5b1be3d211be",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 1315488,
+  "opaque_pixels": 250737,
+  "partial_alpha_pixels": 6291,
+  "foreground_fraction": 0.16345016521294536,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

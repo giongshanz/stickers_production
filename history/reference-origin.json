@@ -1,0 +1,30 @@
+{
+  "created_utc": "2026-09-15T07:59:19.875915+00:00",
+  "source": "C:\\Users\\sonng\\OneDrive\\Máy tính\\abi_stickers",
+  "destination": "references/Stickers",
+  "previous_style_reference": "Desktop/Stickers",
+  "files_copied": 1708,
+  "verified_embedded_references": [
+    {
+      "file": "references/Stickers/8-Gardening/8-Gardening_1.png",
+      "sha256": "b2b2ccb87048b1f49c56f43dc3771de0d8abb6540a6bb51a0531f2ef7b429ed7",
+      "matched_previous_embedded_reference": true
+    },
+    {
+      "file": "references/Stickers/2. Home appliance/68-Home Appliance_2.png",
+      "sha256": "3257fa5de4ffd033e28b5afe6b31c265a44b43f3dd70bce18db4bddc18e4ddb3",
+      "matched_previous_embedded_reference": true
+    },
+    {
+      "file": "references/Stickers/3_Flowers/Flower_3.png",
+      "sha256": "435ce0fa248c97a03c5c7aa2cef592458799f462e41133851021ea242580650d",
+      "matched_previous_embedded_reference": true
+    },
+    {
+      "file": "references/Stickers/Shirts/19_Shirts_1.png",
+      "sha256": "5f3fe228bc3de9a164dc3b7b8781cffd1484668d5eb5efdc77f06103f5501f00",
+      "matched_previous_embedded_reference": true
+    }
+  ],
+  "evidence_note": "Four original images match the prior catalogue byte-for-byte; every previously logged style-reference path exists in this collection."
+}

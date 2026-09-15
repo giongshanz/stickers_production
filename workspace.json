@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "name": "stickers_production",
+  "portable": true,
+  "paths": {
+    "masters": "masters",
+    "references": "references/Stickers",
+    "delivery": "delivery",
+    "plan": "plan/sticker-plan.json",
+    "prompts": "prompts",
+    "qa": "qa",
+    "progress": "state/progress.json",
+    "resume": "state/resume.json",
+    "queue": "state/generation-queue.json",
+    "history": "history"
+  },
+  "tooling": {
+    "python": "3.11+",
+    "dependencies": "requirements.txt",
+    "image_generation": "Built-in imagegen supplied by the new Codex session/account"
+  },
+  "paths_relative_to": "This workspace root; no dependency on its folder name or location",
+  "image_processing": "Byte copies and read-only inspection by workspace.py. User explicitly authorized background removal/alpha-only cleanup scripts on 2026-09-15; preserve all RGB pixels and dimensions. No script resizing, padding or recoloring."
+}

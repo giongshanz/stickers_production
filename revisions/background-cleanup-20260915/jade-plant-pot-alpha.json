@@ -1,0 +1,23 @@
+{
+  "id": "jade-plant-pot",
+  "created_utc": "2026-09-15T08:54:51.243181+00:00",
+  "source": "masters/jade-plant-pot.png",
+  "source_sha256": "57bf17e56279605354f352cc164bf0a4f8a70d43ed0f66aa25e6b0ee5b188d71",
+  "candidate": "revisions/background-cleanup-20260915/jade-plant-pot-alpha.png",
+  "candidate_sha256": "20fb4e6d87a6531831d80402a01b3a88ecfeb676388606d3e57c4911c93ac71a",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 946879,
+  "opaque_pixels": 619051,
+  "partial_alpha_pixels": 6586,
+  "foreground_fraction": 0.39785731909882,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

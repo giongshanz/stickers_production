@@ -1,0 +1,23 @@
+{
+  "id": "lithops-pot",
+  "created_utc": "2026-09-15T08:54:52.432836+00:00",
+  "source": "masters/lithops-pot.png",
+  "source_sha256": "e1c396a38adff91d8bb47fa54af75d1a704d6c7a2bc2ad1a061af578b2401403",
+  "candidate": "revisions/background-cleanup-20260915/lithops-pot-alpha.png",
+  "candidate_sha256": "75292103776e07217b2f8e3b11869f5f8b3edff2feee87eaadca420a4b70d39b",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 858389,
+  "opaque_pixels": 708466,
+  "partial_alpha_pixels": 5661,
+  "foreground_fraction": 0.45413019644951147,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

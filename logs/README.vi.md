@@ -1,0 +1,1 @@
+Nhật ký generation-history.jsonl giữ nguyên prompt lịch sử và dùng đường dẫn trong workspace. Prompt cũ có target 1024 chỉ để truy vết; prompt hiện hành là 512. Xem history_log + record_number để đọc toàn bộ bản ghi gốc, gồm QA và lỗi nếu có. generation.jsonl được thêm khi tạo ảnh mới. Mỗi lần tạo mới lưu request thực tế trong state/requests.

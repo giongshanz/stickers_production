@@ -158,7 +158,13 @@ def request_for(asset_id):
 
 def ordered_missing(p, rows):
     missing = {r["id"] for r in rows if r["status"] == "missing"}
-    return list(dict.fromkeys(a for t in p["topics"] for a in t["asset_ids"] if a in missing))
+    topics = p["topics"]
+    if local("state/work-order.json").exists():
+        order = read("state/work-order.json")
+        if order.get("mode") == "finish_existing_topics" and not order.get("opening_new_topics", False):
+            allowed = set(order["started_topic_slugs"])
+            topics = [t for t in topics if t["slug"] in allowed]
+    return list(dict.fromkeys(a for t in topics for a in t["asset_ids"] if a in missing))
 
 def snapshot():
     files = []
@@ -197,10 +203,10 @@ def refresh():
                alpha_note="Clear corner pixels are a technical check only; not approval of the cutout or artwork."))
     queue = ordered_missing(p, rows)
     write_json("state/generation-queue.json", dict(updated_utc=stamp, asset_ids=queue,
-               rule="Missing masters in the existing topic order, shared IDs listed once."))
+               rule="Missing masters in topic order, restricted by state/work-order.json when opening_new_topics is false. Shared IDs listed once."))
     write_json("state/resume.json", dict(updated_utc=stamp, workspace_root=".", **summary,
-               next_asset_ids=queue[:16], next_action="Continue with the first missing ID when generation is requested.",
-               quota_note="The last recorded imagegen limit is historical; inspect a fresh tool response. No active generation is running after migration.",
+               next_asset_ids=queue[:16], next_action=("Continue with the first in-scope missing ID when generation is requested." if queue else "All started topics have their images. Continue pending alpha and visual QA per state/work-order.json; remaining missing IDs belong to topics outside the current scope."),
+               quota_note="Imagegen succeeded for the 2026-09-16 batch. No generation is running at the saved batch checkpoint; recheck fresh tool responses on continuation.",
                quality_work="Fix RGB backgrounds and qa/visual-qa.json candidates; game integration is not approved by corner-alpha checks."))
     write_json("qa/alpha-padding-audit.json", dict(updated_utc=stamp,
                padding_definition="Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",

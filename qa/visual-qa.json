@@ -155,7 +155,24 @@
     "reptile-feeding-tongs",
     "wetland-cattails",
     "wetland-water-lily",
-    "wetland-kingfisher"
+    "wetland-kingfisher",
+    "wetland-heron",
+    "wetland-otter",
+    "wetland-beaver",
+    "wetland-water-strider",
+    "wetland-muskrat",
+    "mezze-hummus",
+    "mezze-falafel",
+    "mezze-pita",
+    "mezze-dolma",
+    "mezze-tzatziki",
+    "mezze-olive-dish",
+    "picnic-sandwich-wrap",
+    "picnic-lemonade-dispenser",
+    "picnic-bento-box",
+    "picnic-insulated-flask",
+    "picnic-reusable-cutlery",
+    "picnic-grass-mat"
   ],
   "style_reference": "references/Stickers",
   "subject_check": "See rework_candidates; other reviewed subjects provisionally accepted",
@@ -264,5 +281,6 @@
       "reason": "Remove extensive white export remnants in gaps between legs, antennae and horns or mandibles; preserve the existing anatomy and soft painted palette."
     }
   ],
-  "migration_note": "Original reviews preserved. Selected masters are provisional; corner-alpha checks are not visual certification."
+  "migration_note": "Original reviews preserved. Selected masters are provisional; corner-alpha checks are not visual certification.",
+  "batch_20260916_note": "17 new IDs visually reviewed. Corrected muskrat tail, water strider six legs and mat padding with ImageGen. Alpha-only cleanup selected after dark-background review; RGB and dimensions verified unchanged. Previous rework candidates remain."
 }

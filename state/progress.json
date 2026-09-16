@@ -1,14 +1,14 @@
 {
-  "updated_utc": "2026-09-15T08:03:42.682987+00:00",
+  "updated_utc": "2026-09-16T04:13:58.179264+00:00",
   "target_topics": 50,
   "target_slots": 400,
   "target_unique": 390,
-  "generated_unique": 173,
-  "missing_unique": 217,
-  "alpha_corners_clear_unique": 96,
+  "generated_unique": 190,
+  "missing_unique": 200,
+  "alpha_corners_clear_unique": 113,
   "needs_alpha_unique": 77,
-  "topics_with_all_images": 22,
-  "generated_topic_slots": 183,
+  "topics_with_all_images": 25,
+  "generated_topic_slots": 200,
   "visual_rework_unique": 25,
   "complete": false,
   "prompt_target_dimensions": [
@@ -5274,8 +5274,29 @@
         "freshwater-wetland"
       ],
       "source": "masters/wetland-heron.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1131002,
+      "partial_alpha_pixels": 8366,
+      "opaque_pixels": 433148,
+      "padding_nonzero_alpha": [
+        256,
+        40,
+        181,
+        28
+      ],
+      "review_edge": false,
+      "sha256": "70064c5633fb9d3d3c337ef60d1920968ee33aeb965d9636c28bac75d63c7255",
+      "bytes": 2142575
     },
     {
       "id": "wetland-otter",
@@ -5284,8 +5305,29 @@
         "freshwater-wetland"
       ],
       "source": "masters/wetland-otter.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 856796,
+      "partial_alpha_pixels": 7653,
+      "opaque_pixels": 708067,
+      "padding_nonzero_alpha": [
+        160,
+        96,
+        96,
+        71
+      ],
+      "review_edge": false,
+      "sha256": "7f1a466c939846f762f1cbbfd8192a00ff1530e3decb1f55a30039935429d5c0",
+      "bytes": 835274
     },
     {
       "id": "wetland-beaver",
@@ -5294,8 +5336,29 @@
         "freshwater-wetland"
       ],
       "source": "masters/wetland-beaver.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 757991,
+      "partial_alpha_pixels": 7476,
+      "opaque_pixels": 807049,
+      "padding_nonzero_alpha": [
+        72,
+        89,
+        58,
+        77
+      ],
+      "review_edge": false,
+      "sha256": "a1a0aa706810a9533b8919632e0ee4bfdf4ecdc2b70227e190f805ecd22cca18",
+      "bytes": 1595258
     },
     {
       "id": "wetland-water-strider",
@@ -5304,8 +5367,29 @@
         "freshwater-wetland"
       ],
       "source": "masters/wetland-water-strider.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1287315,
+      "partial_alpha_pixels": 10542,
+      "opaque_pixels": 274659,
+      "padding_nonzero_alpha": [
+        26,
+        216,
+        28,
+        295
+      ],
+      "review_edge": false,
+      "sha256": "bbaa9ca0f0560b3794e5558374fa0affc9cff666b730c77c6c630a2f7dd86e65",
+      "bytes": 1887173
     },
     {
       "id": "wetland-muskrat",
@@ -5314,8 +5398,29 @@
         "freshwater-wetland"
       ],
       "source": "masters/wetland-muskrat.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 994401,
+      "partial_alpha_pixels": 7928,
+      "opaque_pixels": 570187,
+      "padding_nonzero_alpha": [
+        41,
+        204,
+        35,
+        181
+      ],
+      "review_edge": false,
+      "sha256": "21cc474566e1daa6580655d2ce779558254d025c86c69ef3448d1bb412f8c2db",
+      "bytes": 1484430
     },
     {
       "id": "tidepool-hermit-crab",
@@ -6124,8 +6229,29 @@
         "mediterranean-mezze"
       ],
       "source": "masters/mezze-hummus.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 944358,
+      "partial_alpha_pixels": 5629,
+      "opaque_pixels": 622529,
+      "padding_nonzero_alpha": [
+        115,
+        233,
+        117,
+        225
+      ],
+      "review_edge": false,
+      "sha256": "8fdf2ff039614ff164043198f4255d4a4f0c243fd36758b4b347bf408301f875",
+      "bytes": 1011507
     },
     {
       "id": "mezze-falafel",
@@ -6134,8 +6260,29 @@
         "mediterranean-mezze"
       ],
       "source": "masters/mezze-falafel.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 928805,
+      "partial_alpha_pixels": 5612,
+      "opaque_pixels": 638099,
+      "padding_nonzero_alpha": [
+        124,
+        191,
+        127,
+        180
+      ],
+      "review_edge": false,
+      "sha256": "f11e2d45e3eafeba7dfb809d617a2eca69db850b4b2d308c1b6dd665539b1b37",
+      "bytes": 1106830
     },
     {
       "id": "mezze-pita",
@@ -6144,8 +6291,29 @@
         "mediterranean-mezze"
       ],
       "source": "masters/mezze-pita.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 758104,
+      "partial_alpha_pixels": 6371,
+      "opaque_pixels": 808041,
+      "padding_nonzero_alpha": [
+        53,
+        104,
+        48,
+        101
+      ],
+      "review_edge": false,
+      "sha256": "6f5167b4de8da3a7a8c962656b034b95fc9b554def10e4a6cbf59f21c66c05eb",
+      "bytes": 2158577
     },
     {
       "id": "mezze-dolma",
@@ -6154,8 +6322,29 @@
         "mediterranean-mezze"
       ],
       "source": "masters/mezze-dolma.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 935847,
+      "partial_alpha_pixels": 5628,
+      "opaque_pixels": 631041,
+      "padding_nonzero_alpha": [
+        70,
+        218,
+        63,
+        206
+      ],
+      "review_edge": false,
+      "sha256": "647f120ba91bcbbb7c8acbbebbe8c39a62b3124f2f7be9d4ee809e0829360f40",
+      "bytes": 944961
     },
     {
       "id": "mezze-tzatziki",
@@ -6164,8 +6353,29 @@
         "mediterranean-mezze"
       ],
       "source": "masters/mezze-tzatziki.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 857189,
+      "partial_alpha_pixels": 5492,
+      "opaque_pixels": 709835,
+      "padding_nonzero_alpha": [
+        109,
+        154,
+        110,
+        181
+      ],
+      "review_edge": false,
+      "sha256": "832ce84513bc04d6ff12bc2d7ab25b4fd628d5b2022b03e8f30c0fcbd086db5e",
+      "bytes": 2177110
     },
     {
       "id": "mezze-olive-dish",
@@ -6174,8 +6384,29 @@
         "mediterranean-mezze"
       ],
       "source": "masters/mezze-olive-dish.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 908153,
+      "partial_alpha_pixels": 5910,
+      "opaque_pixels": 658453,
+      "padding_nonzero_alpha": [
+        71,
+        190,
+        60,
+        201
+      ],
+      "review_edge": false,
+      "sha256": "f3622028a218b9497dc484573b7dd575c822e34a2727f6e97cd8d3bc96be8b2e",
+      "bytes": 1734708
     },
     {
       "id": "mezze-baba-ganoush",
@@ -6308,8 +6539,29 @@
         "picnic-day"
       ],
       "source": "masters/picnic-sandwich-wrap.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 779548,
+      "partial_alpha_pixels": 6510,
+      "opaque_pixels": 786458,
+      "padding_nonzero_alpha": [
+        68,
+        75,
+        49,
+        69
+      ],
+      "review_edge": false,
+      "sha256": "2fc188be1b61cb2528b63fb7978faa6f67f836a099bb0de3954c03c5cbfc0f18",
+      "bytes": 1375127
     },
     {
       "id": "picnic-lemonade-dispenser",
@@ -6318,8 +6570,29 @@
         "picnic-day"
       ],
       "source": "masters/picnic-lemonade-dispenser.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 911928,
+      "partial_alpha_pixels": 6558,
+      "opaque_pixels": 654030,
+      "padding_nonzero_alpha": [
+        262,
+        54,
+        267,
+        60
+      ],
+      "review_edge": false,
+      "sha256": "6ec5effd4a72000093a5eee480f78e78d98dcebc3a0a38a44d45ceb40c2cd5d2",
+      "bytes": 1069089
     },
     {
       "id": "picnic-bento-box",
@@ -6328,8 +6601,29 @@
         "picnic-day"
       ],
       "source": "masters/picnic-bento-box.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 730334,
+      "partial_alpha_pixels": 6363,
+      "opaque_pixels": 835819,
+      "padding_nonzero_alpha": [
+        130,
+        61,
+        71,
+        61
+      ],
+      "review_edge": false,
+      "sha256": "31ee4dccb67bdf47f872fda1884ed19267b8d6576cdb2dbbee68300d7b493a16",
+      "bytes": 2279181
     },
     {
       "id": "picnic-insulated-flask",
@@ -6338,8 +6632,29 @@
         "picnic-day"
       ],
       "source": "masters/picnic-insulated-flask.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 982613,
+      "partial_alpha_pixels": 7044,
+      "opaque_pixels": 582859,
+      "padding_nonzero_alpha": [
+        263,
+        84,
+        261,
+        79
+      ],
+      "review_edge": false,
+      "sha256": "2138c940bf04c3fa16f5370579ffef33aeff458141aec7a63e72c612e5b35df4",
+      "bytes": 783567
     },
     {
       "id": "picnic-reusable-cutlery",
@@ -6348,8 +6663,29 @@
         "picnic-day"
       ],
       "source": "masters/picnic-reusable-cutlery.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 772541,
+      "partial_alpha_pixels": 6821,
+      "opaque_pixels": 793154,
+      "padding_nonzero_alpha": [
+        118,
+        58,
+        94,
+        75
+      ],
+      "review_edge": false,
+      "sha256": "60c324179b8560ed66ac882bb88e32bc855efbfce5d9db41d5bea252015da5d4",
+      "bytes": 1319154
     },
     {
       "id": "picnic-grass-mat",
@@ -6358,8 +6694,29 @@
         "picnic-day"
       ],
       "source": "masters/picnic-grass-mat.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1169568,
+      "partial_alpha_pixels": 4793,
+      "opaque_pixels": 398155,
+      "padding_nonzero_alpha": [
+        141,
+        344,
+        121,
+        338
+      ],
+      "review_edge": false,
+      "sha256": "958ef44d3cb08e92acd49075ebe117031ff9d42423aacdf6455501400342a9e9",
+      "bytes": 2140222
     },
     {
       "id": "soap-lavender-bar",
@@ -7698,7 +8055,7 @@
     {
       "slug": "freshwater-wetland",
       "name_vi": "Đầm nước ngọt",
-      "generated": 3,
+      "generated": 8,
       "target": 8
     },
     {
@@ -7764,13 +8121,13 @@
     {
       "slug": "mediterranean-mezze",
       "name_vi": "Bàn ăn Địa Trung Hải",
-      "generated": 2,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "picnic-day",
       "name_vi": "Buổi picnic",
-      "generated": 2,
+      "generated": 8,
       "target": 8
     },
     {
@@ -9480,45 +9837,45 @@
       "topic": "freshwater-wetland",
       "name_vi": "Đầm nước ngọt",
       "id": "wetland-heron",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/freshwater-wetland/wetland-heron.png",
+      "status": "alpha_corners_clear",
+      "sha256": "70064c5633fb9d3d3c337ef60d1920968ee33aeb965d9636c28bac75d63c7255",
       "review_note": ""
     },
     {
       "topic": "freshwater-wetland",
       "name_vi": "Đầm nước ngọt",
       "id": "wetland-otter",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/freshwater-wetland/wetland-otter.png",
+      "status": "alpha_corners_clear",
+      "sha256": "7f1a466c939846f762f1cbbfd8192a00ff1530e3decb1f55a30039935429d5c0",
       "review_note": ""
     },
     {
       "topic": "freshwater-wetland",
       "name_vi": "Đầm nước ngọt",
       "id": "wetland-beaver",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/freshwater-wetland/wetland-beaver.png",
+      "status": "alpha_corners_clear",
+      "sha256": "a1a0aa706810a9533b8919632e0ee4bfdf4ecdc2b70227e190f805ecd22cca18",
       "review_note": ""
     },
     {
       "topic": "freshwater-wetland",
       "name_vi": "Đầm nước ngọt",
       "id": "wetland-water-strider",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/freshwater-wetland/wetland-water-strider.png",
+      "status": "alpha_corners_clear",
+      "sha256": "bbaa9ca0f0560b3794e5558374fa0affc9cff666b730c77c6c630a2f7dd86e65",
       "review_note": ""
     },
     {
       "topic": "freshwater-wetland",
       "name_vi": "Đầm nước ngọt",
       "id": "wetland-muskrat",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/freshwater-wetland/wetland-muskrat.png",
+      "status": "alpha_corners_clear",
+      "sha256": "21cc474566e1daa6580655d2ce779558254d025c86c69ef3448d1bb412f8c2db",
       "review_note": ""
     },
     {
@@ -10245,54 +10602,54 @@
       "topic": "mediterranean-mezze",
       "name_vi": "Bàn ăn Địa Trung Hải",
       "id": "mezze-hummus",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/mediterranean-mezze/mezze-hummus.png",
+      "status": "alpha_corners_clear",
+      "sha256": "8fdf2ff039614ff164043198f4255d4a4f0c243fd36758b4b347bf408301f875",
       "review_note": ""
     },
     {
       "topic": "mediterranean-mezze",
       "name_vi": "Bàn ăn Địa Trung Hải",
       "id": "mezze-falafel",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/mediterranean-mezze/mezze-falafel.png",
+      "status": "alpha_corners_clear",
+      "sha256": "f11e2d45e3eafeba7dfb809d617a2eca69db850b4b2d308c1b6dd665539b1b37",
       "review_note": ""
     },
     {
       "topic": "mediterranean-mezze",
       "name_vi": "Bàn ăn Địa Trung Hải",
       "id": "mezze-pita",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/mediterranean-mezze/mezze-pita.png",
+      "status": "alpha_corners_clear",
+      "sha256": "6f5167b4de8da3a7a8c962656b034b95fc9b554def10e4a6cbf59f21c66c05eb",
       "review_note": ""
     },
     {
       "topic": "mediterranean-mezze",
       "name_vi": "Bàn ăn Địa Trung Hải",
       "id": "mezze-dolma",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/mediterranean-mezze/mezze-dolma.png",
+      "status": "alpha_corners_clear",
+      "sha256": "647f120ba91bcbbb7c8acbbebbe8c39a62b3124f2f7be9d4ee809e0829360f40",
       "review_note": ""
     },
     {
       "topic": "mediterranean-mezze",
       "name_vi": "Bàn ăn Địa Trung Hải",
       "id": "mezze-tzatziki",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/mediterranean-mezze/mezze-tzatziki.png",
+      "status": "alpha_corners_clear",
+      "sha256": "832ce84513bc04d6ff12bc2d7ab25b4fd628d5b2022b03e8f30c0fcbd086db5e",
       "review_note": ""
     },
     {
       "topic": "mediterranean-mezze",
       "name_vi": "Bàn ăn Địa Trung Hải",
       "id": "mezze-olive-dish",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/mediterranean-mezze/mezze-olive-dish.png",
+      "status": "alpha_corners_clear",
+      "sha256": "f3622028a218b9497dc484573b7dd575c822e34a2727f6e97cd8d3bc96be8b2e",
       "review_note": ""
     },
     {
@@ -10335,54 +10692,54 @@
       "topic": "picnic-day",
       "name_vi": "Buổi picnic",
       "id": "picnic-sandwich-wrap",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/picnic-day/picnic-sandwich-wrap.png",
+      "status": "alpha_corners_clear",
+      "sha256": "2fc188be1b61cb2528b63fb7978faa6f67f836a099bb0de3954c03c5cbfc0f18",
       "review_note": ""
     },
     {
       "topic": "picnic-day",
       "name_vi": "Buổi picnic",
       "id": "picnic-lemonade-dispenser",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/picnic-day/picnic-lemonade-dispenser.png",
+      "status": "alpha_corners_clear",
+      "sha256": "6ec5effd4a72000093a5eee480f78e78d98dcebc3a0a38a44d45ceb40c2cd5d2",
       "review_note": ""
     },
     {
       "topic": "picnic-day",
       "name_vi": "Buổi picnic",
       "id": "picnic-bento-box",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/picnic-day/picnic-bento-box.png",
+      "status": "alpha_corners_clear",
+      "sha256": "31ee4dccb67bdf47f872fda1884ed19267b8d6576cdb2dbbee68300d7b493a16",
       "review_note": ""
     },
     {
       "topic": "picnic-day",
       "name_vi": "Buổi picnic",
       "id": "picnic-insulated-flask",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/picnic-day/picnic-insulated-flask.png",
+      "status": "alpha_corners_clear",
+      "sha256": "2138c940bf04c3fa16f5370579ffef33aeff458141aec7a63e72c612e5b35df4",
       "review_note": ""
     },
     {
       "topic": "picnic-day",
       "name_vi": "Buổi picnic",
       "id": "picnic-reusable-cutlery",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/picnic-day/picnic-reusable-cutlery.png",
+      "status": "alpha_corners_clear",
+      "sha256": "60c324179b8560ed66ac882bb88e32bc855efbfce5d9db41d5bea252015da5d4",
       "review_note": ""
     },
     {
       "topic": "picnic-day",
       "name_vi": "Buổi picnic",
       "id": "picnic-grass-mat",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/picnic-day/picnic-grass-mat.png",
+      "status": "alpha_corners_clear",
+      "sha256": "958ef44d3cb08e92acd49075ebe117031ff9d42423aacdf6455501400342a9e9",
       "review_note": ""
     },
     {

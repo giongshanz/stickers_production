@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-15T08:03:42.682987+00:00",
+  "updated_utc": "2026-09-16T04:13:58.179264+00:00",
   "padding_definition": "Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",
   "assets": [
     {
@@ -3552,6 +3552,237 @@
       "opaque_pixels": 1572516
     },
     {
+      "id": "wetland-heron",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        256,
+        40,
+        181,
+        28
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1131002,
+      "partial_alpha_pixels": 8366,
+      "opaque_pixels": 433148
+    },
+    {
+      "id": "wetland-otter",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        160,
+        96,
+        96,
+        71
+      ],
+      "review_edge": false,
+      "transparent_pixels": 856796,
+      "partial_alpha_pixels": 7653,
+      "opaque_pixels": 708067
+    },
+    {
+      "id": "wetland-beaver",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        72,
+        89,
+        58,
+        77
+      ],
+      "review_edge": false,
+      "transparent_pixels": 757991,
+      "partial_alpha_pixels": 7476,
+      "opaque_pixels": 807049
+    },
+    {
+      "id": "wetland-water-strider",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        26,
+        216,
+        28,
+        295
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1287315,
+      "partial_alpha_pixels": 10542,
+      "opaque_pixels": 274659
+    },
+    {
+      "id": "wetland-muskrat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        41,
+        204,
+        35,
+        181
+      ],
+      "review_edge": false,
+      "transparent_pixels": 994401,
+      "partial_alpha_pixels": 7928,
+      "opaque_pixels": 570187
+    },
+    {
+      "id": "mezze-hummus",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        115,
+        233,
+        117,
+        225
+      ],
+      "review_edge": false,
+      "transparent_pixels": 944358,
+      "partial_alpha_pixels": 5629,
+      "opaque_pixels": 622529
+    },
+    {
+      "id": "mezze-falafel",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        124,
+        191,
+        127,
+        180
+      ],
+      "review_edge": false,
+      "transparent_pixels": 928805,
+      "partial_alpha_pixels": 5612,
+      "opaque_pixels": 638099
+    },
+    {
+      "id": "mezze-pita",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        53,
+        104,
+        48,
+        101
+      ],
+      "review_edge": false,
+      "transparent_pixels": 758104,
+      "partial_alpha_pixels": 6371,
+      "opaque_pixels": 808041
+    },
+    {
+      "id": "mezze-dolma",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        70,
+        218,
+        63,
+        206
+      ],
+      "review_edge": false,
+      "transparent_pixels": 935847,
+      "partial_alpha_pixels": 5628,
+      "opaque_pixels": 631041
+    },
+    {
+      "id": "mezze-tzatziki",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        109,
+        154,
+        110,
+        181
+      ],
+      "review_edge": false,
+      "transparent_pixels": 857189,
+      "partial_alpha_pixels": 5492,
+      "opaque_pixels": 709835
+    },
+    {
+      "id": "mezze-olive-dish",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        71,
+        190,
+        60,
+        201
+      ],
+      "review_edge": false,
+      "transparent_pixels": 908153,
+      "partial_alpha_pixels": 5910,
+      "opaque_pixels": 658453
+    },
+    {
       "id": "mezze-baba-ganoush",
       "width": 1254,
       "height": 1254,
@@ -3634,6 +3865,132 @@
       "transparent_pixels": 0,
       "partial_alpha_pixels": 0,
       "opaque_pixels": 1572516
+    },
+    {
+      "id": "picnic-sandwich-wrap",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        68,
+        75,
+        49,
+        69
+      ],
+      "review_edge": false,
+      "transparent_pixels": 779548,
+      "partial_alpha_pixels": 6510,
+      "opaque_pixels": 786458
+    },
+    {
+      "id": "picnic-lemonade-dispenser",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        262,
+        54,
+        267,
+        60
+      ],
+      "review_edge": false,
+      "transparent_pixels": 911928,
+      "partial_alpha_pixels": 6558,
+      "opaque_pixels": 654030
+    },
+    {
+      "id": "picnic-bento-box",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        130,
+        61,
+        71,
+        61
+      ],
+      "review_edge": false,
+      "transparent_pixels": 730334,
+      "partial_alpha_pixels": 6363,
+      "opaque_pixels": 835819
+    },
+    {
+      "id": "picnic-insulated-flask",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        263,
+        84,
+        261,
+        79
+      ],
+      "review_edge": false,
+      "transparent_pixels": 982613,
+      "partial_alpha_pixels": 7044,
+      "opaque_pixels": 582859
+    },
+    {
+      "id": "picnic-reusable-cutlery",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        118,
+        58,
+        94,
+        75
+      ],
+      "review_edge": false,
+      "transparent_pixels": 772541,
+      "partial_alpha_pixels": 6821,
+      "opaque_pixels": 793154
+    },
+    {
+      "id": "picnic-grass-mat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        141,
+        344,
+        121,
+        338
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1169568,
+      "partial_alpha_pixels": 4793,
+      "opaque_pixels": 398155
     }
   ]
 }

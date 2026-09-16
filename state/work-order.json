@@ -212,5 +212,9 @@
   "preserve_dimensions": true,
   "no_script_resize": true,
   "opening_new_topics": false,
-  "authorization": "User selected Cho phép script sửa alpha on 2026-09-15, then asked to continue removing backgrounds."
+  "authorization": "User selected Cho phép script sửa alpha on 2026-09-15, then asked to continue removing backgrounds.",
+  "latest_user_instruction": "2026-09-16: Resume generating stickers in the sole portable workspace. Finish the 17 missing images in started topics before opening new topics.",
+  "active_batch_ids": [],
+  "last_completed_batch": "state/batch-20260916.json",
+  "next_action": "Finish pending alpha and visual QA in existing topics. All 25 started topics now have eight images. The remaining 200 missing IDs are in unopened topics."
 }

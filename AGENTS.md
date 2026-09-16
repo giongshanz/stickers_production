@@ -30,7 +30,7 @@ This folder is the sole active workspace for this sticker project. Read `START_H
 
 ## Resume and reproducibility
 
-Current priority: finish existing topics before opening new topics. Read state/work-order.json. Repair backgrounds/alpha first, then shape/style issues and missing images within already-started topics.
+Current priority: finish existing topics before opening new topics. Read state/work-order.json. The latest user request on 2026-09-16 resumes generation: complete missing images in already-started topics first, then continue pending backgrounds/alpha and shape/style work.
 
 At migration there were 173 masters, 183 populated topic slots, 22 topics with 8 images, 96 images with clear alpha corners, 77 needing background work, 217 missing masters, and 25 explicit visual rework candidates. Fresh state files override these baseline numbers. Continue from `wetland-heron` if it remains missing.
 

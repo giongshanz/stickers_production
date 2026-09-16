@@ -29,14 +29,14 @@ Folder chứa dữ liệu sản xuất, không chứa tài khoản, hạn mức,
 | `qa/` | Nhận xét mỹ thuật và kiểm tra alpha/lề bằng cách đọc PNG |
 | `logs/` | Nhật ký tạo ảnh có đường dẫn tương đối |
 | `revisions/` | Các bản sửa đã chọn, bản cũ và bản thử bị loại; xem README trong đó |
-| `scripts/` | Công cụ quản lý dùng Python, không chỉnh sửa pixel |
+| `scripts/` | Công cụ quản lý và script sửa alpha đã được người dùng cho phép |
 | `history/` | Nhật ký/metadata/script cũ, đối chiếu chuyển dữ liệu và bản lưu Git cũ; chỉ tra cứu |
 
 ## Tiến độ lúc chuyển workspace
 
 173/390 ảnh master, 183/400 vị trí theo topic, 22/50 topic đã có đủ 8 hình. Trong đó 96 ảnh có alpha ở bốn góc, 77 ảnh cần sửa nền, và 25 ID có ghi chú cần chỉnh mỹ thuật/viền. Còn thiếu 217 ảnh. Số mới nhất luôn nằm trong `state/progress.json`.
 
-ID tiếp theo là `wetland-heron`, sau đó rái cá, hải ly, bọ nước và chuột xạ trong topic vùng đất ngập nước, rồi topic hồ thủy triều. Trạng thái quota của lần chạy cũ là dữ liệu lịch sử; cần kiểm tra công cụ ở phiên mới.
+Cập nhật 16/09/2026: đã tạo thêm 17 sticker, tổng 190/390 master và 200/400 vị trí theo topic; 25/50 topic có đủ 8 hình. Cả 17 hình mới đã chọn bản RGBA sau kiểm tra nền, viền và RGB. Còn 77 master cũ cần sửa nền, 25 ghi chú cần chỉnh và 75 bản alpha cũ chưa được chọn. Xem `state/batch-20260916.json` và `qa/batch-20260916/`.
 
 ## Các lệnh quản lý
 
@@ -62,4 +62,4 @@ Mẫu chuẩn là bộ tham chiếu gốc ngoài Unity project: màu ấm trung 
 
 Không chạy script trong `history/`, không lấy checkpoint cũ hoặc mẫu thử bị loại làm bản hiện hành. Dùng công cụ tạo ảnh cho việc sửa nét/hình dáng; script được phép sửa alpha theo phạm vi trên. Lưu lại lý do chọn từng phiên bản.
 
-Ưu tiên hiện tại: hoàn thiện các chủ đề đã bắt đầu, xử lý nền và alpha trước. Xem state/work-order.json; chưa mở chủ đề mới.
+Ưu tiên tiếp theo: hoàn thiện nền/alpha và các ghi chú mỹ thuật còn tồn của 25 chủ đề đã có đủ hình. Xem state/work-order.json. Hàng đợi tạo mới đã tuân theo phạm vi này; hàng đợi rỗng không có nghĩa là đã hoàn tất mục tiêu 50 chủ đề.

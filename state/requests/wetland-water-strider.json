@@ -5,10 +5,9 @@
     "freshwater-wetland"
   ],
   "profile": "plants",
-  "prompt": "Generate ONE new individual sticker in the exact illustrative style of the supplied original desktop sticker references. References are style only, not subjects to copy.\nArt direction: hand-painted 2D casual-game illustration with restrained local contrast, warm mid-light colors, thin warm locally colored outlines, simple matte painted volumes, just two or three quiet same-hue shadow patches. Modest detail and small broad paint marks. Soft illustrative volume matching the reference artwork. No shiny 3D toy appearance, deep dark crevices, harsh light, or dense surface texture. Do not anthropomorphize objects.\nEntire subject centered and fully visible with clear padding on all sides; a narrow clean white sticker-cut margin follows the silhouette. No scene, floor shadow, text, letters, brand or watermark.\nDeliver a PNG with a TRANSPARENT BACKGROUND: empty canvas outside the sticker, actual alpha transparency.\nSquare canvas, target 512 x 512. Entire sticker visible with clear padding.\nSUBJECT: A water strider insect with very long slim legs and small stylized ripple rings. Clear recognizable silhouette, modest hand-painted detail; follow the references' quiet local shading. The entire sticker including its narrow white cut margin occupies about 80 percent of the canvas in its longest dimension, with comfortable transparent padding on every side. Keep natural anatomical features recognizable. Decorative patterns only if inherent to this subject.",
+  "prompt": "Use case: precise-object-edit. Edit this water strider sticker with ONE exact correction: remove the surplus seventh leg. Delete the bent brown leg that starts below the thorax near pixel (638,700), bends near (676,810), and ends near (603,938) on this 1254-square input. Clear that deleted leg and its white border to transparency. Keep the four very long outer legs ending at the four pale blue ripple rings and keep the TWO short front legs closest to the head. Keep the two very thin antennae. Final anatomy has exactly six legs total, not seven. Preserve all remaining painted shapes, warm colors, thin outlines, shading, composition and white cut margin. No text or checkerboard in the empty transparent canvas. Target 512 x 512.",
   "referenced_image_paths": [
-    "references/Stickers/Leaves/30_Leaves_1.png",
-    "references/Stickers/8-Gardening/8-Gardening_1.png"
+    "revisions/generation-20260916/wetland-water-strider-second.png"
   ],
   "paths_relative_to": "workspace root",
   "target_dimensions": [
@@ -18,5 +17,6 @@
   "target_only": true,
   "scripted_resizing": false,
   "tool": "built-in imagegen",
-  "note": "View the referenced images, then resolve their paths against the current workspace root when calling the image tool."
+  "note": "View the referenced images, then resolve their paths against the current workspace root when calling the image tool.",
+  "edit_reason": "Correct anatomical issue in first generation"
 }

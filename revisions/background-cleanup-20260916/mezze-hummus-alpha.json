@@ -1,0 +1,23 @@
+{
+  "id": "mezze-hummus",
+  "created_utc": "2026-09-16T04:06:48.132205+00:00",
+  "source": "masters/mezze-hummus.png",
+  "source_sha256": "8cfce298551fabd7b04d6137c7f705caddafb7b94804bd3fb1379b6a2d1e3a72",
+  "candidate": "revisions/background-cleanup-20260916/mezze-hummus-alpha.png",
+  "candidate_sha256": "3e2f36ecfaf1915ff68a7b2ccb51cbbf3783cf5b421ab09bccc25e48af94c6fa",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 943121,
+  "opaque_pixels": 622874,
+  "partial_alpha_pixels": 6521,
+  "foreground_fraction": 0.40024711990211864,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

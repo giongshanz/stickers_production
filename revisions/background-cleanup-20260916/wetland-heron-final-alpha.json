@@ -1,0 +1,29 @@
+{
+  "id": "wetland-heron",
+  "created_utc": "2026-09-16T04:06:45.047324+00:00",
+  "source": "revisions/generation-20260916/originals/wetland-heron.png",
+  "source_sha256": "e9beb8bf6d2df2a1e0bb0aa225d8f10990f2fac18902aadd78572285ab3688c1",
+  "candidate": "revisions/background-cleanup-20260916/wetland-heron-final-alpha.png",
+  "candidate_sha256": "70064c5633fb9d3d3c337ef60d1920968ee33aeb965d9636c28bac75d63c7255",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 1130994,
+  "opaque_pixels": 433159,
+  "partial_alpha_pixels": 8363,
+  "foreground_fraction": 0.2807742496737712,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "selected_after_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion.",
+  "removed_colored_pixels": 0,
+  "white_only_opening_kernel": 7,
+  "holes": [],
+  "visible_colored_pixels_removed": 0,
+  "selected_master": "masters/wetland-heron.png",
+  "reviewed_utc": "2026-09-16T04:12:37.131841+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "picnic-insulated-flask",
+  "created_utc": "2026-09-16T04:06:53.164286+00:00",
+  "source": "masters/picnic-insulated-flask.png",
+  "source_sha256": "0cd7ba9c419360cfd50b2594e42b648bc7f851469d1802a4463f85c889f8a947",
+  "candidate": "revisions/background-cleanup-20260916/picnic-insulated-flask-alpha.png",
+  "candidate_sha256": "2ecb47dad9b6c919f3268adf8c34681f5242e0a65d26faaa4481011b49678808",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 975020,
+  "opaque_pixels": 591626,
+  "partial_alpha_pixels": 5870,
+  "foreground_fraction": 0.3799617937114789,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

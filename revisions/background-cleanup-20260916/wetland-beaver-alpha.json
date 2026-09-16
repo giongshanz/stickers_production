@@ -1,0 +1,23 @@
+{
+  "id": "wetland-beaver",
+  "created_utc": "2026-09-16T04:06:46.287012+00:00",
+  "source": "masters/wetland-beaver.png",
+  "source_sha256": "bf0d6d4c9c79380c386d01709220c9428f4322557b80c7842cf0ae652f5d16a8",
+  "candidate": "revisions/background-cleanup-20260916/wetland-beaver-alpha.png",
+  "candidate_sha256": "f60b8cfe6483d44e1a43d26acd88492a6882c767a63e213d2f72b7877f73b468",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 757977,
+  "opaque_pixels": 807063,
+  "partial_alpha_pixels": 7476,
+  "foreground_fraction": 0.5179845546881559,
+  "source_border_white_fraction": 0.48843700159489634,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "mezze-dolma",
+  "created_utc": "2026-09-16T04:06:49.585886+00:00",
+  "source": "masters/mezze-dolma.png",
+  "source_sha256": "4f6c645464c200bc45af7fa090848428cd6bb90a769d67e83b417702b13396b3",
+  "candidate": "revisions/background-cleanup-20260916/mezze-dolma-alpha.png",
+  "candidate_sha256": "c38696d635d4b3422b6e811999580260d5da5d0a4753aa9429e6757278afb239",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 935846,
+  "opaque_pixels": 631042,
+  "partial_alpha_pixels": 5628,
+  "foreground_fraction": 0.4048734639265992,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

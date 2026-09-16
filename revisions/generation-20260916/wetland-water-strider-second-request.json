@@ -1,0 +1,23 @@
+{
+  "id": "wetland-water-strider",
+  "subject": "A water strider insect with very long slim legs and small stylized ripple rings",
+  "topic_slugs": [
+    "freshwater-wetland"
+  ],
+  "profile": "plants",
+  "prompt": "Use case: precise-object-edit. Image 1 is the sticker to correct. Image 2 is the original style reference only. Correct the water strider insect's legs. Replace the current five-legged arrangement with exactly SIX clearly visible legs attached to the thorax: one pair of short bent front grasping legs close to the head, one pair of very long middle legs extending left and right, and one pair of long hind legs extending backward. Keep two thin antennae distinct from the six legs. Keep the brown elongated body, small understated pale-blue water contact ripples, quiet hand-painted 2D shading and thin warm brown outlines. No extra legs or floating limb fragments. All legs remain separate and easy to count. Entire sticker with narrow white cut margin occupies about 80 percent of a square canvas. Real transparent PNG background, no printed checkerboard. Target 512 x 512.",
+  "referenced_image_paths": [
+    "revisions/generation-20260916/wetland-water-strider-first.png",
+    "references/Stickers/Leaves/30_Leaves_1.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "View the referenced images, then resolve their paths against the current workspace root when calling the image tool.",
+  "edit_reason": "Correct anatomical issue in first generation"
+}

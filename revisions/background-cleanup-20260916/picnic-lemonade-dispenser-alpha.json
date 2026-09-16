@@ -1,0 +1,23 @@
+{
+  "id": "picnic-lemonade-dispenser",
+  "created_utc": "2026-09-16T04:06:52.159623+00:00",
+  "source": "masters/picnic-lemonade-dispenser.png",
+  "source_sha256": "27f5a39f451775f826aa2fdf5ab6e1b0f8bed19d992163f9858489e72470a290",
+  "candidate": "revisions/background-cleanup-20260916/picnic-lemonade-dispenser-alpha.png",
+  "candidate_sha256": "768c2375c80c2e27a3ce193f3d05ade8271b6fa7115eaa2acf1411e838962982",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 911927,
+  "opaque_pixels": 654031,
+  "partial_alpha_pixels": 6558,
+  "foreground_fraction": 0.42008411997079836,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

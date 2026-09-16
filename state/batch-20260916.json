@@ -1,0 +1,70 @@
+{
+  "status": "generation_and_alpha_review_complete",
+  "asset_ids": [
+    "wetland-heron",
+    "wetland-otter",
+    "wetland-beaver",
+    "wetland-water-strider",
+    "wetland-muskrat",
+    "mezze-hummus",
+    "mezze-falafel",
+    "mezze-pita",
+    "mezze-dolma",
+    "mezze-tzatziki",
+    "mezze-olive-dish",
+    "picnic-sandwich-wrap",
+    "picnic-lemonade-dispenser",
+    "picnic-bento-box",
+    "picnic-insulated-flask",
+    "picnic-reusable-cutlery",
+    "picnic-grass-mat"
+  ],
+  "completed_ids": [
+    "wetland-heron",
+    "wetland-otter",
+    "wetland-beaver",
+    "wetland-water-strider",
+    "wetland-muskrat",
+    "mezze-hummus",
+    "mezze-falafel",
+    "mezze-pita",
+    "mezze-dolma",
+    "mezze-tzatziki",
+    "mezze-olive-dish",
+    "picnic-sandwich-wrap",
+    "picnic-lemonade-dispenser",
+    "picnic-bento-box",
+    "picnic-insulated-flask",
+    "picnic-reusable-cutlery",
+    "picnic-grass-mat"
+  ],
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "selected_alpha_ids": [
+    "wetland-heron",
+    "wetland-otter",
+    "wetland-beaver",
+    "wetland-water-strider",
+    "wetland-muskrat",
+    "mezze-hummus",
+    "mezze-falafel",
+    "mezze-pita",
+    "mezze-dolma",
+    "mezze-tzatziki",
+    "mezze-olive-dish",
+    "picnic-sandwich-wrap",
+    "picnic-lemonade-dispenser",
+    "picnic-bento-box",
+    "picnic-insulated-flask",
+    "picnic-reusable-cutlery",
+    "picnic-grass-mat"
+  ],
+  "updated_utc": "2026-09-16T04:12:37.638836+00:00",
+  "all_actual_dimensions": [
+    1254,
+    1254
+  ]
+}

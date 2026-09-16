@@ -1,0 +1,23 @@
+{
+  "id": "wetland-muskrat",
+  "created_utc": "2026-09-16T04:06:47.712314+00:00",
+  "source": "masters/wetland-muskrat.png",
+  "source_sha256": "8f22b4e69b4524b1dba6004e63d2cf7fb17a450ce3489622b0bed283a6e72362",
+  "candidate": "revisions/background-cleanup-20260916/wetland-muskrat-alpha.png",
+  "candidate_sha256": "23a11f3f735df8b51e4ac9043e1e7ec4a2fa1e81b4179f4575c53fca1f7b2050",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 970886,
+  "opaque_pixels": 588180,
+  "partial_alpha_pixels": 13450,
+  "foreground_fraction": 0.3825907017798229,
+  "source_border_white_fraction": 0.48604465709728867,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "mezze-falafel",
+  "created_utc": "2026-09-16T04:06:48.572219+00:00",
+  "source": "revisions/generation-20260916/originals/mezze-falafel.png",
+  "source_sha256": "b137084d79c149bb7a84461ba054798f8b3145624a9a14d5860f083eb7b4c7bf",
+  "candidate": "revisions/background-cleanup-20260916/mezze-falafel-final-alpha.png",
+  "candidate_sha256": "f11e2d45e3eafeba7dfb809d617a2eca69db850b4b2d308c1b6dd665539b1b37",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 928255,
+  "opaque_pixels": 638155,
+  "partial_alpha_pixels": 6106,
+  "foreground_fraction": 0.4097007598014901,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "selected_after_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion.",
+  "removed_colored_pixels": 142,
+  "white_only_opening_kernel": 7,
+  "holes": [],
+  "visible_colored_pixels_removed": 0,
+  "selected_master": "masters/mezze-falafel.png",
+  "reviewed_utc": "2026-09-16T04:12:37.307391+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "mezze-tzatziki",
+  "created_utc": "2026-09-16T04:06:50.119584+00:00",
+  "source": "masters/mezze-tzatziki.png",
+  "source_sha256": "efee37fde5b527406a6a367a9f2a1572c62d2957c5b565eacaaa06392c51cf4b",
+  "candidate": "revisions/background-cleanup-20260916/mezze-tzatziki-alpha.png",
+  "candidate_sha256": "fb470ead74d44187c470bf6ba213c6f50be52bbe2fe0c33c3a7cb88875389804",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 857183,
+  "opaque_pixels": 709841,
+  "partial_alpha_pixels": 5492,
+  "foreground_fraction": 0.4548971202836728,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

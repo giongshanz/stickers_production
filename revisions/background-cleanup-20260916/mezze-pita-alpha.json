@@ -1,0 +1,23 @@
+{
+  "id": "mezze-pita",
+  "created_utc": "2026-09-16T04:06:49.116566+00:00",
+  "source": "masters/mezze-pita.png",
+  "source_sha256": "def9a3768ec908abd7f00ccdbaada43ca0d5c8747269a561a663f9aa53d6eb7a",
+  "candidate": "revisions/background-cleanup-20260916/mezze-pita-alpha.png",
+  "candidate_sha256": "cbef55c5a60ec175533f84452851793bb5c16c6f32f1522873b6167c8ee052c1",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 758094,
+  "opaque_pixels": 808052,
+  "partial_alpha_pixels": 6370,
+  "foreground_fraction": 0.5179101516296177,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "pending_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "picnic-grass-mat",
+  "subject": "A partly rolled woven straw picnic mat secured by two tan straps",
+  "topic_slugs": [
+    "picnic-day"
+  ],
+  "profile": "objects",
+  "prompt": "Use case: precise-object-edit. The supplied image is the sticker to reframe. Preserve this same rolled woven straw picnic mat with two tan straps, its sage stripes, warm quiet hand-painted colors, thin brown outlines and simple shaded volumes. Recompose it smaller inside a square canvas: the COMPLETE sticker including white cut border should occupy ONLY 76 percent of the canvas width, with at least 12 percent empty transparent padding on BOTH left and right. Keep it centered, slightly diagonal as now. Do not crop any part. Keep a clean narrow smooth white cut margin and remove detached white flecks. Do not add any object, label or scene. Real alpha transparent PNG background, no printed checkerboard. Target 512 x 512.",
+  "referenced_image_paths": [
+    "revisions/generation-20260916/picnic-grass-mat-first.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "View the referenced images, then resolve their paths against the current workspace root when calling the image tool.",
+  "edit_reason": "Reframe to provide safe side padding"
+}

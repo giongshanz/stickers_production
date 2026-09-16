@@ -1,0 +1,29 @@
+{
+  "id": "picnic-reusable-cutlery",
+  "created_utc": "2026-09-16T04:06:53.641917+00:00",
+  "source": "revisions/generation-20260916/originals/picnic-reusable-cutlery.png",
+  "source_sha256": "db18632c17415da588d876c3be7a40aee692d33ada9eaba3baa4938f4a583e60",
+  "candidate": "revisions/background-cleanup-20260916/picnic-reusable-cutlery-final-alpha.png",
+  "candidate_sha256": "60c324179b8560ed66ac882bb88e32bc855efbfce5d9db41d5bea252015da5d4",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "transparent_pixels": 772533,
+  "opaque_pixels": 793163,
+  "partial_alpha_pixels": 6820,
+  "foreground_fraction": 0.5087280510977312,
+  "source_border_white_fraction": 0.0,
+  "white_barrier_erosion": 0,
+  "status": "selected_after_visual_review",
+  "note": "Exterior removal only; inspect enclosed openings, border and fine parts before promotion.",
+  "removed_colored_pixels": 163,
+  "white_only_opening_kernel": 7,
+  "holes": [],
+  "visible_colored_pixels_removed": 0,
+  "selected_master": "masters/picnic-reusable-cutlery.png",
+  "reviewed_utc": "2026-09-16T04:12:37.585361+00:00"
+}

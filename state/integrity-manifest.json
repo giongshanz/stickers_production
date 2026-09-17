@@ -1,15 +1,25 @@
 {
-  "updated_utc": "2026-09-15T08:03:43.980697+00:00",
+  "updated_utc": "2026-09-17T08:18:37.616341+00:00",
   "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 66,
+      "sha256": "1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b"
+    },
     {
       "path": ".gitignore",
       "bytes": 52,
       "sha256": "fb98d27f9be8a9bf953dad7e17b588517698ba0cecbe9b774a8a5f798167898f"
     },
     {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
       "path": "AGENTS.md",
-      "bytes": 5813,
-      "sha256": "8133a442fb8414cb0185f09c589a865a4cdbeb334a72030eb0f1b6ea0b1a3f1d"
+      "bytes": 6319,
+      "sha256": "d8ed16ed64c9485b475a315ac5d8505d7bc406f63f8e360115e878bdc49a3838"
     },
     {
       "path": "delivery/_needs-alpha/beekeeping/beehive-skep.png",
@@ -542,6 +552,71 @@
       "sha256": "086c5b03b2bc49485459cdfd15b9db2b934f7bbe4c3684a296f4ac69fd955fa7"
     },
     {
+      "path": "delivery/stickers/fossil-dig/fossil-amber-insect.png",
+      "bytes": 888491,
+      "sha256": "6778d6fbe0953f4d40776276efe3c9661d0571938e35ea965aeb3f080e79eafd"
+    },
+    {
+      "path": "delivery/stickers/fossil-dig/fossil-ammonite.png",
+      "bytes": 1172300,
+      "sha256": "9be8f349d8cbcbd541c106643c0413be07dd5fd12f5d5d180965177432d212a4"
+    },
+    {
+      "path": "delivery/stickers/fossil-dig/fossil-dinosaur-footprint.png",
+      "bytes": 1117141,
+      "sha256": "6f39be42d961a1dae5ef1152aefb04ca6baf6438dd82dfc7189a4617a4b59fe8"
+    },
+    {
+      "path": "delivery/stickers/fossil-dig/fossil-fern.png",
+      "bytes": 1307807,
+      "sha256": "b9057cce72ce7148c8299f74d542ea42d18432f33705bb291e0b3225b247645d"
+    },
+    {
+      "path": "delivery/stickers/fossil-dig/fossil-plaster-jacket.png",
+      "bytes": 1151282,
+      "sha256": "676cb533297a5aa288c4345e7435cd6a715d2050bbe7b920d359e0ff0feae87a"
+    },
+    {
+      "path": "delivery/stickers/fossil-dig/fossil-rock-hammer.png",
+      "bytes": 555961,
+      "sha256": "f05d2999be6f79c67b6240053fdd70f3e09fb590ad19829fd32de1d32cb69aea"
+    },
+    {
+      "path": "delivery/stickers/fossil-dig/fossil-shark-tooth.png",
+      "bytes": 930092,
+      "sha256": "eb98ccb2e26f8f326bdd4e5a63f98a49ed07da7d327b52761f3da5358623f70b"
+    },
+    {
+      "path": "delivery/stickers/fossil-dig/fossil-trilobite.png",
+      "bytes": 1146361,
+      "sha256": "d0aed9aef3830865da50448947e6aceb6c10104fec02eb9a6ce9e6296496c7d9"
+    },
+    {
+      "path": "delivery/stickers/freshwater-wetland/wetland-beaver.png",
+      "bytes": 1595258,
+      "sha256": "a1a0aa706810a9533b8919632e0ee4bfdf4ecdc2b70227e190f805ecd22cca18"
+    },
+    {
+      "path": "delivery/stickers/freshwater-wetland/wetland-heron.png",
+      "bytes": 2142575,
+      "sha256": "70064c5633fb9d3d3c337ef60d1920968ee33aeb965d9636c28bac75d63c7255"
+    },
+    {
+      "path": "delivery/stickers/freshwater-wetland/wetland-muskrat.png",
+      "bytes": 1484430,
+      "sha256": "21cc474566e1daa6580655d2ce779558254d025c86c69ef3448d1bb412f8c2db"
+    },
+    {
+      "path": "delivery/stickers/freshwater-wetland/wetland-otter.png",
+      "bytes": 835274,
+      "sha256": "7f1a466c939846f762f1cbbfd8192a00ff1530e3decb1f55a30039935429d5c0"
+    },
+    {
+      "path": "delivery/stickers/freshwater-wetland/wetland-water-strider.png",
+      "bytes": 1887173,
+      "sha256": "bbaa9ca0f0560b3794e5558374fa0affc9cff666b730c77c6c630a2f7dd86e65"
+    },
+    {
       "path": "delivery/stickers/garden-insects/grasshopper.png",
       "bytes": 968319,
       "sha256": "08ff8777391ff25685c25e946bc4109cf20553632df72e38ae5335fbbb406e49"
@@ -617,6 +692,76 @@
       "sha256": "0aa04f6dfbce8171d2b413e4a2b172fd8452c9035c4db33d88e31c9791f0ff27"
     },
     {
+      "path": "delivery/stickers/mediterranean-mezze/mezze-dolma.png",
+      "bytes": 944961,
+      "sha256": "647f120ba91bcbbb7c8acbbebbe8c39a62b3124f2f7be9d4ee809e0829360f40"
+    },
+    {
+      "path": "delivery/stickers/mediterranean-mezze/mezze-falafel.png",
+      "bytes": 1106830,
+      "sha256": "f11e2d45e3eafeba7dfb809d617a2eca69db850b4b2d308c1b6dd665539b1b37"
+    },
+    {
+      "path": "delivery/stickers/mediterranean-mezze/mezze-hummus.png",
+      "bytes": 1011507,
+      "sha256": "8fdf2ff039614ff164043198f4255d4a4f0c243fd36758b4b347bf408301f875"
+    },
+    {
+      "path": "delivery/stickers/mediterranean-mezze/mezze-olive-dish.png",
+      "bytes": 1734708,
+      "sha256": "f3622028a218b9497dc484573b7dd575c822e34a2727f6e97cd8d3bc96be8b2e"
+    },
+    {
+      "path": "delivery/stickers/mediterranean-mezze/mezze-pita.png",
+      "bytes": 2158577,
+      "sha256": "6f5167b4de8da3a7a8c962656b034b95fc9b554def10e4a6cbf59f21c66c05eb"
+    },
+    {
+      "path": "delivery/stickers/mediterranean-mezze/mezze-tzatziki.png",
+      "bytes": 2177110,
+      "sha256": "832ce84513bc04d6ff12bc2d7ab25b4fd628d5b2022b03e8f30c0fcbd086db5e"
+    },
+    {
+      "path": "delivery/stickers/mineral-collection/mineral-amethyst.png",
+      "bytes": 823836,
+      "sha256": "aa50141235fec1f1e04354a4d476cc871ee3871668777581230a43f2bfa81184"
+    },
+    {
+      "path": "delivery/stickers/mineral-collection/mineral-azurite.png",
+      "bytes": 1029050,
+      "sha256": "c55745734a5123dab9fb8a62ea06bd394a51c8355987d3277d73c9b1ec90dd45"
+    },
+    {
+      "path": "delivery/stickers/mineral-collection/mineral-fluorite.png",
+      "bytes": 1181374,
+      "sha256": "a946cfa0798c2aaab5defc48c5504375622fc312480064886f4e8c2974992c56"
+    },
+    {
+      "path": "delivery/stickers/mineral-collection/mineral-geode.png",
+      "bytes": 1088553,
+      "sha256": "83b1b6224b757c7513bab131984e45c2171dd133939c603536a164683d8c8804"
+    },
+    {
+      "path": "delivery/stickers/mineral-collection/mineral-malachite.png",
+      "bytes": 1173486,
+      "sha256": "5f51515e75ac9e5de90b013d2452d625ff83081d1957a0f0d0f0acae858d4cfe"
+    },
+    {
+      "path": "delivery/stickers/mineral-collection/mineral-pyrite.png",
+      "bytes": 914516,
+      "sha256": "c8473770cf0f0ac89b709ea4321fe8b2205b0accc7afe2522c26a1bd10ef7fe0"
+    },
+    {
+      "path": "delivery/stickers/mineral-collection/mineral-rose-quartz.png",
+      "bytes": 963036,
+      "sha256": "9e4d0eee86df9262a08a01a0478bec50908b1b29caf054b16fcb272b5c3bce2b"
+    },
+    {
+      "path": "delivery/stickers/mineral-collection/mineral-selenite.png",
+      "bytes": 670465,
+      "sha256": "4dc7535d64ca8f3a83e1b76277e99b4f449b4e137add5080d97a1d48256713be"
+    },
+    {
       "path": "delivery/stickers/percussion/bongos.png",
       "bytes": 929078,
       "sha256": "d5fed6c4220623cf8d7b876526ce4f3dd2c79cce676d1230ec68edd5e216dd64"
@@ -650,6 +795,36 @@
       "path": "delivery/stickers/percussion/triangle-instrument.png",
       "bytes": 678111,
       "sha256": "4f96a9398377045604f013064a092b6e03065967f236cfd3189fac6615077693"
+    },
+    {
+      "path": "delivery/stickers/picnic-day/picnic-bento-box.png",
+      "bytes": 2279181,
+      "sha256": "31ee4dccb67bdf47f872fda1884ed19267b8d6576cdb2dbbee68300d7b493a16"
+    },
+    {
+      "path": "delivery/stickers/picnic-day/picnic-grass-mat.png",
+      "bytes": 2140222,
+      "sha256": "958ef44d3cb08e92acd49075ebe117031ff9d42423aacdf6455501400342a9e9"
+    },
+    {
+      "path": "delivery/stickers/picnic-day/picnic-insulated-flask.png",
+      "bytes": 783567,
+      "sha256": "2138c940bf04c3fa16f5370579ffef33aeff458141aec7a63e72c612e5b35df4"
+    },
+    {
+      "path": "delivery/stickers/picnic-day/picnic-lemonade-dispenser.png",
+      "bytes": 1069089,
+      "sha256": "6ec5effd4a72000093a5eee480f78e78d98dcebc3a0a38a44d45ceb40c2cd5d2"
+    },
+    {
+      "path": "delivery/stickers/picnic-day/picnic-reusable-cutlery.png",
+      "bytes": 1319154,
+      "sha256": "60c324179b8560ed66ac882bb88e32bc855efbfce5d9db41d5bea252015da5d4"
+    },
+    {
+      "path": "delivery/stickers/picnic-day/picnic-sandwich-wrap.png",
+      "bytes": 1375127,
+      "sha256": "2fc188be1b61cb2528b63fb7978faa6f67f836a099bb0de3954c03c5cbfc0f18"
     },
     {
       "path": "delivery/stickers/post-office/airmail-envelope.png",
@@ -933,8 +1108,8 @@
     },
     {
       "path": "delivery/topic-map.csv",
-      "bytes": 52502,
-      "sha256": "e0cf7fc32cc75caf682b1e5f01a53457d88739db5a1bdf07229323d780c09a86"
+      "bytes": 56800,
+      "sha256": "8af54c27962c7cb4bc0373f89ad59707be0dae94892026514d26c4b5b169b461"
     },
     {
       "path": "history/delivery/.gitattributes",
@@ -1318,8 +1493,23 @@
     },
     {
       "path": "index.html",
-      "bytes": 133255,
-      "sha256": "4ca1468399604b8234ba858b84eb0328a75e5b49098d9b639457a4335b6724b2"
+      "bytes": 141381,
+      "sha256": "ee3d9130698a0e7bec7983b227a3020d17597de060e5556c63b97dbcf4285591"
+    },
+    {
+      "path": "logs/alpha-pilot-20260917.jsonl",
+      "bytes": 273,
+      "sha256": "12bad88b56c6826b81075a32aadf3798547637816732d1b8a681ac5ea90eb7f8"
+    },
+    {
+      "path": "logs/alpha-selection-20260916.jsonl",
+      "bytes": 18603,
+      "sha256": "bc61862d4ab15f791239b939a4f11ca3efb9081f4ddb0db63ce62a4e717ce2c6"
+    },
+    {
+      "path": "logs/alpha-selection-20260917.jsonl",
+      "bytes": 16862,
+      "sha256": "5f0d5e7b450108356df45872599ccd53669e7cb1868a1f3f310571c5e6ce5d87"
     },
     {
       "path": "logs/generation-history.jsonl",
@@ -1327,9 +1517,19 @@
       "sha256": "65a5cfa1888467a70a294341a74a5658a82a8587c90fc81d84b6ad505d0845dc"
     },
     {
+      "path": "logs/generation.jsonl",
+      "bytes": 18484,
+      "sha256": "88ec388f7d2b49a5d251311be8a71ecdb50dc4fc71ace4f4b5e8500232d8e220"
+    },
+    {
       "path": "logs/README.vi.md",
       "bytes": 421,
       "sha256": "f1e610225ac38b5e5fb7e538fa497ba589a02a30b9976fb9e9c24488c76d0d3b"
+    },
+    {
+      "path": "logs/visual-qa-20260917.json",
+      "bytes": 581,
+      "sha256": "f201b2d3e21c33f842b42b2a53c736ef27e5ac91c74b3c0d0b972cd8489cc400"
     },
     {
       "path": "masters/aeonium-pot.png",
@@ -1572,6 +1772,46 @@
       "sha256": "d8d10b1f8af468e97ccc0811959cea1e9c047d37bed36434f6fa988bfdf00d8a"
     },
     {
+      "path": "masters/fossil-amber-insect.png",
+      "bytes": 888491,
+      "sha256": "6778d6fbe0953f4d40776276efe3c9661d0571938e35ea965aeb3f080e79eafd"
+    },
+    {
+      "path": "masters/fossil-ammonite.png",
+      "bytes": 1172300,
+      "sha256": "9be8f349d8cbcbd541c106643c0413be07dd5fd12f5d5d180965177432d212a4"
+    },
+    {
+      "path": "masters/fossil-dinosaur-footprint.png",
+      "bytes": 1117141,
+      "sha256": "6f39be42d961a1dae5ef1152aefb04ca6baf6438dd82dfc7189a4617a4b59fe8"
+    },
+    {
+      "path": "masters/fossil-fern.png",
+      "bytes": 1307807,
+      "sha256": "b9057cce72ce7148c8299f74d542ea42d18432f33705bb291e0b3225b247645d"
+    },
+    {
+      "path": "masters/fossil-plaster-jacket.png",
+      "bytes": 1151282,
+      "sha256": "676cb533297a5aa288c4345e7435cd6a715d2050bbe7b920d359e0ff0feae87a"
+    },
+    {
+      "path": "masters/fossil-rock-hammer.png",
+      "bytes": 555961,
+      "sha256": "f05d2999be6f79c67b6240053fdd70f3e09fb590ad19829fd32de1d32cb69aea"
+    },
+    {
+      "path": "masters/fossil-shark-tooth.png",
+      "bytes": 930092,
+      "sha256": "eb98ccb2e26f8f326bdd4e5a63f98a49ed07da7d327b52761f3da5358623f70b"
+    },
+    {
+      "path": "masters/fossil-trilobite.png",
+      "bytes": 1146361,
+      "sha256": "d0aed9aef3830865da50448947e6aceb6c10104fec02eb9a6ce9e6296496c7d9"
+    },
+    {
       "path": "masters/glass-thermometer.png",
       "bytes": 507421,
       "sha256": "d324511c6046cc6542ae61921947caba39b1deb81e4da71ffe89c7ebca3a2efb"
@@ -1762,9 +2002,79 @@
       "sha256": "d48213053fb20c6125473a23b71ef10371c0c5f87742134eda620c96cc440a59"
     },
     {
+      "path": "masters/mezze-dolma.png",
+      "bytes": 944961,
+      "sha256": "647f120ba91bcbbb7c8acbbebbe8c39a62b3124f2f7be9d4ee809e0829360f40"
+    },
+    {
+      "path": "masters/mezze-falafel.png",
+      "bytes": 1106830,
+      "sha256": "f11e2d45e3eafeba7dfb809d617a2eca69db850b4b2d308c1b6dd665539b1b37"
+    },
+    {
       "path": "masters/mezze-halloumi.png",
       "bytes": 2023947,
       "sha256": "282e16b1d39578c1a11fe2604802bce95e68ae9112ec7c1354bad6187fe36aa2"
+    },
+    {
+      "path": "masters/mezze-hummus.png",
+      "bytes": 1011507,
+      "sha256": "8fdf2ff039614ff164043198f4255d4a4f0c243fd36758b4b347bf408301f875"
+    },
+    {
+      "path": "masters/mezze-olive-dish.png",
+      "bytes": 1734708,
+      "sha256": "f3622028a218b9497dc484573b7dd575c822e34a2727f6e97cd8d3bc96be8b2e"
+    },
+    {
+      "path": "masters/mezze-pita.png",
+      "bytes": 2158577,
+      "sha256": "6f5167b4de8da3a7a8c962656b034b95fc9b554def10e4a6cbf59f21c66c05eb"
+    },
+    {
+      "path": "masters/mezze-tzatziki.png",
+      "bytes": 2177110,
+      "sha256": "832ce84513bc04d6ff12bc2d7ab25b4fd628d5b2022b03e8f30c0fcbd086db5e"
+    },
+    {
+      "path": "masters/mineral-amethyst.png",
+      "bytes": 823836,
+      "sha256": "aa50141235fec1f1e04354a4d476cc871ee3871668777581230a43f2bfa81184"
+    },
+    {
+      "path": "masters/mineral-azurite.png",
+      "bytes": 1029050,
+      "sha256": "c55745734a5123dab9fb8a62ea06bd394a51c8355987d3277d73c9b1ec90dd45"
+    },
+    {
+      "path": "masters/mineral-fluorite.png",
+      "bytes": 1181374,
+      "sha256": "a946cfa0798c2aaab5defc48c5504375622fc312480064886f4e8c2974992c56"
+    },
+    {
+      "path": "masters/mineral-geode.png",
+      "bytes": 1088553,
+      "sha256": "83b1b6224b757c7513bab131984e45c2171dd133939c603536a164683d8c8804"
+    },
+    {
+      "path": "masters/mineral-malachite.png",
+      "bytes": 1173486,
+      "sha256": "5f51515e75ac9e5de90b013d2452d625ff83081d1957a0f0d0f0acae858d4cfe"
+    },
+    {
+      "path": "masters/mineral-pyrite.png",
+      "bytes": 914516,
+      "sha256": "c8473770cf0f0ac89b709ea4321fe8b2205b0accc7afe2522c26a1bd10ef7fe0"
+    },
+    {
+      "path": "masters/mineral-rose-quartz.png",
+      "bytes": 963036,
+      "sha256": "9e4d0eee86df9262a08a01a0478bec50908b1b29caf054b16fcb272b5c3bce2b"
+    },
+    {
+      "path": "masters/mineral-selenite.png",
+      "bytes": 670465,
+      "sha256": "4dc7535d64ca8f3a83e1b76277e99b4f449b4e137add5080d97a1d48256713be"
     },
     {
       "path": "masters/morel.png",
@@ -1802,14 +2112,44 @@
       "sha256": "a57bcde8df78cbcfdcc1075adc6dc0733181eca29ab9ac5eecd3b4f69f48d709"
     },
     {
+      "path": "masters/picnic-bento-box.png",
+      "bytes": 2279181,
+      "sha256": "31ee4dccb67bdf47f872fda1884ed19267b8d6576cdb2dbbee68300d7b493a16"
+    },
+    {
       "path": "masters/picnic-checkered-cloth.png",
       "bytes": 1670888,
       "sha256": "11245005ecd38db6d9c80bdf7d6fe98d928e91d3a37d2bec54484e9d94f81fa7"
     },
     {
+      "path": "masters/picnic-grass-mat.png",
+      "bytes": 2140222,
+      "sha256": "958ef44d3cb08e92acd49075ebe117031ff9d42423aacdf6455501400342a9e9"
+    },
+    {
       "path": "masters/picnic-hamper.png",
       "bytes": 2037720,
       "sha256": "2a45ee656ac94fa8f71db81fe3674aa9b358edfd8bd96ae599fa11d3ee7a3c5c"
+    },
+    {
+      "path": "masters/picnic-insulated-flask.png",
+      "bytes": 783567,
+      "sha256": "2138c940bf04c3fa16f5370579ffef33aeff458141aec7a63e72c612e5b35df4"
+    },
+    {
+      "path": "masters/picnic-lemonade-dispenser.png",
+      "bytes": 1069089,
+      "sha256": "6ec5effd4a72000093a5eee480f78e78d98dcebc3a0a38a44d45ceb40c2cd5d2"
+    },
+    {
+      "path": "masters/picnic-reusable-cutlery.png",
+      "bytes": 1319154,
+      "sha256": "60c324179b8560ed66ac882bb88e32bc855efbfce5d9db41d5bea252015da5d4"
+    },
+    {
+      "path": "masters/picnic-sandwich-wrap.png",
+      "bytes": 1375127,
+      "sha256": "2fc188be1b61cb2528b63fb7978faa6f67f836a099bb0de3954c03c5cbfc0f18"
     },
     {
       "path": "masters/porcini.png",
@@ -2162,9 +2502,19 @@
       "sha256": "618de20e014991a91b3a95ad50ddde1e365d33b6ce11d503041bc31dc4ee5bce"
     },
     {
+      "path": "masters/wetland-beaver.png",
+      "bytes": 1595258,
+      "sha256": "a1a0aa706810a9533b8919632e0ee4bfdf4ecdc2b70227e190f805ecd22cca18"
+    },
+    {
       "path": "masters/wetland-cattails.png",
       "bytes": 1928296,
       "sha256": "81b380af566ca2f1c073432672ce7ad4c22a85dce59e2707d8a7ec8386d07714"
+    },
+    {
+      "path": "masters/wetland-heron.png",
+      "bytes": 2142575,
+      "sha256": "70064c5633fb9d3d3c337ef60d1920968ee33aeb965d9636c28bac75d63c7255"
     },
     {
       "path": "masters/wetland-kingfisher.png",
@@ -2172,9 +2522,24 @@
       "sha256": "d25aca76013665efad1bf7531f62e19fd854a84e36bca8b9f379e710b691d82c"
     },
     {
+      "path": "masters/wetland-muskrat.png",
+      "bytes": 1484430,
+      "sha256": "21cc474566e1daa6580655d2ce779558254d025c86c69ef3448d1bb412f8c2db"
+    },
+    {
+      "path": "masters/wetland-otter.png",
+      "bytes": 835274,
+      "sha256": "7f1a466c939846f762f1cbbfd8192a00ff1530e3decb1f55a30039935429d5c0"
+    },
+    {
       "path": "masters/wetland-water-lily.png",
       "bytes": 1791783,
       "sha256": "89427a86fdb9b9e3accfc35f426cd100fa6b9022ce058b77adb3e03c277f12b7"
+    },
+    {
+      "path": "masters/wetland-water-strider.png",
+      "bytes": 1887173,
+      "sha256": "bbaa9ca0f0560b3794e5558374fa0affc9cff666b730c77c6c630a2f7dd86e65"
     },
     {
       "path": "masters/wild-blackberry-branch.png",
@@ -2227,14 +2592,414 @@
       "sha256": "ad0ea5ebad585a0d0a903ef9168ef565c35a2807c3584d8e31495a06bddab860"
     },
     {
+      "path": "qa/alpha-conservation-check.json",
+      "bytes": 14337,
+      "sha256": "0eba341d9f604fac4d0ce9e788bf58be458afdc47762854f0e062f069289dc7b"
+    },
+    {
+      "path": "qa/alpha-contact-sheets/page-1.png",
+      "bytes": 1273556,
+      "sha256": "b6382c4d5f5c56e97c2687687a272200804266b7a9f4a4d5312a8d37b2d25ab6"
+    },
+    {
+      "path": "qa/alpha-contact-sheets/page-2.png",
+      "bytes": 1102433,
+      "sha256": "76cf0fefc951a1c6b6d124e472538c2aa1ed5f421e780630485484d7c5c51bba"
+    },
+    {
+      "path": "qa/alpha-contact-sheets/page-3.png",
+      "bytes": 1052985,
+      "sha256": "9af7a8241f11ac7485d8847fe8d5590e6a20463cff07c90e5e767a2feaa1882d"
+    },
+    {
+      "path": "qa/alpha-contact-sheets/page-4.png",
+      "bytes": 948769,
+      "sha256": "7dba6a8cda28c3898ddd128241ff2091ef5db4479d446f29e9232c0fd6b8868b"
+    },
+    {
+      "path": "qa/alpha-contact-sheets/page-5.png",
+      "bytes": 761699,
+      "sha256": "8e5513677ba670481cf3d778fffa148e387b998a99b254916e8ab4fb65e4ee20"
+    },
+    {
       "path": "qa/alpha-padding-audit.json",
-      "bytes": 65886,
-      "sha256": "0a325ce136d9e476f740c7ccef64aac9527ef25840a1f3642fa2bcb30e37e609"
+      "bytes": 78621,
+      "sha256": "f4a6953718c297df050c95590c4037f32d5810eb0b442ca0f27b3a9cc295cfe1"
+    },
+    {
+      "path": "qa/alpha-pilot-20260917/before-dark.png",
+      "bytes": 1654350,
+      "sha256": "2f21afdd682082fce936b56f7ad0ae0fd46140798fbecbd4187f68f70fd5fe8f"
+    },
+    {
+      "path": "qa/alpha-pilot-20260917/dark-preview.png",
+      "bytes": 627786,
+      "sha256": "59d9531df9ed122784db9aebad0e529e15c479502e21425ad9c09d9d386b7a8e"
+    },
+    {
+      "path": "qa/alpha-pilot-20260917/light-preview.png",
+      "bytes": 625483,
+      "sha256": "28e3a5faf14677b7f3595f29b944783271085753fcc5b2cd2b6c726ced6465c5"
+    },
+    {
+      "path": "qa/alpha-pilot-20260917/prior-candidate-dark.png",
+      "bytes": 627786,
+      "sha256": "59d9531df9ed122784db9aebad0e529e15c479502e21425ad9c09d9d386b7a8e"
+    },
+    {
+      "path": "qa/alpha-pilot-20260917/report.json",
+      "bytes": 958,
+      "sha256": "e61744d0021697db3ab59fff653df3ddfa4353ec0aab638a4dbec7f22821ceb7"
+    },
+    {
+      "path": "qa/alpha-previews/banh-mi-dark.png",
+      "bytes": 1185960,
+      "sha256": "1db169689cc656faf83befe38618b73390fca7885abfc23f66335e4cd7e2cc99"
+    },
+    {
+      "path": "qa/alpha-previews/banh-xeo-dark.png",
+      "bytes": 1344729,
+      "sha256": "0c74bbbd49e51a8e3a266cb8adf687306c1086f1c5c98b3d82f4a5d7482e3623"
+    },
+    {
+      "path": "qa/alpha-previews/goi-cuon-dark.png",
+      "bytes": 1045551,
+      "sha256": "a6a56d084e8fc2c6e3338e110387f6184092524687f03859cd4de099ca0e6c38"
+    },
+    {
+      "path": "qa/alpha-previews/pho-bo-dark.png",
+      "bytes": 1230550,
+      "sha256": "767a61f37bf10e1413464feb9b6e3f2f1aa11552a67ad0a7656e8d2abb8d7d6d"
+    },
+    {
+      "path": "qa/background-batch-console.jsonl",
+      "bytes": 60719,
+      "sha256": "c99d9ea78d009ed72cd03f684e07eb9cd52a6bb265ec72b39fb5ab633120978e"
+    },
+    {
+      "path": "qa/batch-20260916/alpha-review.json",
+      "bytes": 16368,
+      "sha256": "04e64e5da3ba09295cabf2d2fe7fbed8968a6367f283635208f90fd4882d9f74"
+    },
+    {
+      "path": "qa/batch-20260916/final-alpha-review.json",
+      "bytes": 21388,
+      "sha256": "8b879870b4fef8fe69bf684423215882d7b680307d4df1f6e85a5a20138b08a1"
+    },
+    {
+      "path": "qa/batch-20260916/mezze-dolma-dark.png",
+      "bytes": 793314,
+      "sha256": "ce90a36d51ec14e8996137d72c728ad417b51495a67ae57203316fed3e5083dc"
+    },
+    {
+      "path": "qa/batch-20260916/mezze-dolma-final-dark.png",
+      "bytes": 793298,
+      "sha256": "c921958640422ed947a8f2e1e950f48e828e5adc62126d9bcf7e41df1c06679a"
+    },
+    {
+      "path": "qa/batch-20260916/mezze-dolma-selected-dark.png",
+      "bytes": 793298,
+      "sha256": "c921958640422ed947a8f2e1e950f48e828e5adc62126d9bcf7e41df1c06679a"
+    },
+    {
+      "path": "qa/batch-20260916/mezze-falafel-dark.png",
+      "bytes": 946810,
+      "sha256": "8e6149136973e44f911f94031fd613c9ee5a04c6282ba2cbc7fed50fb35aed1b"
+    },
+    {
+      "path": "qa/batch-20260916/mezze-falafel-final-dark.png",
+      "bytes": 945065,
+      "sha256": "92c60de5dadd9518ecd2ec3b3b4e7156a58622f0bc86f955fbebf7ad8a6265fd"
+    },
+    {
+      "path": "qa/batch-20260916/mezze-falafel-selected-dark.png",
+      "bytes": 945065,
+      "sha256": "92c60de5dadd9518ecd2ec3b3b4e7156a58622f0bc86f955fbebf7ad8a6265fd"
+    },
+    {
+      "path": "qa/batch-20260916/mezze-hummus-dark.png",
+      "bytes": 884544,
+      "sha256": "ceca11aaffad1139805e2df0af918752978801374c6b2ee9e9cb018eaf06a6a3"
+    },
+    {
+      "path": "qa/batch-20260916/mezze-hummus-final-dark.png",
+      "bytes": 881800,
+      "sha256": "e9e4f0cad9df9f954e9bdf4a24f072cbd5e86ed7501e1677c0397122cebf38f5"
+    },
+    {
+      "path": "qa/batch-20260916/mezze-hummus-selected-dark.png",
+      "bytes": 881800,
+      "sha256": "e9e4f0cad9df9f954e9bdf4a24f072cbd5e86ed7501e1677c0397122cebf38f5"
+    },
+    {
+      "path": "qa/batch-20260916/mezze-olive-dish-dark.png",
+      "bytes": 740066,
+      "sha256": "e674433e9cbfd8cf03d4462fcf494038e2468bd25b1ed8d2581363e19f788d1a"
+    },
+    {
+      "path": "qa/batch-20260916/mezze-olive-dish-final-dark.png",
+      "bytes": 740026,
+      "sha256": "715a3c852b9b05fb9ff35c6ae86b0839e86d15161b12cc985db819cfca409c02"
+    },
+    {
+      "path": "qa/batch-20260916/mezze-olive-dish-selected-dark.png",
+      "bytes": 740026,
+      "sha256": "715a3c852b9b05fb9ff35c6ae86b0839e86d15161b12cc985db819cfca409c02"
+    },
+    {
+      "path": "qa/batch-20260916/mezze-pita-dark.png",
+      "bytes": 1162240,
+      "sha256": "afa6d3f9f0020700ac17251c7e1373508e30ed0febd5f94989696cc9a8fc73bf"
+    },
+    {
+      "path": "qa/batch-20260916/mezze-pita-final-dark.png",
+      "bytes": 1162110,
+      "sha256": "9c6d67d43114a8e9ec2e85ca8d22936826d84ea5764fbfe2e372344a0ce63dc3"
+    },
+    {
+      "path": "qa/batch-20260916/mezze-pita-selected-dark.png",
+      "bytes": 1162110,
+      "sha256": "9c6d67d43114a8e9ec2e85ca8d22936826d84ea5764fbfe2e372344a0ce63dc3"
+    },
+    {
+      "path": "qa/batch-20260916/mezze-tzatziki-dark.png",
+      "bytes": 918447,
+      "sha256": "bd92be454476ca39e25d4bfdffe627c222b5b1e664384773c8d06c579fd0615f"
+    },
+    {
+      "path": "qa/batch-20260916/mezze-tzatziki-final-dark.png",
+      "bytes": 918379,
+      "sha256": "bca89c0772aef319c2e4a36e8f933bda79b5dea60b40c72d5c00b3b18064ad87"
+    },
+    {
+      "path": "qa/batch-20260916/mezze-tzatziki-selected-dark.png",
+      "bytes": 918379,
+      "sha256": "bca89c0772aef319c2e4a36e8f933bda79b5dea60b40c72d5c00b3b18064ad87"
+    },
+    {
+      "path": "qa/batch-20260916/overview-1.jpg",
+      "bytes": 243670,
+      "sha256": "05d27bf8d3522b4297f3e5d4dc09f1f4d2b2e88f7b0c1d146e11cc6748cc2da0"
+    },
+    {
+      "path": "qa/batch-20260916/overview-2.jpg",
+      "bytes": 258337,
+      "sha256": "7e879fcdf42d185ab5d478e0d4f55f2d1a82a6ebe72bad18b15abc3e0d0e6fd8"
+    },
+    {
+      "path": "qa/batch-20260916/overview-3.jpg",
+      "bytes": 43763,
+      "sha256": "ebf5445c00da2d614bac230546ad867119e00f7afb0ebe7f802ae4756d34656e"
+    },
+    {
+      "path": "qa/batch-20260916/picnic-bento-box-dark.png",
+      "bytes": 1215165,
+      "sha256": "79c4ce6618b2acb6cb0cb5a97797f490b36008dd26d3f38e1f357daea40e144a"
+    },
+    {
+      "path": "qa/batch-20260916/picnic-bento-box-final-dark.png",
+      "bytes": 1215121,
+      "sha256": "0ca59bb9868506836f139e3022b7ae69b31d2638e30b05534558c821f3106fc7"
+    },
+    {
+      "path": "qa/batch-20260916/picnic-bento-box-selected-dark.png",
+      "bytes": 1215121,
+      "sha256": "0ca59bb9868506836f139e3022b7ae69b31d2638e30b05534558c821f3106fc7"
+    },
+    {
+      "path": "qa/batch-20260916/picnic-grass-mat-dark.png",
+      "bytes": 608169,
+      "sha256": "154af2e4affdafe210c60a0428bca65d850ac71e3f8bae0a8e7753bfaea2048f"
+    },
+    {
+      "path": "qa/batch-20260916/picnic-grass-mat-final-dark.png",
+      "bytes": 608108,
+      "sha256": "9eb852bafac1100c78395e45182abd59316a85033fab5307d71a7c5ef880d3a2"
+    },
+    {
+      "path": "qa/batch-20260916/picnic-grass-mat-selected-dark.png",
+      "bytes": 608108,
+      "sha256": "9eb852bafac1100c78395e45182abd59316a85033fab5307d71a7c5ef880d3a2"
+    },
+    {
+      "path": "qa/batch-20260916/picnic-insulated-flask-dark.png",
+      "bytes": 648246,
+      "sha256": "0deb9512dee004846a90448f19f970d7cb7fe611665f760a27a36dfb63b3a17f"
+    },
+    {
+      "path": "qa/batch-20260916/picnic-insulated-flask-final-dark.png",
+      "bytes": 645547,
+      "sha256": "e9147c50215acb998476e59eb427e4983a0b20c5e0d542aee8779f24eff0ec48"
+    },
+    {
+      "path": "qa/batch-20260916/picnic-insulated-flask-selected-dark.png",
+      "bytes": 645547,
+      "sha256": "e9147c50215acb998476e59eb427e4983a0b20c5e0d542aee8779f24eff0ec48"
+    },
+    {
+      "path": "qa/batch-20260916/picnic-lemonade-dispenser-dark.png",
+      "bytes": 898699,
+      "sha256": "f2c5a5af945a9afc2877166581b721f4ee95f2c8150d9b98c4f812f92ee8aecc"
+    },
+    {
+      "path": "qa/batch-20260916/picnic-lemonade-dispenser-final-dark.png",
+      "bytes": 898736,
+      "sha256": "4a06e053cb48836de4973e6649f829d585eca50f3ce9cb3f6bba6fc60a1f643b"
+    },
+    {
+      "path": "qa/batch-20260916/picnic-lemonade-dispenser-selected-dark.png",
+      "bytes": 898736,
+      "sha256": "4a06e053cb48836de4973e6649f829d585eca50f3ce9cb3f6bba6fc60a1f643b"
+    },
+    {
+      "path": "qa/batch-20260916/picnic-reusable-cutlery-dark.png",
+      "bytes": 1135240,
+      "sha256": "1ea967e4077ad90022ff17707b5472da2ac484b119faf443ecd484760b8c78d0"
+    },
+    {
+      "path": "qa/batch-20260916/picnic-reusable-cutlery-final-dark.png",
+      "bytes": 1135176,
+      "sha256": "07d8f30554ac76b65622c25052000cc5a6e6dfc5400f0f458455fde5b1c95b76"
+    },
+    {
+      "path": "qa/batch-20260916/picnic-reusable-cutlery-selected-dark.png",
+      "bytes": 1135176,
+      "sha256": "07d8f30554ac76b65622c25052000cc5a6e6dfc5400f0f458455fde5b1c95b76"
+    },
+    {
+      "path": "qa/batch-20260916/picnic-sandwich-wrap-dark.png",
+      "bytes": 1179736,
+      "sha256": "c3c5b1889b2cf8c9fd3b5ebcebf6e4ec4164c2bc8e9cb56ff4bf3933f301ac71"
+    },
+    {
+      "path": "qa/batch-20260916/picnic-sandwich-wrap-final-dark.png",
+      "bytes": 1177581,
+      "sha256": "ec0a59b494f74e5372ca8b4ceffa5aa95fc1389afd3bb04358b80452ab25cd41"
+    },
+    {
+      "path": "qa/batch-20260916/picnic-sandwich-wrap-selected-dark.png",
+      "bytes": 1177581,
+      "sha256": "ec0a59b494f74e5372ca8b4ceffa5aa95fc1389afd3bb04358b80452ab25cd41"
+    },
+    {
+      "path": "qa/batch-20260916/README.vi.md",
+      "bytes": 1556,
+      "sha256": "6a9829e9772a990e8decb3446d9944a29c4822ff56cfedd43578ecd5e997b85f"
+    },
+    {
+      "path": "qa/batch-20260916/selected-overview.jpg",
+      "bytes": 596182,
+      "sha256": "0711711bf7a1214400b22a9fb7428c1382ecc3b77fff54d00c0169b97aea08eb"
+    },
+    {
+      "path": "qa/batch-20260916/wetland-beaver-dark.png",
+      "bytes": 877360,
+      "sha256": "2f5dc4be3b20c4d573bcd6323b9c51b93ebf2e19e758fb0a460809d66e351d04"
+    },
+    {
+      "path": "qa/batch-20260916/wetland-beaver-final-dark.png",
+      "bytes": 877224,
+      "sha256": "095902c75493327eb6e1aaeeba9d785c1226c57701b7e391dda74544f6b01e54"
+    },
+    {
+      "path": "qa/batch-20260916/wetland-beaver-selected-dark.png",
+      "bytes": 877224,
+      "sha256": "095902c75493327eb6e1aaeeba9d785c1226c57701b7e391dda74544f6b01e54"
+    },
+    {
+      "path": "qa/batch-20260916/wetland-heron-dark.png",
+      "bytes": 633643,
+      "sha256": "263c3365c1ca635657ddfcf96fc0048b3eda3e1fe1476edfa5cb7beb5fd6d71f"
+    },
+    {
+      "path": "qa/batch-20260916/wetland-heron-final-dark.png",
+      "bytes": 633600,
+      "sha256": "801d64793007ccfa381c55db8f87084ddeb6cf4d44297d53717f4bced5b03e0b"
+    },
+    {
+      "path": "qa/batch-20260916/wetland-heron-selected-dark.png",
+      "bytes": 633600,
+      "sha256": "801d64793007ccfa381c55db8f87084ddeb6cf4d44297d53717f4bced5b03e0b"
+    },
+    {
+      "path": "qa/batch-20260916/wetland-muskrat-dark.png",
+      "bytes": 666061,
+      "sha256": "8d82c80863c92a436ee85c4cbcf62ecee75e0125d9b37aa410773b4088e94032"
+    },
+    {
+      "path": "qa/batch-20260916/wetland-muskrat-final-dark.png",
+      "bytes": 645631,
+      "sha256": "302ff0df3beb2ad4072d31cae81bfe17639438eaa2b42eb5c043b15d97f22cc9"
+    },
+    {
+      "path": "qa/batch-20260916/wetland-muskrat-refined-dark.png",
+      "bytes": 672016,
+      "sha256": "2d07cc39b0de4267e03e41ac8d810de6854cff08db4cc1c50f970afd023e1ab7"
+    },
+    {
+      "path": "qa/batch-20260916/wetland-muskrat-selected-dark.png",
+      "bytes": 637836,
+      "sha256": "749e095e8bcddc89306174c18d2a670c6ed2517740854effa7e1fac4a812c5c5"
+    },
+    {
+      "path": "qa/batch-20260916/wetland-otter-dark.png",
+      "bytes": 729451,
+      "sha256": "e6f69b4d1b2eb9868b9e3265e43a82dd6357013549f578d18ef84956f8864e28"
+    },
+    {
+      "path": "qa/batch-20260916/wetland-otter-final-dark.png",
+      "bytes": 723118,
+      "sha256": "2b3bd0f423ef5cee95a496a1c3346d973ed7df1221f65400baa79843c9da1770"
+    },
+    {
+      "path": "qa/batch-20260916/wetland-otter-selected-dark.png",
+      "bytes": 723118,
+      "sha256": "2b3bd0f423ef5cee95a496a1c3346d973ed7df1221f65400baa79843c9da1770"
+    },
+    {
+      "path": "qa/batch-20260916/wetland-water-strider-dark.png",
+      "bytes": 420189,
+      "sha256": "a6d08146ed0c5ee66f289bb7e93ddd616ec949649dd6c94b9f04fe227515281c"
+    },
+    {
+      "path": "qa/batch-20260916/wetland-water-strider-final-dark.png",
+      "bytes": 419984,
+      "sha256": "742a1de40de8aaca5b4265341879d9541e28d251ac7d92464e14988fd1f1c8b6"
+    },
+    {
+      "path": "qa/batch-20260916/wetland-water-strider-selected-dark.png",
+      "bytes": 419984,
+      "sha256": "742a1de40de8aaca5b4265341879d9541e28d251ac7d92464e14988fd1f1c8b6"
+    },
+    {
+      "path": "qa/batch-20260917/fossil-amber-insect-dark-preview.png",
+      "bytes": 761900,
+      "sha256": "157ac29bc799e1bf9c8417efe46c240d774d12b28e3fdba5891ff2feed709743"
+    },
+    {
+      "path": "qa/batch-20260917/fossil-rock-hammer-dark-preview.png",
+      "bytes": 477168,
+      "sha256": "cdb2130b408aedef5d08a5146fb6e451d5e4ad3976f70cae3b9db531881be06b"
+    },
+    {
+      "path": "qa/batch-20260917/mineral-fluorite-dark-preview.png",
+      "bytes": 1028238,
+      "sha256": "6837a69ed3118c5fa1f8462313931566c6679902270df3fd91fcccffa2a62eb3"
+    },
+    {
+      "path": "qa/batch-20260917/mineral-malachite-dark-preview.png",
+      "bytes": 1019484,
+      "sha256": "31aebfe41ac659c8a1c843f6b236781f636fc4618dc8d7249c2eac294665ff86"
     },
     {
       "path": "qa/visual-qa.json",
-      "bytes": 8969,
-      "sha256": "079c1702cc6140526be44245b8450d56f28b2c443cf0918c3174b9711caf3a86"
+      "bytes": 11251,
+      "sha256": "d23e1beb8ce9fdb3189b4770786f96a496ac02f63cb36b1ac9b2f35eee159187"
+    },
+    {
+      "path": "README.md",
+      "bytes": 23,
+      "sha256": "8469933dee4104e216e7efb1516d15bdcf6fe0738a4e6cb1df70ccdaaf3aab1b"
     },
     {
       "path": "references/Stickers/1-Bakery & Coffee Cafe/Bakery-&-Coffee-Cafe_1.png",
@@ -10778,13 +11543,1473 @@
     },
     {
       "path": "requirements.txt",
-      "bytes": 90,
-      "sha256": "1d506b0ab2734e8c9400c62fbdaa6b9944b606a5b507ac1f207aa022ef997c7d"
+      "bytes": 131,
+      "sha256": "8cceecb73bfb8b39c64c304134ca6f8993ccdec809ca4c689014a23cdd9f7e4c"
+    },
+    {
+      "path": "revisions/alpha-20260915/banh-mi-attempt1.png",
+      "bytes": 2060918,
+      "sha256": "97bd72d06ab6e63c49f8da6a2cd603c7330bfe9640ce00a120a822f1e59ade4f"
+    },
+    {
+      "path": "revisions/alpha-20260915/banh-mi-attempt1.png.json",
+      "bytes": 1000,
+      "sha256": "a5f658db176d96a6b255783ef9e0d07b5dd2ef762503292c2a5302f5c8c842e4"
+    },
+    {
+      "path": "revisions/alpha-20260915/pho-bo-attempt1.png",
+      "bytes": 2172479,
+      "sha256": "b9f05f7650670d4e4521e113deb21bfdadb661e3a573b092959f349f395d8501"
+    },
+    {
+      "path": "revisions/alpha-20260915/pho-bo-attempt1.png.json",
+      "bytes": 997,
+      "sha256": "f4c6c226c9829f9e9f72639d716c21ba216fef2460bdebcff09603c47a4c0d2d"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-amber-insect/delivery-before.png",
+      "bytes": 891706,
+      "sha256": "43323deb70c445366e46a8dab32194d6ff71a8545d32485feb7b229cd5757305"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-amber-insect/master-before.png",
+      "bytes": 891706,
+      "sha256": "43323deb70c445366e46a8dab32194d6ff71a8545d32485feb7b229cd5757305"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-amber-insect/promotion.json",
+      "bytes": 1197,
+      "sha256": "623246ce21fd4ff3a8ac2592a119f4a19adcfeb71551e0817bf795204e3e2319"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-amber-insect/selected-alpha.png",
+      "bytes": 888491,
+      "sha256": "6778d6fbe0953f4d40776276efe3c9661d0571938e35ea965aeb3f080e79eafd"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-ammonite/delivery-before.png",
+      "bytes": 1181082,
+      "sha256": "158442d6c6435c755135ec54eb9c5471cf171da6a1ec81bbe779285da437b416"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-ammonite/master-before.png",
+      "bytes": 1181082,
+      "sha256": "158442d6c6435c755135ec54eb9c5471cf171da6a1ec81bbe779285da437b416"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-ammonite/promotion.json",
+      "bytes": 1177,
+      "sha256": "3a8c41f1e7ae0fc81de81f9eb20c3986523c2d293c4a879f23c7e401d93db754"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-ammonite/selected-alpha.png",
+      "bytes": 1172300,
+      "sha256": "9be8f349d8cbcbd541c106643c0413be07dd5fd12f5d5d180965177432d212a4"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-dinosaur-footprint/delivery-before.png",
+      "bytes": 1118441,
+      "sha256": "534be1b40be8c2e832caa70ad8f8d5fdb5c91bc61351eedb9c804b4338e1657b"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-dinosaur-footprint/master-before.png",
+      "bytes": 1118441,
+      "sha256": "534be1b40be8c2e832caa70ad8f8d5fdb5c91bc61351eedb9c804b4338e1657b"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-dinosaur-footprint/promotion.json",
+      "bytes": 1227,
+      "sha256": "11d0287f1e1c7ebf747c4946f53afc22379f7e53a0cc03408bdedb3965a5a387"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-dinosaur-footprint/selected-alpha.png",
+      "bytes": 1117141,
+      "sha256": "6f39be42d961a1dae5ef1152aefb04ca6baf6438dd82dfc7189a4617a4b59fe8"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-fern/delivery-before.png",
+      "bytes": 1301026,
+      "sha256": "2aa2a068b8d854de20b942e0b7e55dc7df71781b80bad5d69cd31b2eb3f445e4"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-fern/master-before.png",
+      "bytes": 1301026,
+      "sha256": "2aa2a068b8d854de20b942e0b7e55dc7df71781b80bad5d69cd31b2eb3f445e4"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-fern/promotion.json",
+      "bytes": 1157,
+      "sha256": "64b4c6c0d6bda1d0f048b7d7453539f36236759fe26b1cbe0564e414c752b544"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-fern/selected-alpha.png",
+      "bytes": 1307807,
+      "sha256": "b9057cce72ce7148c8299f74d542ea42d18432f33705bb291e0b3225b247645d"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-plaster-jacket/delivery-before.png",
+      "bytes": 1168394,
+      "sha256": "28e5d53c57f686cee4377fd290677279399d6be006d30b5d2bdce8e956536ecc"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-plaster-jacket/master-before.png",
+      "bytes": 1168394,
+      "sha256": "28e5d53c57f686cee4377fd290677279399d6be006d30b5d2bdce8e956536ecc"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-plaster-jacket/promotion.json",
+      "bytes": 1207,
+      "sha256": "105fd96f465e2fa89d1d39cf440022588f96c64574ab5a2861c8866e6f524505"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-plaster-jacket/selected-alpha.png",
+      "bytes": 1151282,
+      "sha256": "676cb533297a5aa288c4345e7435cd6a715d2050bbe7b920d359e0ff0feae87a"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-rock-hammer/delivery-before.png",
+      "bytes": 567352,
+      "sha256": "d42518f2d5d7c64a142eb10e47718d5a10a72ad1fa5502fd950dcee72b36eed2"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-rock-hammer/master-before.png",
+      "bytes": 567352,
+      "sha256": "d42518f2d5d7c64a142eb10e47718d5a10a72ad1fa5502fd950dcee72b36eed2"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-rock-hammer/promotion.json",
+      "bytes": 1192,
+      "sha256": "8ee6d8f4ebdb6acfeb205efb66b5f1c3d454d770226b30ebe24760fc803ac4a7"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-rock-hammer/selected-alpha.png",
+      "bytes": 555961,
+      "sha256": "f05d2999be6f79c67b6240053fdd70f3e09fb590ad19829fd32de1d32cb69aea"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-shark-tooth/delivery-before.png",
+      "bytes": 935273,
+      "sha256": "20674d7accaebd5fa3b43692c2d4449386da386ea5d7466c12a2cb6d6aba3d73"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-shark-tooth/master-before.png",
+      "bytes": 935273,
+      "sha256": "20674d7accaebd5fa3b43692c2d4449386da386ea5d7466c12a2cb6d6aba3d73"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-shark-tooth/promotion.json",
+      "bytes": 1192,
+      "sha256": "6227515f2188ced43273209c23bf61fce96b894f97db90f46ed93118215ce390"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-shark-tooth/selected-alpha.png",
+      "bytes": 930092,
+      "sha256": "eb98ccb2e26f8f326bdd4e5a63f98a49ed07da7d327b52761f3da5358623f70b"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-trilobite/delivery-before.png",
+      "bytes": 1165417,
+      "sha256": "6a6d6634e3a42195bb201b55cc6bbb16e52d0d479d166c9ad553dac258e58c08"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-trilobite/master-before.png",
+      "bytes": 1165417,
+      "sha256": "6a6d6634e3a42195bb201b55cc6bbb16e52d0d479d166c9ad553dac258e58c08"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-trilobite/promotion.json",
+      "bytes": 1182,
+      "sha256": "6f1f77a33cfebb94b14ff299984ff5c473576cd10abb816886f66bfacc977b3d"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/fossil-trilobite/selected-alpha.png",
+      "bytes": 1146361,
+      "sha256": "d0aed9aef3830865da50448947e6aceb6c10104fec02eb9a6ce9e6296496c7d9"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-azurite/delivery-before.png",
+      "bytes": 1014908,
+      "sha256": "69088558eb02f78cf448626bfca2007464b9b8748167b5359b65d3d1c926360e"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-azurite/master-before.png",
+      "bytes": 1014908,
+      "sha256": "69088558eb02f78cf448626bfca2007464b9b8748167b5359b65d3d1c926360e"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-azurite/promotion.json",
+      "bytes": 1185,
+      "sha256": "db8130873096f7f63baeb3a5f5339c59f92d65e0d255e86ba0f127064b217e9f"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-azurite/selected-alpha.png",
+      "bytes": 1029050,
+      "sha256": "c55745734a5123dab9fb8a62ea06bd394a51c8355987d3277d73c9b1ec90dd45"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-fluorite/delivery-before.png",
+      "bytes": 1184340,
+      "sha256": "98d65c12b51c9f9949414073dd47703e637c9f51aabf54111de6b4de98a4ec7a"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-fluorite/master-before.png",
+      "bytes": 1184340,
+      "sha256": "98d65c12b51c9f9949414073dd47703e637c9f51aabf54111de6b4de98a4ec7a"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-fluorite/promotion.json",
+      "bytes": 1191,
+      "sha256": "6eeba2d8ce9ba6b8d00f96046a0ad47766423c67f5e808881ed684688b1f4f85"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-fluorite/selected-alpha.png",
+      "bytes": 1181374,
+      "sha256": "a946cfa0798c2aaab5defc48c5504375622fc312480064886f4e8c2974992c56"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-geode/delivery-before.png",
+      "bytes": 1095430,
+      "sha256": "5f211c2dfdda6e94f16a230cb7b3fd67f3a05a2aa6f8301597ee8583f094404b"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-geode/master-before.png",
+      "bytes": 1095430,
+      "sha256": "5f211c2dfdda6e94f16a230cb7b3fd67f3a05a2aa6f8301597ee8583f094404b"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-geode/promotion.json",
+      "bytes": 1176,
+      "sha256": "04d7a2a152890916435327bb4344c2cfe218c41a19a350d15c00564fb60cbda3"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-geode/selected-alpha.png",
+      "bytes": 1088553,
+      "sha256": "83b1b6224b757c7513bab131984e45c2171dd133939c603536a164683d8c8804"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-malachite/delivery-before.png",
+      "bytes": 1180200,
+      "sha256": "0258d37def175119de018103fb19b4c29ceca6921bbd64647354464d28de1406"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-malachite/master-before.png",
+      "bytes": 1180200,
+      "sha256": "0258d37def175119de018103fb19b4c29ceca6921bbd64647354464d28de1406"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-malachite/promotion.json",
+      "bytes": 1195,
+      "sha256": "37be7880e311cbb5d723c7fd223d8ad83514be342e4d669a7b2713fdcd5de039"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-malachite/selected-alpha.png",
+      "bytes": 1173486,
+      "sha256": "5f51515e75ac9e5de90b013d2452d625ff83081d1957a0f0d0f0acae858d4cfe"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-pyrite/delivery-before.png",
+      "bytes": 917518,
+      "sha256": "25bdc39ab29769aec15f7ce161cd0fb0e2aaa6773cf91fa7dcec83bf48f72104"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-pyrite/master-before.png",
+      "bytes": 917518,
+      "sha256": "25bdc39ab29769aec15f7ce161cd0fb0e2aaa6773cf91fa7dcec83bf48f72104"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-pyrite/promotion.json",
+      "bytes": 1179,
+      "sha256": "783d08785bc4ecdc0505a09fabfb3ac3d736d3555e94273030959c3391046e1a"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-pyrite/selected-alpha.png",
+      "bytes": 914516,
+      "sha256": "c8473770cf0f0ac89b709ea4321fe8b2205b0accc7afe2522c26a1bd10ef7fe0"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-rose-quartz/delivery-before.png",
+      "bytes": 969079,
+      "sha256": "0dc57710fc45da619a3f45b75b9ec1c609b641e118471c8e882667b52026b33f"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-rose-quartz/master-before.png",
+      "bytes": 969079,
+      "sha256": "0dc57710fc45da619a3f45b75b9ec1c609b641e118471c8e882667b52026b33f"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-rose-quartz/promotion.json",
+      "bytes": 1205,
+      "sha256": "111645254d4cd990fb7ff237654213c7e89164726e13d2295985b10b5cd64581"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-rose-quartz/selected-alpha.png",
+      "bytes": 963036,
+      "sha256": "9e4d0eee86df9262a08a01a0478bec50908b1b29caf054b16fcb272b5c3bce2b"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-selenite/delivery-before.png",
+      "bytes": 677917,
+      "sha256": "938a6ce49f699fc67918eb1685b33fd25a64a1a1af779c69a0f242c6bd88df91"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-selenite/master-before.png",
+      "bytes": 677917,
+      "sha256": "938a6ce49f699fc67918eb1685b33fd25a64a1a1af779c69a0f242c6bd88df91"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-selenite/promotion.json",
+      "bytes": 1190,
+      "sha256": "b78296d8ae2d30b4aa6fcba0766020c2bb72a0e90bb7c63181dec7f0269f5b5b"
+    },
+    {
+      "path": "revisions/alpha-islands-20260917/mineral-selenite/selected-alpha.png",
+      "bytes": 670465,
+      "sha256": "4dc7535d64ca8f3a83e1b76277e99b4f449b4e137add5080d97a1d48256713be"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/aeonium-pot-alpha.json",
+      "bytes": 880,
+      "sha256": "409e0b72752fb5b519a66f245c50f89e675e4f9b3a7249a5e6c4b9cb985a7626"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/aeonium-pot-alpha.png",
+      "bytes": 2154637,
+      "sha256": "583afc80f93540e3475c64b9db5ddbb1cc6e9f7890eb2844c94cc7f83c77e5ca"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/banh-mi-alpha.json",
+      "bytes": 849,
+      "sha256": "1cb6d4b5c7ece7830d79f226559b5bd49355aa37cec575afbba2c0a08bf9193d"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/banh-mi-alpha.png",
+      "bytes": 2389298,
+      "sha256": "d23359af2de09984dd0a853636bcb1cf14391b771416f3e4716e2ffe6e02387b"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/banh-xeo-alpha.json",
+      "bytes": 853,
+      "sha256": "fdd96e2b036c7041f5ba4508632450320ceea17ae9323a3676e1f2a3d7018f70"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/banh-xeo-alpha.png",
+      "bytes": 2451622,
+      "sha256": "1431e5c6f7689a980c0b9038a75e3f7d28c72f48204ccd9b4736845814050ce9"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/beehive-skep-alpha.json",
+      "bytes": 865,
+      "sha256": "5d14005e303a0e2a382211100bb496cc58e22412ab5d1922f7eb22ced655e7ff"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/beehive-skep-alpha.png",
+      "bytes": 1359303,
+      "sha256": "06de805f75ea63eb16e7b052fd203dd93b5d995bf7e1a74d336f14426bc68f83"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/beekeeper-veil-hat-alpha.json",
+      "bytes": 883,
+      "sha256": "0a9215df4e226ba905a25b821fd9665e4fdd460fc88ecd7498329fdc5717af44"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/beekeeper-veil-hat-alpha.png",
+      "bytes": 2006486,
+      "sha256": "a3f67fc9cd1b126488716da57f68971357a8f52c926d32e47cea1ee778c8ec53"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/burros-tail-pot-alpha.json",
+      "bytes": 875,
+      "sha256": "0da068f3d3e73d35db9642a26ab980fbdd69088ed73f09b88910f3990be96ff8"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/burros-tail-pot-alpha.png",
+      "bytes": 2239847,
+      "sha256": "d5aaaa37da91a40a3a62a568edd095a8557a36c3345fb16e7c3c5eab620d9cef"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/calligraphy-brush-alpha.json",
+      "bytes": 882,
+      "sha256": "ab2ed0dbe43e68a109f21d1dca2865e1e4ec1c44700b01995768e499e7461100"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/calligraphy-brush-alpha.png",
+      "bytes": 1722358,
+      "sha256": "b909d417f91f4b4c36e121c49a228bde13a357c8bbe2c69088b9127ede0b430f"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/calligraphy-inkstone-alpha.json",
+      "bytes": 905,
+      "sha256": "b20f7ee36bbd10ab0c7b2967c84f4bef47650c94d788f46c4f3ebb467fa8ad90"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/calligraphy-inkstone-alpha.png",
+      "bytes": 1565835,
+      "sha256": "cea76320da85d67227139872f77505f9295afe51110ca9624e3a2185b605f501"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/calligraphy-pen-rest-alpha.json",
+      "bytes": 891,
+      "sha256": "dc71ff3331eed64c5f458b306bb815223a9f6de5e1f1674a0bff87a9137f9323"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/calligraphy-pen-rest-alpha.png",
+      "bytes": 1970474,
+      "sha256": "85bc67e03cde478cb930d0ba93bda063841ad783fc660280379ef31432e120cd"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/ceramic-kiln-alpha.json",
+      "bytes": 881,
+      "sha256": "eaf6917416ae4d6619ef1503e7b42422a1846fd5573ddadfdd5cb3bc4e1dd9c8"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/ceramic-kiln-alpha.png",
+      "bytes": 1941308,
+      "sha256": "155c9ba17af3db3e4315084f6c39892012f3a5de462256f2a7c6dcb94787dbad"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/chanterelle-alpha.json",
+      "bytes": 863,
+      "sha256": "fb920f2ae32fe2e4c1c528e93b91f159b20d068cffa43e337b4ce57a762b0c6a"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/chanterelle-alpha.png",
+      "bytes": 2180998,
+      "sha256": "7d39f3164cf2c86276292c820daabcab09c9c7051d24b595540606d7aaea1fa7"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/closed-jar-terrarium-alpha.json",
+      "bytes": 890,
+      "sha256": "69f7e3a6ec12d5543fd9c75c576438ab8ba2250c1a05aa639e0a0ad92ee9d0d6"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/closed-jar-terrarium-alpha.png",
+      "bytes": 2511259,
+      "sha256": "2356620bcd9ff8fb8778db2720f38bf7ecc747afe0d6d789a45a761785d2f385"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/coral-cement-bucket-alpha.json",
+      "bytes": 885,
+      "sha256": "47a22acf726a6699b8bf7f75de9e841ef09fa2c7d089fd2e43a379d5d75ceea0"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/coral-cement-bucket-alpha.png",
+      "bytes": 2077086,
+      "sha256": "39d3c8e247b51daf5b3376b4e643e9d7ded89336247555daf7ee863e1d32efd7"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/coral-cleaning-brush-alpha.json",
+      "bytes": 890,
+      "sha256": "e62d5258337db7897be195e5e8d47cc8445d3baf48dbccc4fd348d02583e1536"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/coral-cleaning-brush-alpha.png",
+      "bytes": 1992639,
+      "sha256": "004114be97e16c9d61f5b9758d454c8de0f9066bf5dbfa1d7f40223d9f3bd2fe"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/coral-fungus-alpha.json",
+      "bytes": 879,
+      "sha256": "005712ccf7ab22cac06df354624944e999dd19318265bd5476f18393bde91297"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/coral-fungus-alpha.png",
+      "bytes": 1898676,
+      "sha256": "c420a11dfbdd5f3e1fb5ad8fcc1dd7467d9bea3158a872ec6742e23ae252215e"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/djembe-alpha.json",
+      "bytes": 862,
+      "sha256": "aae8fca57e0756363ca9d8827772842df70b9978c534680b65e3e1100e3b6550"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/djembe-alpha.png",
+      "bytes": 1778134,
+      "sha256": "3762a5775d04b890d6d8431a34e44c87d296e85db7a23384f1ae507c53f0db8c"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/dragonfly-alpha.json",
+      "bytes": 858,
+      "sha256": "982d40f77995dc0c4613bb3f7509861701ed218da1c6b7003518b557b772ca0d"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/dragonfly-alpha.png",
+      "bytes": 2186739,
+      "sha256": "c34eac41db770b4629f352aacb80a85e89e6f6a326320b65d04b8c3db104fb62"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/echeveria-pot-alpha.json",
+      "bytes": 868,
+      "sha256": "c9cc0ccb6466bbfb3b56e112400398b5f7d70734f711d90d92515528c7b323b2"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/echeveria-pot-alpha.png",
+      "bytes": 2245100,
+      "sha256": "a57a1b978f40b683d037faec3774e0362be568f95b38e5ab75e7b55adc9ff51a"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/fiddlehead-ferns-alpha.json",
+      "bytes": 877,
+      "sha256": "8e6f3d7c4a131c8faf2af82b9ae708ec4e1a590c40710bfc1a72a4758da39f4e"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/fiddlehead-ferns-alpha.png",
+      "bytes": 2093519,
+      "sha256": "081151217fdc18bbece53f86af8834d299dddeabc06ee71ce405fd7fc456770d"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/foraging-field-guide-alpha.json",
+      "bytes": 905,
+      "sha256": "6b1aa63bdea090acc0589485ca0b160383204c4de50d142ab3fdb87550239561"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/foraging-field-guide-alpha.png",
+      "bytes": 1923258,
+      "sha256": "b6642734541e40792accbebe29d92685d1983b1b8fc6e1436d7130d1f07d4ac3"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/goi-cuon-alpha.json",
+      "bytes": 854,
+      "sha256": "e3bd24c46dd0ae11cf7543d92d29464c609e0918f252de72cb46046ee2d4ad33"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/goi-cuon-alpha.png",
+      "bytes": 2308504,
+      "sha256": "1d06180ecbe6f998894fba2131cc15ebaacbd82b8f3eabf2036d6e279ca289d6"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/haworthia-pot-alpha.json",
+      "bytes": 870,
+      "sha256": "69d458a4b58065a712c05b75b3f53506d909205894a746df3f397fc6c4584236"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/haworthia-pot-alpha.png",
+      "bytes": 2143377,
+      "sha256": "f9f20bfec7029502f580659ff11b9465ef0921dcda8c94bf5df0705c52409580"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/honey-butter-dish-alpha.json",
+      "bytes": 880,
+      "sha256": "ff2413264ecd85db48adace20645bdb5387ca3794de65521f2fa69b29aa31f16"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/honey-butter-dish-alpha.png",
+      "bytes": 2007501,
+      "sha256": "09af0a539df4480086d1c2dbd50e45d4e5d3f01215dd601247e8943168aec268"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/honey-lemon-tea-alpha.json",
+      "bytes": 891,
+      "sha256": "67d7605af72983ee85cbde6246beee01186f224f3c1c77f07a131f29416ffee8"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/honey-lemon-tea-alpha.png",
+      "bytes": 1825808,
+      "sha256": "fb96a74c9d24214f0ab93ca8d8f2697acb1107dae2b4f2bdaa30623a3953e15d"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/honey-pancakes-alpha.json",
+      "bytes": 887,
+      "sha256": "36669d12aaad4b60419e49df74789f090a3dedc6e55a50506aeb57c03da770fd"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/honey-pancakes-alpha.png",
+      "bytes": 1899659,
+      "sha256": "c11eafdef20cd9b4821dc36953c1424a85b5ee708561383f57c2508198e3ecdb"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/honey-parfait-alpha.json",
+      "bytes": 868,
+      "sha256": "1635ee686b2378e803d1d179abe016d12233ce05fdcbc32c67a3ade65f9cb60f"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/honey-parfait-alpha.png",
+      "bytes": 1964557,
+      "sha256": "3d9d7afcfc81eda3c882115a19ecaa3c1444e7a9a6f6849a4d3fe0e8d5a42fb1"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/honey-toast-alpha.json",
+      "bytes": 877,
+      "sha256": "95276bb4fb514d342c2dd2ef4882f67d53e4bce83b08d092f4ad215cfc3029a3"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/honey-toast-alpha.png",
+      "bytes": 2166498,
+      "sha256": "3826c8fb252391b92017379a0d1db8f93e6b14760ea203a16f7133825014ecf6"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/honey-waffles-alpha.json",
+      "bytes": 869,
+      "sha256": "2acb98f595a9ff0cfa5ddfc0a7630cfbf40fe891320975a96667dfe9e741f031"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/honey-waffles-alpha.png",
+      "bytes": 2117248,
+      "sha256": "62c835682e9732631961b020cffaac41c04904cb0c88e025f20a48c0bb677a33"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/jade-plant-pot-alpha.json",
+      "bytes": 869,
+      "sha256": "4eec33facec3c2847c420dcf26e2bc168b04a0de96a0f434353b52e04221a53f"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/jade-plant-pot-alpha.png",
+      "bytes": 2188838,
+      "sha256": "20fb4e6d87a6531831d80402a01b3a88ecfeb676388606d3e57c4911c93ac71a"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/lab-centrifuge-alpha.json",
+      "bytes": 871,
+      "sha256": "b765edba3e98f95d663d84a26ea100325b72066386c07cc3a13442335dfd68c3"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/lab-centrifuge-alpha.png",
+      "bytes": 1933166,
+      "sha256": "0310342656926cc30a6804aa8bd5f5ae340c0b3fbcd0ddd85dce4750951b08b6"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/lab-pipette-alpha.json",
+      "bytes": 864,
+      "sha256": "0e007345e6a4b76e6a3924c760b92d86be737acaa538d48688c17af3e9b9790e"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/lab-pipette-alpha.png",
+      "bytes": 1682075,
+      "sha256": "7f6e4ba5578a689bd2c6744ad6b82c05747b1efda68926a54c2865655c124127"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/lacewing-alpha.json",
+      "bytes": 855,
+      "sha256": "8401aa9dbb7e584db0eee19e25ed7fd7d5e59b599ffe70b63dd0a401a9b62eaa"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/lacewing-alpha.png",
+      "bytes": 1972392,
+      "sha256": "7f0ac955ffa9fa191118bd1388cd225344438bfee4079fe9303969ddfec947f1"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/latest-run.json",
+      "bytes": 69695,
+      "sha256": "c8276447aaf88b13941f648295022b6668d304576f3c1018960d366879ff94d8"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/lions-mane-mushroom-alpha.json",
+      "bytes": 886,
+      "sha256": "cd16b96fcea6d1596cf45780ac4f79d73197bed61d850a941425fff662cf1842"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/lions-mane-mushroom-alpha.png",
+      "bytes": 1920865,
+      "sha256": "90c7fd67591f906a6803f2edbf2970803276bc73dfd7b53d51f6dec0f8f3fa6e"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/lithops-pot-alpha.json",
+      "bytes": 863,
+      "sha256": "86b8b63e9bc7cb8397fd975ae683dc2b5a5988f50ec46adb1f57f537ef031261"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/lithops-pot-alpha.png",
+      "bytes": 2228664,
+      "sha256": "75292103776e07217b2f8e3b11869f5f8b3edff2feee87eaadca420a4b70d39b"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/mezze-baba-ganoush-alpha.json",
+      "bytes": 883,
+      "sha256": "6736b11a3c55f12b60ab165cf7f32190e477b3c8a597a03319359e00a0f99aab"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/mezze-baba-ganoush-alpha.png",
+      "bytes": 2218431,
+      "sha256": "6c4622540c8785ba63391a76110c043fb710d2a925883f0d0d022e20fd320667"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/mezze-halloumi-alpha.json",
+      "bytes": 872,
+      "sha256": "7132286ae223b03b607a4485324d245d2563016fd77274a454b57a67cb2b3d6a"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/mezze-halloumi-alpha.png",
+      "bytes": 2278190,
+      "sha256": "fed96b1c2a2ec0a3427c402c6da09ea6d1e68cfaf418846e1ff49ccc56241f48"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/morel-alpha.json",
+      "bytes": 845,
+      "sha256": "5b6d641a3fbb660d281b77a828372a7a1cd4fa44d0d080f9462c5a2e9b1a1b84"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/morel-alpha.png",
+      "bytes": 2085099,
+      "sha256": "69f78763eb50274eec5cf75eeffb988427121146fac809231043a9581fa1f277"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/mushroom-basket-alpha.json",
+      "bytes": 874,
+      "sha256": "2eb08be20da61675a08d3bf3784be6c36e5503dcd07a745798dbabd145a8bc8a"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/mushroom-basket-alpha.png",
+      "bytes": 2267455,
+      "sha256": "a59ee7823289cb8dfd396582c7483e1730ce36cb73c9fd6f6d16abc78df986ae"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/opera-binoculars-alpha.json",
+      "bytes": 879,
+      "sha256": "8d371a938efdcb89b76d3e4ad3802d2a25c52fe722b4bcc59b470058b333af41"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/opera-binoculars-alpha.png",
+      "bytes": 2137755,
+      "sha256": "0883abf4d6728064cf1092ba2a049f8f644c64eeaa47d7455e8a3930067006cd"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/oyster-mushroom-alpha.json",
+      "bytes": 875,
+      "sha256": "f91cbac6df28670826094c66609fcf9c8dc76b53f8ada256bdd30cb1b49cf561"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/oyster-mushroom-alpha.png",
+      "bytes": 2114655,
+      "sha256": "86b26b1ce2401ebb18363833bf2fc6962f95d5a45eff1ee567875e3b24b0490e"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/panda-plant-pot-alpha.json",
+      "bytes": 875,
+      "sha256": "b5ca9b96ec76396077647866d85f8d8f1dcf15effa607a2769715e8cc56525ea"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/panda-plant-pot-alpha.png",
+      "bytes": 2102053,
+      "sha256": "48f1a4c92974c01c8a4bbea7d52ec3ef70a51ff154ac6a9d2a26ba2eee4062d7"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/pho-bo-alpha.json",
+      "bytes": 845,
+      "sha256": "9fd315b4ec0cdf30a5301412ae0aa29e577a4ebacb93e6945459f1541e14c640"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/pho-bo-alpha.png",
+      "bytes": 2320987,
+      "sha256": "b1e94de54d9ffb9fd1ba7f8dd193947ae01cbf0e47a67d0a045aff88c9cabd14"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/picnic-checkered-cloth-alpha.json",
+      "bytes": 911,
+      "sha256": "ef741d27f37e89e104b2fb16e0e1409710c313b1c18220a5bfb5c29bddecef2f"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/picnic-checkered-cloth-alpha.png",
+      "bytes": 1868648,
+      "sha256": "71644201b1c2026d306461912d70e1319d567694c98a25b6d9ffc92fecd3cb35"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/picnic-hamper-alpha.json",
+      "bytes": 868,
+      "sha256": "81a22a51f129384168778ddaf88b401ab1669f72fe14ac74285f6ee22e31f70f"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/picnic-hamper-alpha.png",
+      "bytes": 2286197,
+      "sha256": "d69c46b822098922e6f5ef2d5528f85b7b6c69aff04ef79054ef881e7e80b1c9"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/porcini-alpha.json",
+      "bytes": 866,
+      "sha256": "82fad57d7f42ce7ebc09a807db2d599e9ed4f1e107b875713557e0713bb63ec5"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/porcini-alpha.png",
+      "bytes": 1684544,
+      "sha256": "cc207c7d9c1df2925aa5b9edba70cb2dd4d0b231e4af1c5ae6ac67cfac9d9744"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/pottery-wheel-alpha.json",
+      "bytes": 868,
+      "sha256": "bad024cf43eefa129c72f7a0bf4eb04a81d8323a39c6eaddbad9ad52a895f520"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/pottery-wheel-alpha.png",
+      "bytes": 2058558,
+      "sha256": "ff0785c92c09c43a17f8f6b96eb496bf15ef2f333949dc09387401eeda0167f1"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/praying-mantis-alpha.json",
+      "bytes": 872,
+      "sha256": "1b9519f0777ff5255daf5a873714891d73694a6744af00478a8de6013a1cec32"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/praying-mantis-alpha.png",
+      "bytes": 2000075,
+      "sha256": "edd89ee1d28bd385fdf46edec50347e9708d324f3b9ed9936421a1ae3714da93"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/proscenium-stage-model-alpha.json",
+      "bytes": 911,
+      "sha256": "92e8d7372a0bad07d6f420d0fd2544de8986b9d317330990b31d80e6fc289da4"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/proscenium-stage-model-alpha.png",
+      "bytes": 1958253,
+      "sha256": "c2f3deca199c3cf0fd27252e6c5c66239c745fa2da858d225937e709dcb90f15"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/reptile-climbing-branch-alpha.json",
+      "bytes": 899,
+      "sha256": "d0581102637779d2aa85d16333f79c7293637d1cc4d311cc817dc0a8441584ea"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/reptile-climbing-branch-alpha.png",
+      "bytes": 2148196,
+      "sha256": "327ab82d0abc4c65530201297cf268ef4c9aadcfb0e1e8c7990c02e1b63b94c0"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/reptile-cork-tunnel-alpha.json",
+      "bytes": 887,
+      "sha256": "02a6a809905e78c8d71e3462e0f1fb23ae335553b8d1d824efa390d77ecbcc54"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/reptile-cork-tunnel-alpha.png",
+      "bytes": 2036282,
+      "sha256": "15ac4cdcd854bd94e029979837756f9947ecdec7c6bbccc28abfa8b599068acd"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/reptile-feeding-tongs-alpha.json",
+      "bytes": 894,
+      "sha256": "ef781cc3a9a6269d2df43ce6db528689a8c5604eb5582998ec5ba9b9d7a5e3f2"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/reptile-feeding-tongs-alpha.png",
+      "bytes": 1709882,
+      "sha256": "14e55b7d2d4655e79f0b25b83515f0ab46c076740627774f18afea10c94645ff"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/reptile-glass-enclosure-alpha.json",
+      "bytes": 898,
+      "sha256": "d532d62a6b54640ba57449ed0132dff0b4c5490e70cc393db72331833f51c22a"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/reptile-glass-enclosure-alpha.png",
+      "bytes": 2086647,
+      "sha256": "98c64a29e7ec669a9df9ee5c14f25500a87a9578cbe97ef706a0ee1f4882c313"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/reptile-heat-lamp-alpha.json",
+      "bytes": 882,
+      "sha256": "8e2b731a14a46cb51e2feb7afb4943718d10382d5425a5d2698ab112e46362f6"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/reptile-heat-lamp-alpha.png",
+      "bytes": 2032591,
+      "sha256": "9623e48bb7e402e6df353719bcbee8d42edfea37d83a441b8c5550730c5e38d1"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/reptile-hygrometer-alpha.json",
+      "bytes": 899,
+      "sha256": "ab33bb2625e200b855a51538b1f53c8bbc76c17c01fddb2f46b7a6bccac588aa"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/reptile-hygrometer-alpha.png",
+      "bytes": 2015315,
+      "sha256": "44c35ad68739a2d0117058f483a1c7652fde97e2f6ffbce47990e907a6deefb7"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/sewing-machine-alpha.json",
+      "bytes": 871,
+      "sha256": "1d0fe76b37b4c098db5727b996560da9ff387794904ef0766d9b1ef005dc5410"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/sewing-machine-alpha.png",
+      "bytes": 2002957,
+      "sha256": "b19d4fa5b453b73020e05f38dbfab3d3c2b6982401b14d33a8a5c3ed8c87dff0"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/sewing-zipper-alpha.json",
+      "bytes": 869,
+      "sha256": "65caefd4bb7be474b037ac161f4c384299d541234d41ad5421770e50b7b0dafb"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/sewing-zipper-alpha.png",
+      "bytes": 2230653,
+      "sha256": "7db3cd9acdc14876c1c5d8feefaa806e4df59533372f2bab1d9143ce07a2a7b8"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/stage-spotlight-alpha.json",
+      "bytes": 875,
+      "sha256": "993ec64b0bbf1ffe9ec5bfe46fb6d904730ee30072b64a4a13368e66978ad7d3"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/stage-spotlight-alpha.png",
+      "bytes": 1972737,
+      "sha256": "c0eb632e9bd7e46b3cb54350117f7b586d1f769771e107210cb69c2f8ebd67a2"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/string-of-pearls-pot-alpha.json",
+      "bytes": 891,
+      "sha256": "03651bce6ed821272ef6734954edd383f5827aa48ad5f7b861cad41cd38695aa"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/string-of-pearls-pot-alpha.png",
+      "bytes": 2318585,
+      "sha256": "2aba8b99ac6f46cb8c24e353a4a851856a54ab8591fa139e28f3c719f26e85fc"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/terrarium-charcoal-alpha.json",
+      "bytes": 901,
+      "sha256": "d9e4afb01252d550073de5fabf270fc4413cf0fffdbd208a53e2181da2054e4f"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/terrarium-charcoal-alpha.png",
+      "bytes": 1777766,
+      "sha256": "0ba70db41751bad458875de86a7ed41377b7760f60e1a89482ecea0596e52ce9"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/terrarium-funnel-alpha.json",
+      "bytes": 878,
+      "sha256": "7dcb23cae71fe6d83e143c19e72cb888adef77793fe91b574ab3236dda8b8aad"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/terrarium-funnel-alpha.png",
+      "bytes": 1998170,
+      "sha256": "9a4e81d49a586570b10d2d96b28d638946ea87f2178c722390bca50e97077eed"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/terrarium-mister-alpha.json",
+      "bytes": 879,
+      "sha256": "13e071142bc24c09f4d278bdd9104be998879b770e264c60055a4192ca84dac0"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/terrarium-mister-alpha.png",
+      "bytes": 2001178,
+      "sha256": "2870caf2982a7ba76ef534f0640643237b83f6d2bb2eae68142ceec0c067ecf3"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/terrarium-moss-alpha.json",
+      "bytes": 871,
+      "sha256": "b7dabc3d1fd24a7a0f1a0d82f168828cfd0006cb8bfde731e5b8548c24424d81"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/terrarium-moss-alpha.png",
+      "bytes": 2128966,
+      "sha256": "b3fec1692cc376c91d3ababbb534b75de39dcd542b34b042916a9a393d3f2e1a"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/terrarium-pebbles-alpha.json",
+      "bytes": 882,
+      "sha256": "a5155bcac718d8bed42012987212f1d659b5aae0f8886449b5975757e61ee8fd"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/terrarium-pebbles-alpha.png",
+      "bytes": 2381639,
+      "sha256": "f070f1747d5fd06c5b588c90898008e9b3a8839cde9ecaa4d7d5af5c1ae54d65"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/terrarium-tweezers-alpha.json",
+      "bytes": 885,
+      "sha256": "afb5a8af78ff0fb0e9e94cea96943361c8f941d72a8cade49587f840c69c6074"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/terrarium-tweezers-alpha.png",
+      "bytes": 2081495,
+      "sha256": "49c272f840e5ac40ee3788b8137e14b00652a282fcd2afe7e2ca5b1be3d211be"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/tet-lucky-envelope-alpha.json",
+      "bytes": 884,
+      "sha256": "a60604a72d0dd807481b1592bc3c1de975b301d4eb83932c5ed962785db4eccc"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/tet-lucky-envelope-alpha.png",
+      "bytes": 1862988,
+      "sha256": "3d1a0c248f31c0296d2c183ab735ebf17b76cc930020f50a90e82776d8b844ec"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/theatre-ticket-alpha.json",
+      "bytes": 887,
+      "sha256": "b21627292f96bf42722e41e95095992a2a7a39d6878ee43d0a477bd578903d3e"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/theatre-ticket-alpha.png",
+      "bytes": 1722117,
+      "sha256": "e4b2b9b8e8f8a4665d00f6b0510448a16e3ffedb774e804c3bda30e7040b3c07"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/weather-barometer-alpha.json",
+      "bytes": 881,
+      "sha256": "21f91ac823669980040567bfce5f2df3420d5170902514526a5ab78944bab316"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/weather-barometer-alpha.png",
+      "bytes": 2170753,
+      "sha256": "61be02097c9413576f367054b620584da5ec75fb42ca585faee46f364c7725aa"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/weather-rain-gauge-alpha.json",
+      "bytes": 884,
+      "sha256": "99d6947234ac34d0c35743b65027554a1ef6a316ef51bc446b77b4a0a5521f42"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/weather-rain-gauge-alpha.png",
+      "bytes": 2108852,
+      "sha256": "c8b17471ae2b7d3f8f16173f29e3179075e011c10ad8cc639d578eba0c21bf29"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/weather-shelter-alpha.json",
+      "bytes": 874,
+      "sha256": "b99372e82ae444d4cb1f5d8f65976ea7d4571326c81f0a9cc99356e3be51e12f"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/weather-shelter-alpha.png",
+      "bytes": 2151744,
+      "sha256": "5904dfd75c729f7f7c78f241726c33711d5dda6be6b4b71dfadff3a87b764710"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/wetland-cattails-alpha.json",
+      "bytes": 878,
+      "sha256": "cef0db90743f4c31d4b5da08b325ae8a969fd17a5a9487abad8b0e31056bd498"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/wetland-cattails-alpha.png",
+      "bytes": 2131218,
+      "sha256": "aa5cea8962013e4d69bc505b2508a10d2397f60c9216e47856f02ab80443096a"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/wetland-kingfisher-alpha.json",
+      "bytes": 885,
+      "sha256": "3c9c4a6eaedb8933c7ec51c06c3d89e6942e821777fe05190cd79f27b70578dd"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/wetland-kingfisher-alpha.png",
+      "bytes": 2051496,
+      "sha256": "ed6ea8907882d1e4f73b955dfaf6f8231120aa8f1e800cc9b77c9c10808ab4e3"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/wetland-water-lily-alpha.json",
+      "bytes": 898,
+      "sha256": "d0b42f18c8821f3d8cf6986ce8cd9a339a3a65e2462162929ef4d19d6a5e6c10"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/wetland-water-lily-alpha.png",
+      "bytes": 1998312,
+      "sha256": "4e142aa6747ff07267d09a1422d966a49a75c96dca20b87237fe8e666e7a2fd4"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/wild-blackberry-branch-alpha.json",
+      "bytes": 896,
+      "sha256": "c6e7f187216315e3fbc2baa7ff12f7f874a7e4c7df97abe5c007a06b378b92fb"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/wild-blackberry-branch-alpha.png",
+      "bytes": 2191613,
+      "sha256": "dfd14d212a3adba47ddfb968b93416294b1a32b1701861d4f9bf1ed080906ec4"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/wild-chestnut-alpha.json",
+      "bytes": 868,
+      "sha256": "9a5509cfcf4654140e56b310789bc9e275f0b2e8467cac2ce1da904b3b45b720"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/wild-chestnut-alpha.png",
+      "bytes": 2160490,
+      "sha256": "b537dd415b88c2d6d5a21c844fde1d410bb9dfed4f8a347da90432ce9399d90b"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/wild-rosehips-alpha.json",
+      "bytes": 884,
+      "sha256": "c76e9da69efb976c2ca7be022b6ef300663058595d3e9f8d8ee13acac53ca8a9"
+    },
+    {
+      "path": "revisions/background-cleanup-20260915/wild-rosehips-alpha.png",
+      "bytes": 1693566,
+      "sha256": "32339bea1c37d06f7fafb34c654208644aa4b88648ef9cc6dde2aa540610e0d3"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-dolma-alpha.json",
+      "bytes": 862,
+      "sha256": "0ea94263fb004c7b97aaaa93eae50f3ffff6a9e378626c9664c36c47a5b01e2b"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-dolma-alpha.png",
+      "bytes": 944960,
+      "sha256": "c38696d635d4b3422b6e811999580260d5da5d0a4753aa9429e6757278afb239"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-dolma-final-alpha.json",
+      "bytes": 1136,
+      "sha256": "3e548c0913d4228ab71ef221f3d86498b39a700de65d5ffc24a4a114c7d32e2f"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-dolma-final-alpha.png",
+      "bytes": 944961,
+      "sha256": "647f120ba91bcbbb7c8acbbebbe8c39a62b3124f2f7be9d4ee809e0829360f40"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-falafel-alpha.json",
+      "bytes": 868,
+      "sha256": "16b08f5ec03a401a0dba2a8f7b4abcaf82588a93ea96768136cd6ff234cefca6"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-falafel-alpha.png",
+      "bytes": 1107325,
+      "sha256": "080b38a59dd65e62bcf6375b941eab00d405023d473e0a3ca70392c07f589cb0"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-falafel-final-alpha.json",
+      "bytes": 1144,
+      "sha256": "1c4b40dcb57e412f155c35593fb674aee06f86f7457fd90ec3287d431cf49c45"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-falafel-final-alpha.png",
+      "bytes": 1106830,
+      "sha256": "f11e2d45e3eafeba7dfb809d617a2eca69db850b4b2d308c1b6dd665539b1b37"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-hummus-alpha.json",
+      "bytes": 866,
+      "sha256": "fce81c5c177347a994ededdd93c906603a6965eb679a8d3f93e762394f505c52"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-hummus-alpha.png",
+      "bytes": 1013697,
+      "sha256": "3e2f36ecfaf1915ff68a7b2ccb51cbbf3783cf5b421ab09bccc25e48af94c6fa"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-hummus-final-alpha.json",
+      "bytes": 1141,
+      "sha256": "c926d2e8d86b08f811e1d00742bf20e7433099d352243c12797a66fe305ea7a6"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-hummus-final-alpha.png",
+      "bytes": 1011507,
+      "sha256": "8fdf2ff039614ff164043198f4255d4a4f0c243fd36758b4b347bf408301f875"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-olive-dish-alpha.json",
+      "bytes": 893,
+      "sha256": "09394d10c07787562708aa0cb8a9af57321bf7283d6e69f15d9653e3a447b654"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-olive-dish-alpha.png",
+      "bytes": 1734718,
+      "sha256": "ab6f18f5f78814c1b4b2ec53576325d70f2bb0555508468f8e87ab9fbcc88eba"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-olive-dish-final-alpha.json",
+      "bytes": 1170,
+      "sha256": "0699494d813a499047cfe175e87a43cb6351c9abd9e6941285454249ba470fe8"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-olive-dish-final-alpha.png",
+      "bytes": 1734708,
+      "sha256": "f3622028a218b9497dc484573b7dd575c822e34a2727f6e97cd8d3bc96be8b2e"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-pita-alpha.json",
+      "bytes": 859,
+      "sha256": "163de98ef029d48debe59eba1ba5cba6d2ad1a711155c53edd01762fece56b91"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-pita-alpha.png",
+      "bytes": 2158657,
+      "sha256": "cbef55c5a60ec175533f84452851793bb5c16c6f32f1522873b6167c8ee052c1"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-pita-final-alpha.json",
+      "bytes": 1130,
+      "sha256": "d12c5b1b20834cc50f1b96eefd29f58b161b6e8f13231597d4d768e319a98d2c"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-pita-final-alpha.png",
+      "bytes": 2158577,
+      "sha256": "6f5167b4de8da3a7a8c962656b034b95fc9b554def10e4a6cbf59f21c66c05eb"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-tzatziki-alpha.json",
+      "bytes": 871,
+      "sha256": "3932f6e5731556bb0d5cc7d31af112a5f58aa19d9bf5c799a11b7f2161958236"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-tzatziki-alpha.png",
+      "bytes": 2177146,
+      "sha256": "fb470ead74d44187c470bf6ba213c6f50be52bbe2fe0c33c3a7cb88875389804"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-tzatziki-final-alpha.json",
+      "bytes": 1146,
+      "sha256": "2574f389c59b6c598907fdfd644392f09158c6fa3eb44cc4e36ce499dd02bddc"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/mezze-tzatziki-final-alpha.png",
+      "bytes": 2177110,
+      "sha256": "832ce84513bc04d6ff12bc2d7ab25b4fd628d5b2022b03e8f30c0fcbd086db5e"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-bento-box-alpha.json",
+      "bytes": 877,
+      "sha256": "eccefd28c020ec2024c934542f6ad56de718b6bf584e50471cab8e598c974fc9"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-bento-box-alpha.png",
+      "bytes": 2279191,
+      "sha256": "4e0723583239011a621e6bb6ef9c7ba5639369092613605b7ce87a89f55277fc"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-bento-box-final-alpha.json",
+      "bytes": 1154,
+      "sha256": "2dbbedddf6667d3054469d035d5a2735c3d0078fe29bef9cb1588effbb7ddfaa"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-bento-box-final-alpha.png",
+      "bytes": 2279181,
+      "sha256": "31ee4dccb67bdf47f872fda1884ed19267b8d6576cdb2dbbee68300d7b493a16"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-grass-mat-alpha.json",
+      "bytes": 879,
+      "sha256": "66705185a3ec696887a42ee17f6d9a35e2424ec7fbef443bc4395978975e27c7"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-grass-mat-alpha.png",
+      "bytes": 2140245,
+      "sha256": "32b39cfd8783cbdc1c91e8e122a27dcb7d8ea2cc3cb5682ae5b6011edc1f8e29"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-grass-mat-final-alpha.json",
+      "bytes": 1156,
+      "sha256": "e6d750cf723b34491f031cf00cd81f94328e07145d2bf4c01564b004f4bf288b"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-grass-mat-final-alpha.png",
+      "bytes": 2140222,
+      "sha256": "958ef44d3cb08e92acd49075ebe117031ff9d42423aacdf6455501400342a9e9"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-insulated-flask-alpha.json",
+      "bytes": 895,
+      "sha256": "cc65d2564017e06e65e7d267245aed75741ae64e365fe956198426790e32ab11"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-insulated-flask-alpha.png",
+      "bytes": 782467,
+      "sha256": "2ecb47dad9b6c919f3268adf8c34681f5242e0a65d26faaa4481011b49678808"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-insulated-flask-final-alpha.json",
+      "bytes": 1455,
+      "sha256": "400ae69481381a88a11207f5b904bb20afb2a264eed6d09e68b7197c849a5326"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-insulated-flask-final-alpha.png",
+      "bytes": 783567,
+      "sha256": "2138c940bf04c3fa16f5370579ffef33aeff458141aec7a63e72c612e5b35df4"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-lemonade-dispenser-alpha.json",
+      "bytes": 905,
+      "sha256": "2bd1f800d646648e53711471cd74a921393b8a9a37f6823a68ae6a72ad854b72"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-lemonade-dispenser-alpha.png",
+      "bytes": 1069097,
+      "sha256": "768c2375c80c2e27a3ce193f3d05ade8271b6fa7115eaa2acf1411e838962982"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-lemonade-dispenser-final-alpha.json",
+      "bytes": 1193,
+      "sha256": "8f7938101ab69c0fbe4abb7419d69ad5cbf367531c46577d506b0d572a81e6a7"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-lemonade-dispenser-final-alpha.png",
+      "bytes": 1069089,
+      "sha256": "6ec5effd4a72000093a5eee480f78e78d98dcebc3a0a38a44d45ceb40c2cd5d2"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-reusable-cutlery-alpha.json",
+      "bytes": 898,
+      "sha256": "465efdf8e2221a7ca28bbd82242609cf0e186ef15fed1847119c546b978719e6"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-reusable-cutlery-alpha.png",
+      "bytes": 1319180,
+      "sha256": "268b369ca74b8e30bdce63227690001f09339b48bf160efb1b5f960e151f3eac"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-reusable-cutlery-final-alpha.json",
+      "bytes": 1184,
+      "sha256": "d3eb2555781279e8ae7b1487891408a30382213a6eef7e1a691b299b3496d76d"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-reusable-cutlery-final-alpha.png",
+      "bytes": 1319154,
+      "sha256": "60c324179b8560ed66ac882bb88e32bc855efbfce5d9db41d5bea252015da5d4"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-sandwich-wrap-alpha.json",
+      "bytes": 888,
+      "sha256": "5a994c2698801337f1bc5273fc2fe58262cf7238b62ea537ecd3eab80002080d"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-sandwich-wrap-alpha.png",
+      "bytes": 1375420,
+      "sha256": "51f6687d00051f4d3d059bc063dd209f1160a7bea96783532834a6829272571e"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-sandwich-wrap-final-alpha.json",
+      "bytes": 1310,
+      "sha256": "b42741f8e263c97c95ffcb2a517a6000f8013ef4e27380aee21fdb97763238db"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/picnic-sandwich-wrap-final-alpha.png",
+      "bytes": 1375127,
+      "sha256": "2fc188be1b61cb2528b63fb7978faa6f67f836a099bb0de3954c03c5cbfc0f18"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-beaver-alpha.json",
+      "bytes": 887,
+      "sha256": "09cfe1553ecf3ed597c3e6727cb615ad24c0cef9975dba108efa0db213f36b4e"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-beaver-alpha.png",
+      "bytes": 1595343,
+      "sha256": "f60b8cfe6483d44e1a43d26acd88492a6882c767a63e213d2f72b7877f73b468"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-beaver-final-alpha.json",
+      "bytes": 1162,
+      "sha256": "75fc44346294733bfd5fab9c800d1397286dac7562a94901bb3b83c0730b3e97"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-beaver-final-alpha.png",
+      "bytes": 1595258,
+      "sha256": "a1a0aa706810a9533b8919632e0ee4bfdf4ecdc2b70227e190f805ecd22cca18"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-heron-alpha.json",
+      "bytes": 869,
+      "sha256": "6a9625efef537d818503e24ab5ba7f0b3403633d10f27e9616db5a71d6ccef27"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-heron-alpha.png",
+      "bytes": 2142640,
+      "sha256": "acbde524e9faf1fd7be8674b665cfe83ac7a0622ad570f01e91f66afe3900c4a"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-heron-final-alpha.json",
+      "bytes": 1143,
+      "sha256": "3f21c89e0efeac41e9c23eef3fabfa8b452986722be0790354e86e9838f0f781"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-heron-final-alpha.png",
+      "bytes": 2142575,
+      "sha256": "70064c5633fb9d3d3c337ef60d1920968ee33aeb965d9636c28bac75d63c7255"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-muskrat-alpha.json",
+      "bytes": 891,
+      "sha256": "db86fe60fad81d6f5b45c1665c95b32cee9b8b909fba1d46df8fe20ba6b3d39a"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-muskrat-alpha.png",
+      "bytes": 1488521,
+      "sha256": "23a11f3f735df8b51e4ac9043e1e7ec4a2fa1e81b4179f4575c53fca1f7b2050"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-muskrat-final-alpha.json",
+      "bytes": 1027,
+      "sha256": "690916d6bea4d8c0f5eda87a0af003f4a1c94523b3f64face8bb8614cc52e675"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-muskrat-final-alpha.png",
+      "bytes": 1483132,
+      "sha256": "a67c3586abcc29bb6ca389f2177cebd49ff19b5c966cc9a8866086997973d410"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-muskrat-refined-alpha.json",
+      "bytes": 1178,
+      "sha256": "41a1c9e075b6dd2bb2727b79f31cec69096f036a050b72828486669a747965f9"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-muskrat-refined-alpha.png",
+      "bytes": 1512975,
+      "sha256": "444e8f2213b121d106efc936f08b2e38158cc1d80b8865d8a4a7f991397da4b4"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-muskrat-selected-alpha.json",
+      "bytes": 1382,
+      "sha256": "3508772061cec02d9f0ae8d1e1ee034a2d9db4a72afd79b3dff2f8942129657a"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-muskrat-selected-alpha.png",
+      "bytes": 1484430,
+      "sha256": "21cc474566e1daa6580655d2ce779558254d025c86c69ef3448d1bb412f8c2db"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-otter-alpha.json",
+      "bytes": 868,
+      "sha256": "32c6f2f18f0f9aa29251640e732ac275f97b5fc1fa4f1465dad08d0322953074"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-otter-alpha.png",
+      "bytes": 839049,
+      "sha256": "349141b29ed56a02e6769a33707724704bafdd03d6f632536d844878529ac927"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-otter-final-alpha.json",
+      "bytes": 1144,
+      "sha256": "0ac32f330730d53173721c150ddca65789d3031aeee4faa0b5b7fcb278a9f366"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-otter-final-alpha.png",
+      "bytes": 835274,
+      "sha256": "7f1a466c939846f762f1cbbfd8192a00ff1530e3decb1f55a30039935429d5c0"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-water-strider-alpha.json",
+      "bytes": 894,
+      "sha256": "09b3c4c74a0c8cc4ab3975c6392f0dbf82abdb4769ae152dada3126a06fb6018"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-water-strider-alpha.png",
+      "bytes": 1887309,
+      "sha256": "89951ac0e36e555bb9fa34d6e4067a362d5edc817fcd4fdc41ee71c3e1bd9133"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-water-strider-final-alpha.json",
+      "bytes": 1176,
+      "sha256": "3f57a463ad1d61df7e825715aad461925bc955f65c3e1a54e6a93c0bbc975b80"
+    },
+    {
+      "path": "revisions/background-cleanup-20260916/wetland-water-strider-final-alpha.png",
+      "bytes": 1887173,
+      "sha256": "bbaa9ca0f0560b3794e5558374fa0affc9cff666b730c77c6c630a2f7dd86e65"
+    },
+    {
+      "path": "revisions/background-pilot-20260917/tet-lucky-envelope-alpha.json",
+      "bytes": 882,
+      "sha256": "2e7be869023bb34a6ba62aa6c6a4bbd6263ea66b6f4b741fe1e248ce1a786b9a"
+    },
+    {
+      "path": "revisions/background-pilot-20260917/tet-lucky-envelope-alpha.png",
+      "bytes": 1862988,
+      "sha256": "3d1a0c248f31c0296d2c183ab735ebf17b76cc930020f50a90e82776d8b844ec"
     },
     {
       "path": "revisions/bongos-padding-20260915.png",
       "bytes": 1593836,
       "sha256": "3caa505863d80bd6c0d301d6c2da9a4c08dff4a485b14d4319886857f76f5e54"
+    },
+    {
+      "path": "revisions/candidates/mineral-amethyst-dark-preview.png",
+      "bytes": 714829,
+      "sha256": "16a688b9e1e29d3c0fc39e0132bcdb4afc594a21042312092c8be844cc76d993"
+    },
+    {
+      "path": "revisions/candidates/mineral-amethyst-style-v2-alpha.png",
+      "bytes": 823836,
+      "sha256": "aa50141235fec1f1e04354a4d476cc871ee3871668777581230a43f2bfa81184"
+    },
+    {
+      "path": "revisions/candidates/mineral-amethyst-style-v2.png",
+      "bytes": 835566,
+      "sha256": "87b6223169750769c80cb9f0c2193fc3d2490abfad0f6fd189f064b75c4555f2"
     },
     {
       "path": "revisions/ceramic-kiln-brick.png",
@@ -10822,9 +13047,234 @@
       "sha256": "e2a5f54755665af76a834b7e05c83e2b15f8063a3f25b06a5009f7b58059b4df"
     },
     {
+      "path": "revisions/generation-20260916/originals/mezze-dolma.png",
+      "bytes": 980578,
+      "sha256": "4f6c645464c200bc45af7fa090848428cd6bb90a769d67e83b417702b13396b3"
+    },
+    {
+      "path": "revisions/generation-20260916/originals/mezze-falafel.png",
+      "bytes": 1128023,
+      "sha256": "b137084d79c149bb7a84461ba054798f8b3145624a9a14d5860f083eb7b4c7bf"
+    },
+    {
+      "path": "revisions/generation-20260916/originals/mezze-hummus.png",
+      "bytes": 1034167,
+      "sha256": "8cfce298551fabd7b04d6137c7f705caddafb7b94804bd3fb1379b6a2d1e3a72"
+    },
+    {
+      "path": "revisions/generation-20260916/originals/mezze-olive-dish.png",
+      "bytes": 1559314,
+      "sha256": "da8a517e7b0e6438f8616c90ee591a221c60548f41546ac48b07a74663f9633c"
+    },
+    {
+      "path": "revisions/generation-20260916/originals/mezze-pita.png",
+      "bytes": 1912293,
+      "sha256": "def9a3768ec908abd7f00ccdbaada43ca0d5c8747269a561a663f9aa53d6eb7a"
+    },
+    {
+      "path": "revisions/generation-20260916/originals/mezze-tzatziki.png",
+      "bytes": 1957348,
+      "sha256": "efee37fde5b527406a6a367a9f2a1572c62d2957c5b565eacaaa06392c51cf4b"
+    },
+    {
+      "path": "revisions/generation-20260916/originals/picnic-bento-box.png",
+      "bytes": 2023858,
+      "sha256": "4b92ee227fe1d6d65c7c5cd04ad367e31de6cfbde9615cda6a0ef95efca32eb4"
+    },
+    {
+      "path": "revisions/generation-20260916/originals/picnic-grass-mat.png",
+      "bytes": 1933949,
+      "sha256": "2516e3aaa3acbad3f46c35e1187788f5fee95e52ad3e0508f47cda018839b134"
+    },
+    {
+      "path": "revisions/generation-20260916/originals/picnic-insulated-flask.png",
+      "bytes": 807233,
+      "sha256": "0cd7ba9c419360cfd50b2594e42b648bc7f851469d1802a4463f85c889f8a947"
+    },
+    {
+      "path": "revisions/generation-20260916/originals/picnic-lemonade-dispenser.png",
+      "bytes": 1081637,
+      "sha256": "27f5a39f451775f826aa2fdf5ab6e1b0f8bed19d992163f9858489e72470a290"
+    },
+    {
+      "path": "revisions/generation-20260916/originals/picnic-reusable-cutlery.png",
+      "bytes": 1353788,
+      "sha256": "db18632c17415da588d876c3be7a40aee692d33ada9eaba3baa4938f4a583e60"
+    },
+    {
+      "path": "revisions/generation-20260916/originals/picnic-sandwich-wrap.png",
+      "bytes": 1394623,
+      "sha256": "87fac4cfdf86e3328f6ccf7216fb2f1fbe276e6a08227bee6815db26509269d8"
+    },
+    {
+      "path": "revisions/generation-20260916/originals/wetland-beaver.png",
+      "bytes": 1425010,
+      "sha256": "bf0d6d4c9c79380c386d01709220c9428f4322557b80c7842cf0ae652f5d16a8"
+    },
+    {
+      "path": "revisions/generation-20260916/originals/wetland-heron.png",
+      "bytes": 1951830,
+      "sha256": "e9beb8bf6d2df2a1e0bb0aa225d8f10990f2fac18902aadd78572285ab3688c1"
+    },
+    {
+      "path": "revisions/generation-20260916/originals/wetland-muskrat.png",
+      "bytes": 1328730,
+      "sha256": "8f22b4e69b4524b1dba6004e63d2cf7fb17a450ce3489622b0bed283a6e72362"
+    },
+    {
+      "path": "revisions/generation-20260916/originals/wetland-otter.png",
+      "bytes": 874189,
+      "sha256": "eb1c0b469708f402fc608f67d9423f30fa95521754240b278d517ad73b8e89b7"
+    },
+    {
+      "path": "revisions/generation-20260916/originals/wetland-water-strider.png",
+      "bytes": 1698401,
+      "sha256": "7ee72b34ac862be8b5f51c46177de7b96df76fe8ca4d9c4071bd67504c114dc1"
+    },
+    {
+      "path": "revisions/generation-20260916/picnic-grass-mat-first-request.json",
+      "bytes": 1917,
+      "sha256": "51356f5531aa25bee13602f69ea8eac2ff48ef31538c29366837c7a6a6435c47"
+    },
+    {
+      "path": "revisions/generation-20260916/picnic-grass-mat-first.png",
+      "bytes": 1006107,
+      "sha256": "104fa42e67008937edab2e1e46f1d18554e6c8cc0d4b0d2cc648739a9e649ad2"
+    },
+    {
+      "path": "revisions/generation-20260916/superseded/delivery/_needs-alpha/freshwater-wetland/wetland-beaver.png",
+      "bytes": 1425010,
+      "sha256": "bf0d6d4c9c79380c386d01709220c9428f4322557b80c7842cf0ae652f5d16a8"
+    },
+    {
+      "path": "revisions/generation-20260916/superseded/delivery/_needs-alpha/freshwater-wetland/wetland-heron.png",
+      "bytes": 1951830,
+      "sha256": "e9beb8bf6d2df2a1e0bb0aa225d8f10990f2fac18902aadd78572285ab3688c1"
+    },
+    {
+      "path": "revisions/generation-20260916/superseded/delivery/_needs-alpha/freshwater-wetland/wetland-muskrat.png",
+      "bytes": 1328730,
+      "sha256": "8f22b4e69b4524b1dba6004e63d2cf7fb17a450ce3489622b0bed283a6e72362"
+    },
+    {
+      "path": "revisions/generation-20260916/superseded/delivery/_needs-alpha/freshwater-wetland/wetland-water-strider.png",
+      "bytes": 1698401,
+      "sha256": "7ee72b34ac862be8b5f51c46177de7b96df76fe8ca4d9c4071bd67504c114dc1"
+    },
+    {
+      "path": "revisions/generation-20260916/superseded/delivery/_needs-alpha/mediterranean-mezze/mezze-olive-dish.png",
+      "bytes": 1559314,
+      "sha256": "da8a517e7b0e6438f8616c90ee591a221c60548f41546ac48b07a74663f9633c"
+    },
+    {
+      "path": "revisions/generation-20260916/superseded/delivery/_needs-alpha/mediterranean-mezze/mezze-pita.png",
+      "bytes": 1912293,
+      "sha256": "def9a3768ec908abd7f00ccdbaada43ca0d5c8747269a561a663f9aa53d6eb7a"
+    },
+    {
+      "path": "revisions/generation-20260916/superseded/delivery/_needs-alpha/mediterranean-mezze/mezze-tzatziki.png",
+      "bytes": 1957348,
+      "sha256": "efee37fde5b527406a6a367a9f2a1572c62d2957c5b565eacaaa06392c51cf4b"
+    },
+    {
+      "path": "revisions/generation-20260916/superseded/delivery/_needs-alpha/picnic-day/picnic-bento-box.png",
+      "bytes": 2023858,
+      "sha256": "4b92ee227fe1d6d65c7c5cd04ad367e31de6cfbde9615cda6a0ef95efca32eb4"
+    },
+    {
+      "path": "revisions/generation-20260916/superseded/delivery/_needs-alpha/picnic-day/picnic-grass-mat.png",
+      "bytes": 1933949,
+      "sha256": "2516e3aaa3acbad3f46c35e1187788f5fee95e52ad3e0508f47cda018839b134"
+    },
+    {
+      "path": "revisions/generation-20260916/superseded/delivery/stickers/freshwater-wetland/wetland-otter.png",
+      "bytes": 874189,
+      "sha256": "eb1c0b469708f402fc608f67d9423f30fa95521754240b278d517ad73b8e89b7"
+    },
+    {
+      "path": "revisions/generation-20260916/superseded/delivery/stickers/mediterranean-mezze/mezze-dolma.png",
+      "bytes": 980578,
+      "sha256": "4f6c645464c200bc45af7fa090848428cd6bb90a769d67e83b417702b13396b3"
+    },
+    {
+      "path": "revisions/generation-20260916/superseded/delivery/stickers/mediterranean-mezze/mezze-falafel.png",
+      "bytes": 1128023,
+      "sha256": "b137084d79c149bb7a84461ba054798f8b3145624a9a14d5860f083eb7b4c7bf"
+    },
+    {
+      "path": "revisions/generation-20260916/superseded/delivery/stickers/mediterranean-mezze/mezze-hummus.png",
+      "bytes": 1034167,
+      "sha256": "8cfce298551fabd7b04d6137c7f705caddafb7b94804bd3fb1379b6a2d1e3a72"
+    },
+    {
+      "path": "revisions/generation-20260916/superseded/delivery/stickers/picnic-day/picnic-insulated-flask.png",
+      "bytes": 807233,
+      "sha256": "0cd7ba9c419360cfd50b2594e42b648bc7f851469d1802a4463f85c889f8a947"
+    },
+    {
+      "path": "revisions/generation-20260916/superseded/delivery/stickers/picnic-day/picnic-lemonade-dispenser.png",
+      "bytes": 1081637,
+      "sha256": "27f5a39f451775f826aa2fdf5ab6e1b0f8bed19d992163f9858489e72470a290"
+    },
+    {
+      "path": "revisions/generation-20260916/superseded/delivery/stickers/picnic-day/picnic-reusable-cutlery.png",
+      "bytes": 1353788,
+      "sha256": "db18632c17415da588d876c3be7a40aee692d33ada9eaba3baa4938f4a583e60"
+    },
+    {
+      "path": "revisions/generation-20260916/superseded/delivery/stickers/picnic-day/picnic-sandwich-wrap.png",
+      "bytes": 1394623,
+      "sha256": "87fac4cfdf86e3328f6ccf7216fb2f1fbe276e6a08227bee6815db26509269d8"
+    },
+    {
+      "path": "revisions/generation-20260916/wetland-muskrat-first-request.json",
+      "bytes": 2088,
+      "sha256": "1c7ef061ac1f37b7c15e7eebd0cd5f2fc842ebb4529d4d3604651799833832cd"
+    },
+    {
+      "path": "revisions/generation-20260916/wetland-muskrat-first.png",
+      "bytes": 792538,
+      "sha256": "0104f39c48dd01551585ea53c71f26b5ac19257cfb5ceed59f08d4fb117231aa"
+    },
+    {
+      "path": "revisions/generation-20260916/wetland-water-strider-first-request.json",
+      "bytes": 2154,
+      "sha256": "fe1a3cfcd9be1a661397502fa6e0e22623769d6dbcdf1eab53e5cd932a2ba0d2"
+    },
+    {
+      "path": "revisions/generation-20260916/wetland-water-strider-first.png",
+      "bytes": 1844547,
+      "sha256": "15d484d404404f0e00c9eb8bf0ee690279ea7c3824d201517ee6f345541b7f98"
+    },
+    {
+      "path": "revisions/generation-20260916/wetland-water-strider-second-request.json",
+      "bytes": 1639,
+      "sha256": "3ffe17909d48b8031856834f1fadd42b81ec797019ba1dd2528951d840512c42"
+    },
+    {
+      "path": "revisions/generation-20260916/wetland-water-strider-second.png",
+      "bytes": 1789372,
+      "sha256": "feae70f369fc6e865b9b91e6c072be34672e2d8df4760988dc09e7e293679e3e"
+    },
+    {
       "path": "revisions/marching-trumpet-padding-20260915.png",
       "bytes": 1903292,
       "sha256": "08ff04f380698ca6d519a4e13d56c1d061b42ecacaadd7012664459c76cf7d6f"
+    },
+    {
+      "path": "revisions/mineral-amethyst-20260917/original-delivery.png",
+      "bytes": 989681,
+      "sha256": "17ebd7a549cdd553859fc2f50af9541d7558f0e917b7c87555323db7d446dc32"
+    },
+    {
+      "path": "revisions/mineral-amethyst-20260917/original-master.png",
+      "bytes": 989681,
+      "sha256": "17ebd7a549cdd553859fc2f50af9541d7558f0e917b7c87555323db7d446dc32"
+    },
+    {
+      "path": "revisions/mineral-amethyst-20260917/promotion.json",
+      "bytes": 1339,
+      "sha256": "99a1350521cfddb8baf6985db6906b916edddd20a9f70f4eaaeb3569e3d0c75d"
     },
     {
       "path": "revisions/previous-delivery/ceramic-kiln-original.png",
@@ -10857,34 +13307,194 @@
       "sha256": "a937e03a94bd0c8009d674c671e64e2982de78610b9cd0ca2684b8b5c474797a"
     },
     {
+      "path": "scripts/alpha_cleanup.py",
+      "bytes": 5545,
+      "sha256": "0ae5732d2071d583b1a168e37f1f9effd92863826111cfed99d8597da22ac5fe"
+    },
+    {
       "path": "scripts/gallery-template.html",
-      "bytes": 5236,
-      "sha256": "7e46567f06f165fbabb9d5259e5365e35a8577c2e82919300ed47e47b54acf54"
+      "bytes": 5287,
+      "sha256": "751a3614ca243531be3db2a20138b98437315bb1676d87d7230cb97801b8bb54"
     },
     {
       "path": "scripts/workspace.py",
-      "bytes": 17015,
-      "sha256": "90c3f1e9f648e0769e555352c77a03f7561715b0f334878b39769d73490b0188"
+      "bytes": 18105,
+      "sha256": "27357e14f9eadc174cbfb458f189b32b67fbeb64832b81ea77b361de4576e514"
     },
     {
       "path": "START_HERE.vi.md",
-      "bytes": 6035,
-      "sha256": "a7e849460d31ded6fc61efcea8ef28fdef41077e6fa69b54b7556b123585868a"
+      "bytes": 6763,
+      "sha256": "fa3d8f1642d86f07e0ff0fa5dc49f2837696874dd58d50625372f55277d9f0d0"
+    },
+    {
+      "path": "state/batch-20260916.json",
+      "bytes": 1607,
+      "sha256": "9e8c268ade918f0f7f71cbbd4eee643007e1d7602fdbc622a0c4645bb65783b4"
+    },
+    {
+      "path": "state/batch-20260917-mineral-fossil.json",
+      "bytes": 20686,
+      "sha256": "ceb2cca6cfb546590e645b875fa854aaa39a0bb2315d51164938de36e032272a"
     },
     {
       "path": "state/generation-queue.json",
-      "bytes": 5985,
-      "sha256": "835a6137650aaef66ab0cc1c04e188418ad33c1ee187d6e61f724ac34e18ac74"
+      "bytes": 214,
+      "sha256": "3b6205e5b56915ea1751b5d75b859db657a5e516f5f0be0cef99acb5eba729ba"
     },
     {
       "path": "state/progress.json",
-      "bytes": 317675,
-      "sha256": "e2c182f4ec3df3df67ed3b81772662998b23bd35dff987d748b13341f28402b3"
+      "bytes": 337786,
+      "sha256": "87d93869332981f76620951b60b0a0fcbdeb1eef25f10f6dd66e5ebb2aed47c0"
     },
     {
       "path": "state/relocation-verification.json",
       "bytes": 1390,
       "sha256": "bf1bac14e7185b00e703b6f945e119e361ba867ddf7534f60befcbb05b42fcae"
+    },
+    {
+      "path": "state/requests/fossil-amber-insect.json",
+      "bytes": 2190,
+      "sha256": "bc57e3eaa73967a2faefb03f0b519f74320dfe081505ca162a639a4aaa2bf4f6"
+    },
+    {
+      "path": "state/requests/fossil-ammonite.json",
+      "bytes": 2184,
+      "sha256": "dea0a95d99ce76b3719775f0f54b48a4f4ff7723df4773d006855bec78a4c049"
+    },
+    {
+      "path": "state/requests/fossil-dinosaur-footprint.json",
+      "bytes": 2196,
+      "sha256": "d6887efcb782404771c44378a6adbaa324c2b3405ed0a7916867c823044cc299"
+    },
+    {
+      "path": "state/requests/fossil-fern.json",
+      "bytes": 2166,
+      "sha256": "412bcab9dd2e1f0374cf03b8336c6ba639f776aefd39e2fa8be43bdc173fe705"
+    },
+    {
+      "path": "state/requests/fossil-plaster-jacket.json",
+      "bytes": 2206,
+      "sha256": "78ee649b4530146e22d4872072ae75fa768daf9fd3fcbbef81a09247f4024832"
+    },
+    {
+      "path": "state/requests/fossil-rock-hammer.json",
+      "bytes": 2187,
+      "sha256": "7d12c1d5b6e61f085c479b5e21468b3973fe3a892e96b89e2ebb2c52dcc29e9c"
+    },
+    {
+      "path": "state/requests/fossil-shark-tooth.json",
+      "bytes": 2191,
+      "sha256": "9b225f186e8e0d3db0975bd7a6492f62da51f5201775712faf795d9a311c5d59"
+    },
+    {
+      "path": "state/requests/fossil-trilobite.json",
+      "bytes": 2201,
+      "sha256": "189fcfab08e3eeb70f3e7b1db91fcce7f8e6c18ccaa27573b27edd7f3fca331f"
+    },
+    {
+      "path": "state/requests/mezze-dolma.json",
+      "bytes": 1952,
+      "sha256": "79946449cc852a2bc8c7a95d302bf151401c2e01da1e989d09f4a51e54eb34db"
+    },
+    {
+      "path": "state/requests/mezze-falafel.json",
+      "bytes": 1950,
+      "sha256": "78b6cd78b5262fd8d06f542326318f45e7e7d7394eee2d2feafd899ee407a0b1"
+    },
+    {
+      "path": "state/requests/mezze-hummus.json",
+      "bytes": 1945,
+      "sha256": "625407fde1e980ee7127fba5587faee2c73d5fe2f56645b4c506e2e18207bdcf"
+    },
+    {
+      "path": "state/requests/mezze-olive-dish.json",
+      "bytes": 1941,
+      "sha256": "950721231272b5ee6bd03115376a72375f7d5d9cbe29e201187e8d2320fe7cd6"
+    },
+    {
+      "path": "state/requests/mezze-pita.json",
+      "bytes": 1911,
+      "sha256": "85715863889660a595918ad5050fb2d859dec6886874a415bcf37ac2f0bf4f46"
+    },
+    {
+      "path": "state/requests/mezze-tzatziki.json",
+      "bytes": 1935,
+      "sha256": "e424f4849c49e3e6f1de2424294294ddddefd03af866d1b911ca4d2807e5e94f"
+    },
+    {
+      "path": "state/requests/mineral-amethyst-v2.json",
+      "bytes": 1550,
+      "sha256": "aecfb85cfdcbf390dc78f18fa3660af0fd0395b84a6b571815031cb7d0da6efd"
+    },
+    {
+      "path": "state/requests/mineral-amethyst.json",
+      "bytes": 1923,
+      "sha256": "71c74dcabb4a0d7f00b8f57f1db700347c475af23086df1d02ffd90f8d1daf8f"
+    },
+    {
+      "path": "state/requests/mineral-azurite.json",
+      "bytes": 2188,
+      "sha256": "0a4c788b1a31e69cdd83ef440762687332d177b3e0f3547349426a1e4ea4eee7"
+    },
+    {
+      "path": "state/requests/mineral-fluorite.json",
+      "bytes": 2185,
+      "sha256": "0fa5dbc66e406c675955ec7ea1d9f5f6713e28b5f57b410df3ce5f10378c4460"
+    },
+    {
+      "path": "state/requests/mineral-geode.json",
+      "bytes": 2210,
+      "sha256": "89ef4a7d7cfc05cefa10eec2c62a72163ecd37444cb67b9c7ff300d514c876dd"
+    },
+    {
+      "path": "state/requests/mineral-malachite.json",
+      "bytes": 2204,
+      "sha256": "ee43254f434a2ea5cad0521c025c1059a441388bcebb564f75375a3e302618e9"
+    },
+    {
+      "path": "state/requests/mineral-pyrite.json",
+      "bytes": 2185,
+      "sha256": "00deef64885a50ca952a67d5a993b2a5b2a5b56a049597155e67dabd44f3edf0"
+    },
+    {
+      "path": "state/requests/mineral-rose-quartz.json",
+      "bytes": 2190,
+      "sha256": "4f12a1e47ce72829fb0ab857043ee97c5a01c7375d8c19dbab92862578d06a4d"
+    },
+    {
+      "path": "state/requests/mineral-selenite.json",
+      "bytes": 2193,
+      "sha256": "4629f60066c50f76a02e6683f9b402607c54f09c26139c6a8332baf5ccc88eed"
+    },
+    {
+      "path": "state/requests/picnic-bento-box.json",
+      "bytes": 1955,
+      "sha256": "4ee395ea09f56d3d0282782ffb9d877aca3352add9a6a1994d329f35f65b3f57"
+    },
+    {
+      "path": "state/requests/picnic-grass-mat.json",
+      "bytes": 1399,
+      "sha256": "fa0a473f6ba317ae69457b01402c24f9c3d55d0c4c37ccb930367a1569422b0e"
+    },
+    {
+      "path": "state/requests/picnic-insulated-flask.json",
+      "bytes": 1909,
+      "sha256": "8b3b92192983d315581bea40288b8d1bab96aa1d256e5e2f2d429f7813ce4d97"
+    },
+    {
+      "path": "state/requests/picnic-lemonade-dispenser.json",
+      "bytes": 1954,
+      "sha256": "88db94e9efdcee357f205a8a19ae1b1b95fae850e7821b9d4e62c676d10dc674"
+    },
+    {
+      "path": "state/requests/picnic-reusable-cutlery.json",
+      "bytes": 1938,
+      "sha256": "b8111fd9d863fb1f3b0e4116076f7671b75ebaf9b7fdf9a50fa01d724063dd0b"
+    },
+    {
+      "path": "state/requests/picnic-sandwich-wrap.json",
+      "bytes": 1947,
+      "sha256": "9a412080624142ca41ded02e6fb422492c0f79da512b69c3e8f17287bb098c98"
     },
     {
       "path": "state/requests/wetland-beaver.json",
@@ -10898,8 +13508,8 @@
     },
     {
       "path": "state/requests/wetland-muskrat.json",
-      "bytes": 2066,
-      "sha256": "7bf4b3b8ebb9315d74edd3dc91fc79df8ad02ef90ce4c20385f9ec3e84ec7a5f"
+      "bytes": 1484,
+      "sha256": "c6ce060ceac719b9ae9dc00864f8be25a3385e364dbecad004b288bfd3f9ed85"
     },
     {
       "path": "state/requests/wetland-otter.json",
@@ -10908,18 +13518,23 @@
     },
     {
       "path": "state/requests/wetland-water-strider.json",
-      "bytes": 2132,
-      "sha256": "acc9a1bda419e2b55feb13366179ee18e3e35e881ae85af3d06e5984209267df"
+      "bytes": 1448,
+      "sha256": "930ed063eb807f183309315e5b73f65dbad2c2e15cb03c4b6697479ab8fdb214"
     },
     {
       "path": "state/resume.json",
-      "bytes": 1158,
-      "sha256": "4fece636441f65d9dac3b161683606fc729527322b8545528f8611cabb5bcb7b"
+      "bytes": 893,
+      "sha256": "dba7fec321c590080a33c4d9c356df71a0829b5bd7a49c0771a83466c7bc785a"
+    },
+    {
+      "path": "state/work-order.json",
+      "bytes": 5900,
+      "sha256": "669b68ad0ed28a9e5a5d79dde6db16d703155372ae2f3982f40c86cc3cb9606a"
     },
     {
       "path": "workspace.json",
-      "bytes": 789,
-      "sha256": "e670ec7b1c98db8f52f82a446b23d50caff0fdd95312ff2bdd9435aa6f2b6eea"
+      "bytes": 954,
+      "sha256": "982d81201cf87a4ef4a24d594a3005d2ac12da934f8bf814d4d13df4c082aecc"
     }
   ],
   "note": "All paths are relative. Rebuild with refresh after intentional production changes."

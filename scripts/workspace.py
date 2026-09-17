@@ -159,12 +159,15 @@ def request_for(asset_id):
 def ordered_missing(p, rows):
     missing = {r["id"] for r in rows if r["status"] == "missing"}
     topics = p["topics"]
+    preferred = []
     if local("state/work-order.json").exists():
         order = read("state/work-order.json")
+        preferred = order.get("active_batch_ids", [])
         if order.get("mode") == "finish_existing_topics" and not order.get("opening_new_topics", False):
             allowed = set(order["started_topic_slugs"])
             topics = [t for t in topics if t["slug"] in allowed]
-    return list(dict.fromkeys(a for t in topics for a in t["asset_ids"] if a in missing))
+    in_scope = list(dict.fromkeys(a for t in topics for a in t["asset_ids"] if a in missing))
+    return list(dict.fromkeys([a for a in preferred if a in in_scope] + in_scope))
 
 def snapshot():
     files = []

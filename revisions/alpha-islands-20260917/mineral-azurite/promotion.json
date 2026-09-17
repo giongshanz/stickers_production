@@ -1,0 +1,21 @@
+{
+  "id": "mineral-azurite",
+  "selected_utc": "2026-09-17T08:09:24.294103+00:00",
+  "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+  "original_master": "revisions/alpha-islands-20260917/mineral-azurite/master-before.png",
+  "original_master_sha256": "69088558eb02f78cf448626bfca2007464b9b8748167b5359b65d3d1c926360e",
+  "original_delivery": "revisions/alpha-islands-20260917/mineral-azurite/delivery-before.png",
+  "original_delivery_sha256": "69088558eb02f78cf448626bfca2007464b9b8748167b5359b65d3d1c926360e",
+  "selected_master": "masters/mineral-azurite.png",
+  "selected_master_sha256": "c55745734a5123dab9fb8a62ea06bd394a51c8355987d3277d73c9b1ec90dd45",
+  "selected_delivery": "delivery/stickers/mineral-collection/mineral-azurite.png",
+  "selected_delivery_sha256": "c55745734a5123dab9fb8a62ea06bd394a51c8355987d3277d73c9b1ec90dd45",
+  "removed_detached_alpha_pixels": 634,
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+}

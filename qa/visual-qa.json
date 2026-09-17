@@ -172,7 +172,23 @@
     "picnic-bento-box",
     "picnic-insulated-flask",
     "picnic-reusable-cutlery",
-    "picnic-grass-mat"
+    "picnic-grass-mat",
+    "mineral-amethyst",
+    "mineral-pyrite",
+    "mineral-malachite",
+    "mineral-fluorite",
+    "mineral-rose-quartz",
+    "mineral-selenite",
+    "mineral-geode",
+    "mineral-azurite",
+    "fossil-ammonite",
+    "fossil-trilobite",
+    "fossil-fern",
+    "fossil-shark-tooth",
+    "fossil-dinosaur-footprint",
+    "fossil-plaster-jacket",
+    "fossil-rock-hammer",
+    "fossil-amber-insect"
   ],
   "style_reference": "references/Stickers",
   "subject_check": "See rework_candidates; other reviewed subjects provisionally accepted",
@@ -282,5 +298,8 @@
     }
   ],
   "migration_note": "Original reviews preserved. Selected masters are provisional; corner-alpha checks are not visual certification.",
-  "batch_20260916_note": "17 new IDs visually reviewed. Corrected muskrat tail, water strider six legs and mat padding with ImageGen. Alpha-only cleanup selected after dark-background review; RGB and dimensions verified unchanged. Previous rework candidates remain."
+  "batch_20260916_note": "17 new IDs visually reviewed. Corrected muskrat tail, water strider six legs and mat padding with ImageGen. Alpha-only cleanup selected after dark-background review; RGB and dimensions verified unchanged. Previous rework candidates remain.",
+  "mineral_amethyst_20260917_note": "Selected edited amethyst after visual review on a dark background. Detached alpha islands removed without RGB or dimension changes. Provisional visual acceptance; remaining project-wide QA is pending.",
+  "batch_20260917_note": "15 new mineral and fossil stickers visually reviewed for subject, style, padding, silhouette and detached alpha. All 15 have provisionally accepted selected masters; inspected four difficult edges on dark-background previews. Detached alpha islands were removed with RGB and dimensions unchanged. Existing visual rework candidates remain.",
+  "alpha_pilot_20260917_note": "tet-lucky-envelope candidate reviewed on dark and light backgrounds: printed checkerboard removed outside the white cut margin. RGB and dimensions unchanged. Master and delivery remain unchanged for user quality review; see qa/alpha-pilot-20260917/report.json."
 }

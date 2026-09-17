@@ -1,0 +1,15 @@
+{
+  "id": "mineral-amethyst",
+  "kind": "style-and-framing-edit",
+  "prompt": "Edit Image 1, the existing amethyst sticker. Preserve the same subject: a small cluster of muted violet amethyst crystals growing from a pale rock base, fully recognizable and anatomically plausible. Follow Images 2 and 3 strictly as STYLE references only, not subject references. Make the art closer to their warm hand-painted 2D casual-game style: thin locally tinted violet and warm gray outlines instead of thick dark brown lines; two or three soft same-hue shadow patches, a few broad brush marks, matte facets with restrained contrast. Reduce the entire sticker including its cut border to about 78–80% of the square canvas, with ample transparent padding on all sides. Keep a narrow smooth white cut margin and remove every detached white speck or ragged white artifact. Transparent PNG, actual alpha outside the sticker. No floor shadow, text, letters, face, gloss, or 3D toy rendering. Target 512 × 512 square canvas; do not crop the sticker.",
+  "referenced_image_paths": [
+    "revisions/mineral-amethyst-20260917/original-master.png",
+    "references/Stickers/8-Gardening/8-Gardening_1.png",
+    "references/Stickers/2. Home appliance/68-Home Appliance_2.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "tool": "built-in imagegen",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "note": "Image 1 was supplied to the tool as masters/mineral-amethyst.png before promotion; the same bytes were archived at the first reference path above."
+}

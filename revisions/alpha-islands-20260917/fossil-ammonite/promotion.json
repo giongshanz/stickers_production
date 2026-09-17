@@ -1,0 +1,21 @@
+{
+  "id": "fossil-ammonite",
+  "selected_utc": "2026-09-17T08:09:24.535329+00:00",
+  "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+  "original_master": "revisions/alpha-islands-20260917/fossil-ammonite/master-before.png",
+  "original_master_sha256": "158442d6c6435c755135ec54eb9c5471cf171da6a1ec81bbe779285da437b416",
+  "original_delivery": "revisions/alpha-islands-20260917/fossil-ammonite/delivery-before.png",
+  "original_delivery_sha256": "158442d6c6435c755135ec54eb9c5471cf171da6a1ec81bbe779285da437b416",
+  "selected_master": "masters/fossil-ammonite.png",
+  "selected_master_sha256": "9be8f349d8cbcbd541c106643c0413be07dd5fd12f5d5d180965177432d212a4",
+  "selected_delivery": "delivery/stickers/fossil-dig/fossil-ammonite.png",
+  "selected_delivery_sha256": "9be8f349d8cbcbd541c106643c0413be07dd5fd12f5d5d180965177432d212a4",
+  "removed_detached_alpha_pixels": 596,
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+}

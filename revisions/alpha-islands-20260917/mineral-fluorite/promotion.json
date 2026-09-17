@@ -1,0 +1,21 @@
+{
+  "id": "mineral-fluorite",
+  "selected_utc": "2026-09-17T08:09:23.425624+00:00",
+  "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+  "original_master": "revisions/alpha-islands-20260917/mineral-fluorite/master-before.png",
+  "original_master_sha256": "98d65c12b51c9f9949414073dd47703e637c9f51aabf54111de6b4de98a4ec7a",
+  "original_delivery": "revisions/alpha-islands-20260917/mineral-fluorite/delivery-before.png",
+  "original_delivery_sha256": "98d65c12b51c9f9949414073dd47703e637c9f51aabf54111de6b4de98a4ec7a",
+  "selected_master": "masters/mineral-fluorite.png",
+  "selected_master_sha256": "a946cfa0798c2aaab5defc48c5504375622fc312480064886f4e8c2974992c56",
+  "selected_delivery": "delivery/stickers/mineral-collection/mineral-fluorite.png",
+  "selected_delivery_sha256": "a946cfa0798c2aaab5defc48c5504375622fc312480064886f4e8c2974992c56",
+  "removed_detached_alpha_pixels": 1411,
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+}

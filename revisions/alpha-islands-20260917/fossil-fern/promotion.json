@@ -1,0 +1,21 @@
+{
+  "id": "fossil-fern",
+  "selected_utc": "2026-09-17T08:09:24.997659+00:00",
+  "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+  "original_master": "revisions/alpha-islands-20260917/fossil-fern/master-before.png",
+  "original_master_sha256": "2aa2a068b8d854de20b942e0b7e55dc7df71781b80bad5d69cd31b2eb3f445e4",
+  "original_delivery": "revisions/alpha-islands-20260917/fossil-fern/delivery-before.png",
+  "original_delivery_sha256": "2aa2a068b8d854de20b942e0b7e55dc7df71781b80bad5d69cd31b2eb3f445e4",
+  "selected_master": "masters/fossil-fern.png",
+  "selected_master_sha256": "b9057cce72ce7148c8299f74d542ea42d18432f33705bb291e0b3225b247645d",
+  "selected_delivery": "delivery/stickers/fossil-dig/fossil-fern.png",
+  "selected_delivery_sha256": "b9057cce72ce7148c8299f74d542ea42d18432f33705bb291e0b3225b247645d",
+  "removed_detached_alpha_pixels": 428,
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+}

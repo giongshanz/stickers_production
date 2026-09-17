@@ -1,0 +1,21 @@
+{
+  "id": "fossil-rock-hammer",
+  "selected_utc": "2026-09-17T08:09:25.820825+00:00",
+  "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+  "original_master": "revisions/alpha-islands-20260917/fossil-rock-hammer/master-before.png",
+  "original_master_sha256": "d42518f2d5d7c64a142eb10e47718d5a10a72ad1fa5502fd950dcee72b36eed2",
+  "original_delivery": "revisions/alpha-islands-20260917/fossil-rock-hammer/delivery-before.png",
+  "original_delivery_sha256": "d42518f2d5d7c64a142eb10e47718d5a10a72ad1fa5502fd950dcee72b36eed2",
+  "selected_master": "masters/fossil-rock-hammer.png",
+  "selected_master_sha256": "f05d2999be6f79c67b6240053fdd70f3e09fb590ad19829fd32de1d32cb69aea",
+  "selected_delivery": "delivery/stickers/fossil-dig/fossil-rock-hammer.png",
+  "selected_delivery_sha256": "f05d2999be6f79c67b6240053fdd70f3e09fb590ad19829fd32de1d32cb69aea",
+  "removed_detached_alpha_pixels": 721,
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+}

@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-16T04:13:58.179264+00:00",
+  "updated_utc": "2026-09-17T08:18:35.950425+00:00",
   "padding_definition": "Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",
   "assets": [
     {
@@ -3655,6 +3655,342 @@
       "transparent_pixels": 994401,
       "partial_alpha_pixels": 7928,
       "opaque_pixels": 570187
+    },
+    {
+      "id": "fossil-ammonite",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        138,
+        125,
+        128,
+        107
+      ],
+      "review_edge": false,
+      "transparent_pixels": 846798,
+      "partial_alpha_pixels": 724784,
+      "opaque_pixels": 934
+    },
+    {
+      "id": "fossil-trilobite",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        175,
+        135,
+        163,
+        129
+      ],
+      "review_edge": false,
+      "transparent_pixels": 864788,
+      "partial_alpha_pixels": 707282,
+      "opaque_pixels": 446
+    },
+    {
+      "id": "fossil-fern",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        134,
+        102,
+        120,
+        92
+      ],
+      "review_edge": false,
+      "transparent_pixels": 855399,
+      "partial_alpha_pixels": 716324,
+      "opaque_pixels": 793
+    },
+    {
+      "id": "fossil-shark-tooth",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        156,
+        96,
+        157,
+        97
+      ],
+      "review_edge": false,
+      "transparent_pixels": 993530,
+      "partial_alpha_pixels": 578300,
+      "opaque_pixels": 686
+    },
+    {
+      "id": "fossil-dinosaur-footprint",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        127,
+        162,
+        117,
+        126
+      ],
+      "review_edge": false,
+      "transparent_pixels": 869691,
+      "partial_alpha_pixels": 701982,
+      "opaque_pixels": 843
+    },
+    {
+      "id": "fossil-plaster-jacket",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        90,
+        171,
+        80,
+        167
+      ],
+      "review_edge": false,
+      "transparent_pixels": 882445,
+      "partial_alpha_pixels": 689250,
+      "opaque_pixels": 821
+    },
+    {
+      "id": "fossil-rock-hammer",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        166,
+        78,
+        171,
+        54
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1259050,
+      "partial_alpha_pixels": 312353,
+      "opaque_pixels": 1113
+    },
+    {
+      "id": "fossil-amber-insect",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        198,
+        172,
+        205,
+        159
+      ],
+      "review_edge": false,
+      "transparent_pixels": 985885,
+      "partial_alpha_pixels": 586242,
+      "opaque_pixels": 389
+    },
+    {
+      "id": "mineral-amethyst",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        205,
+        142,
+        156,
+        125
+      ],
+      "review_edge": false,
+      "transparent_pixels": 972430,
+      "partial_alpha_pixels": 599187,
+      "opaque_pixels": 899
+    },
+    {
+      "id": "mineral-pyrite",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        191,
+        192,
+        191,
+        181
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1023151,
+      "partial_alpha_pixels": 548653,
+      "opaque_pixels": 712
+    },
+    {
+      "id": "mineral-malachite",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        103,
+        174,
+        77,
+        158
+      ],
+      "review_edge": false,
+      "transparent_pixels": 860064,
+      "partial_alpha_pixels": 711956,
+      "opaque_pixels": 496
+    },
+    {
+      "id": "mineral-fluorite",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        111,
+        151,
+        111,
+        138
+      ],
+      "review_edge": false,
+      "transparent_pixels": 890768,
+      "partial_alpha_pixels": 680423,
+      "opaque_pixels": 1325
+    },
+    {
+      "id": "mineral-rose-quartz",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        148,
+        131,
+        134,
+        112
+      ],
+      "review_edge": false,
+      "transparent_pixels": 897208,
+      "partial_alpha_pixels": 675096,
+      "opaque_pixels": 212
+    },
+    {
+      "id": "mineral-selenite",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        306,
+        70,
+        304,
+        63
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1072805,
+      "partial_alpha_pixels": 498250,
+      "opaque_pixels": 1461
+    },
+    {
+      "id": "mineral-geode",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        83,
+        164,
+        78,
+        143
+      ],
+      "review_edge": false,
+      "transparent_pixels": 868468,
+      "partial_alpha_pixels": 703938,
+      "opaque_pixels": 110
+    },
+    {
+      "id": "mineral-azurite",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        162,
+        181,
+        160,
+        175
+      ],
+      "review_edge": false,
+      "transparent_pixels": 997012,
+      "partial_alpha_pixels": 574957,
+      "opaque_pixels": 547
     },
     {
       "id": "mezze-hummus",

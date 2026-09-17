@@ -1,0 +1,21 @@
+{
+  "id": "fossil-shark-tooth",
+  "selected_utc": "2026-09-17T08:09:25.205033+00:00",
+  "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+  "original_master": "revisions/alpha-islands-20260917/fossil-shark-tooth/master-before.png",
+  "original_master_sha256": "20674d7accaebd5fa3b43692c2d4449386da386ea5d7466c12a2cb6d6aba3d73",
+  "original_delivery": "revisions/alpha-islands-20260917/fossil-shark-tooth/delivery-before.png",
+  "original_delivery_sha256": "20674d7accaebd5fa3b43692c2d4449386da386ea5d7466c12a2cb6d6aba3d73",
+  "selected_master": "masters/fossil-shark-tooth.png",
+  "selected_master_sha256": "eb98ccb2e26f8f326bdd4e5a63f98a49ed07da7d327b52761f3da5358623f70b",
+  "selected_delivery": "delivery/stickers/fossil-dig/fossil-shark-tooth.png",
+  "selected_delivery_sha256": "eb98ccb2e26f8f326bdd4e5a63f98a49ed07da7d327b52761f3da5358623f70b",
+  "removed_detached_alpha_pixels": 198,
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+}

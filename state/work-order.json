@@ -30,7 +30,9 @@
     "reptile-habitat",
     "freshwater-wetland",
     "mediterranean-mezze",
-    "picnic-day"
+    "picnic-day",
+    "mineral-collection",
+    "fossil-dig"
   ],
   "existing_asset_ids": [
     "banh-mi",
@@ -213,8 +215,14 @@
   "no_script_resize": true,
   "opening_new_topics": false,
   "authorization": "User selected Cho phép script sửa alpha on 2026-09-15, then asked to continue removing backgrounds.",
-  "latest_user_instruction": "2026-09-16: Resume generating stickers in the sole portable workspace. Finish the 17 missing images in started topics before opening new topics.",
+  "latest_user_instruction": "2026-09-17: Complete Mineral Collection and Fossil Dig topics; mineral collection first.",
   "active_batch_ids": [],
-  "last_completed_batch": "state/batch-20260916.json",
-  "next_action": "Finish pending alpha and visual QA in existing topics. All 25 started topics now have eight images. The remaining 200 missing IDs are in unopened topics."
+  "last_completed_batch": "state/batch-20260917-mineral-fossil.json",
+  "next_action": "The requested mineral and fossil topics now each have 8 images. Resume pending alpha and visual QA in started topics before opening other topics.",
+  "alpha_pilot_pending_review": {
+    "id": "tet-lucky-envelope",
+    "candidate": "revisions/background-pilot-20260917/tet-lucky-envelope-alpha.png",
+    "qa_report": "qa/alpha-pilot-20260917/report.json",
+    "master_unchanged": true
+  }
 }

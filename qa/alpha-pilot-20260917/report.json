@@ -1,0 +1,31 @@
+{
+  "id": "tet-lucky-envelope",
+  "reviewed_utc": "2026-09-17T08:17:56.231684+00:00",
+  "source": "masters/tet-lucky-envelope.png",
+  "candidate": "revisions/background-pilot-20260917/tet-lucky-envelope-alpha.png",
+  "source_sha256": "296e977d628d0d5892af93f5d54243a7805c6be8f6dc1c577081a4d9fee394af",
+  "candidate_sha256": "3d1a0c248f31c0296d2c183ab735ebf17b76cc930020f50a90e82776d8b844ec",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_pixel_differences": 0,
+  "transparent_pixels": 938883,
+  "alpha_bbox": [
+    270,
+    85,
+    986,
+    1128
+  ],
+  "corners_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "visual_review": "Printed checkerboard removed outside a continuous white sticker cut margin. No detached exterior artifacts noticed on dark and light previews. Preview only; master unchanged.",
+  "preview_paths": [
+    "qa/alpha-pilot-20260917/dark-preview.png",
+    "qa/alpha-pilot-20260917/light-preview.png"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "reviewed_utc": "2026-09-17T08:10:14.037006+00:00",
+  "reviewed_ids": [
+    "mineral-pyrite",
+    "mineral-malachite",
+    "mineral-fluorite",
+    "mineral-rose-quartz",
+    "mineral-selenite",
+    "mineral-geode",
+    "mineral-azurite",
+    "fossil-ammonite",
+    "fossil-trilobite",
+    "fossil-fern",
+    "fossil-shark-tooth",
+    "fossil-dinosaur-footprint",
+    "fossil-plaster-jacket",
+    "fossil-rock-hammer",
+    "fossil-amber-insect"
+  ],
+  "result": "provisionally_accepted",
+  "new_rework_candidates": [],
+  "qa_notes": "qa/visual-qa.json"
+}

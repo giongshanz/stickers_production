@@ -1,0 +1,20 @@
+{
+  "id": "mineral-amethyst",
+  "selected_utc": "2026-09-17T07:46:41.911372+00:00",
+  "reason": "First output had darker outlines, tighter framing and detached white alpha debris. Selected a softer edit with more padding; removed disconnected alpha islands.",
+  "original_master": "revisions/mineral-amethyst-20260917/original-master.png",
+  "original_master_sha256": "17ebd7a549cdd553859fc2f50af9541d7558f0e917b7c87555323db7d446dc32",
+  "original_delivery": "revisions/mineral-amethyst-20260917/original-delivery.png",
+  "original_delivery_sha256": "17ebd7a549cdd553859fc2f50af9541d7558f0e917b7c87555323db7d446dc32",
+  "edited_candidate": "revisions/candidates/mineral-amethyst-style-v2.png",
+  "edited_candidate_sha256": "87b6223169750769c80cb9f0c2193fc3d2490abfad0f6fd189f064b75c4555f2",
+  "selected_master": "masters/mineral-amethyst.png",
+  "selected_master_sha256": "aa50141235fec1f1e04354a4d476cc871ee3871668777581230a43f2bfa81184",
+  "edit_request": "state/requests/mineral-amethyst-v2.json",
+  "alpha_only_cleanup": {
+    "removed_disconnected_pixels": 1443,
+    "rgb_unchanged": true,
+    "dimensions_unchanged": true
+  },
+  "visual_review": "Provisional acceptance: recognizable amethyst, restrained painted facets, padding and white cut border inspected on a dark background; no detached specks visible."
+}

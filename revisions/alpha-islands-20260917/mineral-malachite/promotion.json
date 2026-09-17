@@ -1,0 +1,21 @@
+{
+  "id": "mineral-malachite",
+  "selected_utc": "2026-09-17T08:09:23.187479+00:00",
+  "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+  "original_master": "revisions/alpha-islands-20260917/mineral-malachite/master-before.png",
+  "original_master_sha256": "0258d37def175119de018103fb19b4c29ceca6921bbd64647354464d28de1406",
+  "original_delivery": "revisions/alpha-islands-20260917/mineral-malachite/delivery-before.png",
+  "original_delivery_sha256": "0258d37def175119de018103fb19b4c29ceca6921bbd64647354464d28de1406",
+  "selected_master": "masters/mineral-malachite.png",
+  "selected_master_sha256": "5f51515e75ac9e5de90b013d2452d625ff83081d1957a0f0d0f0acae858d4cfe",
+  "selected_delivery": "delivery/stickers/mineral-collection/mineral-malachite.png",
+  "selected_delivery_sha256": "5f51515e75ac9e5de90b013d2452d625ff83081d1957a0f0d0f0acae858d4cfe",
+  "removed_detached_alpha_pixels": 717,
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+}

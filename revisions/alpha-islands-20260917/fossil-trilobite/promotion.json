@@ -1,0 +1,21 @@
+{
+  "id": "fossil-trilobite",
+  "selected_utc": "2026-09-17T08:09:24.762719+00:00",
+  "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+  "original_master": "revisions/alpha-islands-20260917/fossil-trilobite/master-before.png",
+  "original_master_sha256": "6a6d6634e3a42195bb201b55cc6bbb16e52d0d479d166c9ad553dac258e58c08",
+  "original_delivery": "revisions/alpha-islands-20260917/fossil-trilobite/delivery-before.png",
+  "original_delivery_sha256": "6a6d6634e3a42195bb201b55cc6bbb16e52d0d479d166c9ad553dac258e58c08",
+  "selected_master": "masters/fossil-trilobite.png",
+  "selected_master_sha256": "d0aed9aef3830865da50448947e6aceb6c10104fec02eb9a6ce9e6296496c7d9",
+  "selected_delivery": "delivery/stickers/fossil-dig/fossil-trilobite.png",
+  "selected_delivery_sha256": "d0aed9aef3830865da50448947e6aceb6c10104fec02eb9a6ce9e6296496c7d9",
+  "removed_detached_alpha_pixels": 292,
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+}

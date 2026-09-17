@@ -1,0 +1,21 @@
+{
+  "id": "mineral-rose-quartz",
+  "selected_utc": "2026-09-17T08:09:23.654055+00:00",
+  "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+  "original_master": "revisions/alpha-islands-20260917/mineral-rose-quartz/master-before.png",
+  "original_master_sha256": "0dc57710fc45da619a3f45b75b9ec1c609b641e118471c8e882667b52026b33f",
+  "original_delivery": "revisions/alpha-islands-20260917/mineral-rose-quartz/delivery-before.png",
+  "original_delivery_sha256": "0dc57710fc45da619a3f45b75b9ec1c609b641e118471c8e882667b52026b33f",
+  "selected_master": "masters/mineral-rose-quartz.png",
+  "selected_master_sha256": "9e4d0eee86df9262a08a01a0478bec50908b1b29caf054b16fcb272b5c3bce2b",
+  "selected_delivery": "delivery/stickers/mineral-collection/mineral-rose-quartz.png",
+  "selected_delivery_sha256": "9e4d0eee86df9262a08a01a0478bec50908b1b29caf054b16fcb272b5c3bce2b",
+  "removed_detached_alpha_pixels": 525,
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+}

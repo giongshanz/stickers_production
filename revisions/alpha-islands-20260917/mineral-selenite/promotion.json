@@ -1,0 +1,21 @@
+{
+  "id": "mineral-selenite",
+  "selected_utc": "2026-09-17T08:09:23.860843+00:00",
+  "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+  "original_master": "revisions/alpha-islands-20260917/mineral-selenite/master-before.png",
+  "original_master_sha256": "938a6ce49f699fc67918eb1685b33fd25a64a1a1af779c69a0f242c6bd88df91",
+  "original_delivery": "revisions/alpha-islands-20260917/mineral-selenite/delivery-before.png",
+  "original_delivery_sha256": "938a6ce49f699fc67918eb1685b33fd25a64a1a1af779c69a0f242c6bd88df91",
+  "selected_master": "masters/mineral-selenite.png",
+  "selected_master_sha256": "4dc7535d64ca8f3a83e1b76277e99b4f449b4e137add5080d97a1d48256713be",
+  "selected_delivery": "delivery/stickers/mineral-collection/mineral-selenite.png",
+  "selected_delivery_sha256": "4dc7535d64ca8f3a83e1b76277e99b4f449b4e137add5080d97a1d48256713be",
+  "removed_detached_alpha_pixels": 607,
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+}

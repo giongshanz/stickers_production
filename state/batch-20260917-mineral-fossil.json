@@ -1,0 +1,367 @@
+{
+  "created_utc": "2026-09-17T08:09:26.033851+00:00",
+  "topics": [
+    "mineral-collection",
+    "fossil-dig"
+  ],
+  "generated_ids": [
+    "mineral-pyrite",
+    "mineral-malachite",
+    "mineral-fluorite",
+    "mineral-rose-quartz",
+    "mineral-selenite",
+    "mineral-geode",
+    "mineral-azurite",
+    "fossil-ammonite",
+    "fossil-trilobite",
+    "fossil-fern",
+    "fossil-shark-tooth",
+    "fossil-dinosaur-footprint",
+    "fossil-plaster-jacket",
+    "fossil-rock-hammer",
+    "fossil-amber-insect"
+  ],
+  "alpha_promotions": [
+    {
+      "id": "mineral-pyrite",
+      "selected_utc": "2026-09-17T08:09:22.980147+00:00",
+      "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+      "original_master": "revisions/alpha-islands-20260917/mineral-pyrite/master-before.png",
+      "original_master_sha256": "25bdc39ab29769aec15f7ce161cd0fb0e2aaa6773cf91fa7dcec83bf48f72104",
+      "original_delivery": "revisions/alpha-islands-20260917/mineral-pyrite/delivery-before.png",
+      "original_delivery_sha256": "25bdc39ab29769aec15f7ce161cd0fb0e2aaa6773cf91fa7dcec83bf48f72104",
+      "selected_master": "masters/mineral-pyrite.png",
+      "selected_master_sha256": "c8473770cf0f0ac89b709ea4321fe8b2205b0accc7afe2522c26a1bd10ef7fe0",
+      "selected_delivery": "delivery/stickers/mineral-collection/mineral-pyrite.png",
+      "selected_delivery_sha256": "c8473770cf0f0ac89b709ea4321fe8b2205b0accc7afe2522c26a1bd10ef7fe0",
+      "removed_detached_alpha_pixels": 83,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+    },
+    {
+      "id": "mineral-malachite",
+      "selected_utc": "2026-09-17T08:09:23.187479+00:00",
+      "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+      "original_master": "revisions/alpha-islands-20260917/mineral-malachite/master-before.png",
+      "original_master_sha256": "0258d37def175119de018103fb19b4c29ceca6921bbd64647354464d28de1406",
+      "original_delivery": "revisions/alpha-islands-20260917/mineral-malachite/delivery-before.png",
+      "original_delivery_sha256": "0258d37def175119de018103fb19b4c29ceca6921bbd64647354464d28de1406",
+      "selected_master": "masters/mineral-malachite.png",
+      "selected_master_sha256": "5f51515e75ac9e5de90b013d2452d625ff83081d1957a0f0d0f0acae858d4cfe",
+      "selected_delivery": "delivery/stickers/mineral-collection/mineral-malachite.png",
+      "selected_delivery_sha256": "5f51515e75ac9e5de90b013d2452d625ff83081d1957a0f0d0f0acae858d4cfe",
+      "removed_detached_alpha_pixels": 717,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+    },
+    {
+      "id": "mineral-fluorite",
+      "selected_utc": "2026-09-17T08:09:23.425624+00:00",
+      "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+      "original_master": "revisions/alpha-islands-20260917/mineral-fluorite/master-before.png",
+      "original_master_sha256": "98d65c12b51c9f9949414073dd47703e637c9f51aabf54111de6b4de98a4ec7a",
+      "original_delivery": "revisions/alpha-islands-20260917/mineral-fluorite/delivery-before.png",
+      "original_delivery_sha256": "98d65c12b51c9f9949414073dd47703e637c9f51aabf54111de6b4de98a4ec7a",
+      "selected_master": "masters/mineral-fluorite.png",
+      "selected_master_sha256": "a946cfa0798c2aaab5defc48c5504375622fc312480064886f4e8c2974992c56",
+      "selected_delivery": "delivery/stickers/mineral-collection/mineral-fluorite.png",
+      "selected_delivery_sha256": "a946cfa0798c2aaab5defc48c5504375622fc312480064886f4e8c2974992c56",
+      "removed_detached_alpha_pixels": 1411,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+    },
+    {
+      "id": "mineral-rose-quartz",
+      "selected_utc": "2026-09-17T08:09:23.654055+00:00",
+      "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+      "original_master": "revisions/alpha-islands-20260917/mineral-rose-quartz/master-before.png",
+      "original_master_sha256": "0dc57710fc45da619a3f45b75b9ec1c609b641e118471c8e882667b52026b33f",
+      "original_delivery": "revisions/alpha-islands-20260917/mineral-rose-quartz/delivery-before.png",
+      "original_delivery_sha256": "0dc57710fc45da619a3f45b75b9ec1c609b641e118471c8e882667b52026b33f",
+      "selected_master": "masters/mineral-rose-quartz.png",
+      "selected_master_sha256": "9e4d0eee86df9262a08a01a0478bec50908b1b29caf054b16fcb272b5c3bce2b",
+      "selected_delivery": "delivery/stickers/mineral-collection/mineral-rose-quartz.png",
+      "selected_delivery_sha256": "9e4d0eee86df9262a08a01a0478bec50908b1b29caf054b16fcb272b5c3bce2b",
+      "removed_detached_alpha_pixels": 525,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+    },
+    {
+      "id": "mineral-selenite",
+      "selected_utc": "2026-09-17T08:09:23.860843+00:00",
+      "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+      "original_master": "revisions/alpha-islands-20260917/mineral-selenite/master-before.png",
+      "original_master_sha256": "938a6ce49f699fc67918eb1685b33fd25a64a1a1af779c69a0f242c6bd88df91",
+      "original_delivery": "revisions/alpha-islands-20260917/mineral-selenite/delivery-before.png",
+      "original_delivery_sha256": "938a6ce49f699fc67918eb1685b33fd25a64a1a1af779c69a0f242c6bd88df91",
+      "selected_master": "masters/mineral-selenite.png",
+      "selected_master_sha256": "4dc7535d64ca8f3a83e1b76277e99b4f449b4e137add5080d97a1d48256713be",
+      "selected_delivery": "delivery/stickers/mineral-collection/mineral-selenite.png",
+      "selected_delivery_sha256": "4dc7535d64ca8f3a83e1b76277e99b4f449b4e137add5080d97a1d48256713be",
+      "removed_detached_alpha_pixels": 607,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+    },
+    {
+      "id": "mineral-geode",
+      "selected_utc": "2026-09-17T08:09:24.083974+00:00",
+      "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+      "original_master": "revisions/alpha-islands-20260917/mineral-geode/master-before.png",
+      "original_master_sha256": "5f211c2dfdda6e94f16a230cb7b3fd67f3a05a2aa6f8301597ee8583f094404b",
+      "original_delivery": "revisions/alpha-islands-20260917/mineral-geode/delivery-before.png",
+      "original_delivery_sha256": "5f211c2dfdda6e94f16a230cb7b3fd67f3a05a2aa6f8301597ee8583f094404b",
+      "selected_master": "masters/mineral-geode.png",
+      "selected_master_sha256": "83b1b6224b757c7513bab131984e45c2171dd133939c603536a164683d8c8804",
+      "selected_delivery": "delivery/stickers/mineral-collection/mineral-geode.png",
+      "selected_delivery_sha256": "83b1b6224b757c7513bab131984e45c2171dd133939c603536a164683d8c8804",
+      "removed_detached_alpha_pixels": 1096,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+    },
+    {
+      "id": "mineral-azurite",
+      "selected_utc": "2026-09-17T08:09:24.294103+00:00",
+      "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+      "original_master": "revisions/alpha-islands-20260917/mineral-azurite/master-before.png",
+      "original_master_sha256": "69088558eb02f78cf448626bfca2007464b9b8748167b5359b65d3d1c926360e",
+      "original_delivery": "revisions/alpha-islands-20260917/mineral-azurite/delivery-before.png",
+      "original_delivery_sha256": "69088558eb02f78cf448626bfca2007464b9b8748167b5359b65d3d1c926360e",
+      "selected_master": "masters/mineral-azurite.png",
+      "selected_master_sha256": "c55745734a5123dab9fb8a62ea06bd394a51c8355987d3277d73c9b1ec90dd45",
+      "selected_delivery": "delivery/stickers/mineral-collection/mineral-azurite.png",
+      "selected_delivery_sha256": "c55745734a5123dab9fb8a62ea06bd394a51c8355987d3277d73c9b1ec90dd45",
+      "removed_detached_alpha_pixels": 634,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+    },
+    {
+      "id": "fossil-ammonite",
+      "selected_utc": "2026-09-17T08:09:24.535329+00:00",
+      "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+      "original_master": "revisions/alpha-islands-20260917/fossil-ammonite/master-before.png",
+      "original_master_sha256": "158442d6c6435c755135ec54eb9c5471cf171da6a1ec81bbe779285da437b416",
+      "original_delivery": "revisions/alpha-islands-20260917/fossil-ammonite/delivery-before.png",
+      "original_delivery_sha256": "158442d6c6435c755135ec54eb9c5471cf171da6a1ec81bbe779285da437b416",
+      "selected_master": "masters/fossil-ammonite.png",
+      "selected_master_sha256": "9be8f349d8cbcbd541c106643c0413be07dd5fd12f5d5d180965177432d212a4",
+      "selected_delivery": "delivery/stickers/fossil-dig/fossil-ammonite.png",
+      "selected_delivery_sha256": "9be8f349d8cbcbd541c106643c0413be07dd5fd12f5d5d180965177432d212a4",
+      "removed_detached_alpha_pixels": 596,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+    },
+    {
+      "id": "fossil-trilobite",
+      "selected_utc": "2026-09-17T08:09:24.762719+00:00",
+      "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+      "original_master": "revisions/alpha-islands-20260917/fossil-trilobite/master-before.png",
+      "original_master_sha256": "6a6d6634e3a42195bb201b55cc6bbb16e52d0d479d166c9ad553dac258e58c08",
+      "original_delivery": "revisions/alpha-islands-20260917/fossil-trilobite/delivery-before.png",
+      "original_delivery_sha256": "6a6d6634e3a42195bb201b55cc6bbb16e52d0d479d166c9ad553dac258e58c08",
+      "selected_master": "masters/fossil-trilobite.png",
+      "selected_master_sha256": "d0aed9aef3830865da50448947e6aceb6c10104fec02eb9a6ce9e6296496c7d9",
+      "selected_delivery": "delivery/stickers/fossil-dig/fossil-trilobite.png",
+      "selected_delivery_sha256": "d0aed9aef3830865da50448947e6aceb6c10104fec02eb9a6ce9e6296496c7d9",
+      "removed_detached_alpha_pixels": 292,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+    },
+    {
+      "id": "fossil-fern",
+      "selected_utc": "2026-09-17T08:09:24.997659+00:00",
+      "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+      "original_master": "revisions/alpha-islands-20260917/fossil-fern/master-before.png",
+      "original_master_sha256": "2aa2a068b8d854de20b942e0b7e55dc7df71781b80bad5d69cd31b2eb3f445e4",
+      "original_delivery": "revisions/alpha-islands-20260917/fossil-fern/delivery-before.png",
+      "original_delivery_sha256": "2aa2a068b8d854de20b942e0b7e55dc7df71781b80bad5d69cd31b2eb3f445e4",
+      "selected_master": "masters/fossil-fern.png",
+      "selected_master_sha256": "b9057cce72ce7148c8299f74d542ea42d18432f33705bb291e0b3225b247645d",
+      "selected_delivery": "delivery/stickers/fossil-dig/fossil-fern.png",
+      "selected_delivery_sha256": "b9057cce72ce7148c8299f74d542ea42d18432f33705bb291e0b3225b247645d",
+      "removed_detached_alpha_pixels": 428,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+    },
+    {
+      "id": "fossil-shark-tooth",
+      "selected_utc": "2026-09-17T08:09:25.205033+00:00",
+      "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+      "original_master": "revisions/alpha-islands-20260917/fossil-shark-tooth/master-before.png",
+      "original_master_sha256": "20674d7accaebd5fa3b43692c2d4449386da386ea5d7466c12a2cb6d6aba3d73",
+      "original_delivery": "revisions/alpha-islands-20260917/fossil-shark-tooth/delivery-before.png",
+      "original_delivery_sha256": "20674d7accaebd5fa3b43692c2d4449386da386ea5d7466c12a2cb6d6aba3d73",
+      "selected_master": "masters/fossil-shark-tooth.png",
+      "selected_master_sha256": "eb98ccb2e26f8f326bdd4e5a63f98a49ed07da7d327b52761f3da5358623f70b",
+      "selected_delivery": "delivery/stickers/fossil-dig/fossil-shark-tooth.png",
+      "selected_delivery_sha256": "eb98ccb2e26f8f326bdd4e5a63f98a49ed07da7d327b52761f3da5358623f70b",
+      "removed_detached_alpha_pixels": 198,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+    },
+    {
+      "id": "fossil-dinosaur-footprint",
+      "selected_utc": "2026-09-17T08:09:25.432423+00:00",
+      "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+      "original_master": "revisions/alpha-islands-20260917/fossil-dinosaur-footprint/master-before.png",
+      "original_master_sha256": "534be1b40be8c2e832caa70ad8f8d5fdb5c91bc61351eedb9c804b4338e1657b",
+      "original_delivery": "revisions/alpha-islands-20260917/fossil-dinosaur-footprint/delivery-before.png",
+      "original_delivery_sha256": "534be1b40be8c2e832caa70ad8f8d5fdb5c91bc61351eedb9c804b4338e1657b",
+      "selected_master": "masters/fossil-dinosaur-footprint.png",
+      "selected_master_sha256": "6f39be42d961a1dae5ef1152aefb04ca6baf6438dd82dfc7189a4617a4b59fe8",
+      "selected_delivery": "delivery/stickers/fossil-dig/fossil-dinosaur-footprint.png",
+      "selected_delivery_sha256": "6f39be42d961a1dae5ef1152aefb04ca6baf6438dd82dfc7189a4617a4b59fe8",
+      "removed_detached_alpha_pixels": 678,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+    },
+    {
+      "id": "fossil-plaster-jacket",
+      "selected_utc": "2026-09-17T08:09:25.648528+00:00",
+      "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+      "original_master": "revisions/alpha-islands-20260917/fossil-plaster-jacket/master-before.png",
+      "original_master_sha256": "28e5d53c57f686cee4377fd290677279399d6be006d30b5d2bdce8e956536ecc",
+      "original_delivery": "revisions/alpha-islands-20260917/fossil-plaster-jacket/delivery-before.png",
+      "original_delivery_sha256": "28e5d53c57f686cee4377fd290677279399d6be006d30b5d2bdce8e956536ecc",
+      "selected_master": "masters/fossil-plaster-jacket.png",
+      "selected_master_sha256": "676cb533297a5aa288c4345e7435cd6a715d2050bbe7b920d359e0ff0feae87a",
+      "selected_delivery": "delivery/stickers/fossil-dig/fossil-plaster-jacket.png",
+      "selected_delivery_sha256": "676cb533297a5aa288c4345e7435cd6a715d2050bbe7b920d359e0ff0feae87a",
+      "removed_detached_alpha_pixels": 203,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+    },
+    {
+      "id": "fossil-rock-hammer",
+      "selected_utc": "2026-09-17T08:09:25.820825+00:00",
+      "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+      "original_master": "revisions/alpha-islands-20260917/fossil-rock-hammer/master-before.png",
+      "original_master_sha256": "d42518f2d5d7c64a142eb10e47718d5a10a72ad1fa5502fd950dcee72b36eed2",
+      "original_delivery": "revisions/alpha-islands-20260917/fossil-rock-hammer/delivery-before.png",
+      "original_delivery_sha256": "d42518f2d5d7c64a142eb10e47718d5a10a72ad1fa5502fd950dcee72b36eed2",
+      "selected_master": "masters/fossil-rock-hammer.png",
+      "selected_master_sha256": "f05d2999be6f79c67b6240053fdd70f3e09fb590ad19829fd32de1d32cb69aea",
+      "selected_delivery": "delivery/stickers/fossil-dig/fossil-rock-hammer.png",
+      "selected_delivery_sha256": "f05d2999be6f79c67b6240053fdd70f3e09fb590ad19829fd32de1d32cb69aea",
+      "removed_detached_alpha_pixels": 721,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+    },
+    {
+      "id": "fossil-amber-insect",
+      "selected_utc": "2026-09-17T08:09:26.014691+00:00",
+      "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+      "original_master": "revisions/alpha-islands-20260917/fossil-amber-insect/master-before.png",
+      "original_master_sha256": "43323deb70c445366e46a8dab32194d6ff71a8545d32485feb7b229cd5757305",
+      "original_delivery": "revisions/alpha-islands-20260917/fossil-amber-insect/delivery-before.png",
+      "original_delivery_sha256": "43323deb70c445366e46a8dab32194d6ff71a8545d32485feb7b229cd5757305",
+      "selected_master": "masters/fossil-amber-insect.png",
+      "selected_master_sha256": "6778d6fbe0953f4d40776276efe3c9661d0571938e35ea965aeb3f080e79eafd",
+      "selected_delivery": "delivery/stickers/fossil-dig/fossil-amber-insect.png",
+      "selected_delivery_sha256": "6778d6fbe0953f4d40776276efe3c9661d0571938e35ea965aeb3f080e79eafd",
+      "removed_detached_alpha_pixels": 182,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+    }
+  ],
+  "note": "15 new master images. All had detached alpha islands removed while preserving RGB and dimensions; inspect on a dark background for any remaining attached edge fuzz.",
+  "visual_reviewed_ids": [
+    "mineral-pyrite",
+    "mineral-malachite",
+    "mineral-fluorite",
+    "mineral-rose-quartz",
+    "mineral-selenite",
+    "mineral-geode",
+    "mineral-azurite",
+    "fossil-ammonite",
+    "fossil-trilobite",
+    "fossil-fern",
+    "fossil-shark-tooth",
+    "fossil-dinosaur-footprint",
+    "fossil-plaster-jacket",
+    "fossil-rock-hammer",
+    "fossil-amber-insect"
+  ],
+  "visual_review_status": "provisionally_accepted",
+  "qa_dark_preview_paths": [
+    "qa/batch-20260917/mineral-malachite-dark-preview.png",
+    "qa/batch-20260917/mineral-fluorite-dark-preview.png",
+    "qa/batch-20260917/fossil-rock-hammer-dark-preview.png",
+    "qa/batch-20260917/fossil-amber-insect-dark-preview.png"
+  ],
+  "finished_utc": "2026-09-17T08:10:14.035407+00:00"
+}

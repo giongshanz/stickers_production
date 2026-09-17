@@ -1,0 +1,21 @@
+{
+  "id": "fossil-amber-insect",
+  "selected_utc": "2026-09-17T08:09:26.014691+00:00",
+  "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+  "original_master": "revisions/alpha-islands-20260917/fossil-amber-insect/master-before.png",
+  "original_master_sha256": "43323deb70c445366e46a8dab32194d6ff71a8545d32485feb7b229cd5757305",
+  "original_delivery": "revisions/alpha-islands-20260917/fossil-amber-insect/delivery-before.png",
+  "original_delivery_sha256": "43323deb70c445366e46a8dab32194d6ff71a8545d32485feb7b229cd5757305",
+  "selected_master": "masters/fossil-amber-insect.png",
+  "selected_master_sha256": "6778d6fbe0953f4d40776276efe3c9661d0571938e35ea965aeb3f080e79eafd",
+  "selected_delivery": "delivery/stickers/fossil-dig/fossil-amber-insect.png",
+  "selected_delivery_sha256": "6778d6fbe0953f4d40776276efe3c9661d0571938e35ea965aeb3f080e79eafd",
+  "removed_detached_alpha_pixels": 182,
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+}

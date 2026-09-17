@@ -1,0 +1,21 @@
+{
+  "id": "fossil-plaster-jacket",
+  "selected_utc": "2026-09-17T08:09:25.648528+00:00",
+  "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+  "original_master": "revisions/alpha-islands-20260917/fossil-plaster-jacket/master-before.png",
+  "original_master_sha256": "28e5d53c57f686cee4377fd290677279399d6be006d30b5d2bdce8e956536ecc",
+  "original_delivery": "revisions/alpha-islands-20260917/fossil-plaster-jacket/delivery-before.png",
+  "original_delivery_sha256": "28e5d53c57f686cee4377fd290677279399d6be006d30b5d2bdce8e956536ecc",
+  "selected_master": "masters/fossil-plaster-jacket.png",
+  "selected_master_sha256": "676cb533297a5aa288c4345e7435cd6a715d2050bbe7b920d359e0ff0feae87a",
+  "selected_delivery": "delivery/stickers/fossil-dig/fossil-plaster-jacket.png",
+  "selected_delivery_sha256": "676cb533297a5aa288c4345e7435cd6a715d2050bbe7b920d359e0ff0feae87a",
+  "removed_detached_alpha_pixels": 203,
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+}

@@ -1,14 +1,14 @@
 {
-  "updated_utc": "2026-09-16T04:13:58.179264+00:00",
+  "updated_utc": "2026-09-17T08:18:35.950425+00:00",
   "target_topics": 50,
   "target_slots": 400,
   "target_unique": 390,
-  "generated_unique": 190,
-  "missing_unique": 200,
-  "alpha_corners_clear_unique": 113,
+  "generated_unique": 206,
+  "missing_unique": 184,
+  "alpha_corners_clear_unique": 129,
   "needs_alpha_unique": 77,
-  "topics_with_all_images": 25,
-  "generated_topic_slots": 200,
+  "topics_with_all_images": 27,
+  "generated_topic_slots": 216,
   "visual_rework_unique": 25,
   "complete": false,
   "prompt_target_dimensions": [
@@ -5509,8 +5509,29 @@
         "fossil-dig"
       ],
       "source": "masters/fossil-ammonite.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 846798,
+      "partial_alpha_pixels": 724784,
+      "opaque_pixels": 934,
+      "padding_nonzero_alpha": [
+        138,
+        125,
+        128,
+        107
+      ],
+      "review_edge": false,
+      "sha256": "9be8f349d8cbcbd541c106643c0413be07dd5fd12f5d5d180965177432d212a4",
+      "bytes": 1172300
     },
     {
       "id": "fossil-trilobite",
@@ -5519,8 +5540,29 @@
         "fossil-dig"
       ],
       "source": "masters/fossil-trilobite.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 864788,
+      "partial_alpha_pixels": 707282,
+      "opaque_pixels": 446,
+      "padding_nonzero_alpha": [
+        175,
+        135,
+        163,
+        129
+      ],
+      "review_edge": false,
+      "sha256": "d0aed9aef3830865da50448947e6aceb6c10104fec02eb9a6ce9e6296496c7d9",
+      "bytes": 1146361
     },
     {
       "id": "fossil-fern",
@@ -5529,8 +5571,29 @@
         "fossil-dig"
       ],
       "source": "masters/fossil-fern.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 855399,
+      "partial_alpha_pixels": 716324,
+      "opaque_pixels": 793,
+      "padding_nonzero_alpha": [
+        134,
+        102,
+        120,
+        92
+      ],
+      "review_edge": false,
+      "sha256": "b9057cce72ce7148c8299f74d542ea42d18432f33705bb291e0b3225b247645d",
+      "bytes": 1307807
     },
     {
       "id": "fossil-shark-tooth",
@@ -5539,8 +5602,29 @@
         "fossil-dig"
       ],
       "source": "masters/fossil-shark-tooth.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 993530,
+      "partial_alpha_pixels": 578300,
+      "opaque_pixels": 686,
+      "padding_nonzero_alpha": [
+        156,
+        96,
+        157,
+        97
+      ],
+      "review_edge": false,
+      "sha256": "eb98ccb2e26f8f326bdd4e5a63f98a49ed07da7d327b52761f3da5358623f70b",
+      "bytes": 930092
     },
     {
       "id": "fossil-dinosaur-footprint",
@@ -5549,8 +5633,29 @@
         "fossil-dig"
       ],
       "source": "masters/fossil-dinosaur-footprint.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 869691,
+      "partial_alpha_pixels": 701982,
+      "opaque_pixels": 843,
+      "padding_nonzero_alpha": [
+        127,
+        162,
+        117,
+        126
+      ],
+      "review_edge": false,
+      "sha256": "6f39be42d961a1dae5ef1152aefb04ca6baf6438dd82dfc7189a4617a4b59fe8",
+      "bytes": 1117141
     },
     {
       "id": "fossil-plaster-jacket",
@@ -5559,8 +5664,29 @@
         "fossil-dig"
       ],
       "source": "masters/fossil-plaster-jacket.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 882445,
+      "partial_alpha_pixels": 689250,
+      "opaque_pixels": 821,
+      "padding_nonzero_alpha": [
+        90,
+        171,
+        80,
+        167
+      ],
+      "review_edge": false,
+      "sha256": "676cb533297a5aa288c4345e7435cd6a715d2050bbe7b920d359e0ff0feae87a",
+      "bytes": 1151282
     },
     {
       "id": "fossil-rock-hammer",
@@ -5569,8 +5695,29 @@
         "fossil-dig"
       ],
       "source": "masters/fossil-rock-hammer.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1259050,
+      "partial_alpha_pixels": 312353,
+      "opaque_pixels": 1113,
+      "padding_nonzero_alpha": [
+        166,
+        78,
+        171,
+        54
+      ],
+      "review_edge": false,
+      "sha256": "f05d2999be6f79c67b6240053fdd70f3e09fb590ad19829fd32de1d32cb69aea",
+      "bytes": 555961
     },
     {
       "id": "fossil-amber-insect",
@@ -5579,8 +5726,29 @@
         "fossil-dig"
       ],
       "source": "masters/fossil-amber-insect.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 985885,
+      "partial_alpha_pixels": 586242,
+      "opaque_pixels": 389,
+      "padding_nonzero_alpha": [
+        198,
+        172,
+        205,
+        159
+      ],
+      "review_edge": false,
+      "sha256": "6778d6fbe0953f4d40776276efe3c9661d0571938e35ea965aeb3f080e79eafd",
+      "bytes": 888491
     },
     {
       "id": "observatory-telescope",
@@ -5669,8 +5837,29 @@
         "mineral-collection"
       ],
       "source": "masters/mineral-amethyst.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 972430,
+      "partial_alpha_pixels": 599187,
+      "opaque_pixels": 899,
+      "padding_nonzero_alpha": [
+        205,
+        142,
+        156,
+        125
+      ],
+      "review_edge": false,
+      "sha256": "aa50141235fec1f1e04354a4d476cc871ee3871668777581230a43f2bfa81184",
+      "bytes": 823836
     },
     {
       "id": "mineral-pyrite",
@@ -5679,8 +5868,29 @@
         "mineral-collection"
       ],
       "source": "masters/mineral-pyrite.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1023151,
+      "partial_alpha_pixels": 548653,
+      "opaque_pixels": 712,
+      "padding_nonzero_alpha": [
+        191,
+        192,
+        191,
+        181
+      ],
+      "review_edge": false,
+      "sha256": "c8473770cf0f0ac89b709ea4321fe8b2205b0accc7afe2522c26a1bd10ef7fe0",
+      "bytes": 914516
     },
     {
       "id": "mineral-malachite",
@@ -5689,8 +5899,29 @@
         "mineral-collection"
       ],
       "source": "masters/mineral-malachite.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 860064,
+      "partial_alpha_pixels": 711956,
+      "opaque_pixels": 496,
+      "padding_nonzero_alpha": [
+        103,
+        174,
+        77,
+        158
+      ],
+      "review_edge": false,
+      "sha256": "5f51515e75ac9e5de90b013d2452d625ff83081d1957a0f0d0f0acae858d4cfe",
+      "bytes": 1173486
     },
     {
       "id": "mineral-fluorite",
@@ -5699,8 +5930,29 @@
         "mineral-collection"
       ],
       "source": "masters/mineral-fluorite.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 890768,
+      "partial_alpha_pixels": 680423,
+      "opaque_pixels": 1325,
+      "padding_nonzero_alpha": [
+        111,
+        151,
+        111,
+        138
+      ],
+      "review_edge": false,
+      "sha256": "a946cfa0798c2aaab5defc48c5504375622fc312480064886f4e8c2974992c56",
+      "bytes": 1181374
     },
     {
       "id": "mineral-rose-quartz",
@@ -5709,8 +5961,29 @@
         "mineral-collection"
       ],
       "source": "masters/mineral-rose-quartz.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 897208,
+      "partial_alpha_pixels": 675096,
+      "opaque_pixels": 212,
+      "padding_nonzero_alpha": [
+        148,
+        131,
+        134,
+        112
+      ],
+      "review_edge": false,
+      "sha256": "9e4d0eee86df9262a08a01a0478bec50908b1b29caf054b16fcb272b5c3bce2b",
+      "bytes": 963036
     },
     {
       "id": "mineral-selenite",
@@ -5719,8 +5992,29 @@
         "mineral-collection"
       ],
       "source": "masters/mineral-selenite.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1072805,
+      "partial_alpha_pixels": 498250,
+      "opaque_pixels": 1461,
+      "padding_nonzero_alpha": [
+        306,
+        70,
+        304,
+        63
+      ],
+      "review_edge": false,
+      "sha256": "4dc7535d64ca8f3a83e1b76277e99b4f449b4e137add5080d97a1d48256713be",
+      "bytes": 670465
     },
     {
       "id": "mineral-geode",
@@ -5729,8 +6023,29 @@
         "mineral-collection"
       ],
       "source": "masters/mineral-geode.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 868468,
+      "partial_alpha_pixels": 703938,
+      "opaque_pixels": 110,
+      "padding_nonzero_alpha": [
+        83,
+        164,
+        78,
+        143
+      ],
+      "review_edge": false,
+      "sha256": "83b1b6224b757c7513bab131984e45c2171dd133939c603536a164683d8c8804",
+      "bytes": 1088553
     },
     {
       "id": "mineral-azurite",
@@ -5739,8 +6054,29 @@
         "mineral-collection"
       ],
       "source": "masters/mineral-azurite.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 997012,
+      "partial_alpha_pixels": 574957,
+      "opaque_pixels": 547,
+      "padding_nonzero_alpha": [
+        162,
+        181,
+        160,
+        175
+      ],
+      "review_edge": false,
+      "sha256": "c55745734a5123dab9fb8a62ea06bd394a51c8355987d3277d73c9b1ec90dd45",
+      "bytes": 1029050
     },
     {
       "id": "caving-helmet",
@@ -8067,7 +8403,7 @@
     {
       "slug": "fossil-dig",
       "name_vi": "Khai quật hóa thạch",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
@@ -8079,7 +8415,7 @@
     {
       "slug": "mineral-collection",
       "name_vi": "Bộ sưu tập khoáng vật",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
@@ -9954,72 +10290,72 @@
       "topic": "fossil-dig",
       "name_vi": "Khai quật hóa thạch",
       "id": "fossil-ammonite",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fossil-dig/fossil-ammonite.png",
+      "status": "alpha_corners_clear",
+      "sha256": "9be8f349d8cbcbd541c106643c0413be07dd5fd12f5d5d180965177432d212a4",
       "review_note": ""
     },
     {
       "topic": "fossil-dig",
       "name_vi": "Khai quật hóa thạch",
       "id": "fossil-trilobite",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fossil-dig/fossil-trilobite.png",
+      "status": "alpha_corners_clear",
+      "sha256": "d0aed9aef3830865da50448947e6aceb6c10104fec02eb9a6ce9e6296496c7d9",
       "review_note": ""
     },
     {
       "topic": "fossil-dig",
       "name_vi": "Khai quật hóa thạch",
       "id": "fossil-fern",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fossil-dig/fossil-fern.png",
+      "status": "alpha_corners_clear",
+      "sha256": "b9057cce72ce7148c8299f74d542ea42d18432f33705bb291e0b3225b247645d",
       "review_note": ""
     },
     {
       "topic": "fossil-dig",
       "name_vi": "Khai quật hóa thạch",
       "id": "fossil-shark-tooth",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fossil-dig/fossil-shark-tooth.png",
+      "status": "alpha_corners_clear",
+      "sha256": "eb98ccb2e26f8f326bdd4e5a63f98a49ed07da7d327b52761f3da5358623f70b",
       "review_note": ""
     },
     {
       "topic": "fossil-dig",
       "name_vi": "Khai quật hóa thạch",
       "id": "fossil-dinosaur-footprint",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fossil-dig/fossil-dinosaur-footprint.png",
+      "status": "alpha_corners_clear",
+      "sha256": "6f39be42d961a1dae5ef1152aefb04ca6baf6438dd82dfc7189a4617a4b59fe8",
       "review_note": ""
     },
     {
       "topic": "fossil-dig",
       "name_vi": "Khai quật hóa thạch",
       "id": "fossil-plaster-jacket",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fossil-dig/fossil-plaster-jacket.png",
+      "status": "alpha_corners_clear",
+      "sha256": "676cb533297a5aa288c4345e7435cd6a715d2050bbe7b920d359e0ff0feae87a",
       "review_note": ""
     },
     {
       "topic": "fossil-dig",
       "name_vi": "Khai quật hóa thạch",
       "id": "fossil-rock-hammer",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fossil-dig/fossil-rock-hammer.png",
+      "status": "alpha_corners_clear",
+      "sha256": "f05d2999be6f79c67b6240053fdd70f3e09fb590ad19829fd32de1d32cb69aea",
       "review_note": ""
     },
     {
       "topic": "fossil-dig",
       "name_vi": "Khai quật hóa thạch",
       "id": "fossil-amber-insect",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fossil-dig/fossil-amber-insect.png",
+      "status": "alpha_corners_clear",
+      "sha256": "6778d6fbe0953f4d40776276efe3c9661d0571938e35ea965aeb3f080e79eafd",
       "review_note": ""
     },
     {
@@ -10098,72 +10434,72 @@
       "topic": "mineral-collection",
       "name_vi": "Bộ sưu tập khoáng vật",
       "id": "mineral-amethyst",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/mineral-collection/mineral-amethyst.png",
+      "status": "alpha_corners_clear",
+      "sha256": "aa50141235fec1f1e04354a4d476cc871ee3871668777581230a43f2bfa81184",
       "review_note": ""
     },
     {
       "topic": "mineral-collection",
       "name_vi": "Bộ sưu tập khoáng vật",
       "id": "mineral-pyrite",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/mineral-collection/mineral-pyrite.png",
+      "status": "alpha_corners_clear",
+      "sha256": "c8473770cf0f0ac89b709ea4321fe8b2205b0accc7afe2522c26a1bd10ef7fe0",
       "review_note": ""
     },
     {
       "topic": "mineral-collection",
       "name_vi": "Bộ sưu tập khoáng vật",
       "id": "mineral-malachite",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/mineral-collection/mineral-malachite.png",
+      "status": "alpha_corners_clear",
+      "sha256": "5f51515e75ac9e5de90b013d2452d625ff83081d1957a0f0d0f0acae858d4cfe",
       "review_note": ""
     },
     {
       "topic": "mineral-collection",
       "name_vi": "Bộ sưu tập khoáng vật",
       "id": "mineral-fluorite",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/mineral-collection/mineral-fluorite.png",
+      "status": "alpha_corners_clear",
+      "sha256": "a946cfa0798c2aaab5defc48c5504375622fc312480064886f4e8c2974992c56",
       "review_note": ""
     },
     {
       "topic": "mineral-collection",
       "name_vi": "Bộ sưu tập khoáng vật",
       "id": "mineral-rose-quartz",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/mineral-collection/mineral-rose-quartz.png",
+      "status": "alpha_corners_clear",
+      "sha256": "9e4d0eee86df9262a08a01a0478bec50908b1b29caf054b16fcb272b5c3bce2b",
       "review_note": ""
     },
     {
       "topic": "mineral-collection",
       "name_vi": "Bộ sưu tập khoáng vật",
       "id": "mineral-selenite",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/mineral-collection/mineral-selenite.png",
+      "status": "alpha_corners_clear",
+      "sha256": "4dc7535d64ca8f3a83e1b76277e99b4f449b4e137add5080d97a1d48256713be",
       "review_note": ""
     },
     {
       "topic": "mineral-collection",
       "name_vi": "Bộ sưu tập khoáng vật",
       "id": "mineral-geode",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/mineral-collection/mineral-geode.png",
+      "status": "alpha_corners_clear",
+      "sha256": "83b1b6224b757c7513bab131984e45c2171dd133939c603536a164683d8c8804",
       "review_note": ""
     },
     {
       "topic": "mineral-collection",
       "name_vi": "Bộ sưu tập khoáng vật",
       "id": "mineral-azurite",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/mineral-collection/mineral-azurite.png",
+      "status": "alpha_corners_clear",
+      "sha256": "c55745734a5123dab9fb8a62ea06bd394a51c8355987d3277d73c9b1ec90dd45",
       "review_note": ""
     },
     {

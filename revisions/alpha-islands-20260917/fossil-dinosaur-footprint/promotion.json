@@ -1,0 +1,21 @@
+{
+  "id": "fossil-dinosaur-footprint",
+  "selected_utc": "2026-09-17T08:09:25.432423+00:00",
+  "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+  "original_master": "revisions/alpha-islands-20260917/fossil-dinosaur-footprint/master-before.png",
+  "original_master_sha256": "534be1b40be8c2e832caa70ad8f8d5fdb5c91bc61351eedb9c804b4338e1657b",
+  "original_delivery": "revisions/alpha-islands-20260917/fossil-dinosaur-footprint/delivery-before.png",
+  "original_delivery_sha256": "534be1b40be8c2e832caa70ad8f8d5fdb5c91bc61351eedb9c804b4338e1657b",
+  "selected_master": "masters/fossil-dinosaur-footprint.png",
+  "selected_master_sha256": "6f39be42d961a1dae5ef1152aefb04ca6baf6438dd82dfc7189a4617a4b59fe8",
+  "selected_delivery": "delivery/stickers/fossil-dig/fossil-dinosaur-footprint.png",
+  "selected_delivery_sha256": "6f39be42d961a1dae5ef1152aefb04ca6baf6438dd82dfc7189a4617a4b59fe8",
+  "removed_detached_alpha_pixels": 678,
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+}

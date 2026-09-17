@@ -1,0 +1,21 @@
+{
+  "id": "mineral-geode",
+  "selected_utc": "2026-09-17T08:09:24.083974+00:00",
+  "method": "Retain the four-connected alpha component nearest canvas center; set alpha of detached pixels to zero only.",
+  "original_master": "revisions/alpha-islands-20260917/mineral-geode/master-before.png",
+  "original_master_sha256": "5f211c2dfdda6e94f16a230cb7b3fd67f3a05a2aa6f8301597ee8583f094404b",
+  "original_delivery": "revisions/alpha-islands-20260917/mineral-geode/delivery-before.png",
+  "original_delivery_sha256": "5f211c2dfdda6e94f16a230cb7b3fd67f3a05a2aa6f8301597ee8583f094404b",
+  "selected_master": "masters/mineral-geode.png",
+  "selected_master_sha256": "83b1b6224b757c7513bab131984e45c2171dd133939c603536a164683d8c8804",
+  "selected_delivery": "delivery/stickers/mineral-collection/mineral-geode.png",
+  "selected_delivery_sha256": "83b1b6224b757c7513bab131984e45c2171dd133939c603536a164683d8c8804",
+  "removed_detached_alpha_pixels": 1096,
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "visual_review": "Provisionally accepted subject/style and padding; detached white alpha specks removed."
+}

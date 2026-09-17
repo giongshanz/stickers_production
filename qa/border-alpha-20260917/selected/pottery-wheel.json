@@ -1,0 +1,16 @@
+{
+  "id": "pottery-wheel",
+  "selected_utc": "2026-09-17T09:02:59.233337+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/pottery-wheel/masters/pottery-wheel.png",
+  "old_sha256": "f61474d53fa17ddaac4f4cc1bf4c326ce8de7885ba97dfb3970a59d9f4767479",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/pottery-wheel/delivery/_needs-alpha/pottery-studio/pottery-wheel.png"
+  ],
+  "new_master": "masters/pottery-wheel.png",
+  "new_sha256": "183973c2a6cd79e75efba4e1734fec376b7c16983c0ce73b9760a7147697fc43",
+  "selected_candidate": "revisions/border-alpha-20260917/pottery-wheel.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

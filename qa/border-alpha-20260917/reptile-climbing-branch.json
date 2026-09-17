@@ -1,0 +1,89 @@
+{
+  "id": "reptile-climbing-branch",
+  "created_utc": "2026-09-17T08:50:00.786318+00:00",
+  "source": "masters/reptile-climbing-branch.png",
+  "source_sha256": "cf702d1407b9bdc82ecf4744299babdbcef7e9ec123d5aee437888bb0d2074de",
+  "paper_input": "revisions/alpha-audit-20260916/reptile-climbing-branch-candidate.png",
+  "paper_input_sha256": "327ab82d0abc4c65530201297cf268ef4c9aadcfb0e1e8c7990c02e1b63b94c0",
+  "candidate": "revisions/border-alpha-20260917/reptile-climbing-branch.png",
+  "candidate_sha256": "b5e02ec4d208ad245952c2c196f8f5d6dbd01f7f3b6ba7aea555f11989275546",
+  "method": "border_geometry.cutout, measured inset, original RGB restored",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "dimensions_unchanged": true,
+  "rgb_changed_pixels": 0,
+  "measured_paper_width_px": 18.384776310850235,
+  "radius_px": 16.5,
+  "paper_holes": 0,
+  "hole_seeds": [],
+  "visible_pixels_outside_paper": 0,
+  "partial_alpha_edge_colored_pixels": 0,
+  "transparent_pixels": 1157496,
+  "partial_alpha_pixels": 4277,
+  "corner_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 32343,
+    "rgb_changed_chromatic_pixels": 828,
+    "rgb_changed_outside_paper": 3167,
+    "painted_pixels": 350371,
+    "protected_pixels": 364465,
+    "safe_white_pixels": 56573,
+    "dirty_white_pixels": 2543,
+    "radius_px": 16.5,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 1157496,
+    "partial_alpha_pixels": 4277,
+    "visible_pixels_outside_paper": 0,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 4277,
+      "min": 15.797661105706428,
+      "max": 18.18069025346287,
+      "mean": 16.491778950381878,
+      "p05": 15.97049735613219,
+      "p25": 16.20556080976441,
+      "median": 16.490195663925785,
+      "p75": 16.772081161289133,
+      "p95": 17.011713932106804
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 4277,
+      "min": 15.886504353374576,
+      "max": 17.118670119113695,
+      "mean": 16.499457946482316,
+      "p05": 15.987821472367465,
+      "p25": 16.222650998110232,
+      "median": 16.49743023116221,
+      "p75": 16.781971459833407,
+      "p95": 17.011558744462267
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 4804,
+        "samples": 19220,
+        "fit_rms_px": 0.6005429941194874,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.3084846201677005
+      }
+    ],
+    "status": "trial_requires_visual_review"
+  },
+  "status": "pending_visual_review"
+}

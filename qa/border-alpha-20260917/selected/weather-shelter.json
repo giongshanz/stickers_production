@@ -1,0 +1,16 @@
+{
+  "id": "weather-shelter",
+  "selected_utc": "2026-09-17T09:02:59.850921+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/weather-shelter/masters/weather-shelter.png",
+  "old_sha256": "c56642ebb5c90b0542ac85253333671f40c364156e1c63423ab6aff38b331c1d",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/weather-shelter/delivery/_needs-alpha/weather-station/weather-shelter.png"
+  ],
+  "new_master": "masters/weather-shelter.png",
+  "new_sha256": "b053f4ec3f427f1ad23ec847ee623a15819f87e9debbad7d6dbf468d1ab4d5b0",
+  "selected_candidate": "revisions/border-alpha-20260917/weather-shelter.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

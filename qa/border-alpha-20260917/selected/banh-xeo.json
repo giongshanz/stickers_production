@@ -1,0 +1,16 @@
+{
+  "id": "banh-xeo",
+  "selected_utc": "2026-09-17T09:02:59.074711+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/banh-xeo/masters/banh-xeo.png",
+  "old_sha256": "13ccd4d106ba4382dbb593fffbeabf5d49ef5f77145cdfba80657e1cf9ba59cb",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/banh-xeo/delivery/_needs-alpha/vietnamese-cuisine/banh-xeo.png"
+  ],
+  "new_master": "masters/banh-xeo.png",
+  "new_sha256": "8de560406403242301dd5ee57724cf6457db281a622e4bbceb00030f9898055c",
+  "selected_candidate": "revisions/border-alpha-20260917/banh-xeo.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

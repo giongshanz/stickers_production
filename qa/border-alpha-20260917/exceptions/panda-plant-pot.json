@@ -1,0 +1,75 @@
+{
+  "id": "panda-plant-pot",
+  "source": "masters/panda-plant-pot.png",
+  "source_sha256": "6efc6b1493702bb57470b7f4c309bf71c731773a1e9917954cf4f342e9c6b844",
+  "paper_input": "revisions/alpha-audit-20260916/panda-plant-pot-candidate.png",
+  "candidate": "revisions/border-alpha-20260917-exceptions/panda-plant-pot.png",
+  "candidate_sha256": "341232d951e3358a381022e095a4af858b1d59307595f169602b270f8e4934e9",
+  "method": "border_geometry.cutout with alternate painted core and original RGB restored",
+  "radius_px": 16.3,
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_changed_pixels": 0,
+  "partial_alpha_edge_colored_pixels": 0,
+  "visible_pixels_outside_paper": 0,
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 33190,
+    "rgb_changed_chromatic_pixels": 0,
+    "rgb_changed_outside_paper": 2761,
+    "painted_pixels": 620141,
+    "protected_pixels": 637680,
+    "safe_white_pixels": 62216,
+    "dirty_white_pixels": 3005,
+    "radius_px": 16.3,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 879755,
+    "partial_alpha_pixels": 4420,
+    "visible_pixels_outside_paper": 0,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 4420,
+      "min": 15.484325202189188,
+      "max": 18.571559580997206,
+      "mean": 16.291313795661846,
+      "p05": 15.735904777477124,
+      "p25": 15.980837095284535,
+      "median": 16.287865019554474,
+      "p75": 16.568938448193443,
+      "p95": 16.82203592597234
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 4420,
+      "min": 15.682930066844735,
+      "max": 16.9122118646252,
+      "mean": 16.299474087576176,
+      "p05": 15.796950414572489,
+      "p25": 16.020910786229486,
+      "median": 16.30316328523837,
+      "p75": 16.576331536676197,
+      "p95": 16.796645634791826
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 6062,
+        "samples": 24252,
+        "fit_rms_px": 0.6002884427878232,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.27239885367303573
+      }
+    ],
+    "status": "trial_requires_visual_review"
+  },
+  "status": "pending_visual_review"
+}

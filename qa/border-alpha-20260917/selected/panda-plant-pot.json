@@ -1,0 +1,16 @@
+{
+  "id": "panda-plant-pot",
+  "selected_utc": "2026-09-17T09:02:59.707894+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/panda-plant-pot/masters/panda-plant-pot.png",
+  "old_sha256": "6efc6b1493702bb57470b7f4c309bf71c731773a1e9917954cf4f342e9c6b844",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/panda-plant-pot/delivery/_needs-alpha/succulent-collection/panda-plant-pot.png"
+  ],
+  "new_master": "masters/panda-plant-pot.png",
+  "new_sha256": "341232d951e3358a381022e095a4af858b1d59307595f169602b270f8e4934e9",
+  "selected_candidate": "revisions/border-alpha-20260917-exceptions/panda-plant-pot.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

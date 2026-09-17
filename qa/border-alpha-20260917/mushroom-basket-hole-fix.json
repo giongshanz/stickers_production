@@ -1,0 +1,29 @@
+{
+  "id": "mushroom-basket",
+  "updated_utc": "2026-09-17T09:16:43.227159+00:00",
+  "reason": "Removed printed checkerboard from the enclosed handle opening with border_geometry.cutout hole seed (600,220); visually checked on dark and light backgrounds.",
+  "source_before": "revisions/border-alpha-20260917/second-pass/mushroom-basket/masters/mushroom-basket.png",
+  "source_before_sha256": "9dfeeee2e725128c5c941441d998b63b271f24acf248fdcce0b0d4b2e8faad9f",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/second-pass/mushroom-basket/delivery/stickers/forest-fungi/mushroom-basket.png",
+    "revisions/border-alpha-20260917/second-pass/mushroom-basket/delivery/stickers/woodland-foraging/mushroom-basket.png"
+  ],
+  "selected_candidate": "revisions/border-alpha-20260917-exceptions/mushroom-basket-hole.png",
+  "selected_candidate_sha256": "459047959df4aa38d76ffc76d352e40fc40138ed491ecd2bb172e6747138e252",
+  "master": "masters/mushroom-basket.png",
+  "master_sha256": "459047959df4aa38d76ffc76d352e40fc40138ed491ecd2bb172e6747138e252",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_changed_pixels": 0,
+  "alpha_changed_pixels": 26242,
+  "alpha_changed_bbox": [
+    410,
+    174,
+    755,
+    368
+  ],
+  "colored_pixels_removed": 0,
+  "alpha_added_outside_previous": 0
+}

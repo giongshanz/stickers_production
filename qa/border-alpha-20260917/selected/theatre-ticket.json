@@ -1,0 +1,16 @@
+{
+  "id": "theatre-ticket",
+  "selected_utc": "2026-09-17T09:02:59.292720+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/theatre-ticket/masters/theatre-ticket.png",
+  "old_sha256": "f86b858c0df256636a4a1f4bada10b6b7df732d227ae71ee1b8ea9fea2bd1470",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/theatre-ticket/delivery/_needs-alpha/theatre-backstage/theatre-ticket.png"
+  ],
+  "new_master": "masters/theatre-ticket.png",
+  "new_sha256": "98d2973aa876f3318cbf07f967094e3fdc0e610daddbd5bd873b03a8622836a9",
+  "selected_candidate": "revisions/border-alpha-20260917/theatre-ticket.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

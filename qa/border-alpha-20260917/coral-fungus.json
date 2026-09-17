@@ -1,0 +1,89 @@
+{
+  "id": "coral-fungus",
+  "created_utc": "2026-09-17T08:48:02.716404+00:00",
+  "source": "masters/coral-fungus.png",
+  "source_sha256": "3da312a6d0d7ab2e3548d0e32643e9c727857ec10f598bcc9fe01aa9389f71c7",
+  "paper_input": "revisions/alpha-audit-20260916/coral-fungus-candidate.png",
+  "paper_input_sha256": "c420a11dfbdd5f3e1fb5ad8fcc1dd7467d9bea3158a872ec6742e23ae252215e",
+  "candidate": "revisions/border-alpha-20260917/coral-fungus.png",
+  "candidate_sha256": "8949fa3a782e031fac558c527a1e204bf8a757dede68c70d940cbf197db428fc",
+  "method": "border_geometry.cutout, measured inset, original RGB restored",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "dimensions_unchanged": true,
+  "rgb_changed_pixels": 0,
+  "measured_paper_width_px": 20.396078054371138,
+  "radius_px": 18.0,
+  "paper_holes": 0,
+  "hole_seeds": [],
+  "visible_pixels_outside_paper": 0,
+  "partial_alpha_edge_colored_pixels": 0,
+  "transparent_pixels": 960157,
+  "partial_alpha_pixels": 4246,
+  "corner_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 31539,
+    "rgb_changed_chromatic_pixels": 0,
+    "rgb_changed_outside_paper": 1743,
+    "painted_pixels": 523137,
+    "protected_pixels": 543233,
+    "safe_white_pixels": 77011,
+    "dirty_white_pixels": 1942,
+    "radius_px": 18.0,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 960157,
+    "partial_alpha_pixels": 4246,
+    "visible_pixels_outside_paper": 0,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 4246,
+      "min": 17.279053583826816,
+      "max": 20.263590553184027,
+      "mean": 18.013421674807848,
+      "p05": 17.45043035507394,
+      "p25": 17.69561287034825,
+      "median": 17.997414557623138,
+      "p75": 18.281563446897017,
+      "p95": 18.567255969261517
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 4246,
+      "min": 17.383850413482605,
+      "max": 18.61460832968131,
+      "mean": 18.000425741549574,
+      "p05": 17.494719611640782,
+      "p25": 17.71661590183246,
+      "median": 18.006189890348246,
+      "p75": 18.27322085572473,
+      "p95": 18.513136235627304
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 7034,
+        "samples": 28140,
+        "fit_rms_px": 0.6000636058738463,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.26512900400706374
+      }
+    ],
+    "status": "trial_requires_visual_review"
+  },
+  "status": "pending_visual_review"
+}

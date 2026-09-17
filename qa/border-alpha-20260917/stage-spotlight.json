@@ -1,0 +1,229 @@
+{
+  "id": "stage-spotlight",
+  "created_utc": "2026-09-17T08:53:17.865444+00:00",
+  "source": "masters/stage-spotlight.png",
+  "source_sha256": "aa385650fae04921f1cf15d4ab59ad9becbb18a40adee1a08744f0dec80925dd",
+  "paper_input": "revisions/alpha-audit-20260916/stage-spotlight-candidate.png",
+  "paper_input_sha256": "c0eb632e9bd7e46b3cb54350117f7b586d1f769771e107210cb69c2f8ebd67a2",
+  "candidate": "revisions/border-alpha-20260917/stage-spotlight.png",
+  "candidate_sha256": "805446d4e8b307d74db3117469d4198b0ef1109c3b776844188624bb70751f8c",
+  "method": "border_geometry.cutout, measured inset, original RGB restored",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "dimensions_unchanged": true,
+  "rgb_changed_pixels": 0,
+  "measured_paper_width_px": 27.313000567495326,
+  "radius_px": 19.3,
+  "paper_holes": 0,
+  "hole_seeds": [],
+  "visible_pixels_outside_paper": 0,
+  "partial_alpha_edge_colored_pixels": 5935,
+  "transparent_pixels": 1271450,
+  "partial_alpha_pixels": 8641,
+  "corner_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 147461,
+    "rgb_changed_chromatic_pixels": 265,
+    "rgb_changed_outside_paper": 143,
+    "painted_pixels": 129076,
+    "protected_pixels": 163196,
+    "safe_white_pixels": 93767,
+    "dirty_white_pixels": 125541,
+    "radius_px": 19.3,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 1271450,
+    "partial_alpha_pixels": 8641,
+    "visible_pixels_outside_paper": 0,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 8641,
+      "min": 18.462756286051025,
+      "max": 21.73367842680302,
+      "mean": 19.2831161255371,
+      "p05": 18.71622970203107,
+      "p25": 18.990954204081408,
+      "median": 19.270877389855873,
+      "p75": 19.538545051517865,
+      "p95": 19.83275423402688
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 8641,
+      "min": 18.68179041648008,
+      "max": 19.9131095777648,
+      "mean": 19.29742890877354,
+      "p05": 18.807564214791057,
+      "p25": 19.040034001448603,
+      "median": 19.30543563648363,
+      "p75": 19.55682038214951,
+      "p95": 19.778544529803234
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 902,
+        "samples": 3612,
+        "fit_rms_px": 0.6003859288118351,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.25760771210649336
+      },
+      {
+        "vertices": 452,
+        "samples": 1812,
+        "fit_rms_px": 0.6019569877571922,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.2728574531739082
+      },
+      {
+        "vertices": 1520,
+        "samples": 6084,
+        "fit_rms_px": 0.60082988256414,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.2544348741748491
+      },
+      {
+        "vertices": 172,
+        "samples": 692,
+        "fit_rms_px": 0.605702314383891,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.2527045030945718
+      },
+      {
+        "vertices": 346,
+        "samples": 1388,
+        "fit_rms_px": 0.6110339111407611,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.2259942822722872
+      },
+      {
+        "vertices": 172,
+        "samples": 692,
+        "fit_rms_px": 0.6058694525793473,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.25077041595461297
+      },
+      {
+        "vertices": 516,
+        "samples": 2068,
+        "fit_rms_px": 0.6014989399947523,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.21938536555097454
+      },
+      {
+        "vertices": 268,
+        "samples": 1076,
+        "fit_rms_px": 0.6151137300293081,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.23058431591991171
+      },
+      {
+        "vertices": 2306,
+        "samples": 9228,
+        "fit_rms_px": 0.6002854687233019,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.25319588812823157
+      },
+      {
+        "vertices": 194,
+        "samples": 780,
+        "fit_rms_px": 0.6072094006161436,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.24521907960226735
+      },
+      {
+        "vertices": 1284,
+        "samples": 5140,
+        "fit_rms_px": 0.6005582007427668,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.2562108493303153
+      },
+      {
+        "vertices": 116,
+        "samples": 468,
+        "fit_rms_px": 0.6061088326626749,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.23955767009645623
+      },
+      {
+        "vertices": 180,
+        "samples": 724,
+        "fit_rms_px": 0.6051139378269507,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.26226502169444016
+      },
+      {
+        "vertices": 274,
+        "samples": 1100,
+        "fit_rms_px": 0.6060560097462805,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.2173717218707617
+      },
+      {
+        "vertices": 80,
+        "samples": 324,
+        "fit_rms_px": 0.604954330746458,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.2944572528665745
+      },
+      {
+        "vertices": 168,
+        "samples": 676,
+        "fit_rms_px": 0.6026057579305428,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.2591400318585144
+      },
+      {
+        "vertices": 1720,
+        "samples": 6884,
+        "fit_rms_px": 0.6013572510774725,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.20960044420028318
+      },
+      {
+        "vertices": 532,
+        "samples": 2132,
+        "fit_rms_px": 0.6021331638662181,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.24558794531224185
+      },
+      {
+        "vertices": 78,
+        "samples": 316,
+        "fit_rms_px": 0.6061369746887922,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.229386035034734
+      },
+      {
+        "vertices": 240,
+        "samples": 964,
+        "fit_rms_px": 0.6035911340714016,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.21815220245476435
+      },
+      {
+        "vertices": 192,
+        "samples": 772,
+        "fit_rms_px": 0.6039326762935806,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.24642998191239562
+      }
+    ],
+    "status": "trial_requires_visual_review"
+  },
+  "status": "pending_visual_review"
+}

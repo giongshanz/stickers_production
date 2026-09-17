@@ -221,8 +221,9 @@
   "next_action": "The requested mineral and fossil topics now each have 8 images. Resume pending alpha and visual QA in started topics before opening other topics.",
   "alpha_pilot_pending_review": {
     "id": "tet-lucky-envelope",
-    "candidate": "revisions/background-pilot-20260917/tet-lucky-envelope-alpha.png",
-    "qa_report": "qa/alpha-pilot-20260917/report.json",
+    "candidate": "revisions/border-pilot-20260917/tet-lucky-envelope-geometry-alpha.png",
+    "previous_candidate": "revisions/background-pilot-20260917/tet-lucky-envelope-alpha.png",
+    "qa_report": "qa/border-pilot-20260917/report.json",
     "master_unchanged": true
   }
 }

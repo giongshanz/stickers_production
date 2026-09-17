@@ -1,0 +1,14 @@
+{
+  "id": "coral-nursery-tree",
+  "selected_utc": "2026-09-17T10:37:12.291030+00:00",
+  "reason": "Clean the white export remnants inside the frame so the spaces around hanging coral are transparent; increase side padding.",
+  "old_master": "revisions/rework-20260917/previous/coral-nursery-tree/masters/coral-nursery-tree.png",
+  "old_sha256": "bd1f6c57ef4f40118ba242e8fd7bb42f240ff19b3063753bf7d7477c57f2923e",
+  "old_deliveries": [
+    "revisions/rework-20260917/previous/coral-nursery-tree/delivery/stickers/coral-restoration/coral-nursery-tree.png"
+  ],
+  "new_master": "masters/coral-nursery-tree.png",
+  "new_sha256": "b97bdb3e145e75c6fd86189ad20620445e3719ebcca51130abd2ed3045bf54e1",
+  "selected_candidate": "revisions/rework-20260917/coral-nursery-tree-v1.png",
+  "review": "Subject, silhouette, padding and alpha visually reviewed on dark contact sheets; provisional art acceptance."
+}

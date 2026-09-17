@@ -1,0 +1,16 @@
+{
+  "id": "foraging-knife",
+  "selected_utc": "2026-09-17T09:02:59.447808+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/foraging-knife/masters/foraging-knife.png",
+  "old_sha256": "d8d10b1f8af468e97ccc0811959cea1e9c047d37bed36434f6fa988bfdf00d8a",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/foraging-knife/delivery/_needs-alpha/woodland-foraging/foraging-knife.png"
+  ],
+  "new_master": "masters/foraging-knife.png",
+  "new_sha256": "4220bbe29f36633b6f85e7430f26513267b1d8e62c497267b43e720e20d5919a",
+  "selected_candidate": "revisions/border-alpha-20260917-exceptions/foraging-knife.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

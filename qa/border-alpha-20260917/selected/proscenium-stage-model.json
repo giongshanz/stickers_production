@@ -1,0 +1,16 @@
+{
+  "id": "proscenium-stage-model",
+  "selected_utc": "2026-09-17T09:02:59.304739+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/proscenium-stage-model/masters/proscenium-stage-model.png",
+  "old_sha256": "018d84f24e66f64146a8df6367df4aa3b6ed8335f535f65267781e747bee8b4c",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/proscenium-stage-model/delivery/_needs-alpha/theatre-backstage/proscenium-stage-model.png"
+  ],
+  "new_master": "masters/proscenium-stage-model.png",
+  "new_sha256": "d6ca2ac9b62a3c9f8c223e7677f488838a18715e3340e960e396df083d4924fb",
+  "selected_candidate": "revisions/border-alpha-20260917/proscenium-stage-model.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

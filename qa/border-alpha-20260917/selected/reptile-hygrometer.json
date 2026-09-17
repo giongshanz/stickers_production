@@ -1,0 +1,16 @@
+{
+  "id": "reptile-hygrometer",
+  "selected_utc": "2026-09-17T09:02:59.965307+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/reptile-hygrometer/masters/reptile-hygrometer.png",
+  "old_sha256": "b6f92d78cb32e49b06effb459fe901e457a51078be66276fb69b56d85ffa6a26",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/reptile-hygrometer/delivery/_needs-alpha/reptile-habitat/reptile-hygrometer.png"
+  ],
+  "new_master": "masters/reptile-hygrometer.png",
+  "new_sha256": "c8ea8a104aef65fa1b96bb2b1f42187889932f3c286be37044db63c720def28b",
+  "selected_candidate": "revisions/border-alpha-20260917/reptile-hygrometer.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

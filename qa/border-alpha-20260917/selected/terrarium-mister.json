@@ -1,0 +1,16 @@
+{
+  "id": "terrarium-mister",
+  "selected_utc": "2026-09-17T09:02:59.575305+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/terrarium-mister/masters/terrarium-mister.png",
+  "old_sha256": "335bf2b776452256ed206802ae15f188241cf7ced20300e47218a430a1b599c2",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/terrarium-mister/delivery/_needs-alpha/terrarium-workshop/terrarium-mister.png"
+  ],
+  "new_master": "masters/terrarium-mister.png",
+  "new_sha256": "f9544b85b0ec21533618295870cc9fe005082399995006565072aa07b480835c",
+  "selected_candidate": "revisions/border-alpha-20260917/terrarium-mister.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

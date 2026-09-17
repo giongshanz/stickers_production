@@ -1,0 +1,16 @@
+{
+  "id": "weather-barometer",
+  "selected_utc": "2026-09-17T09:02:59.838355+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/weather-barometer/masters/weather-barometer.png",
+  "old_sha256": "de95d1c6958744225c535f712398e284d7df4d168439ebf8b2cf8c09d6a06c85",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/weather-barometer/delivery/_needs-alpha/weather-station/weather-barometer.png"
+  ],
+  "new_master": "masters/weather-barometer.png",
+  "new_sha256": "8ab4af85905df189fda6d3e2d3399b0a1dcc037ca4efc692a08e9926ff43479e",
+  "selected_candidate": "revisions/border-alpha-20260917/weather-barometer.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

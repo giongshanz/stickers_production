@@ -1,0 +1,89 @@
+{
+  "id": "djembe",
+  "created_utc": "2026-09-17T08:49:36.236757+00:00",
+  "source": "masters/djembe.png",
+  "source_sha256": "531466b2b45e04eb3504cacb382603d06f19012b84f07f6d0a58a5326d92cd74",
+  "paper_input": "revisions/alpha-audit-20260916/djembe-candidate.png",
+  "paper_input_sha256": "3762a5775d04b890d6d8431a34e44c87d296e85db7a23384f1ae507c53f0db8c",
+  "candidate": "revisions/border-alpha-20260917/djembe.png",
+  "candidate_sha256": "ab009d6a35517e36705239fe48a7597d8c99e5591887693dcbe6a046bba1934d",
+  "method": "border_geometry.cutout, measured inset, original RGB restored",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "dimensions_unchanged": true,
+  "rgb_changed_pixels": 0,
+  "measured_paper_width_px": 26.1725046566048,
+  "radius_px": 24.3,
+  "paper_holes": 0,
+  "hole_seeds": [],
+  "visible_pixels_outside_paper": 0,
+  "partial_alpha_edge_colored_pixels": 0,
+  "transparent_pixels": 977686,
+  "partial_alpha_pixels": 3532,
+  "corner_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 25984,
+    "rgb_changed_chromatic_pixels": 0,
+    "rgb_changed_outside_paper": 2361,
+    "painted_pixels": 516612,
+    "protected_pixels": 528348,
+    "safe_white_pixels": 71911,
+    "dirty_white_pixels": 2552,
+    "radius_px": 24.3,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 977686,
+    "partial_alpha_pixels": 3532,
+    "visible_pixels_outside_paper": 0,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 3532,
+      "min": 23.624694587750145,
+      "max": 25.999463530706254,
+      "mean": 24.29661958185647,
+      "p05": 23.783928394295245,
+      "p25": 24.01534699415552,
+      "median": 24.30206720114269,
+      "p75": 24.572272487394248,
+      "p95": 24.80046451052209
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 3532,
+      "min": 23.682940185400128,
+      "max": 24.915687520727953,
+      "mean": 24.305217868642487,
+      "p05": 23.796783202011902,
+      "p25": 24.033008024194764,
+      "median": 24.309049678303936,
+      "p75": 24.583192927242767,
+      "p95": 24.800877923377552
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 3852,
+        "samples": 15412,
+        "fit_rms_px": 0.600239878078084,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.2518982998560069
+      }
+    ],
+    "status": "trial_requires_visual_review"
+  },
+  "status": "pending_visual_review"
+}

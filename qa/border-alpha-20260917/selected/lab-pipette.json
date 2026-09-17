@@ -1,0 +1,16 @@
+{
+  "id": "lab-pipette",
+  "selected_utc": "2026-09-17T09:02:59.795436+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/lab-pipette/masters/lab-pipette.png",
+  "old_sha256": "16607b293aeeea3df6eb544b913925e26f857cafab1f95f58b3b8c9fd158ebf7",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/lab-pipette/delivery/_needs-alpha/science-laboratory/lab-pipette.png"
+  ],
+  "new_master": "masters/lab-pipette.png",
+  "new_sha256": "a92db45dad2cbbde67ddef51e86da09576fcbb609feed29296f4ecdf50821092",
+  "selected_candidate": "revisions/border-alpha-20260917/lab-pipette.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

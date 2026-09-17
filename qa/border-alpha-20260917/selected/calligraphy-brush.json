@@ -1,0 +1,16 @@
+{
+  "id": "calligraphy-brush",
+  "selected_utc": "2026-09-17T09:02:59.757371+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/calligraphy-brush/masters/calligraphy-brush.png",
+  "old_sha256": "2d3db09fb103d90dd216c481f01f2bc7845ef47b430a208a393e1df16f6e6904",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/calligraphy-brush/delivery/_needs-alpha/calligraphy-desk/calligraphy-brush.png"
+  ],
+  "new_master": "masters/calligraphy-brush.png",
+  "new_sha256": "40c6d2c886ad434f0f1e8aab9cdaf4c0442604343ac8f9abb1f650763b77d9e0",
+  "selected_candidate": "revisions/border-alpha-20260917/calligraphy-brush.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

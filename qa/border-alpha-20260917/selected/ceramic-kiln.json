@@ -1,0 +1,16 @@
+{
+  "id": "ceramic-kiln",
+  "selected_utc": "2026-09-17T09:02:59.245866+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/ceramic-kiln/masters/ceramic-kiln.png",
+  "old_sha256": "faf2d2721f74bd99281a8d10c68bf7aec2dd7a48c184d8c0bb5d7554c8358e14",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/ceramic-kiln/delivery/_needs-alpha/pottery-studio/ceramic-kiln.png"
+  ],
+  "new_master": "masters/ceramic-kiln.png",
+  "new_sha256": "9d9834a95116fdcd2bbee7d8613e3a2265991f511e3b670646947e754f2004e6",
+  "selected_candidate": "revisions/border-alpha-20260917/ceramic-kiln.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

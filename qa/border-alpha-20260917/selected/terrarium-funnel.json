@@ -1,0 +1,16 @@
+{
+  "id": "terrarium-funnel",
+  "selected_utc": "2026-09-17T09:02:59.626180+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/terrarium-funnel/masters/terrarium-funnel.png",
+  "old_sha256": "a948743fe8a2097befb425cb436a6d947ac661eef6b1e02103985778d0df5a5e",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/terrarium-funnel/delivery/_needs-alpha/terrarium-workshop/terrarium-funnel.png"
+  ],
+  "new_master": "masters/terrarium-funnel.png",
+  "new_sha256": "ea64688ee2e1901a515abcb59f6d5f640f5a7bd032ae20a1bfe19d4c80fd7abe",
+  "selected_candidate": "revisions/border-alpha-20260917/terrarium-funnel.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

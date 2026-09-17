@@ -1,0 +1,49 @@
+{
+  "created_utc": "2026-09-16T07:03:11.417520+00:00",
+  "sources": [
+    {
+      "id": "beehive-skep",
+      "source": "revisions/border-continuation-20260916/sources/beehive-skep.png",
+      "master": "masters/beehive-skep.png",
+      "source_sha256": "8f07fd7c89091d0b09c56e46a5fc7b98bc82b2454ba684e98c34d7d123394d10"
+    },
+    {
+      "id": "honey-lemon-tea",
+      "source": "revisions/border-continuation-20260916/sources/honey-lemon-tea.png",
+      "master": "masters/honey-lemon-tea.png",
+      "source_sha256": "c1d98493626b1c7abecddfa192879049c61162b61e310bb6efdb5908e1677568"
+    },
+    {
+      "id": "honey-butter-dish",
+      "source": "revisions/border-continuation-20260916/sources/honey-butter-dish.png",
+      "master": "masters/honey-butter-dish.png",
+      "source_sha256": "109962aba8172ba7e9463d857e532f0142fa50a836e9fa6b3ecfac8fb3d2275c"
+    },
+    {
+      "id": "honey-pancakes",
+      "source": "revisions/border-continuation-20260916/sources/honey-pancakes.png",
+      "master": "masters/honey-pancakes.png",
+      "source_sha256": "c4baa8c11610c7895de7b0e72ce57aeb1c52cf941ae468614cf5683111bc0185"
+    }
+  ],
+  "progress_before": {
+    "updated_utc": "2026-09-16T04:13:58.179264+00:00",
+    "workspace_root": ".",
+    "target_topics": 50,
+    "target_slots": 400,
+    "target_unique": 390,
+    "generated_unique": 190,
+    "missing_unique": 200,
+    "alpha_corners_clear_unique": 113,
+    "needs_alpha_unique": 77,
+    "topics_with_all_images": 25,
+    "generated_topic_slots": 200,
+    "visual_rework_unique": 25,
+    "complete": false,
+    "next_asset_ids": [],
+    "next_action": "All started topics have their images. Continue pending alpha and visual QA per state/work-order.json; remaining missing IDs belong to topics outside the current scope.",
+    "quota_note": "Imagegen succeeded for the 2026-09-16 batch. No generation is running at the saved batch checkpoint; recheck fresh tool responses on continuation.",
+    "quality_work": "Fix RGB backgrounds and qa/visual-qa.json candidates; game integration is not approved by corner-alpha checks."
+  },
+  "context": "Fresh filesystem had190 masters; prior in-conversation border trial files were absent. Reconstruct the accepted beehive method from preserved instructions and identical RGB source. Original master/delivery remain untouched at preparation."
+}

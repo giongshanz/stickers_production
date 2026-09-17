@@ -188,118 +188,36 @@
     "fossil-dinosaur-footprint",
     "fossil-plaster-jacket",
     "fossil-rock-hammer",
-    "fossil-amber-insect"
+    "fossil-amber-insect",
+    "banh-mi",
+    "pho-bo",
+    "banh-xeo",
+    "goi-cuon",
+    "beehive-skep",
+    "beekeeper-veil-hat",
+    "pottery-wheel",
+    "sewing-machine",
+    "weather-rain-gauge",
+    "weather-barometer",
+    "weather-shelter",
+    "mezze-baba-ganoush",
+    "mezze-halloumi",
+    "picnic-hamper",
+    "picnic-checkered-cloth"
   ],
   "style_reference": "references/Stickers",
   "subject_check": "See rework_candidates; other reviewed subjects provisionally accepted",
   "style_notes": "Warm mid-light palette, local tinted outlines, modest painterly volume. Fine white fringe on some alpha exports should be reviewed at game scale.",
   "background_notes": "Alpha varies by export. Refer to per-file status in progress.json; several masters contain printed checkerboards and require background correction. Visual review here does not certify transparency.",
   "dimensions": "Actual generated dimensions preserved; new prompt target is 512x512 only.",
-  "rework_candidates": [
-    {
-      "id": "tailor-dress-form",
-      "reason": "White cut margin reaches the top canvas edge; needs clear top padding."
-    },
-    {
-      "id": "terrarium-mister",
-      "reason": "Reduce broad white glass reflections and metallic shine; use softer matte painted color patches to match desktop references."
-    },
-    {
-      "id": "terrarium-moss",
-      "reason": "Mushrooms dominate the silhouette. Simplify to a low moss cushion without prominent mushrooms so the subject reads clearly as moss."
-    },
-    {
-      "id": "snorkel-mask",
-      "reason": "White sticker margin touches both side edges. Reframe with clear padding."
-    },
-    {
-      "id": "snorkel-tube",
-      "reason": "Small white export debris reaches top canvas edge. Clean edge and reframe slightly smaller."
-    },
-    {
-      "id": "dive-rashguard",
-      "reason": "Side padding is only about 1.4 percent of canvas width; increase clear padding and clean underarm alpha edges."
-    },
-    {
-      "id": "table-coral",
-      "reason": "The planned broad flat canopy became a deep cupped form; redraw as a flat table-like canopy on short branching supports. Increase side padding."
-    },
-    {
-      "id": "coral-nursery-tree",
-      "reason": "Clean the white export remnants inside the frame so the spaces around hanging coral are transparent; increase side padding."
-    },
-    {
-      "id": "coral-monitoring-quadrat",
-      "reason": "Remove white export remnants and speckled alpha from all nine grid openings; keep only a narrow clean white cut margin."
-    },
-    {
-      "id": "calligraphy-inkstone",
-      "reason": "Reduce mottled stone texture and near-black recessed shading; keep two or three softer slate-gray painted planes matching the desktop references."
-    },
-    {
-      "id": "lab-microscope",
-      "reason": "Clean white remnants in the opening beneath the objective lenses; retain a narrow even cut margin around the hardware and clear transparent gaps."
-    },
-    {
-      "id": "weather-anemometer",
-      "reason": "Remove irregular white debris between the rotating cups and the central stand; keep the white cut margin narrow and the surrounding gaps transparent."
-    },
-    {
-      "id": "weather-wind-vane",
-      "reason": "Clean detached white specks in the open spaces above and below the arrow without changing the painted rooster or palette."
-    },
-    {
-      "id": "bongos",
-      "reason": "Both side edges are too close to the canvas and include white export debris. Reframe the full paired drums smaller with clear padding."
-    },
-    {
-      "id": "maracas",
-      "reason": "Remove detached white specks above the shakers and around the crossed handles while preserving the artwork."
-    },
-    {
-      "id": "triangle-instrument",
-      "reason": "Clean white remnants inside the triangular opening and between the triangle and beater; preserve a narrow even sticker border."
-    },
-    {
-      "id": "marching-trumpet",
-      "reason": "Reframe smaller with clear padding on both sides and remove white export remnants in the tubing openings."
-    },
-    {
-      "id": "marching-bass-drum",
-      "reason": "Clean white fill and ragged alpha in the openings beneath the shoulder harness while preserving the white hardware and narrow sticker margin."
-    },
-    {
-      "id": "marching-sousaphone",
-      "reason": "Clean detached white remnants in the large coil and under the bell; preserve the painted brass shading."
-    },
-    {
-      "id": "drum-major-mace",
-      "reason": "Clean the irregular white fill between the tassels and the shaft without changing the design."
-    },
-    {
-      "id": "dragonfly",
-      "reason": "Add small recognizable insect legs beneath the thorax; keep four wings and the existing soft painted style."
-    },
-    {
-      "id": "grasshopper",
-      "reason": "Remove white export remnants between the antennae and legs while keeping thin even cut margins."
-    },
-    {
-      "id": "stag-beetle",
-      "reason": "Remove extensive white export remnants in gaps between legs, antennae and horns or mandibles; preserve the existing anatomy and soft painted palette."
-    },
-    {
-      "id": "leaf-insect",
-      "reason": "Remove extensive white export remnants in gaps between legs, antennae and horns or mandibles; preserve the existing anatomy and soft painted palette."
-    },
-    {
-      "id": "rhinoceros-beetle",
-      "reason": "Remove extensive white export remnants in gaps between legs, antennae and horns or mandibles; preserve the existing anatomy and soft painted palette."
-    }
-  ],
+  "rework_candidates": [],
   "migration_note": "Original reviews preserved. Selected masters are provisional; corner-alpha checks are not visual certification.",
   "batch_20260916_note": "17 new IDs visually reviewed. Corrected muskrat tail, water strider six legs and mat padding with ImageGen. Alpha-only cleanup selected after dark-background review; RGB and dimensions verified unchanged. Previous rework candidates remain.",
   "mineral_amethyst_20260917_note": "Selected edited amethyst after visual review on a dark background. Detached alpha islands removed without RGB or dimension changes. Provisional visual acceptance; remaining project-wide QA is pending.",
   "batch_20260917_note": "15 new mineral and fossil stickers visually reviewed for subject, style, padding, silhouette and detached alpha. All 15 have provisionally accepted selected masters; inspected four difficult edges on dark-background previews. Detached alpha islands were removed with RGB and dimensions unchanged. Existing visual rework candidates remain.",
-  "alpha_pilot_20260917_note": "tet-lucky-envelope candidate reviewed on dark and light backgrounds: printed checkerboard removed outside the white cut margin. RGB and dimensions unchanged. Master and delivery remain unchanged for user quality review; see qa/alpha-pilot-20260917/report.json."
+  "alpha_pilot_20260917_note": "tet-lucky-envelope candidate reviewed on dark and light backgrounds: printed checkerboard removed outside the white cut margin. RGB and dimensions unchanged. Master and delivery remain unchanged for user quality review; see qa/alpha-pilot-20260917/report.json.",
+  "border_pilot_20260917_note": "Retried tet-lucky-envelope with border_geometry.cutout in alpha-only mode, radius 21.8 px. Dark, light and green previews show a smoother cut margin without printed checkerboard. RGB and dimensions unchanged; selected master/delivery unchanged while user reviews.",
+  "border_alpha_batch_20260917_note": "77 prior needs_alpha masters selected after dark-background contact-sheet review; RGB and canvas dimensions unchanged for every selected PNG. Four difficult silhouettes used alternate geometric core; the stage spotlight internal checker patch received local alpha cleanup. All 77 old masters and 79 old delivery copies are preserved in revisions/border-alpha-20260917/previous. Existing visual rework candidates remain open; alpha corners alone are not final art approval.",
+  "mushroom_basket_hole_20260917_note": "Removed printed checkerboard from the enclosed opening under the basket handle using an alpha-only geometry hole seed. Reviewed 1:1 crops on dark and light backgrounds; RGB, dimensions and painted pixels unchanged. Previous selected master and both delivery copies archived.",
+  "visual_rework_20260917_note": "12 imagegen replacements selected and previous masters/delivery copies archived. 13 prior alpha-only rework notes were visually rechecked on dark contact sheets after the earlier border-alpha cleanup and found resolved without another master edit. See qa/rework-20260917/selection-summary.json. Visual approval remains provisional."
 }

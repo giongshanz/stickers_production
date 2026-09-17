@@ -1,0 +1,89 @@
+{
+  "id": "morel",
+  "created_utc": "2026-09-17T08:47:46.288155+00:00",
+  "source": "masters/morel.png",
+  "source_sha256": "f2d9d5ec7278188cadfb943d98a4de4307b1987ced37e6d73808a1577b7f984f",
+  "paper_input": "revisions/alpha-audit-20260916/morel-candidate.png",
+  "paper_input_sha256": "69f78763eb50274eec5cf75eeffb988427121146fac809231043a9581fa1f277",
+  "candidate": "revisions/border-alpha-20260917/morel.png",
+  "candidate_sha256": "461507d1536f6e5efc959b6e85abfc89b9bb23203b93941f878a766c95c94c7a",
+  "method": "border_geometry.cutout, measured inset, original RGB restored",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "dimensions_unchanged": true,
+  "rgb_changed_pixels": 0,
+  "measured_paper_width_px": 19.697715603592208,
+  "radius_px": 17.5,
+  "paper_holes": 0,
+  "hole_seeds": [],
+  "visible_pixels_outside_paper": 0,
+  "partial_alpha_edge_colored_pixels": 0,
+  "transparent_pixels": 1080875,
+  "partial_alpha_pixels": 3451,
+  "corner_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 23591,
+    "rgb_changed_chromatic_pixels": 0,
+    "rgb_changed_outside_paper": 2004,
+    "painted_pixels": 436136,
+    "protected_pixels": 447586,
+    "safe_white_pixels": 49706,
+    "dirty_white_pixels": 2151,
+    "radius_px": 17.5,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 1080875,
+    "partial_alpha_pixels": 3451,
+    "visible_pixels_outside_paper": 0,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 3451,
+      "min": 16.84195726953909,
+      "max": 19.547061924648077,
+      "mean": 17.497170773807518,
+      "p05": 16.96992629599572,
+      "p25": 17.215299506094702,
+      "median": 17.501354148823893,
+      "p75": 17.775441657556108,
+      "p95": 18.004942907526235
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 3451,
+      "min": 16.886132553223852,
+      "max": 18.11508926492635,
+      "mean": 17.505629142290033,
+      "p05": 16.992921321395173,
+      "p25": 17.229838695998282,
+      "median": 17.514887431028335,
+      "p75": 17.785710339095385,
+      "p95": 17.995748755942543
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 3788,
+        "samples": 15156,
+        "fit_rms_px": 0.600280267858696,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.26747276876478504
+      }
+    ],
+    "status": "trial_requires_visual_review"
+  },
+  "status": "pending_visual_review"
+}

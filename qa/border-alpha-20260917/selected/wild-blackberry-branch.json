@@ -1,0 +1,16 @@
+{
+  "id": "wild-blackberry-branch",
+  "selected_utc": "2026-09-17T09:02:59.462284+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/wild-blackberry-branch/masters/wild-blackberry-branch.png",
+  "old_sha256": "51d923b61ef60dc539fc2c1b1bbf3ec9498d2c84da43e33ce87e977ada5e007d",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/wild-blackberry-branch/delivery/_needs-alpha/woodland-foraging/wild-blackberry-branch.png"
+  ],
+  "new_master": "masters/wild-blackberry-branch.png",
+  "new_sha256": "2b220150f27ae9a14a70693f7cbdc2ffb8464f526397bb1f9328d0dbf0caa220",
+  "selected_candidate": "revisions/border-alpha-20260917/wild-blackberry-branch.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "tailor-dress-form",
+  "selected_utc": "2026-09-17T10:37:12.219316+00:00",
+  "reason": "White cut margin reaches the top canvas edge; needs clear top padding.",
+  "old_master": "revisions/rework-20260917/previous/tailor-dress-form/masters/tailor-dress-form.png",
+  "old_sha256": "bce522ad2bd2037a7056f523ce5f2ed9ac0626bc1f069b98eaae960445919d7a",
+  "old_deliveries": [
+    "revisions/rework-20260917/previous/tailor-dress-form/delivery/stickers/sewing-room/tailor-dress-form.png",
+    "revisions/rework-20260917/previous/tailor-dress-form/delivery/stickers/theatre-backstage/tailor-dress-form.png"
+  ],
+  "new_master": "masters/tailor-dress-form.png",
+  "new_sha256": "666c836b566471e2d376a5b875bbe9b2c9b714a50cbd173f532aa91e3497f42a",
+  "selected_candidate": "revisions/rework-20260917/tailor-dress-form-v1.png",
+  "review": "Subject, silhouette, padding and alpha visually reviewed on dark contact sheets; provisional art acceptance."
+}

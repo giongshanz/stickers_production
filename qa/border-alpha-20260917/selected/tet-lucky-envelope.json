@@ -1,0 +1,16 @@
+{
+  "id": "tet-lucky-envelope",
+  "selected_utc": "2026-09-17T09:02:59.108240+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/tet-lucky-envelope/masters/tet-lucky-envelope.png",
+  "old_sha256": "296e977d628d0d5892af93f5d54243a7805c6be8f6dc1c577081a4d9fee394af",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/tet-lucky-envelope/delivery/_needs-alpha/vietnamese-tet/tet-lucky-envelope.png"
+  ],
+  "new_master": "masters/tet-lucky-envelope.png",
+  "new_sha256": "43d2cc2e82516019e69231a004751dbe840dc45e7d6d5ab9fc397f27065ed6f1",
+  "selected_candidate": "revisions/border-alpha-20260917/tet-lucky-envelope.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "sewing-machine",
+  "selected_utc": "2026-09-17T09:02:59.258700+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/sewing-machine/masters/sewing-machine.png",
+  "old_sha256": "5f635a733544b991a93e45c033811a4e82cd7e790c3d20b0561f9f68ae785076",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/sewing-machine/delivery/_needs-alpha/sewing-room/sewing-machine.png"
+  ],
+  "new_master": "masters/sewing-machine.png",
+  "new_sha256": "42e719c47da2e41effbfd7a66a8cc1bbb9f2665c5be8e2608f8de610873bed67",
+  "selected_candidate": "revisions/border-alpha-20260917/sewing-machine.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "dive-rashguard",
+  "selected_utc": "2026-09-17T10:37:12.269822+00:00",
+  "reason": "Side padding is only about 1.4 percent of canvas width; increase clear padding and clean underarm alpha edges.",
+  "old_master": "revisions/rework-20260917/previous/dive-rashguard/masters/dive-rashguard.png",
+  "old_sha256": "ff7149a5c8e0ad00223c37104724d16a541f51fee86812997f91535bf13a2c2b",
+  "old_deliveries": [
+    "revisions/rework-20260917/previous/dive-rashguard/delivery/stickers/snorkeling/dive-rashguard.png"
+  ],
+  "new_master": "masters/dive-rashguard.png",
+  "new_sha256": "a79728694fcbc1d0155fd4c6a83ae833ff7800cd26a027516e03d5871f02563a",
+  "selected_candidate": "revisions/rework-20260917/dive-rashguard-v1.png",
+  "review": "Subject, silhouette, padding and alpha visually reviewed on dark contact sheets; provisional art acceptance."
+}

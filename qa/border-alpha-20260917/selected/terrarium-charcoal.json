@@ -1,0 +1,16 @@
+{
+  "id": "terrarium-charcoal",
+  "selected_utc": "2026-09-17T09:02:59.614636+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/terrarium-charcoal/masters/terrarium-charcoal.png",
+  "old_sha256": "cca8b7025b4bbceda3e8599a5b00e86b46958553ece503dfe9eac468eb2db211",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/terrarium-charcoal/delivery/_needs-alpha/terrarium-workshop/terrarium-charcoal.png"
+  ],
+  "new_master": "masters/terrarium-charcoal.png",
+  "new_sha256": "250e5dad7be1cfd20b1a7778b01fbc961a15c6fd147efb228a2d8585841393eb",
+  "selected_candidate": "revisions/border-alpha-20260917/terrarium-charcoal.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

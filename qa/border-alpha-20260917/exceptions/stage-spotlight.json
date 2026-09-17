@@ -1,0 +1,75 @@
+{
+  "id": "stage-spotlight",
+  "source": "masters/stage-spotlight.png",
+  "source_sha256": "aa385650fae04921f1cf15d4ab59ad9becbb18a40adee1a08744f0dec80925dd",
+  "paper_input": "revisions/alpha-audit-20260916/stage-spotlight-candidate.png",
+  "candidate": "revisions/border-alpha-20260917-exceptions/stage-spotlight.png",
+  "candidate_sha256": "0c5e9502f3766ef381ef1b9c8e4f36745303544403c3458a1918fc6a6265833e",
+  "method": "border_geometry.cutout with alternate painted core and original RGB restored",
+  "radius_px": 15.8,
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_changed_pixels": 0,
+  "partial_alpha_edge_colored_pixels": 0,
+  "visible_pixels_outside_paper": 0,
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 37345,
+    "rgb_changed_chromatic_pixels": 0,
+    "rgb_changed_outside_paper": 2251,
+    "painted_pixels": 595013,
+    "protected_pixels": 612832,
+    "safe_white_pixels": 67798,
+    "dirty_white_pixels": 2442,
+    "radius_px": 15.8,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 901424,
+    "partial_alpha_pixels": 4932,
+    "visible_pixels_outside_paper": 0,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 4932,
+      "min": 15.063648365866982,
+      "max": 17.965130469436193,
+      "mean": 15.789631731394323,
+      "p05": 15.276557475513819,
+      "p25": 15.503149940681013,
+      "median": 15.776610597164382,
+      "p75": 16.065778605916694,
+      "p95": 16.295100929307605
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 4932,
+      "min": 15.184196355042136,
+      "max": 16.417892397018132,
+      "mean": 15.795836885950585,
+      "p05": 15.3100729534322,
+      "p25": 15.519899769056721,
+      "median": 15.79253723636577,
+      "p75": 16.06998172871087,
+      "p95": 16.29156888642146
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 5754,
+        "samples": 23020,
+        "fit_rms_px": 0.5999756471852575,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.26665356237935944
+      }
+    ],
+    "status": "trial_requires_visual_review"
+  },
+  "status": "pending_visual_review"
+}

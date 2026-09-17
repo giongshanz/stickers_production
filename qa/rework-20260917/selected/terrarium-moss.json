@@ -1,0 +1,14 @@
+{
+  "id": "terrarium-moss",
+  "selected_utc": "2026-09-17T10:37:12.241521+00:00",
+  "reason": "Mushrooms dominate the silhouette. Simplify to a low moss cushion without prominent mushrooms so the subject reads clearly as moss.",
+  "old_master": "revisions/rework-20260917/previous/terrarium-moss/masters/terrarium-moss.png",
+  "old_sha256": "b08fd1af306b30cf0ae8b31f3dd2784f5895de273c7a371df03330f70a19e5ce",
+  "old_deliveries": [
+    "revisions/rework-20260917/previous/terrarium-moss/delivery/stickers/terrarium-workshop/terrarium-moss.png"
+  ],
+  "new_master": "masters/terrarium-moss.png",
+  "new_sha256": "b06679d18e51f4fc82d65a03228d485fe4687291679095c8ab408d6b8386a7ae",
+  "selected_candidate": "revisions/rework-20260917/terrarium-moss-v1.png",
+  "review": "Subject, silhouette, padding and alpha visually reviewed on dark contact sheets; provisional art acceptance."
+}

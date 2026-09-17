@@ -1,0 +1,16 @@
+{
+  "id": "opera-binoculars",
+  "selected_utc": "2026-09-17T09:02:59.317518+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/opera-binoculars/masters/opera-binoculars.png",
+  "old_sha256": "195f1ec87b196c02456a27a9cee351f3e73a81e7741883c94a253a291579226f",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/opera-binoculars/delivery/_needs-alpha/theatre-backstage/opera-binoculars.png"
+  ],
+  "new_master": "masters/opera-binoculars.png",
+  "new_sha256": "294f85e913da6f16bfd258d537f51b160eb3ced159ebbdc333093e3509627df5",
+  "selected_candidate": "revisions/border-alpha-20260917/opera-binoculars.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

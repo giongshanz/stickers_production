@@ -1,0 +1,16 @@
+{
+  "id": "wild-chestnut",
+  "selected_utc": "2026-09-17T09:02:59.475401+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/wild-chestnut/masters/wild-chestnut.png",
+  "old_sha256": "9193fe5cc134a583dd70c906549c8354932f366dad74ceb889236646eb306f7c",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/wild-chestnut/delivery/_needs-alpha/woodland-foraging/wild-chestnut.png"
+  ],
+  "new_master": "masters/wild-chestnut.png",
+  "new_sha256": "6ee2e0fbd9fcd668f61a4f06b33474f6e547864f027839e1d9e1080c01a40772",
+  "selected_candidate": "revisions/border-alpha-20260917/wild-chestnut.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

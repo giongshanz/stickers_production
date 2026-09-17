@@ -1,0 +1,14 @@
+{
+  "id": "marching-trumpet",
+  "selected_utc": "2026-09-17T10:37:12.318753+00:00",
+  "reason": "Reframe smaller with clear padding on both sides and remove white export remnants in the tubing openings.",
+  "old_master": "revisions/rework-20260917/previous/marching-trumpet/masters/marching-trumpet.png",
+  "old_sha256": "283bb2e5c6e700bd34d790269a0932be9aa1f5e67254e09b937017650cabd480",
+  "old_deliveries": [
+    "revisions/rework-20260917/previous/marching-trumpet/delivery/stickers/marching-band/marching-trumpet.png"
+  ],
+  "new_master": "masters/marching-trumpet.png",
+  "new_sha256": "7c5300462828b3e6afb883378ededb085908ad6a5e91d90e8165d026677a2026",
+  "selected_candidate": "revisions/rework-20260917/marching-trumpet-v1.png",
+  "review": "Subject, silhouette, padding and alpha visually reviewed on dark contact sheets; provisional art acceptance."
+}

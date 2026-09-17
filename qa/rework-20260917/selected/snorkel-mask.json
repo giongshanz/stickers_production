@@ -1,0 +1,14 @@
+{
+  "id": "snorkel-mask",
+  "selected_utc": "2026-09-17T10:37:12.251121+00:00",
+  "reason": "White sticker margin touches both side edges. Reframe with clear padding.",
+  "old_master": "revisions/rework-20260917/previous/snorkel-mask/masters/snorkel-mask.png",
+  "old_sha256": "80740bb7d606273e9f7d8cb6b1bce4fc2bebfb2bafe81ff88c8836dbcf4bfd26",
+  "old_deliveries": [
+    "revisions/rework-20260917/previous/snorkel-mask/delivery/stickers/snorkeling/snorkel-mask.png"
+  ],
+  "new_master": "masters/snorkel-mask.png",
+  "new_sha256": "1df612906c0692cee2d0e75a16b5dd1b7f7d11f8c3a321169d6c5206f9452c06",
+  "selected_candidate": "revisions/rework-20260917/snorkel-mask-v1.png",
+  "review": "Subject, silhouette, padding and alpha visually reviewed on dark contact sheets; provisional art acceptance."
+}

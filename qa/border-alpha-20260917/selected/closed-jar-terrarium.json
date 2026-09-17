@@ -1,0 +1,16 @@
+{
+  "id": "closed-jar-terrarium",
+  "selected_utc": "2026-09-17T09:02:59.552493+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/closed-jar-terrarium/masters/closed-jar-terrarium.png",
+  "old_sha256": "95f1b6d93e153a340c4f3c4dd1cc82e3004e2c94ab6230877a256421f6ca1e75",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/closed-jar-terrarium/delivery/_needs-alpha/terrarium-workshop/closed-jar-terrarium.png"
+  ],
+  "new_master": "masters/closed-jar-terrarium.png",
+  "new_sha256": "b48ca172cd51a4af3b92e02adbb0a05b61b47faef6eea1db2862f57960642844",
+  "selected_candidate": "revisions/border-alpha-20260917/closed-jar-terrarium.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

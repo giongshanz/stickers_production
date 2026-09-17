@@ -1,0 +1,16 @@
+{
+  "id": "mezze-baba-ganoush",
+  "selected_utc": "2026-09-17T09:03:00.026008+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/mezze-baba-ganoush/masters/mezze-baba-ganoush.png",
+  "old_sha256": "d48213053fb20c6125473a23b71ef10371c0c5f87742134eda620c96cc440a59",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/mezze-baba-ganoush/delivery/_needs-alpha/mediterranean-mezze/mezze-baba-ganoush.png"
+  ],
+  "new_master": "masters/mezze-baba-ganoush.png",
+  "new_sha256": "1b0c128b6e0d22f6539c56ff1e81b4f6c2671a5cd51df24d17d8c8711e49574e",
+  "selected_candidate": "revisions/border-alpha-20260917/mezze-baba-ganoush.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

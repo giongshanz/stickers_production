@@ -1,0 +1,14 @@
+{
+  "id": "snorkel-tube",
+  "selected_utc": "2026-09-17T10:37:12.260786+00:00",
+  "reason": "Small white export debris reaches top canvas edge. Clean edge and reframe slightly smaller.",
+  "old_master": "revisions/rework-20260917/previous/snorkel-tube/masters/snorkel-tube.png",
+  "old_sha256": "3b7d8d80fbcc4d8e250709d1d4539fa2ac3c21a7614c507a8e43a9168cc7e364",
+  "old_deliveries": [
+    "revisions/rework-20260917/previous/snorkel-tube/delivery/stickers/snorkeling/snorkel-tube.png"
+  ],
+  "new_master": "masters/snorkel-tube.png",
+  "new_sha256": "7f889c80faa1dbc04e4fcb343dba487eb69d5e0a6d6e67d6422041fd49d13f0c",
+  "selected_candidate": "revisions/rework-20260917/snorkel-tube-v1.png",
+  "review": "Subject, silhouette, padding and alpha visually reviewed on dark contact sheets; provisional art acceptance."
+}

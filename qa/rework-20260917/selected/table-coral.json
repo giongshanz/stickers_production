@@ -1,0 +1,14 @@
+{
+  "id": "table-coral",
+  "selected_utc": "2026-09-17T10:37:12.279945+00:00",
+  "reason": "The planned broad flat canopy became a deep cupped form; redraw as a flat table-like canopy on short branching supports. Increase side padding.",
+  "old_master": "revisions/rework-20260917/previous/table-coral/masters/table-coral.png",
+  "old_sha256": "621380d8147c963218b1dad5be8cf5b46ea43d3883a72c8833d007febb16bc54",
+  "old_deliveries": [
+    "revisions/rework-20260917/previous/table-coral/delivery/stickers/coral-restoration/table-coral.png"
+  ],
+  "new_master": "masters/table-coral.png",
+  "new_sha256": "f5e50abf8c242e1eea8e1f9688f360596d4045dfc1f8e16a4b67b09a048338ad",
+  "selected_candidate": "revisions/rework-20260917/table-coral-v3.png",
+  "review": "Subject, silhouette, padding and alpha visually reviewed on dark contact sheets; provisional art acceptance."
+}

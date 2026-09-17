@@ -1,0 +1,16 @@
+{
+  "id": "terrarium-moss",
+  "selected_utc": "2026-09-17T09:02:59.602629+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/terrarium-moss/masters/terrarium-moss.png",
+  "old_sha256": "78671e7b5552602b9b2297f6d8950cdeb85d74a567bb5b8cf778e538b63b1fc5",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/terrarium-moss/delivery/_needs-alpha/terrarium-workshop/terrarium-moss.png"
+  ],
+  "new_master": "masters/terrarium-moss.png",
+  "new_sha256": "b08fd1af306b30cf0ae8b31f3dd2784f5895de273c7a371df03330f70a19e5ce",
+  "selected_candidate": "revisions/border-alpha-20260917/terrarium-moss.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

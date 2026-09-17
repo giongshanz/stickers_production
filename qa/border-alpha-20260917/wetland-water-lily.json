@@ -1,0 +1,89 @@
+{
+  "id": "wetland-water-lily",
+  "created_utc": "2026-09-17T08:50:17.927433+00:00",
+  "source": "masters/wetland-water-lily.png",
+  "source_sha256": "89427a86fdb9b9e3accfc35f426cd100fa6b9022ce058b77adb3e03c277f12b7",
+  "paper_input": "revisions/alpha-audit-20260916/wetland-water-lily-candidate.png",
+  "paper_input_sha256": "4e142aa6747ff07267d09a1422d966a49a75c96dca20b87237fe8e666e7a2fd4",
+  "candidate": "revisions/border-alpha-20260917/wetland-water-lily.png",
+  "candidate_sha256": "82eb23c82354463d31796befe4f58a9b1fa88d33bf4e9a7595664718e020d769",
+  "method": "border_geometry.cutout, measured inset, original RGB restored",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "dimensions_unchanged": true,
+  "rgb_changed_pixels": 0,
+  "measured_paper_width_px": 28.42534080710379,
+  "radius_px": 26.3,
+  "paper_holes": 0,
+  "hole_seeds": [],
+  "visible_pixels_outside_paper": 0,
+  "partial_alpha_edge_colored_pixels": 0,
+  "transparent_pixels": 829628,
+  "partial_alpha_pixels": 3942,
+  "corner_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 27770,
+    "rgb_changed_chromatic_pixels": 0,
+    "rgb_changed_outside_paper": 2045,
+    "painted_pixels": 645603,
+    "protected_pixels": 659546,
+    "safe_white_pixels": 89856,
+    "dirty_white_pixels": 2185,
+    "radius_px": 26.3,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 829628,
+    "partial_alpha_pixels": 3942,
+    "visible_pixels_outside_paper": 0,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 3942,
+      "min": 25.60573284984707,
+      "max": 28.156922789456296,
+      "mean": 26.295628344890325,
+      "p05": 25.765104746592904,
+      "p25": 26.01134891511132,
+      "median": 26.289514282866914,
+      "p75": 26.574659524891977,
+      "p95": 26.81184020575398
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 3942,
+      "min": 25.68345185257968,
+      "max": 26.913189975727274,
+      "mean": 26.3047571346551,
+      "p05": 25.791441490152614,
+      "p25": 26.029585320957015,
+      "median": 26.30406315515522,
+      "p75": 26.583502021249853,
+      "p95": 26.811667672580477
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 4802,
+        "samples": 19212,
+        "fit_rms_px": 0.6003482600960275,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.26211964325281073
+      }
+    ],
+    "status": "trial_requires_visual_review"
+  },
+  "status": "pending_visual_review"
+}

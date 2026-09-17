@@ -1,0 +1,89 @@
+{
+  "id": "reptile-feeding-tongs",
+  "created_utc": "2026-09-17T08:55:32.667420+00:00",
+  "source": "masters/reptile-feeding-tongs.png",
+  "source_sha256": "f76f5d893b30534144c1e2bbccad79fce423626f5664ef82d20c969708475ea6",
+  "paper_input": "revisions/alpha-audit-20260916/reptile-feeding-tongs-candidate.png",
+  "paper_input_sha256": "14e55b7d2d4655e79f0b25b83515f0ab46c076740627774f18afea10c94645ff",
+  "candidate": "revisions/border-alpha-20260917/reptile-feeding-tongs.png",
+  "candidate_sha256": "94ce7abe2c9b7d98416e360018ff179bc027285d1fd6b9febb37499be4f082da",
+  "method": "border_geometry.cutout, measured inset, original RGB restored",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "dimensions_unchanged": true,
+  "rgb_changed_pixels": 0,
+  "measured_paper_width_px": 25.059928172283335,
+  "radius_px": 22.5,
+  "paper_holes": 0,
+  "hole_seeds": [],
+  "visible_pixels_outside_paper": 0,
+  "partial_alpha_edge_colored_pixels": 0,
+  "transparent_pixels": 1247448,
+  "partial_alpha_pixels": 5276,
+  "corner_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 32879,
+    "rgb_changed_chromatic_pixels": 0,
+    "rgb_changed_outside_paper": 970,
+    "painted_pixels": 217171,
+    "protected_pixels": 234629,
+    "safe_white_pixels": 100580,
+    "dirty_white_pixels": 1206,
+    "radius_px": 22.5,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 1247448,
+    "partial_alpha_pixels": 5276,
+    "visible_pixels_outside_paper": 0,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 5276,
+      "min": 21.816686439152296,
+      "max": 24.43702487315429,
+      "mean": 22.500027571006797,
+      "p05": 21.950770694501273,
+      "p25": 22.20369377378008,
+      "median": 22.48831117870278,
+      "p75": 22.797021723692282,
+      "p95": 23.046971162876567
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 5276,
+      "min": 21.8822639849054,
+      "max": 23.118474139771234,
+      "mean": 22.500570123127638,
+      "p05": 21.96634129126544,
+      "p25": 22.21347113167325,
+      "median": 22.490146294461987,
+      "p75": 22.79441199110489,
+      "p95": 23.04229251804948
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 6620,
+        "samples": 26484,
+        "fit_rms_px": 0.6000754455441285,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.2214855989953398
+      }
+    ],
+    "status": "trial_requires_visual_review"
+  },
+  "status": "pending_visual_review"
+}

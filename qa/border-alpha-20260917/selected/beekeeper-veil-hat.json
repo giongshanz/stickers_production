@@ -1,0 +1,16 @@
+{
+  "id": "beekeeper-veil-hat",
+  "selected_utc": "2026-09-17T09:02:59.138332+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/beekeeper-veil-hat/masters/beekeeper-veil-hat.png",
+  "old_sha256": "4ffb8fe3468e6702540e182b6839dfab75dfc6e2e20416627377b3ba9e984dff",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/beekeeper-veil-hat/delivery/_needs-alpha/beekeeping/beekeeper-veil-hat.png"
+  ],
+  "new_master": "masters/beekeeper-veil-hat.png",
+  "new_sha256": "b6bacd3a81d031e01921b16dab4959084ee9f7bc76f253edd66283502680861f",
+  "selected_candidate": "revisions/border-alpha-20260917/beekeeper-veil-hat.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

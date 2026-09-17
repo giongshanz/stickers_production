@@ -1,0 +1,89 @@
+{
+  "id": "jade-plant-pot",
+  "created_utc": "2026-09-17T08:48:39.863496+00:00",
+  "source": "masters/jade-plant-pot.png",
+  "source_sha256": "57bf17e56279605354f352cc164bf0a4f8a70d43ed0f66aa25e6b0ee5b188d71",
+  "paper_input": "revisions/alpha-audit-20260916/jade-plant-pot-candidate.png",
+  "paper_input_sha256": "20fb4e6d87a6531831d80402a01b3a88ecfeb676388606d3e57c4911c93ac71a",
+  "candidate": "revisions/border-alpha-20260917/jade-plant-pot.png",
+  "candidate_sha256": "a5e1c87490d23a23206e82f11005739b25637cf7aabc69fa8598b7eaa592288d",
+  "method": "border_geometry.cutout, measured inset, original RGB restored",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "dimensions_unchanged": true,
+  "rgb_changed_pixels": 0,
+  "measured_paper_width_px": 22.360679774997898,
+  "radius_px": 20.4,
+  "paper_holes": 0,
+  "hole_seeds": [],
+  "visible_pixels_outside_paper": 0,
+  "partial_alpha_edge_colored_pixels": 0,
+  "transparent_pixels": 953467,
+  "partial_alpha_pixels": 3866,
+  "corner_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 28912,
+    "rgb_changed_chromatic_pixels": 0,
+    "rgb_changed_outside_paper": 2538,
+    "painted_pixels": 528183,
+    "protected_pixels": 546680,
+    "safe_white_pixels": 78697,
+    "dirty_white_pixels": 2754,
+    "radius_px": 20.4,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 953467,
+    "partial_alpha_pixels": 3866,
+    "visible_pixels_outside_paper": 0,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 3866,
+      "min": 19.714386015396574,
+      "max": 22.411940768098656,
+      "mean": 20.39533787538225,
+      "p05": 19.86514203231566,
+      "p25": 20.106696215522202,
+      "median": 20.387855383689427,
+      "p75": 20.663464504942347,
+      "p95": 20.88997422283887
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 3866,
+      "min": 19.783281698279556,
+      "max": 21.011331010895343,
+      "mean": 20.403981216647075,
+      "p05": 19.906389940207287,
+      "p25": 20.13520995630926,
+      "median": 20.404163128781803,
+      "p75": 20.678134625259826,
+      "p95": 20.892102391917163
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 6304,
+        "samples": 25220,
+        "fit_rms_px": 0.5998118414403395,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.30713652574279454
+      }
+    ],
+    "status": "trial_requires_visual_review"
+  },
+  "status": "pending_visual_review"
+}

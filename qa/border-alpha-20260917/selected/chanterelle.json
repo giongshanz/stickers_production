@@ -1,0 +1,16 @@
+{
+  "id": "chanterelle",
+  "selected_utc": "2026-09-17T09:02:59.349975+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/chanterelle/masters/chanterelle.png",
+  "old_sha256": "f9eb1129dc3e61d34b55af164a00c361a5f0e70fec659a85311a6d822cf93d20",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/chanterelle/delivery/_needs-alpha/forest-fungi/chanterelle.png"
+  ],
+  "new_master": "masters/chanterelle.png",
+  "new_sha256": "331f909f4fd52e47a81cf49f019304304a13f4a37b4f80601d8546e772341bdf",
+  "selected_candidate": "revisions/border-alpha-20260917/chanterelle.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

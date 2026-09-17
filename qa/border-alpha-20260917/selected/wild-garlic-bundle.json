@@ -1,0 +1,16 @@
+{
+  "id": "wild-garlic-bundle",
+  "selected_utc": "2026-09-17T09:02:59.498282+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/wild-garlic-bundle/masters/wild-garlic-bundle.png",
+  "old_sha256": "fd6e836b1f6b7077d311d16bb523c85a308feddf8dd8a74b2ba25b1ac74141d3",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/wild-garlic-bundle/delivery/_needs-alpha/woodland-foraging/wild-garlic-bundle.png"
+  ],
+  "new_master": "masters/wild-garlic-bundle.png",
+  "new_sha256": "072370388554153171cc31f3a439d87e9afa3bd90fd4390d4cb7a054b889e507",
+  "selected_candidate": "revisions/border-alpha-20260917-exceptions/wild-garlic-bundle.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

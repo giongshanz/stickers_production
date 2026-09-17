@@ -1,0 +1,16 @@
+{
+  "id": "reptile-glass-enclosure",
+  "selected_utc": "2026-09-17T09:02:59.913726+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/reptile-glass-enclosure/masters/reptile-glass-enclosure.png",
+  "old_sha256": "8edfc1504b8e57227dce0dbc21009164642895df79190d46ed64d1d84c4fbd6a",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/reptile-glass-enclosure/delivery/_needs-alpha/reptile-habitat/reptile-glass-enclosure.png"
+  ],
+  "new_master": "masters/reptile-glass-enclosure.png",
+  "new_sha256": "05137d56198e404d39f5735ddc257333393e114ea4d8a7ed97b88e9fd40c5b6c",
+  "selected_candidate": "revisions/border-alpha-20260917/reptile-glass-enclosure.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

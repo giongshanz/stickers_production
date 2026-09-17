@@ -1,0 +1,89 @@
+{
+  "id": "theatre-ticket",
+  "created_utc": "2026-09-17T08:47:26.625338+00:00",
+  "source": "masters/theatre-ticket.png",
+  "source_sha256": "f86b858c0df256636a4a1f4bada10b6b7df732d227ae71ee1b8ea9fea2bd1470",
+  "paper_input": "revisions/alpha-audit-20260916/theatre-ticket-candidate.png",
+  "paper_input_sha256": "e4b2b9b8e8f8a4665d00f6b0510448a16e3ffedb774e804c3bda30e7040b3c07",
+  "candidate": "revisions/border-alpha-20260917/theatre-ticket.png",
+  "candidate_sha256": "98d2973aa876f3318cbf07f967094e3fdc0e610daddbd5bd873b03a8622836a9",
+  "method": "border_geometry.cutout, measured inset, original RGB restored",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "dimensions_unchanged": true,
+  "rgb_changed_pixels": 0,
+  "measured_paper_width_px": 24.351591323771842,
+  "radius_px": 19.8,
+  "paper_holes": 0,
+  "hole_seeds": [],
+  "visible_pixels_outside_paper": 0,
+  "partial_alpha_edge_colored_pixels": 0,
+  "transparent_pixels": 881953,
+  "partial_alpha_pixels": 3696,
+  "corner_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 26492,
+    "rgb_changed_chromatic_pixels": 0,
+    "rgb_changed_outside_paper": 1970,
+    "painted_pixels": 622634,
+    "protected_pixels": 635200,
+    "safe_white_pixels": 74545,
+    "dirty_white_pixels": 2701,
+    "radius_px": 19.8,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 881953,
+    "partial_alpha_pixels": 3696,
+    "visible_pixels_outside_paper": 0,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 3696,
+      "min": 19.023294509666677,
+      "max": 22.305191627506005,
+      "mean": 19.7897420895714,
+      "p05": 19.270796844278223,
+      "p25": 19.510116127174918,
+      "median": 19.791013397406175,
+      "p75": 20.058661253243727,
+      "p95": 20.29179163592564
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 3696,
+      "min": 19.184952003258584,
+      "max": 20.411320884490895,
+      "mean": 19.796643548426616,
+      "p05": 19.30574738880162,
+      "p25": 19.52756955944026,
+      "median": 19.80012277817635,
+      "p75": 20.06055425723863,
+      "p95": 20.286848947893652
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 4096,
+        "samples": 16388,
+        "fit_rms_px": 0.6007514397312763,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.2587377925252135
+      }
+    ],
+    "status": "trial_requires_visual_review"
+  },
+  "status": "pending_visual_review"
+}

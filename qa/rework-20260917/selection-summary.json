@@ -1,0 +1,56 @@
+{
+  "selected_utc": "2026-09-17T10:37:12.333309+00:00",
+  "replaced_count": 12,
+  "replaced_ids": [
+    "tailor-dress-form",
+    "terrarium-mister",
+    "terrarium-moss",
+    "snorkel-mask",
+    "snorkel-tube",
+    "dive-rashguard",
+    "table-coral",
+    "coral-nursery-tree",
+    "calligraphy-inkstone",
+    "bongos",
+    "marching-trumpet",
+    "dragonfly"
+  ],
+  "rechecked_existing_count": 13,
+  "rechecked_existing_ids": [
+    "coral-monitoring-quadrat",
+    "drum-major-mace",
+    "grasshopper",
+    "lab-microscope",
+    "leaf-insect",
+    "maracas",
+    "marching-bass-drum",
+    "marching-sousaphone",
+    "rhinoceros-beetle",
+    "stag-beetle",
+    "triangle-instrument",
+    "weather-anemometer",
+    "weather-wind-vane"
+  ],
+  "review_contact_sheets": [
+    "qa/rework-20260917/candidates-dark-1.png",
+    "qa/rework-20260917/candidates-dark-2.png",
+    "qa/rework-20260917/alpha-review-dark-1.png",
+    "qa/rework-20260917/alpha-review-dark-2.png",
+    "qa/rework-20260917/alpha-review-dark-3.png",
+    "qa/rework-20260917/alpha-review-dark-4.png"
+  ],
+  "records": [
+    "qa/rework-20260917/selected/tailor-dress-form.json",
+    "qa/rework-20260917/selected/terrarium-mister.json",
+    "qa/rework-20260917/selected/terrarium-moss.json",
+    "qa/rework-20260917/selected/snorkel-mask.json",
+    "qa/rework-20260917/selected/snorkel-tube.json",
+    "qa/rework-20260917/selected/dive-rashguard.json",
+    "qa/rework-20260917/selected/table-coral.json",
+    "qa/rework-20260917/selected/coral-nursery-tree.json",
+    "qa/rework-20260917/selected/calligraphy-inkstone.json",
+    "qa/rework-20260917/selected/bongos.json",
+    "qa/rework-20260917/selected/marching-trumpet.json",
+    "qa/rework-20260917/selected/dragonfly.json"
+  ]
+}

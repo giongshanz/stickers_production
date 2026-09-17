@@ -1,15 +1,15 @@
 {
-  "updated_utc": "2026-09-17T08:18:35.950425+00:00",
+  "updated_utc": "2026-09-17T10:37:25.847343+00:00",
   "target_topics": 50,
   "target_slots": 400,
   "target_unique": 390,
   "generated_unique": 206,
   "missing_unique": 184,
-  "alpha_corners_clear_unique": 129,
-  "needs_alpha_unique": 77,
+  "alpha_corners_clear_unique": 206,
+  "needs_alpha_unique": 0,
   "topics_with_all_images": 27,
   "generated_topic_slots": 216,
-  "visual_rework_unique": 25,
+  "visual_rework_unique": 0,
   "complete": false,
   "prompt_target_dimensions": [
     512,
@@ -25,29 +25,29 @@
         "vietnamese-cuisine"
       ],
       "source": "masters/banh-mi.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
+      "transparent_pixels": 751684,
+      "partial_alpha_pixels": 3884,
+      "opaque_pixels": 816948,
+      "padding_nonzero_alpha": [
+        36,
+        133,
+        20,
+        128
+      ],
       "review_edge": true,
-      "sha256": "92ff93a2e6b727f0723331020edd99a7fd813ff0d6dcd395aae31b31ef8898b2",
-      "bytes": 2113370
+      "sha256": "efa19e01f240ea246a462e880b3fb5b9a73c251d6a5e1b44436e0a60fb482e85",
+      "bytes": 2392899
     },
     {
       "id": "pho-bo",
@@ -56,29 +56,29 @@
         "vietnamese-cuisine"
       ],
       "source": "masters/pho-bo.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "a57bcde8df78cbcfdcc1075adc6dc0733181eca29ab9ac5eecd3b4f69f48d709",
-      "bytes": 2066590
+      "transparent_pixels": 698708,
+      "partial_alpha_pixels": 3858,
+      "opaque_pixels": 869950,
+      "padding_nonzero_alpha": [
+        49,
+        89,
+        50,
+        124
+      ],
+      "review_edge": false,
+      "sha256": "7855fae69bfea10c05fc1e1b821719f59238cc26a325c39afb79c9b181460943",
+      "bytes": 2325052
     },
     {
       "id": "banh-xeo",
@@ -87,29 +87,29 @@
         "vietnamese-cuisine"
       ],
       "source": "masters/banh-xeo.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
+      "transparent_pixels": 778538,
+      "partial_alpha_pixels": 3976,
+      "opaque_pixels": 790002,
+      "padding_nonzero_alpha": [
+        11,
+        119,
+        10,
+        111
+      ],
       "review_edge": true,
-      "sha256": "13ccd4d106ba4382dbb593fffbeabf5d49ef5f77145cdfba80657e1cf9ba59cb",
-      "bytes": 2135529
+      "sha256": "8de560406403242301dd5ee57724cf6457db281a622e4bbceb00030f9898055c",
+      "bytes": 2455458
     },
     {
       "id": "goi-cuon",
@@ -118,29 +118,29 @@
         "vietnamese-cuisine"
       ],
       "source": "masters/goi-cuon.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "688fca397f4564b8c0b34ecb041e39e7d58ffbbe2d319b1c37ef722e314f34ac",
-      "bytes": 2063893
+      "transparent_pixels": 842069,
+      "partial_alpha_pixels": 3761,
+      "opaque_pixels": 726686,
+      "padding_nonzero_alpha": [
+        46,
+        141,
+        45,
+        141
+      ],
+      "review_edge": false,
+      "sha256": "ad231c0065db776cd3a00c446cc15c41dc454bdacffdc9bd952a5839b5fe5579",
+      "bytes": 2313818
     },
     {
       "id": "bun-cha",
@@ -274,29 +274,29 @@
         "vietnamese-tet"
       ],
       "source": "masters/tet-lucky-envelope.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "296e977d628d0d5892af93f5d54243a7805c6be8f6dc1c577081a4d9fee394af",
-      "bytes": 1673703
+      "transparent_pixels": 944709,
+      "partial_alpha_pixels": 3062,
+      "opaque_pixels": 624745,
+      "padding_nonzero_alpha": [
+        272,
+        87,
+        270,
+        130
+      ],
+      "review_edge": false,
+      "sha256": "43d2cc2e82516019e69231a004751dbe840dc45e7d6d5ab9fc397f27065ed6f1",
+      "bytes": 1866776
     },
     {
       "id": "tet-kumquat-pot",
@@ -491,29 +491,29 @@
         "beekeeping"
       ],
       "source": "masters/beehive-skep.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "8f07fd7c89091d0b09c56e46a5fc7b98bc82b2454ba684e98c34d7d123394d10",
-      "bytes": 1217098
+      "transparent_pixels": 636454,
+      "partial_alpha_pixels": 4608,
+      "opaque_pixels": 931454,
+      "padding_nonzero_alpha": [
+        49,
+        73,
+        38,
+        64
+      ],
+      "review_edge": false,
+      "sha256": "4f2addf6c0423a76641819be0538f22c498e497e48b947daa12e9f2c8285f6e6",
+      "bytes": 1364507
     },
     {
       "id": "honey-dipper",
@@ -585,29 +585,29 @@
         "beekeeping"
       ],
       "source": "masters/beekeeper-veil-hat.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "4ffb8fe3468e6702540e182b6839dfab75dfc6e2e20416627377b3ba9e984dff",
-      "bytes": 1799714
+      "transparent_pixels": 613051,
+      "partial_alpha_pixels": 4337,
+      "opaque_pixels": 955128,
+      "padding_nonzero_alpha": [
+        80,
+        38,
+        70,
+        48
+      ],
+      "review_edge": false,
+      "sha256": "b6bacd3a81d031e01921b16dab4959084ee9f7bc76f253edd66283502680861f",
+      "bytes": 2012340
     },
     {
       "id": "honeycomb-frame",
@@ -740,29 +740,29 @@
         "honey-breakfast"
       ],
       "source": "masters/honey-pancakes.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "c4baa8c11610c7895de7b0e72ce57aeb1c52cf941ae468614cf5683111bc0185",
-      "bytes": 1682207
+      "transparent_pixels": 688725,
+      "partial_alpha_pixels": 3791,
+      "opaque_pixels": 880000,
+      "padding_nonzero_alpha": [
+        85,
+        139,
+        85,
+        130
+      ],
+      "review_edge": false,
+      "sha256": "fce52a9797a15a09738a53a3bdc5cce390204403d591fbb0911981ac3bd273a7",
+      "bytes": 1904884
     },
     {
       "id": "honey-waffles",
@@ -771,29 +771,29 @@
         "honey-breakfast"
       ],
       "source": "masters/honey-waffles.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "121e9a3a8615eacbe4f400a8af70161fe3428a5a3b2dc3f6c80b18ee1c660390",
-      "bytes": 1887659
+      "transparent_pixels": 862306,
+      "partial_alpha_pixels": 3704,
+      "opaque_pixels": 706506,
+      "padding_nonzero_alpha": [
+        53,
+        137,
+        53,
+        138
+      ],
+      "review_edge": false,
+      "sha256": "0d857dea48e6089b54e154694bdf76199f7c52cf8a433671f27c5df21c3cbbd5",
+      "bytes": 2122200
     },
     {
       "id": "honey-parfait",
@@ -802,29 +802,29 @@
         "honey-breakfast"
       ],
       "source": "masters/honey-parfait.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "dad408ba92d2d5670e60682267357dc926e1007be7f053261f344f26204c6bcd",
-      "bytes": 1738627
+      "transparent_pixels": 947017,
+      "partial_alpha_pixels": 3656,
+      "opaque_pixels": 621843,
+      "padding_nonzero_alpha": [
+        239,
+        58,
+        239,
+        62
+      ],
+      "review_edge": false,
+      "sha256": "4c26205ed5744c22e57124831f9d439e6ef2cafb72f2be205ae8a7a269c50756",
+      "bytes": 1969615
     },
     {
       "id": "honey-toast",
@@ -833,29 +833,29 @@
         "honey-breakfast"
       ],
       "source": "masters/honey-toast.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "feb0fb99eed85e7258e8058c4063b45525a39ce33f73d05653a061082ef05c50",
-      "bytes": 1908451
+      "transparent_pixels": 780950,
+      "partial_alpha_pixels": 3897,
+      "opaque_pixels": 787669,
+      "padding_nonzero_alpha": [
+        43,
+        118,
+        32,
+        108
+      ],
+      "review_edge": false,
+      "sha256": "32df0c3d6484847fa82395df1c7ce72251b4f3595f6871f36140217c81f2f82e",
+      "bytes": 2172165
     },
     {
       "id": "honey-crumpet",
@@ -895,29 +895,29 @@
         "honey-breakfast"
       ],
       "source": "masters/honey-butter-dish.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "109962aba8172ba7e9463d857e532f0142fa50a836e9fa6b3ecfac8fb3d2275c",
-      "bytes": 1796599
+      "transparent_pixels": 942012,
+      "partial_alpha_pixels": 3620,
+      "opaque_pixels": 626884,
+      "padding_nonzero_alpha": [
+        73,
+        179,
+        71,
+        215
+      ],
+      "review_edge": false,
+      "sha256": "790004332fe678866606cc0cf52b6693bdd83859c943675efa2562f736c26571",
+      "bytes": 2012074
     },
     {
       "id": "honey-lemon-tea",
@@ -926,29 +926,29 @@
         "honey-breakfast"
       ],
       "source": "masters/honey-lemon-tea.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "c1d98493626b1c7abecddfa192879049c61162b61e310bb6efdb5908e1677568",
-      "bytes": 1622906
+      "transparent_pixels": 820688,
+      "partial_alpha_pixels": 3613,
+      "opaque_pixels": 748215,
+      "padding_nonzero_alpha": [
+        181,
+        114,
+        64,
+        134
+      ],
+      "review_edge": false,
+      "sha256": "0bc69897ec250f08201913fb7a32c8c4e1cb5d47f1e6cec6b6e66183c5da21c0",
+      "bytes": 1830575
     },
     {
       "id": "terracotta-amphora",
@@ -989,29 +989,29 @@
         "pottery-studio"
       ],
       "source": "masters/pottery-wheel.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "f61474d53fa17ddaac4f4cc1bf4c326ce8de7885ba97dfb3970a59d9f4767479",
-      "bytes": 1860245
+      "transparent_pixels": 672482,
+      "partial_alpha_pixels": 3914,
+      "opaque_pixels": 896120,
+      "padding_nonzero_alpha": [
+        93,
+        89,
+        91,
+        86
+      ],
+      "review_edge": false,
+      "sha256": "183973c2a6cd79e75efba4e1734fec376b7c16983c0ce73b9760a7147697fc43",
+      "bytes": 2062852
     },
     {
       "id": "wet-clay-lump",
@@ -1175,29 +1175,29 @@
         "pottery-studio"
       ],
       "source": "masters/ceramic-kiln.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "faf2d2721f74bd99281a8d10c68bf7aec2dd7a48c184d8c0bb5d7554c8358e14",
-      "bytes": 1725833
+      "transparent_pixels": 784474,
+      "partial_alpha_pixels": 3734,
+      "opaque_pixels": 784308,
+      "padding_nonzero_alpha": [
+        137,
+        75,
+        109,
+        84
+      ],
+      "review_edge": false,
+      "sha256": "9d9834a95116fdcd2bbee7d8613e3a2265991f511e3b670646947e754f2004e6",
+      "bytes": 1946098
     },
     {
       "id": "excavation-trowel",
@@ -1425,7 +1425,7 @@
       ],
       "source": "masters/tailor-dress-form.png",
       "status": "alpha_corners_clear",
-      "review_note": "White cut margin reaches the top canvas edge; needs clear top padding.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -1435,18 +1435,18 @@
         0,
         0
       ],
-      "transparent_pixels": 1224659,
-      "partial_alpha_pixels": 346933,
-      "opaque_pixels": 924,
+      "transparent_pixels": 1329417,
+      "partial_alpha_pixels": 242353,
+      "opaque_pixels": 746,
       "padding_nonzero_alpha": [
-        97,
-        0,
+        130,
+        128,
         62,
-        43
+        129
       ],
-      "review_edge": true,
-      "sha256": "bce522ad2bd2037a7056f523ce5f2ed9ac0626bc1f069b98eaae960445919d7a",
-      "bytes": 553155
+      "review_edge": false,
+      "sha256": "666c836b566471e2d376a5b875bbe9b2c9b714a50cbd173f532aa91e3497f42a",
+      "bytes": 434995
     },
     {
       "id": "sewing-machine",
@@ -1455,29 +1455,29 @@
         "sewing-room"
       ],
       "source": "masters/sewing-machine.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "5f635a733544b991a93e45c033811a4e82cd7e790c3d20b0561f9f68ae785076",
-      "bytes": 1802995
+      "transparent_pixels": 698116,
+      "partial_alpha_pixels": 5506,
+      "opaque_pixels": 868894,
+      "padding_nonzero_alpha": [
+        42,
+        52,
+        35,
+        61
+      ],
+      "review_edge": false,
+      "sha256": "42e719c47da2e41effbfd7a66a8cc1bbb9f2665c5be8e2608f8de610873bed67",
+      "bytes": 2010443
     },
     {
       "id": "tomato-pincushion",
@@ -1641,29 +1641,29 @@
         "sewing-room"
       ],
       "source": "masters/sewing-zipper.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "dc390bbb8471ff56ee0fa751c99e2d3e6536d3cd3a818f9f69c52586efa0d2c2",
-      "bytes": 2036631
+      "transparent_pixels": 1133296,
+      "partial_alpha_pixels": 4038,
+      "opaque_pixels": 435182,
+      "padding_nonzero_alpha": [
+        212,
+        98,
+        208,
+        94
+      ],
+      "review_edge": false,
+      "sha256": "bd400d712c2587c45abf9f3883ed2308c6abf293893df335bcb8d2a975f2e142",
+      "bytes": 2234279
     },
     {
       "id": "theatre-masks",
@@ -1703,29 +1703,29 @@
         "theatre-backstage"
       ],
       "source": "masters/stage-spotlight.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "aa385650fae04921f1cf15d4ab59ad9becbb18a40adee1a08744f0dec80925dd",
-      "bytes": 1798055
+      "transparent_pixels": 907270,
+      "partial_alpha_pixels": 6293,
+      "opaque_pixels": 658953,
+      "padding_nonzero_alpha": [
+        142,
+        93,
+        156,
+        90
+      ],
+      "review_edge": false,
+      "sha256": "a5d7abcec90738ae545592ff8d5eeb71adbd4456126d964d1dec799a45ee249b",
+      "bytes": 1979303
     },
     {
       "id": "red-theatre-curtain",
@@ -1765,29 +1765,29 @@
         "theatre-backstage"
       ],
       "source": "masters/theatre-ticket.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "f86b858c0df256636a4a1f4bada10b6b7df732d227ae71ee1b8ea9fea2bd1470",
-      "bytes": 1533064
+      "transparent_pixels": 881953,
+      "partial_alpha_pixels": 3696,
+      "opaque_pixels": 686867,
+      "padding_nonzero_alpha": [
+        78,
+        180,
+        65,
+        186
+      ],
+      "review_edge": false,
+      "sha256": "98d2973aa876f3318cbf07f967094e3fdc0e610daddbd5bd873b03a8622836a9",
+      "bytes": 1725107
     },
     {
       "id": "proscenium-stage-model",
@@ -1796,29 +1796,29 @@
         "theatre-backstage"
       ],
       "source": "masters/proscenium-stage-model.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "018d84f24e66f64146a8df6367df4aa3b6ed8335f535f65267781e747bee8b4c",
-      "bytes": 1753446
+      "transparent_pixels": 769738,
+      "partial_alpha_pixels": 3712,
+      "opaque_pixels": 799066,
+      "padding_nonzero_alpha": [
+        136,
+        112,
+        127,
+        157
+      ],
+      "review_edge": false,
+      "sha256": "d6ca2ac9b62a3c9f8c223e7677f488838a18715e3340e960e396df083d4924fb",
+      "bytes": 1958673
     },
     {
       "id": "opera-binoculars",
@@ -1827,29 +1827,29 @@
         "theatre-backstage"
       ],
       "source": "masters/opera-binoculars.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "195f1ec87b196c02456a27a9cee351f3e73a81e7741883c94a253a291579226f",
-      "bytes": 1929079
+      "transparent_pixels": 1069738,
+      "partial_alpha_pixels": 4465,
+      "opaque_pixels": 498313,
+      "padding_nonzero_alpha": [
+        89,
+        117,
+        77,
+        123
+      ],
+      "review_edge": false,
+      "sha256": "294f85e913da6f16bfd258d537f51b160eb3ced159ebbdc333093e3509627df5",
+      "bytes": 2142642
     },
     {
       "id": "theatrical-mustache",
@@ -1890,29 +1890,29 @@
         "woodland-foraging"
       ],
       "source": "masters/mushroom-basket.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "46062297b2052bb487d815860cd77b6e1530a08e33328aa597f9013a89498005",
-      "bytes": 2046371
+      "transparent_pixels": 814020,
+      "partial_alpha_pixels": 4628,
+      "opaque_pixels": 753868,
+      "padding_nonzero_alpha": [
+        154,
+        70,
+        154,
+        70
+      ],
+      "review_edge": false,
+      "sha256": "459047959df4aa38d76ffc76d352e40fc40138ed491ecd2bb172e6747138e252",
+      "bytes": 2274683
     },
     {
       "id": "fly-agaric",
@@ -1952,29 +1952,29 @@
         "forest-fungi"
       ],
       "source": "masters/chanterelle.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "f9eb1129dc3e61d34b55af164a00c361a5f0e70fec659a85311a6d822cf93d20",
-      "bytes": 1936954
+      "transparent_pixels": 823390,
+      "partial_alpha_pixels": 4830,
+      "opaque_pixels": 744296,
+      "padding_nonzero_alpha": [
+        91,
+        99,
+        92,
+        92
+      ],
+      "review_edge": false,
+      "sha256": "331f909f4fd52e47a81cf49f019304304a13f4a37b4f80601d8546e772341bdf",
+      "bytes": 2187857
     },
     {
       "id": "morel",
@@ -1983,29 +1983,29 @@
         "forest-fungi"
       ],
       "source": "masters/morel.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "f2d9d5ec7278188cadfb943d98a4de4307b1987ced37e6d73808a1577b7f984f",
-      "bytes": 1896632
+      "transparent_pixels": 1080875,
+      "partial_alpha_pixels": 3451,
+      "opaque_pixels": 488190,
+      "padding_nonzero_alpha": [
+        321,
+        31,
+        312,
+        26
+      ],
+      "review_edge": false,
+      "sha256": "461507d1536f6e5efc959b6e85abfc89b9bb23203b93941f878a766c95c94c7a",
+      "bytes": 2089124
     },
     {
       "id": "oyster-mushroom",
@@ -2014,29 +2014,29 @@
         "forest-fungi"
       ],
       "source": "masters/oyster-mushroom.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "5226ccec2542d26073522d3960518b3657d29b252f5bbcd83d5acb16da320d67",
-      "bytes": 1928656
+      "transparent_pixels": 935628,
+      "partial_alpha_pixels": 3978,
+      "opaque_pixels": 632910,
+      "padding_nonzero_alpha": [
+        121,
+        153,
+        121,
+        135
+      ],
+      "review_edge": false,
+      "sha256": "b2c07325a372c6cfb92ced13224afbacf0c90afd0189343c28fd0aa0a9da3fa2",
+      "bytes": 2119923
     },
     {
       "id": "porcini",
@@ -2045,29 +2045,29 @@
         "forest-fungi"
       ],
       "source": "masters/porcini.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "e83915a023b2bfdc4f26a20fdc20e724941420ab739d8f528a6c28c07e75f965",
-      "bytes": 1513596
+      "transparent_pixels": 944875,
+      "partial_alpha_pixels": 3511,
+      "opaque_pixels": 624130,
+      "padding_nonzero_alpha": [
+        174,
+        155,
+        170,
+        126
+      ],
+      "review_edge": false,
+      "sha256": "c9f4289401cff6e43c8b75efa96ad02a12b9b785a2e0981da9151574f1c327e6",
+      "bytes": 1687909
     },
     {
       "id": "lions-mane-mushroom",
@@ -2076,29 +2076,29 @@
         "forest-fungi"
       ],
       "source": "masters/lions-mane-mushroom.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "000135d592f0a561f6fda5b08a6af3d51cf28e11da4096782a3e98845b0982eb",
-      "bytes": 1721782
+      "transparent_pixels": 790885,
+      "partial_alpha_pixels": 3776,
+      "opaque_pixels": 777855,
+      "padding_nonzero_alpha": [
+        105,
+        120,
+        98,
+        117
+      ],
+      "review_edge": false,
+      "sha256": "af63d475473b5c18e2d1c09378a8b848704014e8a61a2023d147f0b80aee0120",
+      "bytes": 1926221
     },
     {
       "id": "coral-fungus",
@@ -2107,29 +2107,29 @@
         "forest-fungi"
       ],
       "source": "masters/coral-fungus.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "3da312a6d0d7ab2e3548d0e32643e9c727857ec10f598bcc9fe01aa9389f71c7",
-      "bytes": 1698722
+      "transparent_pixels": 960157,
+      "partial_alpha_pixels": 4246,
+      "opaque_pixels": 608113,
+      "padding_nonzero_alpha": [
+        168,
+        120,
+        161,
+        110
+      ],
+      "review_edge": false,
+      "sha256": "8949fa3a782e031fac558c527a1e204bf8a757dede68c70d940cbf197db428fc",
+      "bytes": 1903573
     },
     {
       "id": "foraging-knife",
@@ -2138,29 +2138,29 @@
         "woodland-foraging"
       ],
       "source": "masters/foraging-knife.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "d8d10b1f8af468e97ccc0811959cea1e9c047d37bed36434f6fa988bfdf00d8a",
-      "bytes": 1759671
+      "transparent_pixels": 1193839,
+      "partial_alpha_pixels": 3941,
+      "opaque_pixels": 374736,
+      "padding_nonzero_alpha": [
+        62,
+        108,
+        56,
+        127
+      ],
+      "review_edge": false,
+      "sha256": "4220bbe29f36633b6f85e7430f26513267b1d8e62c497267b43e720e20d5919a",
+      "bytes": 1949183
     },
     {
       "id": "wild-blackberry-branch",
@@ -2169,29 +2169,29 @@
         "woodland-foraging"
       ],
       "source": "masters/wild-blackberry-branch.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "51d923b61ef60dc539fc2c1b1bbf3ec9498d2c84da43e33ce87e977ada5e007d",
-      "bytes": 1973618
+      "transparent_pixels": 946421,
+      "partial_alpha_pixels": 5836,
+      "opaque_pixels": 620259,
+      "padding_nonzero_alpha": [
+        197,
+        106,
+        135,
+        111
+      ],
+      "review_edge": false,
+      "sha256": "2b220150f27ae9a14a70693f7cbdc2ffb8464f526397bb1f9328d0dbf0caa220",
+      "bytes": 2200737
     },
     {
       "id": "wild-chestnut",
@@ -2200,29 +2200,29 @@
         "woodland-foraging"
       ],
       "source": "masters/wild-chestnut.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "9193fe5cc134a583dd70c906549c8354932f366dad74ceb889236646eb306f7c",
-      "bytes": 1938068
+      "transparent_pixels": 952570,
+      "partial_alpha_pixels": 4811,
+      "opaque_pixels": 615135,
+      "padding_nonzero_alpha": [
+        143,
+        153,
+        143,
+        158
+      ],
+      "review_edge": false,
+      "sha256": "6ee2e0fbd9fcd668f61a4f06b33474f6e547864f027839e1d9e1080c01a40772",
+      "bytes": 2164856
     },
     {
       "id": "wild-rosehips",
@@ -2231,29 +2231,29 @@
         "woodland-foraging"
       ],
       "source": "masters/wild-rosehips.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "9309d4517abb8a7169fdcddb4b8692c2d19761f8c0b2367f3f5bd65447516e6d",
-      "bytes": 1512755
+      "transparent_pixels": 945780,
+      "partial_alpha_pixels": 6814,
+      "opaque_pixels": 619922,
+      "padding_nonzero_alpha": [
+        140,
+        99,
+        118,
+        106
+      ],
+      "review_edge": false,
+      "sha256": "e19e208265b5e31e823cec937c76efa5b93074f778f1006fae286c7edf3f2b2e",
+      "bytes": 1702262
     },
     {
       "id": "wild-garlic-bundle",
@@ -2262,29 +2262,29 @@
         "woodland-foraging"
       ],
       "source": "masters/wild-garlic-bundle.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "fd6e836b1f6b7077d311d16bb523c85a308feddf8dd8a74b2ba25b1ac74141d3",
-      "bytes": 1518660
+      "transparent_pixels": 963762,
+      "partial_alpha_pixels": 4937,
+      "opaque_pixels": 603817,
+      "padding_nonzero_alpha": [
+        179,
+        50,
+        128,
+        58
+      ],
+      "review_edge": false,
+      "sha256": "072370388554153171cc31f3a439d87e9afa3bd90fd4390d4cb7a054b889e507",
+      "bytes": 1711241
     },
     {
       "id": "fiddlehead-ferns",
@@ -2293,29 +2293,29 @@
         "woodland-foraging"
       ],
       "source": "masters/fiddlehead-ferns.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "b7d1caaae6ad9d5d8402d19ed1093fb8480250d6e50a46671b0057a902f77d6b",
-      "bytes": 1874903
+      "transparent_pixels": 981531,
+      "partial_alpha_pixels": 6139,
+      "opaque_pixels": 584846,
+      "padding_nonzero_alpha": [
+        199,
+        60,
+        187,
+        59
+      ],
+      "review_edge": false,
+      "sha256": "07d9f12ce21274010fd59f44a3bc63d6d2d371c954bf7d8cd916b75e7d6c0a84",
+      "bytes": 2102696
     },
     {
       "id": "foraging-field-guide",
@@ -2324,29 +2324,29 @@
         "woodland-foraging"
       ],
       "source": "masters/foraging-field-guide.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "78f6a881c413367fc5fc2646c2108add791e49f51f68adf52cc4fd8f1751ead1",
-      "bytes": 1727286
+      "transparent_pixels": 875467,
+      "partial_alpha_pixels": 3544,
+      "opaque_pixels": 693505,
+      "padding_nonzero_alpha": [
+        58,
+        233,
+        41,
+        193
+      ],
+      "review_edge": false,
+      "sha256": "754b096dae4f38d702c2f1885ff13aafab1c138b2b6db83068958e9c6bf6861a",
+      "bytes": 1927499
     },
     {
       "id": "haworthia-pot",
@@ -2356,29 +2356,29 @@
         "succulent-collection"
       ],
       "source": "masters/haworthia-pot.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "84951f0223d3a11943c47ec9815c9076b91a2c8462007b8d61e47aba323fb1bc",
-      "bytes": 1941048
+      "transparent_pixels": 1019436,
+      "partial_alpha_pixels": 4131,
+      "opaque_pixels": 548949,
+      "padding_nonzero_alpha": [
+        255,
+        87,
+        245,
+        84
+      ],
+      "review_edge": false,
+      "sha256": "c2bf600e5db9b0a8bdd659b5b8d35e4f9d0ab05186b658e2574ff7053ef87c83",
+      "bytes": 2147344
     },
     {
       "id": "closed-jar-terrarium",
@@ -2387,29 +2387,29 @@
         "terrarium-workshop"
       ],
       "source": "masters/closed-jar-terrarium.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "95f1b6d93e153a340c4f3c4dd1cc82e3004e2c94ab6230877a256421f6ca1e75",
-      "bytes": 2267553
+      "transparent_pixels": 849805,
+      "partial_alpha_pixels": 3618,
+      "opaque_pixels": 719093,
+      "padding_nonzero_alpha": [
+        202,
+        105,
+        150,
+        118
+      ],
+      "review_edge": false,
+      "sha256": "b48ca172cd51a4af3b92e02adbb0a05b61b47faef6eea1db2862f57960642844",
+      "bytes": 2514922
     },
     {
       "id": "terrarium-tweezers",
@@ -2418,29 +2418,29 @@
         "terrarium-workshop"
       ],
       "source": "masters/terrarium-tweezers.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "5aa49a060eaf2293286ebe2a19b86c771fb518ab44b5f782d9231a8ec86b808c",
-      "bytes": 1895806
+      "transparent_pixels": 1325340,
+      "partial_alpha_pixels": 4625,
+      "opaque_pixels": 242551,
+      "padding_nonzero_alpha": [
+        164,
+        109,
+        95,
+        103
+      ],
+      "review_edge": false,
+      "sha256": "c6092a83d2eca40211f3a23363ac45bb6a17c5839ea8ea6230afe454179585f2",
+      "bytes": 2085329
     },
     {
       "id": "terrarium-mister",
@@ -2449,29 +2449,29 @@
         "terrarium-workshop"
       ],
       "source": "masters/terrarium-mister.png",
-      "status": "needs_alpha",
-      "review_note": "Reduce broad white glass reflections and metallic shine; use softer matte painted color patches to match desktop references.",
+      "status": "alpha_corners_clear",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "335bf2b776452256ed206802ae15f188241cf7ced20300e47218a430a1b599c2",
-      "bytes": 1790499
+      "transparent_pixels": 1018994,
+      "partial_alpha_pixels": 552029,
+      "opaque_pixels": 1493,
+      "padding_nonzero_alpha": [
+        188,
+        28,
+        197,
+        56
+      ],
+      "review_edge": false,
+      "sha256": "85c71e7180b0eefaa00241591c4a5e5c1382dc7c636e5cb9e5b127ac8bcba44f",
+      "bytes": 955716
     },
     {
       "id": "terrarium-pebbles",
@@ -2480,29 +2480,29 @@
         "terrarium-workshop"
       ],
       "source": "masters/terrarium-pebbles.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "453c9b9529b8d89fe704b90fa61f3126253f075a025b3217800bce7618b99be1",
-      "bytes": 2168894
+      "transparent_pixels": 1014614,
+      "partial_alpha_pixels": 3860,
+      "opaque_pixels": 554042,
+      "padding_nonzero_alpha": [
+        104,
+        193,
+        45,
+        205
+      ],
+      "review_edge": false,
+      "sha256": "e1ccbdaa6ce5956237c19968f24f72ad0d000ecaa97d2cff828e24ebb1ab9eb2",
+      "bytes": 2387118
     },
     {
       "id": "terrarium-moss",
@@ -2511,29 +2511,29 @@
         "terrarium-workshop"
       ],
       "source": "masters/terrarium-moss.png",
-      "status": "needs_alpha",
-      "review_note": "Mushrooms dominate the silhouette. Simplify to a low moss cushion without prominent mushrooms so the subject reads clearly as moss.",
+      "status": "alpha_corners_clear",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
+      "transparent_pixels": 1012689,
+      "partial_alpha_pixels": 558748,
+      "opaque_pixels": 1079,
+      "padding_nonzero_alpha": [
+        91,
+        23,
+        80,
+        40
+      ],
       "review_edge": true,
-      "sha256": "78671e7b5552602b9b2297f6d8950cdeb85d74a567bb5b8cf778e538b63b1fc5",
-      "bytes": 1899682
+      "sha256": "b06679d18e51f4fc82d65a03228d485fe4687291679095c8ab408d6b8386a7ae",
+      "bytes": 903397
     },
     {
       "id": "terrarium-charcoal",
@@ -2542,29 +2542,29 @@
         "terrarium-workshop"
       ],
       "source": "masters/terrarium-charcoal.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "cca8b7025b4bbceda3e8599a5b00e86b46958553ece503dfe9eac468eb2db211",
-      "bytes": 1602765
+      "transparent_pixels": 1095502,
+      "partial_alpha_pixels": 3420,
+      "opaque_pixels": 473594,
+      "padding_nonzero_alpha": [
+        177,
+        185,
+        60,
+        167
+      ],
+      "review_edge": false,
+      "sha256": "250e5dad7be1cfd20b1a7778b01fbc961a15c6fd147efb228a2d8585841393eb",
+      "bytes": 1781156
     },
     {
       "id": "terrarium-funnel",
@@ -2573,29 +2573,29 @@
         "terrarium-workshop"
       ],
       "source": "masters/terrarium-funnel.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "a948743fe8a2097befb425cb436a6d947ac661eef6b1e02103985778d0df5a5e",
-      "bytes": 1803429
+      "transparent_pixels": 1146527,
+      "partial_alpha_pixels": 3571,
+      "opaque_pixels": 422418,
+      "padding_nonzero_alpha": [
+        189,
+        88,
+        120,
+        94
+      ],
+      "review_edge": false,
+      "sha256": "ea64688ee2e1901a515abcb59f6d5f640f5a7bd032ae20a1bfe19d4c80fd7abe",
+      "bytes": 2001245
     },
     {
       "id": "echeveria-pot",
@@ -2604,29 +2604,29 @@
         "succulent-collection"
       ],
       "source": "masters/echeveria-pot.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "3a48e919e1ce9c0866792162b2eb2be9889ae358a26c9c477c5473c1f184bd1f",
-      "bytes": 2041255
+      "transparent_pixels": 894516,
+      "partial_alpha_pixels": 3782,
+      "opaque_pixels": 674218,
+      "padding_nonzero_alpha": [
+        170,
+        106,
+        161,
+        101
+      ],
+      "review_edge": false,
+      "sha256": "27b68e4c6fed5af408ad1bd6e97f7d8149b266df36b2e7a7b1885e05d5f6161a",
+      "bytes": 2249483
     },
     {
       "id": "jade-plant-pot",
@@ -2635,29 +2635,29 @@
         "succulent-collection"
       ],
       "source": "masters/jade-plant-pot.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "57bf17e56279605354f352cc164bf0a4f8a70d43ed0f66aa25e6b0ee5b188d71",
-      "bytes": 1986921
+      "transparent_pixels": 953467,
+      "partial_alpha_pixels": 3866,
+      "opaque_pixels": 615183,
+      "padding_nonzero_alpha": [
+        169,
+        86,
+        169,
+        80
+      ],
+      "review_edge": false,
+      "sha256": "a5e1c87490d23a23206e82f11005739b25637cf7aabc69fa8598b7eaa592288d",
+      "bytes": 2193197
     },
     {
       "id": "string-of-pearls-pot",
@@ -2666,29 +2666,29 @@
         "succulent-collection"
       ],
       "source": "masters/string-of-pearls-pot.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "1559676ede47d5559170f5f4176e290a2b915f182efae828cdd23abdaeb0a7a7",
-      "bytes": 2098277
+      "transparent_pixels": 1019647,
+      "partial_alpha_pixels": 5862,
+      "opaque_pixels": 547007,
+      "padding_nonzero_alpha": [
+        206,
+        34,
+        201,
+        35
+      ],
+      "review_edge": false,
+      "sha256": "07a4770d645ce15ed55ec39420f9889ab3ec6d953ce2d3b4334e79164a157879",
+      "bytes": 2324320
     },
     {
       "id": "lithops-pot",
@@ -2697,29 +2697,29 @@
         "succulent-collection"
       ],
       "source": "masters/lithops-pot.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "e1c396a38adff91d8bb47fa54af75d1a704d6c7a2bc2ad1a061af578b2401403",
-      "bytes": 2024008
+      "transparent_pixels": 868981,
+      "partial_alpha_pixels": 3403,
+      "opaque_pixels": 700132,
+      "padding_nonzero_alpha": [
+        148,
+        153,
+        145,
+        153
+      ],
+      "review_edge": false,
+      "sha256": "eb6107d8dfdabe605d62d75a5f4db867a0fa0e0a4f435d25cb029fc06d2c936b",
+      "bytes": 2231975
     },
     {
       "id": "burros-tail-pot",
@@ -2728,29 +2728,29 @@
         "succulent-collection"
       ],
       "source": "masters/burros-tail-pot.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "f83e2d89a9e048f10c6da236dab6c58676c4d7b010b98d8362c85d7a4ef88de0",
-      "bytes": 2029176
+      "transparent_pixels": 857443,
+      "partial_alpha_pixels": 4987,
+      "opaque_pixels": 710086,
+      "padding_nonzero_alpha": [
+        77,
+        126,
+        76,
+        127
+      ],
+      "review_edge": false,
+      "sha256": "00c2d2c6ff6be0cb164823a7c432d53076a980a25769bc76f05674c96c18cf48",
+      "bytes": 2244811
     },
     {
       "id": "panda-plant-pot",
@@ -2759,29 +2759,29 @@
         "succulent-collection"
       ],
       "source": "masters/panda-plant-pot.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "6efc6b1493702bb57470b7f4c309bf71c731773a1e9917954cf4f342e9c6b844",
-      "bytes": 1894092
+      "transparent_pixels": 879755,
+      "partial_alpha_pixels": 4420,
+      "opaque_pixels": 688341,
+      "padding_nonzero_alpha": [
+        132,
+        41,
+        107,
+        49
+      ],
+      "review_edge": false,
+      "sha256": "341232d951e3358a381022e095a4af858b1d59307595f169602b270f8e4934e9",
+      "bytes": 2107338
     },
     {
       "id": "aeonium-pot",
@@ -2790,29 +2790,29 @@
         "succulent-collection"
       ],
       "source": "masters/aeonium-pot.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "5b826a81edef15e63129326446a618e0c8a541df5bb72d5ad48701e9dbba96ed",
-      "bytes": 1933002
+      "transparent_pixels": 986949,
+      "partial_alpha_pixels": 4742,
+      "opaque_pixels": 580825,
+      "padding_nonzero_alpha": [
+        233,
+        36,
+        215,
+        43
+      ],
+      "review_edge": false,
+      "sha256": "8e105ff8b19e8fbbc158b3c5f8383986fe5c71bb9992fb7ce46f9b00796083b5",
+      "bytes": 2160169
     },
     {
       "id": "staghorn-coral",
@@ -2854,7 +2854,7 @@
       ],
       "source": "masters/snorkel-mask.png",
       "status": "alpha_corners_clear",
-      "review_note": "White sticker margin touches both side edges. Reframe with clear padding.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -2864,18 +2864,18 @@
         0,
         0
       ],
-      "transparent_pixels": 803739,
-      "partial_alpha_pixels": 767787,
-      "opaque_pixels": 990,
+      "transparent_pixels": 1269564,
+      "partial_alpha_pixels": 302418,
+      "opaque_pixels": 534,
       "padding_nonzero_alpha": [
-        0,
-        53,
-        0,
-        72
+        111,
+        52,
+        239,
+        88
       ],
-      "review_edge": true,
-      "sha256": "80740bb7d606273e9f7d8cb6b1bce4fc2bebfb2bafe81ff88c8836dbcf4bfd26",
-      "bytes": 1074875
+      "review_edge": false,
+      "sha256": "1df612906c0692cee2d0e75a16b5dd1b7f7d11f8c3a321169d6c5206f9452c06",
+      "bytes": 536943
     },
     {
       "id": "snorkel-tube",
@@ -2885,7 +2885,7 @@
       ],
       "source": "masters/snorkel-tube.png",
       "status": "alpha_corners_clear",
-      "review_note": "Small white export debris reaches top canvas edge. Clean edge and reframe slightly smaller.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -2895,18 +2895,18 @@
         0,
         0
       ],
-      "transparent_pixels": 1211358,
-      "partial_alpha_pixels": 360021,
-      "opaque_pixels": 1137,
+      "transparent_pixels": 1352999,
+      "partial_alpha_pixels": 218960,
+      "opaque_pixels": 557,
       "padding_nonzero_alpha": [
-        65,
-        0,
-        84,
-        17
+        130,
+        17,
+        55,
+        24
       ],
       "review_edge": true,
-      "sha256": "3b7d8d80fbcc4d8e250709d1d4539fa2ac3c21a7614c507a8e43a9168cc7e364",
-      "bytes": 626111
+      "sha256": "7f889c80faa1dbc04e4fcb343dba487eb69d5e0a6d6e67d6422041fd49d13f0c",
+      "bytes": 439184
     },
     {
       "id": "swim-fins",
@@ -2947,7 +2947,7 @@
       ],
       "source": "masters/dive-rashguard.png",
       "status": "alpha_corners_clear",
-      "review_note": "Side padding is only about 1.4 percent of canvas width; increase clear padding and clean underarm alpha edges.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -2957,18 +2957,18 @@
         0,
         0
       ],
-      "transparent_pixels": 669546,
-      "partial_alpha_pixels": 901178,
-      "opaque_pixels": 1792,
+      "transparent_pixels": 943939,
+      "partial_alpha_pixels": 627467,
+      "opaque_pixels": 1110,
       "padding_nonzero_alpha": [
-        0,
-        53,
-        15,
-        112
+        109,
+        191,
+        82,
+        186
       ],
-      "review_edge": true,
-      "sha256": "ff7149a5c8e0ad00223c37104724d16a541f51fee86812997f91535bf13a2c2b",
-      "bytes": 1170821
+      "review_edge": false,
+      "sha256": "a79728694fcbc1d0155fd4c6a83ae833ff7800cd26a027516e03d5871f02563a",
+      "bytes": 885551
     },
     {
       "id": "surface-marker-buoy",
@@ -3102,7 +3102,7 @@
       ],
       "source": "masters/table-coral.png",
       "status": "alpha_corners_clear",
-      "review_note": "The planned broad flat canopy became a deep cupped form; redraw as a flat table-like canopy on short branching supports. Increase side padding.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -3112,18 +3112,18 @@
         0,
         0
       ],
-      "transparent_pixels": 900713,
-      "partial_alpha_pixels": 671131,
-      "opaque_pixels": 672,
+      "transparent_pixels": 1179858,
+      "partial_alpha_pixels": 391613,
+      "opaque_pixels": 1045,
       "padding_nonzero_alpha": [
-        0,
-        49,
-        0,
-        72
+        51,
+        53,
+        48,
+        26
       ],
-      "review_edge": true,
-      "sha256": "621380d8147c963218b1dad5be8cf5b46ea43d3883a72c8833d007febb16bc54",
-      "bytes": 1053524
+      "review_edge": false,
+      "sha256": "f5e50abf8c242e1eea8e1f9688f360596d4045dfc1f8e16a4b67b09a048338ad",
+      "bytes": 661554
     },
     {
       "id": "coral-nursery-tree",
@@ -3133,7 +3133,7 @@
       ],
       "source": "masters/coral-nursery-tree.png",
       "status": "alpha_corners_clear",
-      "review_note": "Clean the white export remnants inside the frame so the spaces around hanging coral are transparent; increase side padding.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -3143,18 +3143,18 @@
         0,
         0
       ],
-      "transparent_pixels": 753367,
-      "partial_alpha_pixels": 816746,
-      "opaque_pixels": 2403,
+      "transparent_pixels": 1085025,
+      "partial_alpha_pixels": 486011,
+      "opaque_pixels": 1480,
       "padding_nonzero_alpha": [
-        0,
-        145,
-        0,
-        68
+        59,
+        91,
+        78,
+        0
       ],
       "review_edge": true,
-      "sha256": "bd1f6c57ef4f40118ba242e8fd7bb42f240ff19b3063753bf7d7477c57f2923e",
-      "bytes": 1343453
+      "sha256": "b97bdb3e145e75c6fd86189ad20620445e3719ebcca51130abd2ed3045bf54e1",
+      "bytes": 1034418
     },
     {
       "id": "coral-frag-plug",
@@ -3194,29 +3194,29 @@
         "coral-restoration"
       ],
       "source": "masters/coral-cement-bucket.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "c304879ca0295dfd3c4ffd3fad68192ce17172737b67daec291c9498adbe010c",
-      "bytes": 1868542
+      "transparent_pixels": 890760,
+      "partial_alpha_pixels": 3682,
+      "opaque_pixels": 678074,
+      "padding_nonzero_alpha": [
+        205,
+        67,
+        190,
+        72
+      ],
+      "review_edge": false,
+      "sha256": "e44d697d9caa2aa78480502eda50c73d79c277bce3285e4199b5b6c3cc6f4cc8",
+      "bytes": 2081616
     },
     {
       "id": "coral-monitoring-quadrat",
@@ -3226,7 +3226,7 @@
       ],
       "source": "masters/coral-monitoring-quadrat.png",
       "status": "alpha_corners_clear",
-      "review_note": "Remove white export remnants and speckled alpha from all nine grid openings; keep only a narrow clean white cut margin.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -3256,29 +3256,29 @@
         "coral-restoration"
       ],
       "source": "masters/coral-cleaning-brush.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "6db594f49a1213e18558af9c446f7f6bd31626140d70af9b29c5aaf3ac521bfb",
-      "bytes": 1802330
+      "transparent_pixels": 1018709,
+      "partial_alpha_pixels": 4062,
+      "opaque_pixels": 549745,
+      "padding_nonzero_alpha": [
+        69,
+        80,
+        37,
+        84
+      ],
+      "review_edge": false,
+      "sha256": "8296e81a9ee788cf458905dca09ddddca97f5bb0e4828177f98e7e703b809293",
+      "bytes": 1997120
     },
     {
       "id": "wax-seal-stamp",
@@ -3598,29 +3598,29 @@
         "calligraphy-desk"
       ],
       "source": "masters/calligraphy-brush.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "2d3db09fb103d90dd216c481f01f2bc7845ef47b430a208a393e1df16f6e6904",
-      "bytes": 1542116
+      "transparent_pixels": 1286818,
+      "partial_alpha_pixels": 4505,
+      "opaque_pixels": 281193,
+      "padding_nonzero_alpha": [
+        216,
+        52,
+        80,
+        66
+      ],
+      "review_edge": false,
+      "sha256": "40c6d2c886ad434f0f1e8aab9cdaf4c0442604343ac8f9abb1f650763b77d9e0",
+      "bytes": 1726138
     },
     {
       "id": "calligraphy-inkstone",
@@ -3629,29 +3629,29 @@
         "calligraphy-desk"
       ],
       "source": "masters/calligraphy-inkstone.png",
-      "status": "needs_alpha",
-      "review_note": "Reduce mottled stone texture and near-black recessed shading; keep two or three softer slate-gray painted planes matching the desktop references.",
+      "status": "alpha_corners_clear",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "d58ee97fbd7b51fba4a5bcd68ee848eac9e21b08dcb4f9f03f99dec446e8aea2",
-      "bytes": 1426965
+      "transparent_pixels": 926991,
+      "partial_alpha_pixels": 644464,
+      "opaque_pixels": 1061,
+      "padding_nonzero_alpha": [
+        39,
+        178,
+        35,
+        75
+      ],
+      "review_edge": false,
+      "sha256": "577366a5321aa6db3575825c4e6c4bfb563c84d1d1c8bb3e8a5b120e2083d066",
+      "bytes": 845987
     },
     {
       "id": "calligraphy-paper-scroll",
@@ -3691,29 +3691,29 @@
         "calligraphy-desk"
       ],
       "source": "masters/calligraphy-pen-rest.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "084b8be3a45482b1838d78225b32803eb860524714e0b85d239c95f1416932b9",
-      "bytes": 1782866
+      "transparent_pixels": 1012352,
+      "partial_alpha_pixels": 3733,
+      "opaque_pixels": 556431,
+      "padding_nonzero_alpha": [
+        41,
+        266,
+        38,
+        260
+      ],
+      "review_edge": false,
+      "sha256": "057730a4ed60bd98fc87676802d36cabe6adcdfabc06f1c9e9f75bd3b389f828",
+      "bytes": 1974754
     },
     {
       "id": "calligraphy-nib-tin",
@@ -3786,7 +3786,7 @@
       ],
       "source": "masters/lab-microscope.png",
       "status": "alpha_corners_clear",
-      "review_note": "Clean white remnants in the opening beneath the objective lenses; retain a narrow even cut margin around the hardware and clear transparent gaps.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -3909,29 +3909,29 @@
         "science-laboratory"
       ],
       "source": "masters/lab-pipette.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "16607b293aeeea3df6eb544b913925e26f857cafab1f95f58b3b8c9fd158ebf7",
-      "bytes": 1507357
+      "transparent_pixels": 1302499,
+      "partial_alpha_pixels": 3322,
+      "opaque_pixels": 266695,
+      "padding_nonzero_alpha": [
+        300,
+        106,
+        164,
+        115
+      ],
+      "review_edge": false,
+      "sha256": "a92db45dad2cbbde67ddef51e86da09576fcbb609feed29296f4ecdf50821092",
+      "bytes": 1685190
     },
     {
       "id": "lab-centrifuge",
@@ -3940,29 +3940,29 @@
         "science-laboratory"
       ],
       "source": "masters/lab-centrifuge.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "55e7e123bc2e181a2c9d8d9784d87e24c4ce0285e54fcd155b958673c5de09e1",
-      "bytes": 1748707
+      "transparent_pixels": 851018,
+      "partial_alpha_pixels": 3800,
+      "opaque_pixels": 717698,
+      "padding_nonzero_alpha": [
+        197,
+        66,
+        193,
+        67
+      ],
+      "review_edge": false,
+      "sha256": "84198ab5da5d29042b376f0b1ebfa4b21c2569fc7a9dd3757de293d3a5af840c",
+      "bytes": 1937504
     },
     {
       "id": "lab-safety-goggles",
@@ -4003,7 +4003,7 @@
       ],
       "source": "masters/weather-anemometer.png",
       "status": "alpha_corners_clear",
-      "review_note": "Remove irregular white debris between the rotating cups and the central stand; keep the white cut margin narrow and the surrounding gaps transparent.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -4034,7 +4034,7 @@
       ],
       "source": "masters/weather-wind-vane.png",
       "status": "alpha_corners_clear",
-      "review_note": "Clean detached white specks in the open spaces above and below the arrow without changing the painted rooster or palette.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -4064,29 +4064,29 @@
         "weather-station"
       ],
       "source": "masters/weather-rain-gauge.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "07151581cad867751d6cbd38c78309a7078227a494e7f76b5e91a48e4b04b5e8",
-      "bytes": 1942636
+      "transparent_pixels": 1185146,
+      "partial_alpha_pixels": 3012,
+      "opaque_pixels": 384358,
+      "padding_nonzero_alpha": [
+        370,
+        51,
+        369,
+        52
+      ],
+      "review_edge": false,
+      "sha256": "990080e34f0e09daeb84f1718ed7eebc15c91923f0e98cec6ff009fd98b374e1",
+      "bytes": 2111163
     },
     {
       "id": "weather-barometer",
@@ -4095,29 +4095,29 @@
         "weather-station"
       ],
       "source": "masters/weather-barometer.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
+      "transparent_pixels": 836734,
+      "partial_alpha_pixels": 4005,
+      "opaque_pixels": 731777,
+      "padding_nonzero_alpha": [
+        177,
+        18,
+        172,
+        50
+      ],
       "review_edge": true,
-      "sha256": "de95d1c6958744225c535f712398e284d7df4d168439ebf8b2cf8c09d6a06c85",
-      "bytes": 1963768
+      "sha256": "8ab4af85905df189fda6d3e2d3399b0a1dcc037ca4efc692a08e9926ff43479e",
+      "bytes": 2175306
     },
     {
       "id": "weather-balloon",
@@ -4188,29 +4188,29 @@
         "weather-station"
       ],
       "source": "masters/weather-shelter.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "c56642ebb5c90b0542ac85253333671f40c364156e1c63423ab6aff38b331c1d",
-      "bytes": 1975263
+      "transparent_pixels": 827011,
+      "partial_alpha_pixels": 4917,
+      "opaque_pixels": 740588,
+      "padding_nonzero_alpha": [
+        112,
+        54,
+        110,
+        134
+      ],
+      "review_edge": false,
+      "sha256": "b053f4ec3f427f1ad23ec847ee623a15819f87e9debbad7d6dbf468d1ab4d5b0",
+      "bytes": 2155160
     },
     {
       "id": "snare-drum",
@@ -4251,39 +4251,8 @@
         "percussion"
       ],
       "source": "masters/djembe.png",
-      "status": "needs_alpha",
-      "review_note": "",
-      "width": 1254,
-      "height": 1254,
-      "mode": "RGB",
-      "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "review_edge": true,
-      "sha256": "531466b2b45e04eb3504cacb382603d06f19012b84f07f6d0a58a5326d92cd74",
-      "bytes": 1602292
-    },
-    {
-      "id": "bongos",
-      "subject": "A joined pair of small orange wooden bongo drums",
-      "topic_slugs": [
-        "percussion"
-      ],
-      "source": "masters/bongos.png",
       "status": "alpha_corners_clear",
-      "review_note": "Both side edges are too close to the canvas and include white export debris. Reframe the full paired drums smaller with clear padding.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -4293,18 +4262,49 @@
         0,
         0
       ],
-      "transparent_pixels": 863754,
-      "partial_alpha_pixels": 706940,
-      "opaque_pixels": 1822,
+      "transparent_pixels": 977686,
+      "partial_alpha_pixels": 3532,
+      "opaque_pixels": 591298,
       "padding_nonzero_alpha": [
-        0,
-        85,
-        0,
-        72
+        240,
+        92,
+        234,
+        87
       ],
-      "review_edge": true,
-      "sha256": "d5fed6c4220623cf8d7b876526ce4f3dd2c79cce676d1230ec68edd5e216dd64",
-      "bytes": 929078
+      "review_edge": false,
+      "sha256": "ab009d6a35517e36705239fe48a7597d8c99e5591887693dcbe6a046bba1934d",
+      "bytes": 1782672
+    },
+    {
+      "id": "bongos",
+      "subject": "A joined pair of small orange wooden bongo drums",
+      "topic_slugs": [
+        "percussion"
+      ],
+      "source": "masters/bongos.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1218845,
+      "partial_alpha_pixels": 352906,
+      "opaque_pixels": 765,
+      "padding_nonzero_alpha": [
+        105,
+        53,
+        192,
+        340
+      ],
+      "review_edge": false,
+      "sha256": "70a94ee315057291185d89635fa76b6585b195336b3e09b445414a3698846dfe",
+      "bytes": 555840
     },
     {
       "id": "tambourine",
@@ -4345,7 +4345,7 @@
       ],
       "source": "masters/maracas.png",
       "status": "alpha_corners_clear",
-      "review_note": "Remove detached white specks above the shakers and around the crossed handles while preserving the artwork.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -4376,7 +4376,7 @@
       ],
       "source": "masters/triangle-instrument.png",
       "status": "alpha_corners_clear",
-      "review_note": "Clean white remnants inside the triangular opening and between the triangle and beater; preserve a narrow even sticker border.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -4469,7 +4469,7 @@
       ],
       "source": "masters/marching-bass-drum.png",
       "status": "alpha_corners_clear",
-      "review_note": "Clean white fill and ragged alpha in the openings beneath the shoulder harness while preserving the white hardware and narrow sticker margin.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -4500,7 +4500,7 @@
       ],
       "source": "masters/marching-sousaphone.png",
       "status": "alpha_corners_clear",
-      "review_note": "Clean detached white remnants in the large coil and under the bell; preserve the painted brass shading.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -4531,7 +4531,7 @@
       ],
       "source": "masters/marching-trumpet.png",
       "status": "alpha_corners_clear",
-      "review_note": "Reframe smaller with clear padding on both sides and remove white export remnants in the tubing openings.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -4541,18 +4541,18 @@
         0,
         0
       ],
-      "transparent_pixels": 1082726,
-      "partial_alpha_pixels": 488746,
-      "opaque_pixels": 1044,
+      "transparent_pixels": 1263504,
+      "partial_alpha_pixels": 307728,
+      "opaque_pixels": 1284,
       "padding_nonzero_alpha": [
-        0,
+        103,
         53,
-        0,
-        267
+        62,
+        72
       ],
-      "review_edge": true,
-      "sha256": "283bb2e5c6e700bd34d790269a0932be9aa1f5e67254e09b937017650cabd480",
-      "bytes": 819497
+      "review_edge": false,
+      "sha256": "7c5300462828b3e6afb883378ededb085908ad6a5e91d90e8165d026677a2026",
+      "bytes": 549152
     },
     {
       "id": "marching-clarinet",
@@ -4655,7 +4655,7 @@
       ],
       "source": "masters/drum-major-mace.png",
       "status": "alpha_corners_clear",
-      "review_note": "Clean the irregular white fill between the tassels and the shaft without changing the design.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -4716,29 +4716,29 @@
         "garden-insects"
       ],
       "source": "masters/praying-mantis.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "081d3c824366e4b12a6aaf05b3d11fc9da2b6574247bba47913f94b1f70b5145",
-      "bytes": 1798502
+      "transparent_pixels": 1161912,
+      "partial_alpha_pixels": 6166,
+      "opaque_pixels": 404438,
+      "padding_nonzero_alpha": [
+        233,
+        71,
+        142,
+        98
+      ],
+      "review_edge": false,
+      "sha256": "2070e3817d591f3bea5328fa8287ffec6e610aa9635c8bad04427937c6f37362",
+      "bytes": 2006160
     },
     {
       "id": "dragonfly",
@@ -4747,29 +4747,29 @@
         "garden-insects"
       ],
       "source": "masters/dragonfly.png",
-      "status": "needs_alpha",
-      "review_note": "Add small recognizable insect legs beneath the thorax; keep four wings and the existing soft painted style.",
+      "status": "alpha_corners_clear",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
+      "transparent_pixels": 956013,
+      "partial_alpha_pixels": 615435,
+      "opaque_pixels": 1068,
+      "padding_nonzero_alpha": [
+        0,
+        19,
+        6,
+        44
+      ],
       "review_edge": true,
-      "sha256": "0c23c02006fdb41a78196c43c3f66ae0647d1e78f7b009e5b4fce16107f9e1b9",
-      "bytes": 1974200
+      "sha256": "f65256d3160c7a5b0371951187b94c18f33af96a62dbd73b62b8904beed4565a",
+      "bytes": 1082769
     },
     {
       "id": "grasshopper",
@@ -4779,7 +4779,7 @@
       ],
       "source": "masters/grasshopper.png",
       "status": "alpha_corners_clear",
-      "review_note": "Remove white export remnants between the antennae and legs while keeping thin even cut margins.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -4810,7 +4810,7 @@
       ],
       "source": "masters/stag-beetle.png",
       "status": "alpha_corners_clear",
-      "review_note": "Remove extensive white export remnants in gaps between legs, antennae and horns or mandibles; preserve the existing anatomy and soft painted palette.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -4841,7 +4841,7 @@
       ],
       "source": "masters/leaf-insect.png",
       "status": "alpha_corners_clear",
-      "review_note": "Remove extensive white export remnants in gaps between legs, antennae and horns or mandibles; preserve the existing anatomy and soft painted palette.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -4872,7 +4872,7 @@
       ],
       "source": "masters/rhinoceros-beetle.png",
       "status": "alpha_corners_clear",
-      "review_note": "Remove extensive white export remnants in gaps between legs, antennae and horns or mandibles; preserve the existing anatomy and soft painted palette.",
+      "review_note": "",
       "width": 1254,
       "height": 1254,
       "mode": "RGBA",
@@ -4902,29 +4902,29 @@
         "garden-insects"
       ],
       "source": "masters/lacewing.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "42585b718f568010eec12bb3a408ad7e410d04cd453496e78e644c25d8e49653",
-      "bytes": 1766299
+      "transparent_pixels": 1092699,
+      "partial_alpha_pixels": 6416,
+      "opaque_pixels": 473401,
+      "padding_nonzero_alpha": [
+        83,
+        197,
+        58,
+        228
+      ],
+      "review_edge": false,
+      "sha256": "318457954f7e0e5eb44ec58d6ddc3f5e04355ee2c88ff7d35ad2e5772841041a",
+      "bytes": 1979662
     },
     {
       "id": "reptile-glass-enclosure",
@@ -4933,29 +4933,29 @@
         "reptile-habitat"
       ],
       "source": "masters/reptile-glass-enclosure.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "8edfc1504b8e57227dce0dbc21009164642895df79190d46ed64d1d84c4fbd6a",
-      "bytes": 1883467
+      "transparent_pixels": 746003,
+      "partial_alpha_pixels": 3637,
+      "opaque_pixels": 822876,
+      "padding_nonzero_alpha": [
+        78,
+        185,
+        78,
+        165
+      ],
+      "review_edge": false,
+      "sha256": "05137d56198e404d39f5735ddc257333393e114ea4d8a7ed97b88e9fd40c5b6c",
+      "bytes": 2089861
     },
     {
       "id": "reptile-heat-lamp",
@@ -4964,29 +4964,29 @@
         "reptile-habitat"
       ],
       "source": "masters/reptile-heat-lamp.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "9ba39e12250bcdb444f668563ee9398c563b993eb9392511898139719976f6de",
-      "bytes": 1832813
+      "transparent_pixels": 1076168,
+      "partial_alpha_pixels": 4835,
+      "opaque_pixels": 491513,
+      "padding_nonzero_alpha": [
+        152,
+        106,
+        149,
+        119
+      ],
+      "review_edge": false,
+      "sha256": "5ffb1bb91667720afe3d33d46ed8822adf9e1e3fdb6f837b0eb354c7a52af765",
+      "bytes": 2038022
     },
     {
       "id": "reptile-hide-cave",
@@ -5057,29 +5057,29 @@
         "reptile-habitat"
       ],
       "source": "masters/reptile-cork-tunnel.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "aa27a95ae6b26a8c0e54572e4cb37403bff2e20e2434ae6de1c4de0b820c39e2",
-      "bytes": 1826465
+      "transparent_pixels": 861272,
+      "partial_alpha_pixels": 3602,
+      "opaque_pixels": 707642,
+      "padding_nonzero_alpha": [
+        68,
+        201,
+        64,
+        193
+      ],
+      "review_edge": false,
+      "sha256": "fa9a7f8f19dea7b24cc249560f7268c6fdfe532812ac97a1632ce637ab29e423",
+      "bytes": 2040162
     },
     {
       "id": "reptile-climbing-branch",
@@ -5088,29 +5088,29 @@
         "reptile-habitat"
       ],
       "source": "masters/reptile-climbing-branch.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "cf702d1407b9bdc82ecf4744299babdbcef7e9ec123d5aee437888bb0d2074de",
-      "bytes": 1951058
+      "transparent_pixels": 1157496,
+      "partial_alpha_pixels": 4277,
+      "opaque_pixels": 410743,
+      "padding_nonzero_alpha": [
+        239,
+        91,
+        116,
+        94
+      ],
+      "review_edge": false,
+      "sha256": "b5e02ec4d208ad245952c2c196f8f5d6dbd01f7f3b6ba7aea555f11989275546",
+      "bytes": 2153875
     },
     {
       "id": "reptile-hygrometer",
@@ -5119,29 +5119,29 @@
         "reptile-habitat"
       ],
       "source": "masters/reptile-hygrometer.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "b6f92d78cb32e49b06effb459fe901e457a51078be66276fb69b56d85ffa6a26",
-      "bytes": 1811694
+      "transparent_pixels": 911560,
+      "partial_alpha_pixels": 3413,
+      "opaque_pixels": 657543,
+      "padding_nonzero_alpha": [
+        185,
+        154,
+        174,
+        149
+      ],
+      "review_edge": false,
+      "sha256": "c8ea8a104aef65fa1b96bb2b1f42187889932f3c286be37044db63c720def28b",
+      "bytes": 2019640
     },
     {
       "id": "reptile-feeding-tongs",
@@ -5150,29 +5150,29 @@
         "reptile-habitat"
       ],
       "source": "masters/reptile-feeding-tongs.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "f76f5d893b30534144c1e2bbccad79fce423626f5664ef82d20c969708475ea6",
-      "bytes": 1532252
+      "transparent_pixels": 1247448,
+      "partial_alpha_pixels": 5276,
+      "opaque_pixels": 319792,
+      "padding_nonzero_alpha": [
+        69,
+        141,
+        68,
+        136
+      ],
+      "review_edge": false,
+      "sha256": "94ce7abe2c9b7d98416e360018ff179bc027285d1fd6b9febb37499be4f082da",
+      "bytes": 1714402
     },
     {
       "id": "wetland-cattails",
@@ -5181,29 +5181,29 @@
         "freshwater-wetland"
       ],
       "source": "masters/wetland-cattails.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "81b380af566ca2f1c073432672ce7ad4c22a85dce59e2707d8a7ec8386d07714",
-      "bytes": 1928296
+      "transparent_pixels": 1029201,
+      "partial_alpha_pixels": 5701,
+      "opaque_pixels": 537614,
+      "padding_nonzero_alpha": [
+        195,
+        41,
+        197,
+        45
+      ],
+      "review_edge": false,
+      "sha256": "e2f61f4a16ca6813c8210b6b26255f3f05b42a8d1869fd7e6597b1e0145f6f71",
+      "bytes": 2137456
     },
     {
       "id": "wetland-water-lily",
@@ -5212,29 +5212,29 @@
         "freshwater-wetland"
       ],
       "source": "masters/wetland-water-lily.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "89427a86fdb9b9e3accfc35f426cd100fa6b9022ce058b77adb3e03c277f12b7",
-      "bytes": 1791783
+      "transparent_pixels": 829628,
+      "partial_alpha_pixels": 3942,
+      "opaque_pixels": 738946,
+      "padding_nonzero_alpha": [
+        79,
+        149,
+        72,
+        161
+      ],
+      "review_edge": false,
+      "sha256": "82eb23c82354463d31796befe4f58a9b1fa88d33bf4e9a7595664718e020d769",
+      "bytes": 2003527
     },
     {
       "id": "wetland-kingfisher",
@@ -5243,29 +5243,29 @@
         "freshwater-wetland"
       ],
       "source": "masters/wetland-kingfisher.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "d25aca76013665efad1bf7531f62e19fd854a84e36bca8b9f379e710b691d82c",
-      "bytes": 1829794
+      "transparent_pixels": 1052572,
+      "partial_alpha_pixels": 4058,
+      "opaque_pixels": 515886,
+      "padding_nonzero_alpha": [
+        226,
+        100,
+        121,
+        87
+      ],
+      "review_edge": false,
+      "sha256": "f469aa67e7e8c293c930242595496d37cdcd8465fcb55c3d28894e417de4545b",
+      "bytes": 2056168
     },
     {
       "id": "wetland-heron",
@@ -6751,29 +6751,29 @@
         "mediterranean-mezze"
       ],
       "source": "masters/mezze-baba-ganoush.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "d48213053fb20c6125473a23b71ef10371c0c5f87742134eda620c96cc440a59",
-      "bytes": 1988153
+      "transparent_pixels": 834455,
+      "partial_alpha_pixels": 3462,
+      "opaque_pixels": 734599,
+      "padding_nonzero_alpha": [
+        62,
+        197,
+        63,
+        207
+      ],
+      "review_edge": false,
+      "sha256": "1b0c128b6e0d22f6539c56ff1e81b4f6c2671a5cd51df24d17d8c8711e49574e",
+      "bytes": 2222049
     },
     {
       "id": "mezze-halloumi",
@@ -6782,29 +6782,29 @@
         "mediterranean-mezze"
       ],
       "source": "masters/mezze-halloumi.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "282e16b1d39578c1a11fe2604802bce95e68ae9112ec7c1354bad6187fe36aa2",
-      "bytes": 2023947
+      "transparent_pixels": 915289,
+      "partial_alpha_pixels": 3691,
+      "opaque_pixels": 653536,
+      "padding_nonzero_alpha": [
+        48,
+        194,
+        46,
+        194
+      ],
+      "review_edge": false,
+      "sha256": "d6d63834ea04f32885a8c988dba92c90802807b9670158711bbc8837bfb6aee0",
+      "bytes": 2282038
     },
     {
       "id": "picnic-hamper",
@@ -6813,29 +6813,29 @@
         "picnic-day"
       ],
       "source": "masters/picnic-hamper.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
-      "review_edge": true,
-      "sha256": "2a45ee656ac94fa8f71db81fe3674aa9b358edfd8bd96ae599fa11d3ee7a3c5c",
-      "bytes": 2037720
+      "transparent_pixels": 673509,
+      "partial_alpha_pixels": 3918,
+      "opaque_pixels": 895089,
+      "padding_nonzero_alpha": [
+        107,
+        64,
+        111,
+        61
+      ],
+      "review_edge": false,
+      "sha256": "3a69c5d11498ff889737020428d66a3133ffa3a41d23d549b153a8c7ef8a9c5d",
+      "bytes": 2290612
     },
     {
       "id": "picnic-checkered-cloth",
@@ -6844,29 +6844,29 @@
         "picnic-day"
       ],
       "source": "masters/picnic-checkered-cloth.png",
-      "status": "needs_alpha",
+      "status": "alpha_corners_clear",
       "review_note": "",
       "width": 1254,
       "height": 1254,
-      "mode": "RGB",
+      "mode": "RGBA",
       "corner_alpha": [
-        255,
-        255,
-        255,
-        255
-      ],
-      "transparent_pixels": 0,
-      "partial_alpha_pixels": 0,
-      "opaque_pixels": 1572516,
-      "padding_nonzero_alpha": [
         0,
         0,
         0,
         0
       ],
+      "transparent_pixels": 810942,
+      "partial_alpha_pixels": 3830,
+      "opaque_pixels": 757744,
+      "padding_nonzero_alpha": [
+        33,
+        180,
+        19,
+        123
+      ],
       "review_edge": true,
-      "sha256": "11245005ecd38db6d9c80bdf7d6fe98d928e91d3a37d2bec54484e9d94f81fa7",
-      "bytes": 1670888
+      "sha256": "3436fbe6aebb1ab5d7b1909f154879a2fad2380d04c7866d895311de2323bdbf",
+      "bytes": 1874512
     },
     {
       "id": "picnic-sandwich-wrap",
@@ -8562,36 +8562,36 @@
       "topic": "vietnamese-cuisine",
       "name_vi": "Món Việt",
       "id": "banh-mi",
-      "file": "delivery/_needs-alpha/vietnamese-cuisine/banh-mi.png",
-      "status": "needs_alpha",
-      "sha256": "92ff93a2e6b727f0723331020edd99a7fd813ff0d6dcd395aae31b31ef8898b2",
+      "file": "delivery/stickers/vietnamese-cuisine/banh-mi.png",
+      "status": "alpha_corners_clear",
+      "sha256": "efa19e01f240ea246a462e880b3fb5b9a73c251d6a5e1b44436e0a60fb482e85",
       "review_note": ""
     },
     {
       "topic": "vietnamese-cuisine",
       "name_vi": "Món Việt",
       "id": "pho-bo",
-      "file": "delivery/_needs-alpha/vietnamese-cuisine/pho-bo.png",
-      "status": "needs_alpha",
-      "sha256": "a57bcde8df78cbcfdcc1075adc6dc0733181eca29ab9ac5eecd3b4f69f48d709",
+      "file": "delivery/stickers/vietnamese-cuisine/pho-bo.png",
+      "status": "alpha_corners_clear",
+      "sha256": "7855fae69bfea10c05fc1e1b821719f59238cc26a325c39afb79c9b181460943",
       "review_note": ""
     },
     {
       "topic": "vietnamese-cuisine",
       "name_vi": "Món Việt",
       "id": "banh-xeo",
-      "file": "delivery/_needs-alpha/vietnamese-cuisine/banh-xeo.png",
-      "status": "needs_alpha",
-      "sha256": "13ccd4d106ba4382dbb593fffbeabf5d49ef5f77145cdfba80657e1cf9ba59cb",
+      "file": "delivery/stickers/vietnamese-cuisine/banh-xeo.png",
+      "status": "alpha_corners_clear",
+      "sha256": "8de560406403242301dd5ee57724cf6457db281a622e4bbceb00030f9898055c",
       "review_note": ""
     },
     {
       "topic": "vietnamese-cuisine",
       "name_vi": "Món Việt",
       "id": "goi-cuon",
-      "file": "delivery/_needs-alpha/vietnamese-cuisine/goi-cuon.png",
-      "status": "needs_alpha",
-      "sha256": "688fca397f4564b8c0b34ecb041e39e7d58ffbbe2d319b1c37ef722e314f34ac",
+      "file": "delivery/stickers/vietnamese-cuisine/goi-cuon.png",
+      "status": "alpha_corners_clear",
+      "sha256": "ad231c0065db776cd3a00c446cc15c41dc454bdacffdc9bd952a5839b5fe5579",
       "review_note": ""
     },
     {
@@ -8643,9 +8643,9 @@
       "topic": "vietnamese-tet",
       "name_vi": "Tết Việt",
       "id": "tet-lucky-envelope",
-      "file": "delivery/_needs-alpha/vietnamese-tet/tet-lucky-envelope.png",
-      "status": "needs_alpha",
-      "sha256": "296e977d628d0d5892af93f5d54243a7805c6be8f6dc1c577081a4d9fee394af",
+      "file": "delivery/stickers/vietnamese-tet/tet-lucky-envelope.png",
+      "status": "alpha_corners_clear",
+      "sha256": "43d2cc2e82516019e69231a004751dbe840dc45e7d6d5ab9fc397f27065ed6f1",
       "review_note": ""
     },
     {
@@ -8706,9 +8706,9 @@
       "topic": "beekeeping",
       "name_vi": "Nghề nuôi ong",
       "id": "beehive-skep",
-      "file": "delivery/_needs-alpha/beekeeping/beehive-skep.png",
-      "status": "needs_alpha",
-      "sha256": "8f07fd7c89091d0b09c56e46a5fc7b98bc82b2454ba684e98c34d7d123394d10",
+      "file": "delivery/stickers/beekeeping/beehive-skep.png",
+      "status": "alpha_corners_clear",
+      "sha256": "4f2addf6c0423a76641819be0538f22c498e497e48b947daa12e9f2c8285f6e6",
       "review_note": ""
     },
     {
@@ -8733,9 +8733,9 @@
       "topic": "beekeeping",
       "name_vi": "Nghề nuôi ong",
       "id": "beekeeper-veil-hat",
-      "file": "delivery/_needs-alpha/beekeeping/beekeeper-veil-hat.png",
-      "status": "needs_alpha",
-      "sha256": "4ffb8fe3468e6702540e182b6839dfab75dfc6e2e20416627377b3ba9e984dff",
+      "file": "delivery/stickers/beekeeping/beekeeper-veil-hat.png",
+      "status": "alpha_corners_clear",
+      "sha256": "b6bacd3a81d031e01921b16dab4959084ee9f7bc76f253edd66283502680861f",
       "review_note": ""
     },
     {
@@ -8787,36 +8787,36 @@
       "topic": "honey-breakfast",
       "name_vi": "Bữa sáng với mật ong",
       "id": "honey-pancakes",
-      "file": "delivery/_needs-alpha/honey-breakfast/honey-pancakes.png",
-      "status": "needs_alpha",
-      "sha256": "c4baa8c11610c7895de7b0e72ce57aeb1c52cf941ae468614cf5683111bc0185",
+      "file": "delivery/stickers/honey-breakfast/honey-pancakes.png",
+      "status": "alpha_corners_clear",
+      "sha256": "fce52a9797a15a09738a53a3bdc5cce390204403d591fbb0911981ac3bd273a7",
       "review_note": ""
     },
     {
       "topic": "honey-breakfast",
       "name_vi": "Bữa sáng với mật ong",
       "id": "honey-waffles",
-      "file": "delivery/_needs-alpha/honey-breakfast/honey-waffles.png",
-      "status": "needs_alpha",
-      "sha256": "121e9a3a8615eacbe4f400a8af70161fe3428a5a3b2dc3f6c80b18ee1c660390",
+      "file": "delivery/stickers/honey-breakfast/honey-waffles.png",
+      "status": "alpha_corners_clear",
+      "sha256": "0d857dea48e6089b54e154694bdf76199f7c52cf8a433671f27c5df21c3cbbd5",
       "review_note": ""
     },
     {
       "topic": "honey-breakfast",
       "name_vi": "Bữa sáng với mật ong",
       "id": "honey-parfait",
-      "file": "delivery/_needs-alpha/honey-breakfast/honey-parfait.png",
-      "status": "needs_alpha",
-      "sha256": "dad408ba92d2d5670e60682267357dc926e1007be7f053261f344f26204c6bcd",
+      "file": "delivery/stickers/honey-breakfast/honey-parfait.png",
+      "status": "alpha_corners_clear",
+      "sha256": "4c26205ed5744c22e57124831f9d439e6ef2cafb72f2be205ae8a7a269c50756",
       "review_note": ""
     },
     {
       "topic": "honey-breakfast",
       "name_vi": "Bữa sáng với mật ong",
       "id": "honey-toast",
-      "file": "delivery/_needs-alpha/honey-breakfast/honey-toast.png",
-      "status": "needs_alpha",
-      "sha256": "feb0fb99eed85e7258e8058c4063b45525a39ce33f73d05653a061082ef05c50",
+      "file": "delivery/stickers/honey-breakfast/honey-toast.png",
+      "status": "alpha_corners_clear",
+      "sha256": "32df0c3d6484847fa82395df1c7ce72251b4f3595f6871f36140217c81f2f82e",
       "review_note": ""
     },
     {
@@ -8832,18 +8832,18 @@
       "topic": "honey-breakfast",
       "name_vi": "Bữa sáng với mật ong",
       "id": "honey-butter-dish",
-      "file": "delivery/_needs-alpha/honey-breakfast/honey-butter-dish.png",
-      "status": "needs_alpha",
-      "sha256": "109962aba8172ba7e9463d857e532f0142fa50a836e9fa6b3ecfac8fb3d2275c",
+      "file": "delivery/stickers/honey-breakfast/honey-butter-dish.png",
+      "status": "alpha_corners_clear",
+      "sha256": "790004332fe678866606cc0cf52b6693bdd83859c943675efa2562f736c26571",
       "review_note": ""
     },
     {
       "topic": "honey-breakfast",
       "name_vi": "Bữa sáng với mật ong",
       "id": "honey-lemon-tea",
-      "file": "delivery/_needs-alpha/honey-breakfast/honey-lemon-tea.png",
-      "status": "needs_alpha",
-      "sha256": "c1d98493626b1c7abecddfa192879049c61162b61e310bb6efdb5908e1677568",
+      "file": "delivery/stickers/honey-breakfast/honey-lemon-tea.png",
+      "status": "alpha_corners_clear",
+      "sha256": "0bc69897ec250f08201913fb7a32c8c4e1cb5d47f1e6cec6b6e66183c5da21c0",
       "review_note": ""
     },
     {
@@ -8859,9 +8859,9 @@
       "topic": "pottery-studio",
       "name_vi": "Xưởng gốm",
       "id": "pottery-wheel",
-      "file": "delivery/_needs-alpha/pottery-studio/pottery-wheel.png",
-      "status": "needs_alpha",
-      "sha256": "f61474d53fa17ddaac4f4cc1bf4c326ce8de7885ba97dfb3970a59d9f4767479",
+      "file": "delivery/stickers/pottery-studio/pottery-wheel.png",
+      "status": "alpha_corners_clear",
+      "sha256": "183973c2a6cd79e75efba4e1734fec376b7c16983c0ce73b9760a7147697fc43",
       "review_note": ""
     },
     {
@@ -8913,9 +8913,9 @@
       "topic": "pottery-studio",
       "name_vi": "Xưởng gốm",
       "id": "ceramic-kiln",
-      "file": "delivery/_needs-alpha/pottery-studio/ceramic-kiln.png",
-      "status": "needs_alpha",
-      "sha256": "faf2d2721f74bd99281a8d10c68bf7aec2dd7a48c184d8c0bb5d7554c8358e14",
+      "file": "delivery/stickers/pottery-studio/ceramic-kiln.png",
+      "status": "alpha_corners_clear",
+      "sha256": "9d9834a95116fdcd2bbee7d8613e3a2265991f511e3b670646947e754f2004e6",
       "review_note": ""
     },
     {
@@ -8996,16 +8996,16 @@
       "id": "tailor-dress-form",
       "file": "delivery/stickers/sewing-room/tailor-dress-form.png",
       "status": "alpha_corners_clear",
-      "sha256": "bce522ad2bd2037a7056f523ce5f2ed9ac0626bc1f069b98eaae960445919d7a",
-      "review_note": "White cut margin reaches the top canvas edge; needs clear top padding."
+      "sha256": "666c836b566471e2d376a5b875bbe9b2c9b714a50cbd173f532aa91e3497f42a",
+      "review_note": ""
     },
     {
       "topic": "sewing-room",
       "name_vi": "Góc may vá",
       "id": "sewing-machine",
-      "file": "delivery/_needs-alpha/sewing-room/sewing-machine.png",
-      "status": "needs_alpha",
-      "sha256": "5f635a733544b991a93e45c033811a4e82cd7e790c3d20b0561f9f68ae785076",
+      "file": "delivery/stickers/sewing-room/sewing-machine.png",
+      "status": "alpha_corners_clear",
+      "sha256": "42e719c47da2e41effbfd7a66a8cc1bbb9f2665c5be8e2608f8de610873bed67",
       "review_note": ""
     },
     {
@@ -9057,9 +9057,9 @@
       "topic": "sewing-room",
       "name_vi": "Góc may vá",
       "id": "sewing-zipper",
-      "file": "delivery/_needs-alpha/sewing-room/sewing-zipper.png",
-      "status": "needs_alpha",
-      "sha256": "dc390bbb8471ff56ee0fa751c99e2d3e6536d3cd3a818f9f69c52586efa0d2c2",
+      "file": "delivery/stickers/sewing-room/sewing-zipper.png",
+      "status": "alpha_corners_clear",
+      "sha256": "bd400d712c2587c45abf9f3883ed2308c6abf293893df335bcb8d2a975f2e142",
       "review_note": ""
     },
     {
@@ -9068,8 +9068,8 @@
       "id": "tailor-dress-form",
       "file": "delivery/stickers/theatre-backstage/tailor-dress-form.png",
       "status": "alpha_corners_clear",
-      "sha256": "bce522ad2bd2037a7056f523ce5f2ed9ac0626bc1f069b98eaae960445919d7a",
-      "review_note": "White cut margin reaches the top canvas edge; needs clear top padding."
+      "sha256": "666c836b566471e2d376a5b875bbe9b2c9b714a50cbd173f532aa91e3497f42a",
+      "review_note": ""
     },
     {
       "topic": "theatre-backstage",
@@ -9084,9 +9084,9 @@
       "topic": "theatre-backstage",
       "name_vi": "Hậu trường sân khấu",
       "id": "stage-spotlight",
-      "file": "delivery/_needs-alpha/theatre-backstage/stage-spotlight.png",
-      "status": "needs_alpha",
-      "sha256": "aa385650fae04921f1cf15d4ab59ad9becbb18a40adee1a08744f0dec80925dd",
+      "file": "delivery/stickers/theatre-backstage/stage-spotlight.png",
+      "status": "alpha_corners_clear",
+      "sha256": "a5d7abcec90738ae545592ff8d5eeb71adbd4456126d964d1dec799a45ee249b",
       "review_note": ""
     },
     {
@@ -9102,27 +9102,27 @@
       "topic": "theatre-backstage",
       "name_vi": "Hậu trường sân khấu",
       "id": "theatre-ticket",
-      "file": "delivery/_needs-alpha/theatre-backstage/theatre-ticket.png",
-      "status": "needs_alpha",
-      "sha256": "f86b858c0df256636a4a1f4bada10b6b7df732d227ae71ee1b8ea9fea2bd1470",
+      "file": "delivery/stickers/theatre-backstage/theatre-ticket.png",
+      "status": "alpha_corners_clear",
+      "sha256": "98d2973aa876f3318cbf07f967094e3fdc0e610daddbd5bd873b03a8622836a9",
       "review_note": ""
     },
     {
       "topic": "theatre-backstage",
       "name_vi": "Hậu trường sân khấu",
       "id": "proscenium-stage-model",
-      "file": "delivery/_needs-alpha/theatre-backstage/proscenium-stage-model.png",
-      "status": "needs_alpha",
-      "sha256": "018d84f24e66f64146a8df6367df4aa3b6ed8335f535f65267781e747bee8b4c",
+      "file": "delivery/stickers/theatre-backstage/proscenium-stage-model.png",
+      "status": "alpha_corners_clear",
+      "sha256": "d6ca2ac9b62a3c9f8c223e7677f488838a18715e3340e960e396df083d4924fb",
       "review_note": ""
     },
     {
       "topic": "theatre-backstage",
       "name_vi": "Hậu trường sân khấu",
       "id": "opera-binoculars",
-      "file": "delivery/_needs-alpha/theatre-backstage/opera-binoculars.png",
-      "status": "needs_alpha",
-      "sha256": "195f1ec87b196c02456a27a9cee351f3e73a81e7741883c94a253a291579226f",
+      "file": "delivery/stickers/theatre-backstage/opera-binoculars.png",
+      "status": "alpha_corners_clear",
+      "sha256": "294f85e913da6f16bfd258d537f51b160eb3ced159ebbdc333093e3509627df5",
       "review_note": ""
     },
     {
@@ -9138,9 +9138,9 @@
       "topic": "forest-fungi",
       "name_vi": "Nấm rừng",
       "id": "mushroom-basket",
-      "file": "delivery/_needs-alpha/forest-fungi/mushroom-basket.png",
-      "status": "needs_alpha",
-      "sha256": "46062297b2052bb487d815860cd77b6e1530a08e33328aa597f9013a89498005",
+      "file": "delivery/stickers/forest-fungi/mushroom-basket.png",
+      "status": "alpha_corners_clear",
+      "sha256": "459047959df4aa38d76ffc76d352e40fc40138ed491ecd2bb172e6747138e252",
       "review_note": ""
     },
     {
@@ -9156,270 +9156,270 @@
       "topic": "forest-fungi",
       "name_vi": "Nấm rừng",
       "id": "chanterelle",
-      "file": "delivery/_needs-alpha/forest-fungi/chanterelle.png",
-      "status": "needs_alpha",
-      "sha256": "f9eb1129dc3e61d34b55af164a00c361a5f0e70fec659a85311a6d822cf93d20",
+      "file": "delivery/stickers/forest-fungi/chanterelle.png",
+      "status": "alpha_corners_clear",
+      "sha256": "331f909f4fd52e47a81cf49f019304304a13f4a37b4f80601d8546e772341bdf",
       "review_note": ""
     },
     {
       "topic": "forest-fungi",
       "name_vi": "Nấm rừng",
       "id": "morel",
-      "file": "delivery/_needs-alpha/forest-fungi/morel.png",
-      "status": "needs_alpha",
-      "sha256": "f2d9d5ec7278188cadfb943d98a4de4307b1987ced37e6d73808a1577b7f984f",
+      "file": "delivery/stickers/forest-fungi/morel.png",
+      "status": "alpha_corners_clear",
+      "sha256": "461507d1536f6e5efc959b6e85abfc89b9bb23203b93941f878a766c95c94c7a",
       "review_note": ""
     },
     {
       "topic": "forest-fungi",
       "name_vi": "Nấm rừng",
       "id": "oyster-mushroom",
-      "file": "delivery/_needs-alpha/forest-fungi/oyster-mushroom.png",
-      "status": "needs_alpha",
-      "sha256": "5226ccec2542d26073522d3960518b3657d29b252f5bbcd83d5acb16da320d67",
+      "file": "delivery/stickers/forest-fungi/oyster-mushroom.png",
+      "status": "alpha_corners_clear",
+      "sha256": "b2c07325a372c6cfb92ced13224afbacf0c90afd0189343c28fd0aa0a9da3fa2",
       "review_note": ""
     },
     {
       "topic": "forest-fungi",
       "name_vi": "Nấm rừng",
       "id": "porcini",
-      "file": "delivery/_needs-alpha/forest-fungi/porcini.png",
-      "status": "needs_alpha",
-      "sha256": "e83915a023b2bfdc4f26a20fdc20e724941420ab739d8f528a6c28c07e75f965",
+      "file": "delivery/stickers/forest-fungi/porcini.png",
+      "status": "alpha_corners_clear",
+      "sha256": "c9f4289401cff6e43c8b75efa96ad02a12b9b785a2e0981da9151574f1c327e6",
       "review_note": ""
     },
     {
       "topic": "forest-fungi",
       "name_vi": "Nấm rừng",
       "id": "lions-mane-mushroom",
-      "file": "delivery/_needs-alpha/forest-fungi/lions-mane-mushroom.png",
-      "status": "needs_alpha",
-      "sha256": "000135d592f0a561f6fda5b08a6af3d51cf28e11da4096782a3e98845b0982eb",
+      "file": "delivery/stickers/forest-fungi/lions-mane-mushroom.png",
+      "status": "alpha_corners_clear",
+      "sha256": "af63d475473b5c18e2d1c09378a8b848704014e8a61a2023d147f0b80aee0120",
       "review_note": ""
     },
     {
       "topic": "forest-fungi",
       "name_vi": "Nấm rừng",
       "id": "coral-fungus",
-      "file": "delivery/_needs-alpha/forest-fungi/coral-fungus.png",
-      "status": "needs_alpha",
-      "sha256": "3da312a6d0d7ab2e3548d0e32643e9c727857ec10f598bcc9fe01aa9389f71c7",
+      "file": "delivery/stickers/forest-fungi/coral-fungus.png",
+      "status": "alpha_corners_clear",
+      "sha256": "8949fa3a782e031fac558c527a1e204bf8a757dede68c70d940cbf197db428fc",
       "review_note": ""
     },
     {
       "topic": "woodland-foraging",
       "name_vi": "Hái lượm trong rừng",
       "id": "mushroom-basket",
-      "file": "delivery/_needs-alpha/woodland-foraging/mushroom-basket.png",
-      "status": "needs_alpha",
-      "sha256": "46062297b2052bb487d815860cd77b6e1530a08e33328aa597f9013a89498005",
+      "file": "delivery/stickers/woodland-foraging/mushroom-basket.png",
+      "status": "alpha_corners_clear",
+      "sha256": "459047959df4aa38d76ffc76d352e40fc40138ed491ecd2bb172e6747138e252",
       "review_note": ""
     },
     {
       "topic": "woodland-foraging",
       "name_vi": "Hái lượm trong rừng",
       "id": "foraging-knife",
-      "file": "delivery/_needs-alpha/woodland-foraging/foraging-knife.png",
-      "status": "needs_alpha",
-      "sha256": "d8d10b1f8af468e97ccc0811959cea1e9c047d37bed36434f6fa988bfdf00d8a",
+      "file": "delivery/stickers/woodland-foraging/foraging-knife.png",
+      "status": "alpha_corners_clear",
+      "sha256": "4220bbe29f36633b6f85e7430f26513267b1d8e62c497267b43e720e20d5919a",
       "review_note": ""
     },
     {
       "topic": "woodland-foraging",
       "name_vi": "Hái lượm trong rừng",
       "id": "wild-blackberry-branch",
-      "file": "delivery/_needs-alpha/woodland-foraging/wild-blackberry-branch.png",
-      "status": "needs_alpha",
-      "sha256": "51d923b61ef60dc539fc2c1b1bbf3ec9498d2c84da43e33ce87e977ada5e007d",
+      "file": "delivery/stickers/woodland-foraging/wild-blackberry-branch.png",
+      "status": "alpha_corners_clear",
+      "sha256": "2b220150f27ae9a14a70693f7cbdc2ffb8464f526397bb1f9328d0dbf0caa220",
       "review_note": ""
     },
     {
       "topic": "woodland-foraging",
       "name_vi": "Hái lượm trong rừng",
       "id": "wild-chestnut",
-      "file": "delivery/_needs-alpha/woodland-foraging/wild-chestnut.png",
-      "status": "needs_alpha",
-      "sha256": "9193fe5cc134a583dd70c906549c8354932f366dad74ceb889236646eb306f7c",
+      "file": "delivery/stickers/woodland-foraging/wild-chestnut.png",
+      "status": "alpha_corners_clear",
+      "sha256": "6ee2e0fbd9fcd668f61a4f06b33474f6e547864f027839e1d9e1080c01a40772",
       "review_note": ""
     },
     {
       "topic": "woodland-foraging",
       "name_vi": "Hái lượm trong rừng",
       "id": "wild-rosehips",
-      "file": "delivery/_needs-alpha/woodland-foraging/wild-rosehips.png",
-      "status": "needs_alpha",
-      "sha256": "9309d4517abb8a7169fdcddb4b8692c2d19761f8c0b2367f3f5bd65447516e6d",
+      "file": "delivery/stickers/woodland-foraging/wild-rosehips.png",
+      "status": "alpha_corners_clear",
+      "sha256": "e19e208265b5e31e823cec937c76efa5b93074f778f1006fae286c7edf3f2b2e",
       "review_note": ""
     },
     {
       "topic": "woodland-foraging",
       "name_vi": "Hái lượm trong rừng",
       "id": "wild-garlic-bundle",
-      "file": "delivery/_needs-alpha/woodland-foraging/wild-garlic-bundle.png",
-      "status": "needs_alpha",
-      "sha256": "fd6e836b1f6b7077d311d16bb523c85a308feddf8dd8a74b2ba25b1ac74141d3",
+      "file": "delivery/stickers/woodland-foraging/wild-garlic-bundle.png",
+      "status": "alpha_corners_clear",
+      "sha256": "072370388554153171cc31f3a439d87e9afa3bd90fd4390d4cb7a054b889e507",
       "review_note": ""
     },
     {
       "topic": "woodland-foraging",
       "name_vi": "Hái lượm trong rừng",
       "id": "fiddlehead-ferns",
-      "file": "delivery/_needs-alpha/woodland-foraging/fiddlehead-ferns.png",
-      "status": "needs_alpha",
-      "sha256": "b7d1caaae6ad9d5d8402d19ed1093fb8480250d6e50a46671b0057a902f77d6b",
+      "file": "delivery/stickers/woodland-foraging/fiddlehead-ferns.png",
+      "status": "alpha_corners_clear",
+      "sha256": "07d9f12ce21274010fd59f44a3bc63d6d2d371c954bf7d8cd916b75e7d6c0a84",
       "review_note": ""
     },
     {
       "topic": "woodland-foraging",
       "name_vi": "Hái lượm trong rừng",
       "id": "foraging-field-guide",
-      "file": "delivery/_needs-alpha/woodland-foraging/foraging-field-guide.png",
-      "status": "needs_alpha",
-      "sha256": "78f6a881c413367fc5fc2646c2108add791e49f51f68adf52cc4fd8f1751ead1",
+      "file": "delivery/stickers/woodland-foraging/foraging-field-guide.png",
+      "status": "alpha_corners_clear",
+      "sha256": "754b096dae4f38d702c2f1885ff13aafab1c138b2b6db83068958e9c6bf6861a",
       "review_note": ""
     },
     {
       "topic": "terrarium-workshop",
       "name_vi": "Làm terrarium",
       "id": "haworthia-pot",
-      "file": "delivery/_needs-alpha/terrarium-workshop/haworthia-pot.png",
-      "status": "needs_alpha",
-      "sha256": "84951f0223d3a11943c47ec9815c9076b91a2c8462007b8d61e47aba323fb1bc",
+      "file": "delivery/stickers/terrarium-workshop/haworthia-pot.png",
+      "status": "alpha_corners_clear",
+      "sha256": "c2bf600e5db9b0a8bdd659b5b8d35e4f9d0ab05186b658e2574ff7053ef87c83",
       "review_note": ""
     },
     {
       "topic": "terrarium-workshop",
       "name_vi": "Làm terrarium",
       "id": "closed-jar-terrarium",
-      "file": "delivery/_needs-alpha/terrarium-workshop/closed-jar-terrarium.png",
-      "status": "needs_alpha",
-      "sha256": "95f1b6d93e153a340c4f3c4dd1cc82e3004e2c94ab6230877a256421f6ca1e75",
+      "file": "delivery/stickers/terrarium-workshop/closed-jar-terrarium.png",
+      "status": "alpha_corners_clear",
+      "sha256": "b48ca172cd51a4af3b92e02adbb0a05b61b47faef6eea1db2862f57960642844",
       "review_note": ""
     },
     {
       "topic": "terrarium-workshop",
       "name_vi": "Làm terrarium",
       "id": "terrarium-tweezers",
-      "file": "delivery/_needs-alpha/terrarium-workshop/terrarium-tweezers.png",
-      "status": "needs_alpha",
-      "sha256": "5aa49a060eaf2293286ebe2a19b86c771fb518ab44b5f782d9231a8ec86b808c",
+      "file": "delivery/stickers/terrarium-workshop/terrarium-tweezers.png",
+      "status": "alpha_corners_clear",
+      "sha256": "c6092a83d2eca40211f3a23363ac45bb6a17c5839ea8ea6230afe454179585f2",
       "review_note": ""
     },
     {
       "topic": "terrarium-workshop",
       "name_vi": "Làm terrarium",
       "id": "terrarium-mister",
-      "file": "delivery/_needs-alpha/terrarium-workshop/terrarium-mister.png",
-      "status": "needs_alpha",
-      "sha256": "335bf2b776452256ed206802ae15f188241cf7ced20300e47218a430a1b599c2",
-      "review_note": "Reduce broad white glass reflections and metallic shine; use softer matte painted color patches to match desktop references."
+      "file": "delivery/stickers/terrarium-workshop/terrarium-mister.png",
+      "status": "alpha_corners_clear",
+      "sha256": "85c71e7180b0eefaa00241591c4a5e5c1382dc7c636e5cb9e5b127ac8bcba44f",
+      "review_note": ""
     },
     {
       "topic": "terrarium-workshop",
       "name_vi": "Làm terrarium",
       "id": "terrarium-pebbles",
-      "file": "delivery/_needs-alpha/terrarium-workshop/terrarium-pebbles.png",
-      "status": "needs_alpha",
-      "sha256": "453c9b9529b8d89fe704b90fa61f3126253f075a025b3217800bce7618b99be1",
+      "file": "delivery/stickers/terrarium-workshop/terrarium-pebbles.png",
+      "status": "alpha_corners_clear",
+      "sha256": "e1ccbdaa6ce5956237c19968f24f72ad0d000ecaa97d2cff828e24ebb1ab9eb2",
       "review_note": ""
     },
     {
       "topic": "terrarium-workshop",
       "name_vi": "Làm terrarium",
       "id": "terrarium-moss",
-      "file": "delivery/_needs-alpha/terrarium-workshop/terrarium-moss.png",
-      "status": "needs_alpha",
-      "sha256": "78671e7b5552602b9b2297f6d8950cdeb85d74a567bb5b8cf778e538b63b1fc5",
-      "review_note": "Mushrooms dominate the silhouette. Simplify to a low moss cushion without prominent mushrooms so the subject reads clearly as moss."
+      "file": "delivery/stickers/terrarium-workshop/terrarium-moss.png",
+      "status": "alpha_corners_clear",
+      "sha256": "b06679d18e51f4fc82d65a03228d485fe4687291679095c8ab408d6b8386a7ae",
+      "review_note": ""
     },
     {
       "topic": "terrarium-workshop",
       "name_vi": "Làm terrarium",
       "id": "terrarium-charcoal",
-      "file": "delivery/_needs-alpha/terrarium-workshop/terrarium-charcoal.png",
-      "status": "needs_alpha",
-      "sha256": "cca8b7025b4bbceda3e8599a5b00e86b46958553ece503dfe9eac468eb2db211",
+      "file": "delivery/stickers/terrarium-workshop/terrarium-charcoal.png",
+      "status": "alpha_corners_clear",
+      "sha256": "250e5dad7be1cfd20b1a7778b01fbc961a15c6fd147efb228a2d8585841393eb",
       "review_note": ""
     },
     {
       "topic": "terrarium-workshop",
       "name_vi": "Làm terrarium",
       "id": "terrarium-funnel",
-      "file": "delivery/_needs-alpha/terrarium-workshop/terrarium-funnel.png",
-      "status": "needs_alpha",
-      "sha256": "a948743fe8a2097befb425cb436a6d947ac661eef6b1e02103985778d0df5a5e",
+      "file": "delivery/stickers/terrarium-workshop/terrarium-funnel.png",
+      "status": "alpha_corners_clear",
+      "sha256": "ea64688ee2e1901a515abcb59f6d5f640f5a7bd032ae20a1bfe19d4c80fd7abe",
       "review_note": ""
     },
     {
       "topic": "succulent-collection",
       "name_vi": "Bộ sưu tập sen đá",
       "id": "haworthia-pot",
-      "file": "delivery/_needs-alpha/succulent-collection/haworthia-pot.png",
-      "status": "needs_alpha",
-      "sha256": "84951f0223d3a11943c47ec9815c9076b91a2c8462007b8d61e47aba323fb1bc",
+      "file": "delivery/stickers/succulent-collection/haworthia-pot.png",
+      "status": "alpha_corners_clear",
+      "sha256": "c2bf600e5db9b0a8bdd659b5b8d35e4f9d0ab05186b658e2574ff7053ef87c83",
       "review_note": ""
     },
     {
       "topic": "succulent-collection",
       "name_vi": "Bộ sưu tập sen đá",
       "id": "echeveria-pot",
-      "file": "delivery/_needs-alpha/succulent-collection/echeveria-pot.png",
-      "status": "needs_alpha",
-      "sha256": "3a48e919e1ce9c0866792162b2eb2be9889ae358a26c9c477c5473c1f184bd1f",
+      "file": "delivery/stickers/succulent-collection/echeveria-pot.png",
+      "status": "alpha_corners_clear",
+      "sha256": "27b68e4c6fed5af408ad1bd6e97f7d8149b266df36b2e7a7b1885e05d5f6161a",
       "review_note": ""
     },
     {
       "topic": "succulent-collection",
       "name_vi": "Bộ sưu tập sen đá",
       "id": "jade-plant-pot",
-      "file": "delivery/_needs-alpha/succulent-collection/jade-plant-pot.png",
-      "status": "needs_alpha",
-      "sha256": "57bf17e56279605354f352cc164bf0a4f8a70d43ed0f66aa25e6b0ee5b188d71",
+      "file": "delivery/stickers/succulent-collection/jade-plant-pot.png",
+      "status": "alpha_corners_clear",
+      "sha256": "a5e1c87490d23a23206e82f11005739b25637cf7aabc69fa8598b7eaa592288d",
       "review_note": ""
     },
     {
       "topic": "succulent-collection",
       "name_vi": "Bộ sưu tập sen đá",
       "id": "string-of-pearls-pot",
-      "file": "delivery/_needs-alpha/succulent-collection/string-of-pearls-pot.png",
-      "status": "needs_alpha",
-      "sha256": "1559676ede47d5559170f5f4176e290a2b915f182efae828cdd23abdaeb0a7a7",
+      "file": "delivery/stickers/succulent-collection/string-of-pearls-pot.png",
+      "status": "alpha_corners_clear",
+      "sha256": "07a4770d645ce15ed55ec39420f9889ab3ec6d953ce2d3b4334e79164a157879",
       "review_note": ""
     },
     {
       "topic": "succulent-collection",
       "name_vi": "Bộ sưu tập sen đá",
       "id": "lithops-pot",
-      "file": "delivery/_needs-alpha/succulent-collection/lithops-pot.png",
-      "status": "needs_alpha",
-      "sha256": "e1c396a38adff91d8bb47fa54af75d1a704d6c7a2bc2ad1a061af578b2401403",
+      "file": "delivery/stickers/succulent-collection/lithops-pot.png",
+      "status": "alpha_corners_clear",
+      "sha256": "eb6107d8dfdabe605d62d75a5f4db867a0fa0e0a4f435d25cb029fc06d2c936b",
       "review_note": ""
     },
     {
       "topic": "succulent-collection",
       "name_vi": "Bộ sưu tập sen đá",
       "id": "burros-tail-pot",
-      "file": "delivery/_needs-alpha/succulent-collection/burros-tail-pot.png",
-      "status": "needs_alpha",
-      "sha256": "f83e2d89a9e048f10c6da236dab6c58676c4d7b010b98d8362c85d7a4ef88de0",
+      "file": "delivery/stickers/succulent-collection/burros-tail-pot.png",
+      "status": "alpha_corners_clear",
+      "sha256": "00c2d2c6ff6be0cb164823a7c432d53076a980a25769bc76f05674c96c18cf48",
       "review_note": ""
     },
     {
       "topic": "succulent-collection",
       "name_vi": "Bộ sưu tập sen đá",
       "id": "panda-plant-pot",
-      "file": "delivery/_needs-alpha/succulent-collection/panda-plant-pot.png",
-      "status": "needs_alpha",
-      "sha256": "6efc6b1493702bb57470b7f4c309bf71c731773a1e9917954cf4f342e9c6b844",
+      "file": "delivery/stickers/succulent-collection/panda-plant-pot.png",
+      "status": "alpha_corners_clear",
+      "sha256": "341232d951e3358a381022e095a4af858b1d59307595f169602b270f8e4934e9",
       "review_note": ""
     },
     {
       "topic": "succulent-collection",
       "name_vi": "Bộ sưu tập sen đá",
       "id": "aeonium-pot",
-      "file": "delivery/_needs-alpha/succulent-collection/aeonium-pot.png",
-      "status": "needs_alpha",
-      "sha256": "5b826a81edef15e63129326446a618e0c8a541df5bb72d5ad48701e9dbba96ed",
+      "file": "delivery/stickers/succulent-collection/aeonium-pot.png",
+      "status": "alpha_corners_clear",
+      "sha256": "8e105ff8b19e8fbbc158b3c5f8383986fe5c71bb9992fb7ce46f9b00796083b5",
       "review_note": ""
     },
     {
@@ -9437,8 +9437,8 @@
       "id": "snorkel-mask",
       "file": "delivery/stickers/snorkeling/snorkel-mask.png",
       "status": "alpha_corners_clear",
-      "sha256": "80740bb7d606273e9f7d8cb6b1bce4fc2bebfb2bafe81ff88c8836dbcf4bfd26",
-      "review_note": "White sticker margin touches both side edges. Reframe with clear padding."
+      "sha256": "1df612906c0692cee2d0e75a16b5dd1b7f7d11f8c3a321169d6c5206f9452c06",
+      "review_note": ""
     },
     {
       "topic": "snorkeling",
@@ -9446,8 +9446,8 @@
       "id": "snorkel-tube",
       "file": "delivery/stickers/snorkeling/snorkel-tube.png",
       "status": "alpha_corners_clear",
-      "sha256": "3b7d8d80fbcc4d8e250709d1d4539fa2ac3c21a7614c507a8e43a9168cc7e364",
-      "review_note": "Small white export debris reaches top canvas edge. Clean edge and reframe slightly smaller."
+      "sha256": "7f889c80faa1dbc04e4fcb343dba487eb69d5e0a6d6e67d6422041fd49d13f0c",
+      "review_note": ""
     },
     {
       "topic": "snorkeling",
@@ -9464,8 +9464,8 @@
       "id": "dive-rashguard",
       "file": "delivery/stickers/snorkeling/dive-rashguard.png",
       "status": "alpha_corners_clear",
-      "sha256": "ff7149a5c8e0ad00223c37104724d16a541f51fee86812997f91535bf13a2c2b",
-      "review_note": "Side padding is only about 1.4 percent of canvas width; increase clear padding and clean underarm alpha edges."
+      "sha256": "a79728694fcbc1d0155fd4c6a83ae833ff7800cd26a027516e03d5871f02563a",
+      "review_note": ""
     },
     {
       "topic": "snorkeling",
@@ -9518,8 +9518,8 @@
       "id": "table-coral",
       "file": "delivery/stickers/coral-restoration/table-coral.png",
       "status": "alpha_corners_clear",
-      "sha256": "621380d8147c963218b1dad5be8cf5b46ea43d3883a72c8833d007febb16bc54",
-      "review_note": "The planned broad flat canopy became a deep cupped form; redraw as a flat table-like canopy on short branching supports. Increase side padding."
+      "sha256": "f5e50abf8c242e1eea8e1f9688f360596d4045dfc1f8e16a4b67b09a048338ad",
+      "review_note": ""
     },
     {
       "topic": "coral-restoration",
@@ -9527,8 +9527,8 @@
       "id": "coral-nursery-tree",
       "file": "delivery/stickers/coral-restoration/coral-nursery-tree.png",
       "status": "alpha_corners_clear",
-      "sha256": "bd1f6c57ef4f40118ba242e8fd7bb42f240ff19b3063753bf7d7477c57f2923e",
-      "review_note": "Clean the white export remnants inside the frame so the spaces around hanging coral are transparent; increase side padding."
+      "sha256": "b97bdb3e145e75c6fd86189ad20620445e3719ebcca51130abd2ed3045bf54e1",
+      "review_note": ""
     },
     {
       "topic": "coral-restoration",
@@ -9543,9 +9543,9 @@
       "topic": "coral-restoration",
       "name_vi": "Vườn ươm san hô",
       "id": "coral-cement-bucket",
-      "file": "delivery/_needs-alpha/coral-restoration/coral-cement-bucket.png",
-      "status": "needs_alpha",
-      "sha256": "c304879ca0295dfd3c4ffd3fad68192ce17172737b67daec291c9498adbe010c",
+      "file": "delivery/stickers/coral-restoration/coral-cement-bucket.png",
+      "status": "alpha_corners_clear",
+      "sha256": "e44d697d9caa2aa78480502eda50c73d79c277bce3285e4199b5b6c3cc6f4cc8",
       "review_note": ""
     },
     {
@@ -9555,15 +9555,15 @@
       "file": "delivery/stickers/coral-restoration/coral-monitoring-quadrat.png",
       "status": "alpha_corners_clear",
       "sha256": "1ead006f12f8671ed7d16113a86125f56e04c5ccfa6df41059d4f71ca092e280",
-      "review_note": "Remove white export remnants and speckled alpha from all nine grid openings; keep only a narrow clean white cut margin."
+      "review_note": ""
     },
     {
       "topic": "coral-restoration",
       "name_vi": "Vườn ươm san hô",
       "id": "coral-cleaning-brush",
-      "file": "delivery/_needs-alpha/coral-restoration/coral-cleaning-brush.png",
-      "status": "needs_alpha",
-      "sha256": "6db594f49a1213e18558af9c446f7f6bd31626140d70af9b29c5aaf3ac521bfb",
+      "file": "delivery/stickers/coral-restoration/coral-cleaning-brush.png",
+      "status": "alpha_corners_clear",
+      "sha256": "8296e81a9ee788cf458905dca09ddddca97f5bb0e4828177f98e7e703b809293",
       "review_note": ""
     },
     {
@@ -9669,19 +9669,19 @@
       "topic": "calligraphy-desk",
       "name_vi": "Bàn thư pháp",
       "id": "calligraphy-brush",
-      "file": "delivery/_needs-alpha/calligraphy-desk/calligraphy-brush.png",
-      "status": "needs_alpha",
-      "sha256": "2d3db09fb103d90dd216c481f01f2bc7845ef47b430a208a393e1df16f6e6904",
+      "file": "delivery/stickers/calligraphy-desk/calligraphy-brush.png",
+      "status": "alpha_corners_clear",
+      "sha256": "40c6d2c886ad434f0f1e8aab9cdaf4c0442604343ac8f9abb1f650763b77d9e0",
       "review_note": ""
     },
     {
       "topic": "calligraphy-desk",
       "name_vi": "Bàn thư pháp",
       "id": "calligraphy-inkstone",
-      "file": "delivery/_needs-alpha/calligraphy-desk/calligraphy-inkstone.png",
-      "status": "needs_alpha",
-      "sha256": "d58ee97fbd7b51fba4a5bcd68ee848eac9e21b08dcb4f9f03f99dec446e8aea2",
-      "review_note": "Reduce mottled stone texture and near-black recessed shading; keep two or three softer slate-gray painted planes matching the desktop references."
+      "file": "delivery/stickers/calligraphy-desk/calligraphy-inkstone.png",
+      "status": "alpha_corners_clear",
+      "sha256": "577366a5321aa6db3575825c4e6c4bfb563c84d1d1c8bb3e8a5b120e2083d066",
+      "review_note": ""
     },
     {
       "topic": "calligraphy-desk",
@@ -9696,9 +9696,9 @@
       "topic": "calligraphy-desk",
       "name_vi": "Bàn thư pháp",
       "id": "calligraphy-pen-rest",
-      "file": "delivery/_needs-alpha/calligraphy-desk/calligraphy-pen-rest.png",
-      "status": "needs_alpha",
-      "sha256": "084b8be3a45482b1838d78225b32803eb860524714e0b85d239c95f1416932b9",
+      "file": "delivery/stickers/calligraphy-desk/calligraphy-pen-rest.png",
+      "status": "alpha_corners_clear",
+      "sha256": "057730a4ed60bd98fc87676802d36cabe6adcdfabc06f1c9e9f75bd3b389f828",
       "review_note": ""
     },
     {
@@ -9726,7 +9726,7 @@
       "file": "delivery/stickers/science-laboratory/lab-microscope.png",
       "status": "alpha_corners_clear",
       "sha256": "543a34e93fec7b43dc9905605cf914e99c36e28d3e72b65c02ed0c3e4b5ccd8c",
-      "review_note": "Clean white remnants in the opening beneath the objective lenses; retain a narrow even cut margin around the hardware and clear transparent gaps."
+      "review_note": ""
     },
     {
       "topic": "science-laboratory",
@@ -9759,18 +9759,18 @@
       "topic": "science-laboratory",
       "name_vi": "Phòng thí nghiệm",
       "id": "lab-pipette",
-      "file": "delivery/_needs-alpha/science-laboratory/lab-pipette.png",
-      "status": "needs_alpha",
-      "sha256": "16607b293aeeea3df6eb544b913925e26f857cafab1f95f58b3b8c9fd158ebf7",
+      "file": "delivery/stickers/science-laboratory/lab-pipette.png",
+      "status": "alpha_corners_clear",
+      "sha256": "a92db45dad2cbbde67ddef51e86da09576fcbb609feed29296f4ecdf50821092",
       "review_note": ""
     },
     {
       "topic": "science-laboratory",
       "name_vi": "Phòng thí nghiệm",
       "id": "lab-centrifuge",
-      "file": "delivery/_needs-alpha/science-laboratory/lab-centrifuge.png",
-      "status": "needs_alpha",
-      "sha256": "55e7e123bc2e181a2c9d8d9784d87e24c4ce0285e54fcd155b958673c5de09e1",
+      "file": "delivery/stickers/science-laboratory/lab-centrifuge.png",
+      "status": "alpha_corners_clear",
+      "sha256": "84198ab5da5d29042b376f0b1ebfa4b21c2569fc7a9dd3757de293d3a5af840c",
       "review_note": ""
     },
     {
@@ -9798,7 +9798,7 @@
       "file": "delivery/stickers/weather-station/weather-anemometer.png",
       "status": "alpha_corners_clear",
       "sha256": "1e04da398d32c8f4ec950219a98b9cd6ca8d02458729402a4b1b9d8a4acd29c3",
-      "review_note": "Remove irregular white debris between the rotating cups and the central stand; keep the white cut margin narrow and the surrounding gaps transparent."
+      "review_note": ""
     },
     {
       "topic": "weather-station",
@@ -9807,24 +9807,24 @@
       "file": "delivery/stickers/weather-station/weather-wind-vane.png",
       "status": "alpha_corners_clear",
       "sha256": "6494978616d0d4c9ee0a3a0591ff55fb56b101ec002fccf03d629be8b72314f4",
-      "review_note": "Clean detached white specks in the open spaces above and below the arrow without changing the painted rooster or palette."
+      "review_note": ""
     },
     {
       "topic": "weather-station",
       "name_vi": "Trạm khí tượng",
       "id": "weather-rain-gauge",
-      "file": "delivery/_needs-alpha/weather-station/weather-rain-gauge.png",
-      "status": "needs_alpha",
-      "sha256": "07151581cad867751d6cbd38c78309a7078227a494e7f76b5e91a48e4b04b5e8",
+      "file": "delivery/stickers/weather-station/weather-rain-gauge.png",
+      "status": "alpha_corners_clear",
+      "sha256": "990080e34f0e09daeb84f1718ed7eebc15c91923f0e98cec6ff009fd98b374e1",
       "review_note": ""
     },
     {
       "topic": "weather-station",
       "name_vi": "Trạm khí tượng",
       "id": "weather-barometer",
-      "file": "delivery/_needs-alpha/weather-station/weather-barometer.png",
-      "status": "needs_alpha",
-      "sha256": "de95d1c6958744225c535f712398e284d7df4d168439ebf8b2cf8c09d6a06c85",
+      "file": "delivery/stickers/weather-station/weather-barometer.png",
+      "status": "alpha_corners_clear",
+      "sha256": "8ab4af85905df189fda6d3e2d3399b0a1dcc037ca4efc692a08e9926ff43479e",
       "review_note": ""
     },
     {
@@ -9849,9 +9849,9 @@
       "topic": "weather-station",
       "name_vi": "Trạm khí tượng",
       "id": "weather-shelter",
-      "file": "delivery/_needs-alpha/weather-station/weather-shelter.png",
-      "status": "needs_alpha",
-      "sha256": "c56642ebb5c90b0542ac85253333671f40c364156e1c63423ab6aff38b331c1d",
+      "file": "delivery/stickers/weather-station/weather-shelter.png",
+      "status": "alpha_corners_clear",
+      "sha256": "b053f4ec3f427f1ad23ec847ee623a15819f87e9debbad7d6dbf468d1ab4d5b0",
       "review_note": ""
     },
     {
@@ -9867,9 +9867,9 @@
       "topic": "percussion",
       "name_vi": "Nhạc cụ gõ",
       "id": "djembe",
-      "file": "delivery/_needs-alpha/percussion/djembe.png",
-      "status": "needs_alpha",
-      "sha256": "531466b2b45e04eb3504cacb382603d06f19012b84f07f6d0a58a5326d92cd74",
+      "file": "delivery/stickers/percussion/djembe.png",
+      "status": "alpha_corners_clear",
+      "sha256": "ab009d6a35517e36705239fe48a7597d8c99e5591887693dcbe6a046bba1934d",
       "review_note": ""
     },
     {
@@ -9878,8 +9878,8 @@
       "id": "bongos",
       "file": "delivery/stickers/percussion/bongos.png",
       "status": "alpha_corners_clear",
-      "sha256": "d5fed6c4220623cf8d7b876526ce4f3dd2c79cce676d1230ec68edd5e216dd64",
-      "review_note": "Both side edges are too close to the canvas and include white export debris. Reframe the full paired drums smaller with clear padding."
+      "sha256": "70a94ee315057291185d89635fa76b6585b195336b3e09b445414a3698846dfe",
+      "review_note": ""
     },
     {
       "topic": "percussion",
@@ -9897,7 +9897,7 @@
       "file": "delivery/stickers/percussion/maracas.png",
       "status": "alpha_corners_clear",
       "sha256": "4b8a15759d5d259b6dcf6d978c3a79c45c5c333ac571e3679cb9bf565ae7257f",
-      "review_note": "Remove detached white specks above the shakers and around the crossed handles while preserving the artwork."
+      "review_note": ""
     },
     {
       "topic": "percussion",
@@ -9906,7 +9906,7 @@
       "file": "delivery/stickers/percussion/triangle-instrument.png",
       "status": "alpha_corners_clear",
       "sha256": "4f96a9398377045604f013064a092b6e03065967f236cfd3189fac6615077693",
-      "review_note": "Clean white remnants inside the triangular opening and between the triangle and beater; preserve a narrow even sticker border."
+      "review_note": ""
     },
     {
       "topic": "percussion",
@@ -9942,7 +9942,7 @@
       "file": "delivery/stickers/marching-band/marching-bass-drum.png",
       "status": "alpha_corners_clear",
       "sha256": "7ec0219f1212618c7f62f79c5eb10f848704cf58f159771b8ed6326b91a2d895",
-      "review_note": "Clean white fill and ragged alpha in the openings beneath the shoulder harness while preserving the white hardware and narrow sticker margin."
+      "review_note": ""
     },
     {
       "topic": "marching-band",
@@ -9951,7 +9951,7 @@
       "file": "delivery/stickers/marching-band/marching-sousaphone.png",
       "status": "alpha_corners_clear",
       "sha256": "d8cc7ec278a1736d4253e3ffd30cadc048a3610bb117ad78e7010c25459122cc",
-      "review_note": "Clean detached white remnants in the large coil and under the bell; preserve the painted brass shading."
+      "review_note": ""
     },
     {
       "topic": "marching-band",
@@ -9959,8 +9959,8 @@
       "id": "marching-trumpet",
       "file": "delivery/stickers/marching-band/marching-trumpet.png",
       "status": "alpha_corners_clear",
-      "sha256": "283bb2e5c6e700bd34d790269a0932be9aa1f5e67254e09b937017650cabd480",
-      "review_note": "Reframe smaller with clear padding on both sides and remove white export remnants in the tubing openings."
+      "sha256": "7c5300462828b3e6afb883378ededb085908ad6a5e91d90e8165d026677a2026",
+      "review_note": ""
     },
     {
       "topic": "marching-band",
@@ -9996,7 +9996,7 @@
       "file": "delivery/stickers/marching-band/drum-major-mace.png",
       "status": "alpha_corners_clear",
       "sha256": "20cd5b713f9d7681249a114c5ff47599f44a8962d611744b72e346bdaeff4b34",
-      "review_note": "Clean the irregular white fill between the tassels and the shaft without changing the design."
+      "review_note": ""
     },
     {
       "topic": "garden-insects",
@@ -10011,19 +10011,19 @@
       "topic": "garden-insects",
       "name_vi": "Côn trùng vườn",
       "id": "praying-mantis",
-      "file": "delivery/_needs-alpha/garden-insects/praying-mantis.png",
-      "status": "needs_alpha",
-      "sha256": "081d3c824366e4b12a6aaf05b3d11fc9da2b6574247bba47913f94b1f70b5145",
+      "file": "delivery/stickers/garden-insects/praying-mantis.png",
+      "status": "alpha_corners_clear",
+      "sha256": "2070e3817d591f3bea5328fa8287ffec6e610aa9635c8bad04427937c6f37362",
       "review_note": ""
     },
     {
       "topic": "garden-insects",
       "name_vi": "Côn trùng vườn",
       "id": "dragonfly",
-      "file": "delivery/_needs-alpha/garden-insects/dragonfly.png",
-      "status": "needs_alpha",
-      "sha256": "0c23c02006fdb41a78196c43c3f66ae0647d1e78f7b009e5b4fce16107f9e1b9",
-      "review_note": "Add small recognizable insect legs beneath the thorax; keep four wings and the existing soft painted style."
+      "file": "delivery/stickers/garden-insects/dragonfly.png",
+      "status": "alpha_corners_clear",
+      "sha256": "f65256d3160c7a5b0371951187b94c18f33af96a62dbd73b62b8904beed4565a",
+      "review_note": ""
     },
     {
       "topic": "garden-insects",
@@ -10032,7 +10032,7 @@
       "file": "delivery/stickers/garden-insects/grasshopper.png",
       "status": "alpha_corners_clear",
       "sha256": "08ff8777391ff25685c25e946bc4109cf20553632df72e38ae5335fbbb406e49",
-      "review_note": "Remove white export remnants between the antennae and legs while keeping thin even cut margins."
+      "review_note": ""
     },
     {
       "topic": "garden-insects",
@@ -10041,7 +10041,7 @@
       "file": "delivery/stickers/garden-insects/stag-beetle.png",
       "status": "alpha_corners_clear",
       "sha256": "95d23ff6af42e1d338709cbacbce3988bad649f05ab54b2f88ea6be21f47d70f",
-      "review_note": "Remove extensive white export remnants in gaps between legs, antennae and horns or mandibles; preserve the existing anatomy and soft painted palette."
+      "review_note": ""
     },
     {
       "topic": "garden-insects",
@@ -10050,7 +10050,7 @@
       "file": "delivery/stickers/garden-insects/leaf-insect.png",
       "status": "alpha_corners_clear",
       "sha256": "4b089681ecc6196c79f4617ab0c725f56a44355c9880a93b7f509f53111448ac",
-      "review_note": "Remove extensive white export remnants in gaps between legs, antennae and horns or mandibles; preserve the existing anatomy and soft painted palette."
+      "review_note": ""
     },
     {
       "topic": "garden-insects",
@@ -10059,33 +10059,33 @@
       "file": "delivery/stickers/garden-insects/rhinoceros-beetle.png",
       "status": "alpha_corners_clear",
       "sha256": "8a1dc103721100e520a88fcb7a365c73c2a16935d743072b1467a1329f5d0a76",
-      "review_note": "Remove extensive white export remnants in gaps between legs, antennae and horns or mandibles; preserve the existing anatomy and soft painted palette."
+      "review_note": ""
     },
     {
       "topic": "garden-insects",
       "name_vi": "Côn trùng vườn",
       "id": "lacewing",
-      "file": "delivery/_needs-alpha/garden-insects/lacewing.png",
-      "status": "needs_alpha",
-      "sha256": "42585b718f568010eec12bb3a408ad7e410d04cd453496e78e644c25d8e49653",
+      "file": "delivery/stickers/garden-insects/lacewing.png",
+      "status": "alpha_corners_clear",
+      "sha256": "318457954f7e0e5eb44ec58d6ddc3f5e04355ee2c88ff7d35ad2e5772841041a",
       "review_note": ""
     },
     {
       "topic": "reptile-habitat",
       "name_vi": "Ngôi nhà bò sát",
       "id": "reptile-glass-enclosure",
-      "file": "delivery/_needs-alpha/reptile-habitat/reptile-glass-enclosure.png",
-      "status": "needs_alpha",
-      "sha256": "8edfc1504b8e57227dce0dbc21009164642895df79190d46ed64d1d84c4fbd6a",
+      "file": "delivery/stickers/reptile-habitat/reptile-glass-enclosure.png",
+      "status": "alpha_corners_clear",
+      "sha256": "05137d56198e404d39f5735ddc257333393e114ea4d8a7ed97b88e9fd40c5b6c",
       "review_note": ""
     },
     {
       "topic": "reptile-habitat",
       "name_vi": "Ngôi nhà bò sát",
       "id": "reptile-heat-lamp",
-      "file": "delivery/_needs-alpha/reptile-habitat/reptile-heat-lamp.png",
-      "status": "needs_alpha",
-      "sha256": "9ba39e12250bcdb444f668563ee9398c563b993eb9392511898139719976f6de",
+      "file": "delivery/stickers/reptile-habitat/reptile-heat-lamp.png",
+      "status": "alpha_corners_clear",
+      "sha256": "5ffb1bb91667720afe3d33d46ed8822adf9e1e3fdb6f837b0eb354c7a52af765",
       "review_note": ""
     },
     {
@@ -10110,63 +10110,63 @@
       "topic": "reptile-habitat",
       "name_vi": "Ngôi nhà bò sát",
       "id": "reptile-cork-tunnel",
-      "file": "delivery/_needs-alpha/reptile-habitat/reptile-cork-tunnel.png",
-      "status": "needs_alpha",
-      "sha256": "aa27a95ae6b26a8c0e54572e4cb37403bff2e20e2434ae6de1c4de0b820c39e2",
+      "file": "delivery/stickers/reptile-habitat/reptile-cork-tunnel.png",
+      "status": "alpha_corners_clear",
+      "sha256": "fa9a7f8f19dea7b24cc249560f7268c6fdfe532812ac97a1632ce637ab29e423",
       "review_note": ""
     },
     {
       "topic": "reptile-habitat",
       "name_vi": "Ngôi nhà bò sát",
       "id": "reptile-climbing-branch",
-      "file": "delivery/_needs-alpha/reptile-habitat/reptile-climbing-branch.png",
-      "status": "needs_alpha",
-      "sha256": "cf702d1407b9bdc82ecf4744299babdbcef7e9ec123d5aee437888bb0d2074de",
+      "file": "delivery/stickers/reptile-habitat/reptile-climbing-branch.png",
+      "status": "alpha_corners_clear",
+      "sha256": "b5e02ec4d208ad245952c2c196f8f5d6dbd01f7f3b6ba7aea555f11989275546",
       "review_note": ""
     },
     {
       "topic": "reptile-habitat",
       "name_vi": "Ngôi nhà bò sát",
       "id": "reptile-hygrometer",
-      "file": "delivery/_needs-alpha/reptile-habitat/reptile-hygrometer.png",
-      "status": "needs_alpha",
-      "sha256": "b6f92d78cb32e49b06effb459fe901e457a51078be66276fb69b56d85ffa6a26",
+      "file": "delivery/stickers/reptile-habitat/reptile-hygrometer.png",
+      "status": "alpha_corners_clear",
+      "sha256": "c8ea8a104aef65fa1b96bb2b1f42187889932f3c286be37044db63c720def28b",
       "review_note": ""
     },
     {
       "topic": "reptile-habitat",
       "name_vi": "Ngôi nhà bò sát",
       "id": "reptile-feeding-tongs",
-      "file": "delivery/_needs-alpha/reptile-habitat/reptile-feeding-tongs.png",
-      "status": "needs_alpha",
-      "sha256": "f76f5d893b30534144c1e2bbccad79fce423626f5664ef82d20c969708475ea6",
+      "file": "delivery/stickers/reptile-habitat/reptile-feeding-tongs.png",
+      "status": "alpha_corners_clear",
+      "sha256": "94ce7abe2c9b7d98416e360018ff179bc027285d1fd6b9febb37499be4f082da",
       "review_note": ""
     },
     {
       "topic": "freshwater-wetland",
       "name_vi": "Đầm nước ngọt",
       "id": "wetland-cattails",
-      "file": "delivery/_needs-alpha/freshwater-wetland/wetland-cattails.png",
-      "status": "needs_alpha",
-      "sha256": "81b380af566ca2f1c073432672ce7ad4c22a85dce59e2707d8a7ec8386d07714",
+      "file": "delivery/stickers/freshwater-wetland/wetland-cattails.png",
+      "status": "alpha_corners_clear",
+      "sha256": "e2f61f4a16ca6813c8210b6b26255f3f05b42a8d1869fd7e6597b1e0145f6f71",
       "review_note": ""
     },
     {
       "topic": "freshwater-wetland",
       "name_vi": "Đầm nước ngọt",
       "id": "wetland-water-lily",
-      "file": "delivery/_needs-alpha/freshwater-wetland/wetland-water-lily.png",
-      "status": "needs_alpha",
-      "sha256": "89427a86fdb9b9e3accfc35f426cd100fa6b9022ce058b77adb3e03c277f12b7",
+      "file": "delivery/stickers/freshwater-wetland/wetland-water-lily.png",
+      "status": "alpha_corners_clear",
+      "sha256": "82eb23c82354463d31796befe4f58a9b1fa88d33bf4e9a7595664718e020d769",
       "review_note": ""
     },
     {
       "topic": "freshwater-wetland",
       "name_vi": "Đầm nước ngọt",
       "id": "wetland-kingfisher",
-      "file": "delivery/_needs-alpha/freshwater-wetland/wetland-kingfisher.png",
-      "status": "needs_alpha",
-      "sha256": "d25aca76013665efad1bf7531f62e19fd854a84e36bca8b9f379e710b691d82c",
+      "file": "delivery/stickers/freshwater-wetland/wetland-kingfisher.png",
+      "status": "alpha_corners_clear",
+      "sha256": "f469aa67e7e8c293c930242595496d37cdcd8465fcb55c3d28894e417de4545b",
       "review_note": ""
     },
     {
@@ -10992,36 +10992,36 @@
       "topic": "mediterranean-mezze",
       "name_vi": "Bàn ăn Địa Trung Hải",
       "id": "mezze-baba-ganoush",
-      "file": "delivery/_needs-alpha/mediterranean-mezze/mezze-baba-ganoush.png",
-      "status": "needs_alpha",
-      "sha256": "d48213053fb20c6125473a23b71ef10371c0c5f87742134eda620c96cc440a59",
+      "file": "delivery/stickers/mediterranean-mezze/mezze-baba-ganoush.png",
+      "status": "alpha_corners_clear",
+      "sha256": "1b0c128b6e0d22f6539c56ff1e81b4f6c2671a5cd51df24d17d8c8711e49574e",
       "review_note": ""
     },
     {
       "topic": "mediterranean-mezze",
       "name_vi": "Bàn ăn Địa Trung Hải",
       "id": "mezze-halloumi",
-      "file": "delivery/_needs-alpha/mediterranean-mezze/mezze-halloumi.png",
-      "status": "needs_alpha",
-      "sha256": "282e16b1d39578c1a11fe2604802bce95e68ae9112ec7c1354bad6187fe36aa2",
+      "file": "delivery/stickers/mediterranean-mezze/mezze-halloumi.png",
+      "status": "alpha_corners_clear",
+      "sha256": "d6d63834ea04f32885a8c988dba92c90802807b9670158711bbc8837bfb6aee0",
       "review_note": ""
     },
     {
       "topic": "picnic-day",
       "name_vi": "Buổi picnic",
       "id": "picnic-hamper",
-      "file": "delivery/_needs-alpha/picnic-day/picnic-hamper.png",
-      "status": "needs_alpha",
-      "sha256": "2a45ee656ac94fa8f71db81fe3674aa9b358edfd8bd96ae599fa11d3ee7a3c5c",
+      "file": "delivery/stickers/picnic-day/picnic-hamper.png",
+      "status": "alpha_corners_clear",
+      "sha256": "3a69c5d11498ff889737020428d66a3133ffa3a41d23d549b153a8c7ef8a9c5d",
       "review_note": ""
     },
     {
       "topic": "picnic-day",
       "name_vi": "Buổi picnic",
       "id": "picnic-checkered-cloth",
-      "file": "delivery/_needs-alpha/picnic-day/picnic-checkered-cloth.png",
-      "status": "needs_alpha",
-      "sha256": "11245005ecd38db6d9c80bdf7d6fe98d928e91d3a37d2bec54484e9d94f81fa7",
+      "file": "delivery/stickers/picnic-day/picnic-checkered-cloth.png",
+      "status": "alpha_corners_clear",
+      "sha256": "3436fbe6aebb1ab5d7b1909f154879a2fad2380d04c7866d895311de2323bdbf",
       "review_note": ""
     },
     {

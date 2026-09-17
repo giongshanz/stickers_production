@@ -1,0 +1,92 @@
+{
+  "id": "honey-butter-dish",
+  "created_utc": "2026-09-16T07:10:07.238740+00:00",
+  "source": "revisions/border-continuation-20260916/sources/honey-butter-dish.png",
+  "source_sha256": "109962aba8172ba7e9463d857e532f0142fa50a836e9fa6b3ecfac8fb3d2275c",
+  "candidate": "revisions/border-continuation-20260916/honey-butter-dish.png",
+  "candidate_sha256": "cbfa62421574918fb9b439b9723a31eddf6b28414a8d36b35137119cfc6b1e22",
+  "paper_input": "qa/border-continuation-20260916/honey-butter-dish-paper-input.png",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "dimensions_unchanged": true,
+  "alpha_only": true,
+  "rgb_unchanged": true,
+  "painted_rgb_unchanged": true,
+  "protected_pixels": 579461,
+  "rgb_changed_pixels": 0,
+  "radius_px": 19.0,
+  "holes_xy": [],
+  "widths_px": {
+    "count": 2943,
+    "min": 17.9202265232688,
+    "max": 20.765448905167982,
+    "mean": 18.552841278899578,
+    "p05": 18.10293379105863,
+    "p25": 18.320583871251472,
+    "median": 18.546516582274336,
+    "p75": 18.777519103581625,
+    "p95": 18.965372753421523
+  },
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 28148,
+    "rgb_changed_chromatic_pixels": 0,
+    "rgb_changed_outside_paper": 3398,
+    "painted_pixels": 567157,
+    "protected_pixels": 579461,
+    "safe_white_pixels": 56511,
+    "dirty_white_pixels": 3593,
+    "radius_px": 19.0,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 941023,
+    "partial_alpha_pixels": 3634,
+    "visible_pixels_outside_paper": 2,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 3634,
+      "min": 18.31953707556435,
+      "max": 21.14724265773736,
+      "mean": 18.99300327015023,
+      "p05": 18.470981670667456,
+      "p25": 18.703676703704566,
+      "median": 18.99379883327388,
+      "p75": 19.272456682385524,
+      "p95": 19.499437683216073
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 3634,
+      "min": 18.382488323262017,
+      "max": 19.611540770018465,
+      "mean": 19.00045245803053,
+      "p05": 18.496755159353324,
+      "p25": 18.721541343014444,
+      "median": 19.002453404936958,
+      "p75": 19.28531076091962,
+      "p95": 19.498826196121456
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 4174,
+        "samples": 16700,
+        "fit_rms_px": 0.6002905773731085,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.2437143669843803
+      }
+    ],
+    "status": "trial_requires_visual_review",
+    "measured_source_width_px": 20.550383122133784,
+    "alpha_only_inset_px": 1.550383122133784
+  },
+  "status": "pending_visual_review"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "weather-rain-gauge",
+  "selected_utc": "2026-09-17T09:02:59.822313+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/weather-rain-gauge/masters/weather-rain-gauge.png",
+  "old_sha256": "07151581cad867751d6cbd38c78309a7078227a494e7f76b5e91a48e4b04b5e8",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/weather-rain-gauge/delivery/_needs-alpha/weather-station/weather-rain-gauge.png"
+  ],
+  "new_master": "masters/weather-rain-gauge.png",
+  "new_sha256": "990080e34f0e09daeb84f1718ed7eebc15c91923f0e98cec6ff009fd98b374e1",
+  "selected_candidate": "revisions/border-alpha-20260917/weather-rain-gauge.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "burros-tail-pot",
+  "selected_utc": "2026-09-17T09:02:59.694584+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/burros-tail-pot/masters/burros-tail-pot.png",
+  "old_sha256": "f83e2d89a9e048f10c6da236dab6c58676c4d7b010b98d8362c85d7a4ef88de0",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/burros-tail-pot/delivery/_needs-alpha/succulent-collection/burros-tail-pot.png"
+  ],
+  "new_master": "masters/burros-tail-pot.png",
+  "new_sha256": "00c2d2c6ff6be0cb164823a7c432d53076a980a25769bc76f05674c96c18cf48",
+  "selected_candidate": "revisions/border-alpha-20260917/burros-tail-pot.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mezze-halloumi",
+  "selected_utc": "2026-09-17T09:03:00.044633+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/mezze-halloumi/masters/mezze-halloumi.png",
+  "old_sha256": "282e16b1d39578c1a11fe2604802bce95e68ae9112ec7c1354bad6187fe36aa2",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/mezze-halloumi/delivery/_needs-alpha/mediterranean-mezze/mezze-halloumi.png"
+  ],
+  "new_master": "masters/mezze-halloumi.png",
+  "new_sha256": "d6d63834ea04f32885a8c988dba92c90802807b9670158711bbc8837bfb6aee0",
+  "selected_candidate": "revisions/border-alpha-20260917/mezze-halloumi.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

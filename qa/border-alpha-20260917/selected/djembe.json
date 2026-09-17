@@ -1,0 +1,16 @@
+{
+  "id": "djembe",
+  "selected_utc": "2026-09-17T09:02:59.863514+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/djembe/masters/djembe.png",
+  "old_sha256": "531466b2b45e04eb3504cacb382603d06f19012b84f07f6d0a58a5326d92cd74",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/djembe/delivery/_needs-alpha/percussion/djembe.png"
+  ],
+  "new_master": "masters/djembe.png",
+  "new_sha256": "ab009d6a35517e36705239fe48a7597d8c99e5591887693dcbe6a046bba1934d",
+  "selected_candidate": "revisions/border-alpha-20260917/djembe.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "picnic-hamper",
+  "selected_utc": "2026-09-17T09:03:00.060198+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/picnic-hamper/masters/picnic-hamper.png",
+  "old_sha256": "2a45ee656ac94fa8f71db81fe3674aa9b358edfd8bd96ae599fa11d3ee7a3c5c",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/picnic-hamper/delivery/_needs-alpha/picnic-day/picnic-hamper.png"
+  ],
+  "new_master": "masters/picnic-hamper.png",
+  "new_sha256": "3a69c5d11498ff889737020428d66a3133ffa3a41d23d549b153a8c7ef8a9c5d",
+  "selected_candidate": "revisions/border-alpha-20260917/picnic-hamper.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

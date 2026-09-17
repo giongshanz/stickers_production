@@ -1,0 +1,89 @@
+{
+  "id": "beekeeper-veil-hat",
+  "created_utc": "2026-09-17T08:46:42.355947+00:00",
+  "source": "masters/beekeeper-veil-hat.png",
+  "source_sha256": "4ffb8fe3468e6702540e182b6839dfab75dfc6e2e20416627377b3ba9e984dff",
+  "paper_input": "revisions/alpha-audit-20260916/beekeeper-veil-hat-candidate.png",
+  "paper_input_sha256": "a3f67fc9cd1b126488716da57f68971357a8f52c926d32e47cea1ee778c8ec53",
+  "candidate": "revisions/border-alpha-20260917/beekeeper-veil-hat.png",
+  "candidate_sha256": "b6bacd3a81d031e01921b16dab4959084ee9f7bc76f253edd66283502680861f",
+  "method": "border_geometry.cutout, measured inset, original RGB restored",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "dimensions_unchanged": true,
+  "rgb_changed_pixels": 0,
+  "measured_paper_width_px": 19.313207915827967,
+  "radius_px": 17.2,
+  "paper_holes": 0,
+  "hole_seeds": [],
+  "visible_pixels_outside_paper": 0,
+  "partial_alpha_edge_colored_pixels": 0,
+  "transparent_pixels": 613051,
+  "partial_alpha_pixels": 4337,
+  "corner_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 30183,
+    "rgb_changed_chromatic_pixels": 0,
+    "rgb_changed_outside_paper": 2318,
+    "painted_pixels": 890991,
+    "protected_pixels": 905316,
+    "safe_white_pixels": 61370,
+    "dirty_white_pixels": 2600,
+    "radius_px": 17.2,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 613051,
+    "partial_alpha_pixels": 4337,
+    "visible_pixels_outside_paper": 0,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 4337,
+      "min": 16.526434054889716,
+      "max": 18.19512170817053,
+      "mean": 17.192066361859005,
+      "p05": 16.67683531829837,
+      "p25": 16.916073144076382,
+      "median": 17.19490706371014,
+      "p75": 17.468209747804334,
+      "p95": 17.702161434481557
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 4337,
+      "min": 16.586183897034793,
+      "max": 17.81654649865041,
+      "mean": 17.199154069838666,
+      "p05": 16.691737587884116,
+      "p25": 16.923533674296852,
+      "median": 17.201405451555967,
+      "p75": 17.473762742281643,
+      "p95": 17.706699969362482
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 4858,
+        "samples": 19436,
+        "fit_rms_px": 0.6001766002679155,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.24437419297484297
+      }
+    ],
+    "status": "trial_requires_visual_review"
+  },
+  "status": "pending_visual_review"
+}

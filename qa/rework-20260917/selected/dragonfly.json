@@ -1,0 +1,14 @@
+{
+  "id": "dragonfly",
+  "selected_utc": "2026-09-17T10:37:12.330799+00:00",
+  "reason": "Add small recognizable insect legs beneath the thorax; keep four wings and the existing soft painted style.",
+  "old_master": "revisions/rework-20260917/previous/dragonfly/masters/dragonfly.png",
+  "old_sha256": "2994a1ed97aa90a28dca58f359546b9831a842f6b967605ab1b3b7727ac6c66b",
+  "old_deliveries": [
+    "revisions/rework-20260917/previous/dragonfly/delivery/stickers/garden-insects/dragonfly.png"
+  ],
+  "new_master": "masters/dragonfly.png",
+  "new_sha256": "f65256d3160c7a5b0371951187b94c18f33af96a62dbd73b62b8904beed4565a",
+  "selected_candidate": "revisions/rework-20260917/dragonfly-v1.png",
+  "review": "Subject, silhouette, padding and alpha visually reviewed on dark contact sheets; provisional art acceptance."
+}

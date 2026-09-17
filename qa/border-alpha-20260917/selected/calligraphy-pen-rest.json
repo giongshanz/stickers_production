@@ -1,0 +1,16 @@
+{
+  "id": "calligraphy-pen-rest",
+  "selected_utc": "2026-09-17T09:02:59.782639+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/calligraphy-pen-rest/masters/calligraphy-pen-rest.png",
+  "old_sha256": "084b8be3a45482b1838d78225b32803eb860524714e0b85d239c95f1416932b9",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/calligraphy-pen-rest/delivery/_needs-alpha/calligraphy-desk/calligraphy-pen-rest.png"
+  ],
+  "new_master": "masters/calligraphy-pen-rest.png",
+  "new_sha256": "057730a4ed60bd98fc87676802d36cabe6adcdfabc06f1c9e9f75bd3b389f828",
+  "selected_candidate": "revisions/border-alpha-20260917/calligraphy-pen-rest.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "beehive-skep",
+  "selected_utc": "2026-09-17T09:02:59.123378+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/beehive-skep/masters/beehive-skep.png",
+  "old_sha256": "8f07fd7c89091d0b09c56e46a5fc7b98bc82b2454ba684e98c34d7d123394d10",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/beehive-skep/delivery/_needs-alpha/beekeeping/beehive-skep.png"
+  ],
+  "new_master": "masters/beehive-skep.png",
+  "new_sha256": "4f2addf6c0423a76641819be0538f22c498e497e48b947daa12e9f2c8285f6e6",
+  "selected_candidate": "revisions/border-alpha-20260917/beehive-skep.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

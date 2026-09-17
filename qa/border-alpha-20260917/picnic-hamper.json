@@ -1,0 +1,89 @@
+{
+  "id": "picnic-hamper",
+  "created_utc": "2026-09-17T08:50:34.898459+00:00",
+  "source": "masters/picnic-hamper.png",
+  "source_sha256": "2a45ee656ac94fa8f71db81fe3674aa9b358edfd8bd96ae599fa11d3ee7a3c5c",
+  "paper_input": "revisions/alpha-audit-20260916/picnic-hamper-candidate.png",
+  "paper_input_sha256": "d69c46b822098922e6f5ef2d5528f85b7b6c69aff04ef79054ef881e7e80b1c9",
+  "candidate": "revisions/border-alpha-20260917/picnic-hamper.png",
+  "candidate_sha256": "3a69c5d11498ff889737020428d66a3133ffa3a41d23d549b153a8c7ef8a9c5d",
+  "method": "border_geometry.cutout, measured inset, original RGB restored",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "dimensions_unchanged": true,
+  "rgb_changed_pixels": 0,
+  "measured_paper_width_px": 17.46424919657298,
+  "radius_px": 15.1,
+  "paper_holes": 0,
+  "hole_seeds": [],
+  "visible_pixels_outside_paper": 0,
+  "partial_alpha_edge_colored_pixels": 0,
+  "transparent_pixels": 673509,
+  "partial_alpha_pixels": 3918,
+  "corner_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 28659,
+    "rgb_changed_chromatic_pixels": 0,
+    "rgb_changed_outside_paper": 1776,
+    "painted_pixels": 842211,
+    "protected_pixels": 856052,
+    "safe_white_pixels": 50434,
+    "dirty_white_pixels": 2020,
+    "radius_px": 15.1,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 673509,
+    "partial_alpha_pixels": 3918,
+    "visible_pixels_outside_paper": 0,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 3918,
+      "min": 14.384677452205716,
+      "max": 16.5998344555078,
+      "mean": 15.087529082276822,
+      "p05": 14.592140261007424,
+      "p25": 14.819408569447294,
+      "median": 15.078008561899875,
+      "p75": 15.35983787133426,
+      "p95": 15.581093625109709
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 3918,
+      "min": 14.482124833733392,
+      "max": 15.71002475958364,
+      "mean": 15.095541327395939,
+      "p05": 14.615350093128297,
+      "p25": 14.831625519849704,
+      "median": 15.088463864292715,
+      "p75": 15.357787584384406,
+      "p95": 15.580073032284957
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 4412,
+        "samples": 17652,
+        "fit_rms_px": 0.6002052258204293,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.2554960008475742
+      }
+    ],
+    "status": "trial_requires_visual_review"
+  },
+  "status": "pending_visual_review"
+}

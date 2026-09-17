@@ -1,0 +1,14 @@
+{
+  "id": "terrarium-mister",
+  "selected_utc": "2026-09-17T10:37:12.229005+00:00",
+  "reason": "Reduce broad white glass reflections and metallic shine; use softer matte painted color patches to match desktop references.",
+  "old_master": "revisions/rework-20260917/previous/terrarium-mister/masters/terrarium-mister.png",
+  "old_sha256": "f9544b85b0ec21533618295870cc9fe005082399995006565072aa07b480835c",
+  "old_deliveries": [
+    "revisions/rework-20260917/previous/terrarium-mister/delivery/stickers/terrarium-workshop/terrarium-mister.png"
+  ],
+  "new_master": "masters/terrarium-mister.png",
+  "new_sha256": "85c71e7180b0eefaa00241591c4a5e5c1382dc7c636e5cb9e5b127ac8bcba44f",
+  "selected_candidate": "revisions/rework-20260917/terrarium-mister-v1.png",
+  "review": "Subject, silhouette, padding and alpha visually reviewed on dark contact sheets; provisional art acceptance."
+}

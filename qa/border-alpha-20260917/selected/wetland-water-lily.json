@@ -1,0 +1,16 @@
+{
+  "id": "wetland-water-lily",
+  "selected_utc": "2026-09-17T09:03:00.002509+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/wetland-water-lily/masters/wetland-water-lily.png",
+  "old_sha256": "89427a86fdb9b9e3accfc35f426cd100fa6b9022ce058b77adb3e03c277f12b7",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/wetland-water-lily/delivery/_needs-alpha/freshwater-wetland/wetland-water-lily.png"
+  ],
+  "new_master": "masters/wetland-water-lily.png",
+  "new_sha256": "82eb23c82354463d31796befe4f58a9b1fa88d33bf4e9a7595664718e020d769",
+  "selected_candidate": "revisions/border-alpha-20260917/wetland-water-lily.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "lab-centrifuge",
+  "selected_utc": "2026-09-17T09:02:59.809766+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/lab-centrifuge/masters/lab-centrifuge.png",
+  "old_sha256": "55e7e123bc2e181a2c9d8d9784d87e24c4ce0285e54fcd155b958673c5de09e1",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/lab-centrifuge/delivery/_needs-alpha/science-laboratory/lab-centrifuge.png"
+  ],
+  "new_master": "masters/lab-centrifuge.png",
+  "new_sha256": "84198ab5da5d29042b376f0b1ebfa4b21c2569fc7a9dd3757de293d3a5af840c",
+  "selected_candidate": "revisions/border-alpha-20260917/lab-centrifuge.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

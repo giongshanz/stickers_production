@@ -1,0 +1,16 @@
+{
+  "id": "reptile-climbing-branch",
+  "selected_utc": "2026-09-17T09:02:59.951196+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/reptile-climbing-branch/masters/reptile-climbing-branch.png",
+  "old_sha256": "cf702d1407b9bdc82ecf4744299babdbcef7e9ec123d5aee437888bb0d2074de",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/reptile-climbing-branch/delivery/_needs-alpha/reptile-habitat/reptile-climbing-branch.png"
+  ],
+  "new_master": "masters/reptile-climbing-branch.png",
+  "new_sha256": "b5e02ec4d208ad245952c2c196f8f5d6dbd01f7f3b6ba7aea555f11989275546",
+  "selected_candidate": "revisions/border-alpha-20260917/reptile-climbing-branch.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

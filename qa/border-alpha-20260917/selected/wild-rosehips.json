@@ -1,0 +1,16 @@
+{
+  "id": "wild-rosehips",
+  "selected_utc": "2026-09-17T09:02:59.488215+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/wild-rosehips/masters/wild-rosehips.png",
+  "old_sha256": "9309d4517abb8a7169fdcddb4b8692c2d19761f8c0b2367f3f5bd65447516e6d",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/wild-rosehips/delivery/_needs-alpha/woodland-foraging/wild-rosehips.png"
+  ],
+  "new_master": "masters/wild-rosehips.png",
+  "new_sha256": "e19e208265b5e31e823cec937c76efa5b93074f778f1006fae286c7edf3f2b2e",
+  "selected_candidate": "revisions/border-alpha-20260917/wild-rosehips.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

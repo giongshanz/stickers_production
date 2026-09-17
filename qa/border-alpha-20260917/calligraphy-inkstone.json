@@ -1,0 +1,89 @@
+{
+  "id": "calligraphy-inkstone",
+  "created_utc": "2026-09-17T08:49:10.344402+00:00",
+  "source": "masters/calligraphy-inkstone.png",
+  "source_sha256": "d58ee97fbd7b51fba4a5bcd68ee848eac9e21b08dcb4f9f03f99dec446e8aea2",
+  "paper_input": "revisions/alpha-audit-20260916/calligraphy-inkstone-candidate.png",
+  "paper_input_sha256": "cea76320da85d67227139872f77505f9295afe51110ca9624e3a2185b605f501",
+  "candidate": "revisions/border-alpha-20260917/calligraphy-inkstone.png",
+  "candidate_sha256": "a9809bcf64abfdb9ea911a52988d304d7a33c86ca2ba2c76aa0ab9d5330d9cbe",
+  "method": "border_geometry.cutout, measured inset, original RGB restored",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "dimensions_unchanged": true,
+  "rgb_changed_pixels": 0,
+  "measured_paper_width_px": 29.68164415931166,
+  "radius_px": 27.8,
+  "paper_holes": 0,
+  "hole_seeds": [],
+  "visible_pixels_outside_paper": 0,
+  "partial_alpha_edge_colored_pixels": 0,
+  "transparent_pixels": 971813,
+  "partial_alpha_pixels": 3079,
+  "corner_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 21798,
+    "rgb_changed_chromatic_pixels": 0,
+    "rgb_changed_outside_paper": 2357,
+    "painted_pixels": 522601,
+    "protected_pixels": 532789,
+    "safe_white_pixels": 72442,
+    "dirty_white_pixels": 2517,
+    "radius_px": 27.8,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 971813,
+    "partial_alpha_pixels": 3079,
+    "visible_pixels_outside_paper": 0,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 3079,
+      "min": 27.163386589870132,
+      "max": 28.399936222915603,
+      "mean": 27.78835352622784,
+      "p05": 27.289674846296144,
+      "p25": 27.517090799535854,
+      "median": 27.80209051815821,
+      "p75": 28.053467882305824,
+      "p95": 28.28731452806703
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 3079,
+      "min": 27.183964785320104,
+      "max": 28.41349671400948,
+      "mean": 27.798484630677915,
+      "p05": 27.300365225837087,
+      "p25": 27.527719457070354,
+      "median": 27.811964663882495,
+      "p75": 28.063228774737883,
+      "p95": 28.29791727128532
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 3352,
+        "samples": 13412,
+        "fit_rms_px": 0.6001906091689281,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.24291484514676218
+      }
+    ],
+    "status": "trial_requires_visual_review"
+  },
+  "status": "pending_visual_review"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "honey-lemon-tea",
+  "selected_utc": "2026-09-17T09:02:59.219076+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/honey-lemon-tea/masters/honey-lemon-tea.png",
+  "old_sha256": "c1d98493626b1c7abecddfa192879049c61162b61e310bb6efdb5908e1677568",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/honey-lemon-tea/delivery/_needs-alpha/honey-breakfast/honey-lemon-tea.png"
+  ],
+  "new_master": "masters/honey-lemon-tea.png",
+  "new_sha256": "0bc69897ec250f08201913fb7a32c8c4e1cb5d47f1e6cec6b6e66183c5da21c0",
+  "selected_candidate": "revisions/border-alpha-20260917/honey-lemon-tea.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

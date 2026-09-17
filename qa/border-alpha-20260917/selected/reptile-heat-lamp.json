@@ -1,0 +1,16 @@
+{
+  "id": "reptile-heat-lamp",
+  "selected_utc": "2026-09-17T09:02:59.925573+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/reptile-heat-lamp/masters/reptile-heat-lamp.png",
+  "old_sha256": "9ba39e12250bcdb444f668563ee9398c563b993eb9392511898139719976f6de",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/reptile-heat-lamp/delivery/_needs-alpha/reptile-habitat/reptile-heat-lamp.png"
+  ],
+  "new_master": "masters/reptile-heat-lamp.png",
+  "new_sha256": "5ffb1bb91667720afe3d33d46ed8822adf9e1e3fdb6f837b0eb354c7a52af765",
+  "selected_candidate": "revisions/border-alpha-20260917/reptile-heat-lamp.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

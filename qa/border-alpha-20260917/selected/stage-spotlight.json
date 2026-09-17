@@ -1,0 +1,16 @@
+{
+  "id": "stage-spotlight",
+  "selected_utc": "2026-09-17T09:02:59.281725+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/stage-spotlight/masters/stage-spotlight.png",
+  "old_sha256": "aa385650fae04921f1cf15d4ab59ad9becbb18a40adee1a08744f0dec80925dd",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/stage-spotlight/delivery/_needs-alpha/theatre-backstage/stage-spotlight.png"
+  ],
+  "new_master": "masters/stage-spotlight.png",
+  "new_sha256": "a5d7abcec90738ae545592ff8d5eeb71adbd4456126d964d1dec799a45ee249b",
+  "selected_candidate": "revisions/border-alpha-20260917-exceptions/stage-spotlight-hole-v2.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

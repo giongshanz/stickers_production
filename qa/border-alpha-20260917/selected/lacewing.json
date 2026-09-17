@@ -1,0 +1,16 @@
+{
+  "id": "lacewing",
+  "selected_utc": "2026-09-17T09:02:59.902406+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/lacewing/masters/lacewing.png",
+  "old_sha256": "42585b718f568010eec12bb3a408ad7e410d04cd453496e78e644c25d8e49653",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/lacewing/delivery/_needs-alpha/garden-insects/lacewing.png"
+  ],
+  "new_master": "masters/lacewing.png",
+  "new_sha256": "318457954f7e0e5eb44ec58d6ddc3f5e04355ee2c88ff7d35ad2e5772841041a",
+  "selected_candidate": "revisions/border-alpha-20260917/lacewing.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

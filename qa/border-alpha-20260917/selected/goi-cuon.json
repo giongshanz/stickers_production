@@ -1,0 +1,16 @@
+{
+  "id": "goi-cuon",
+  "selected_utc": "2026-09-17T09:02:59.091739+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/goi-cuon/masters/goi-cuon.png",
+  "old_sha256": "688fca397f4564b8c0b34ecb041e39e7d58ffbbe2d319b1c37ef722e314f34ac",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/goi-cuon/delivery/_needs-alpha/vietnamese-cuisine/goi-cuon.png"
+  ],
+  "new_master": "masters/goi-cuon.png",
+  "new_sha256": "ad231c0065db776cd3a00c446cc15c41dc454bdacffdc9bd952a5839b5fe5579",
+  "selected_candidate": "revisions/border-alpha-20260917/goi-cuon.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

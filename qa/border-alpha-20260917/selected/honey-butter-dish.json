@@ -1,0 +1,16 @@
+{
+  "id": "honey-butter-dish",
+  "selected_utc": "2026-09-17T09:02:59.205976+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/honey-butter-dish/masters/honey-butter-dish.png",
+  "old_sha256": "109962aba8172ba7e9463d857e532f0142fa50a836e9fa6b3ecfac8fb3d2275c",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/honey-butter-dish/delivery/_needs-alpha/honey-breakfast/honey-butter-dish.png"
+  ],
+  "new_master": "masters/honey-butter-dish.png",
+  "new_sha256": "790004332fe678866606cc0cf52b6693bdd83859c943675efa2562f736c26571",
+  "selected_candidate": "revisions/border-alpha-20260917/honey-butter-dish.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

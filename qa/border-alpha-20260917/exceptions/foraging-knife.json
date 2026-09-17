@@ -1,0 +1,75 @@
+{
+  "id": "foraging-knife",
+  "source": "masters/foraging-knife.png",
+  "source_sha256": "d8d10b1f8af468e97ccc0811959cea1e9c047d37bed36434f6fa988bfdf00d8a",
+  "paper_input": "revisions/alpha-audit-20260916/foraging-knife-candidate.png",
+  "candidate": "revisions/border-alpha-20260917-exceptions/foraging-knife.png",
+  "candidate_sha256": "4220bbe29f36633b6f85e7430f26513267b1d8e62c497267b43e720e20d5919a",
+  "method": "border_geometry.cutout with alternate painted core and original RGB restored",
+  "radius_px": 19.7,
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "rgb_changed_pixels": 0,
+  "partial_alpha_edge_colored_pixels": 0,
+  "visible_pixels_outside_paper": 0,
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 26166,
+    "rgb_changed_chromatic_pixels": 0,
+    "rgb_changed_outside_paper": 2300,
+    "painted_pixels": 309636,
+    "protected_pixels": 322201,
+    "safe_white_pixels": 72984,
+    "dirty_white_pixels": 2621,
+    "radius_px": 19.7,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 1193839,
+    "partial_alpha_pixels": 3941,
+    "visible_pixels_outside_paper": 0,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 3941,
+      "min": 18.90977910243553,
+      "max": 21.22652285084249,
+      "mean": 19.693683431811966,
+      "p05": 19.1632360378338,
+      "p25": 19.39918185479357,
+      "median": 19.686202837401233,
+      "p75": 19.987216812732242,
+      "p95": 20.228497612573815
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 3941,
+      "min": 19.082897228584187,
+      "max": 20.317618028730227,
+      "mean": 19.702441273878595,
+      "p05": 19.185228696286334,
+      "p25": 19.41241029304524,
+      "median": 19.699958181643257,
+      "p75": 19.9927009620064,
+      "p95": 20.227871938697653
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 4484,
+        "samples": 17940,
+        "fit_rms_px": 0.600125697420792,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.2700399805756937
+      }
+    ],
+    "status": "trial_requires_visual_review"
+  },
+  "status": "pending_visual_review"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "lions-mane-mushroom",
+  "selected_utc": "2026-09-17T09:02:59.401128+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/lions-mane-mushroom/masters/lions-mane-mushroom.png",
+  "old_sha256": "000135d592f0a561f6fda5b08a6af3d51cf28e11da4096782a3e98845b0982eb",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/lions-mane-mushroom/delivery/_needs-alpha/forest-fungi/lions-mane-mushroom.png"
+  ],
+  "new_master": "masters/lions-mane-mushroom.png",
+  "new_sha256": "af63d475473b5c18e2d1c09378a8b848704014e8a61a2023d147f0b80aee0120",
+  "selected_candidate": "revisions/border-alpha-20260917/lions-mane-mushroom.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

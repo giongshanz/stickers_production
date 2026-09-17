@@ -1,0 +1,89 @@
+{
+  "id": "honey-lemon-tea",
+  "created_utc": "2026-09-17T08:47:14.253722+00:00",
+  "source": "masters/honey-lemon-tea.png",
+  "source_sha256": "c1d98493626b1c7abecddfa192879049c61162b61e310bb6efdb5908e1677568",
+  "paper_input": "revisions/alpha-audit-20260916/honey-lemon-tea-candidate.png",
+  "paper_input_sha256": "fb96a74c9d24214f0ab93ca8d8f2697acb1107dae2b4f2bdaa30623a3953e15d",
+  "candidate": "revisions/border-alpha-20260917/honey-lemon-tea.png",
+  "candidate_sha256": "0bc69897ec250f08201913fb7a32c8c4e1cb5d47f1e6cec6b6e66183c5da21c0",
+  "method": "border_geometry.cutout, measured inset, original RGB restored",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "dimensions_unchanged": true,
+  "rgb_changed_pixels": 0,
+  "measured_paper_width_px": 30.4138126514911,
+  "radius_px": 25.9,
+  "paper_holes": 0,
+  "hole_seeds": [],
+  "visible_pixels_outside_paper": 0,
+  "partial_alpha_edge_colored_pixels": 0,
+  "transparent_pixels": 820688,
+  "partial_alpha_pixels": 3613,
+  "corner_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 22093,
+    "rgb_changed_chromatic_pixels": 0,
+    "rgb_changed_outside_paper": 876,
+    "painted_pixels": 664500,
+    "protected_pixels": 676887,
+    "safe_white_pixels": 86921,
+    "dirty_white_pixels": 938,
+    "radius_px": 25.9,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 820688,
+    "partial_alpha_pixels": 3613,
+    "visible_pixels_outside_paper": 0,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 3613,
+      "min": 25.243965210103596,
+      "max": 27.95668889647846,
+      "mean": 25.896227244260043,
+      "p05": 25.39733591869401,
+      "p25": 25.625749820556774,
+      "median": 25.889382027377387,
+      "p75": 26.159971060589474,
+      "p95": 26.389082422952544
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 3613,
+      "min": 25.28390361312723,
+      "max": 26.5135620802318,
+      "mean": 25.904899952860998,
+      "p05": 25.417170700546333,
+      "p25": 25.640082913093714,
+      "median": 25.902557940893907,
+      "p75": 26.166316462299402,
+      "p95": 26.39048542007506
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 3942,
+        "samples": 15772,
+        "fit_rms_px": 0.6001537478327557,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.2522535529934171
+      }
+    ],
+    "status": "trial_requires_visual_review"
+  },
+  "status": "pending_visual_review"
+}

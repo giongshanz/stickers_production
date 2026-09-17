@@ -1,0 +1,16 @@
+{
+  "id": "wetland-kingfisher",
+  "selected_utc": "2026-09-17T09:03:00.013501+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/wetland-kingfisher/masters/wetland-kingfisher.png",
+  "old_sha256": "d25aca76013665efad1bf7531f62e19fd854a84e36bca8b9f379e710b691d82c",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/wetland-kingfisher/delivery/_needs-alpha/freshwater-wetland/wetland-kingfisher.png"
+  ],
+  "new_master": "masters/wetland-kingfisher.png",
+  "new_sha256": "f469aa67e7e8c293c930242595496d37cdcd8465fcb55c3d28894e417de4545b",
+  "selected_candidate": "revisions/border-alpha-20260917/wetland-kingfisher.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

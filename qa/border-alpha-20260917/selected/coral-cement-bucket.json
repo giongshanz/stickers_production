@@ -1,0 +1,16 @@
+{
+  "id": "coral-cement-bucket",
+  "selected_utc": "2026-09-17T09:02:59.734460+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/coral-cement-bucket/masters/coral-cement-bucket.png",
+  "old_sha256": "c304879ca0295dfd3c4ffd3fad68192ce17172737b67daec291c9498adbe010c",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/coral-cement-bucket/delivery/_needs-alpha/coral-restoration/coral-cement-bucket.png"
+  ],
+  "new_master": "masters/coral-cement-bucket.png",
+  "new_sha256": "e44d697d9caa2aa78480502eda50c73d79c277bce3285e4199b5b6c3cc6f4cc8",
+  "selected_candidate": "revisions/border-alpha-20260917/coral-cement-bucket.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "porcini",
+  "selected_utc": "2026-09-17T09:02:59.389029+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/porcini/masters/porcini.png",
+  "old_sha256": "e83915a023b2bfdc4f26a20fdc20e724941420ab739d8f528a6c28c07e75f965",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/porcini/delivery/_needs-alpha/forest-fungi/porcini.png"
+  ],
+  "new_master": "masters/porcini.png",
+  "new_sha256": "c9f4289401cff6e43c8b75efa96ad02a12b9b785a2e0981da9151574f1c327e6",
+  "selected_candidate": "revisions/border-alpha-20260917/porcini.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

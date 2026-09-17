@@ -1,0 +1,3422 @@
+[
+  {
+    "id": "banh-mi",
+    "source": "masters/banh-mi.png",
+    "source_sha256": "92ff93a2e6b727f0723331020edd99a7fd813ff0d6dcd395aae31b31ef8898b2",
+    "candidate": "revisions/alpha-audit-20260916/banh-mi-candidate.png",
+    "candidate_sha256": "d23359af2de09984dd0a853636bcb1cf14391b771416f3e4716e2ffe6e02387b",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "pho-bo",
+    "source": "masters/pho-bo.png",
+    "source_sha256": "a57bcde8df78cbcfdcc1075adc6dc0733181eca29ab9ac5eecd3b4f69f48d709",
+    "candidate": "revisions/alpha-audit-20260916/pho-bo-candidate.png",
+    "candidate_sha256": "b1e94de54d9ffb9fd1ba7f8dd193947ae01cbf0e47a67d0a045aff88c9cabd14",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "banh-xeo",
+    "source": "masters/banh-xeo.png",
+    "source_sha256": "13ccd4d106ba4382dbb593fffbeabf5d49ef5f77145cdfba80657e1cf9ba59cb",
+    "candidate": "revisions/alpha-audit-20260916/banh-xeo-candidate.png",
+    "candidate_sha256": "1431e5c6f7689a980c0b9038a75e3f7d28c72f48204ccd9b4736845814050ce9",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "goi-cuon",
+    "source": "masters/goi-cuon.png",
+    "source_sha256": "688fca397f4564b8c0b34ecb041e39e7d58ffbbe2d319b1c37ef722e314f34ac",
+    "candidate": "revisions/alpha-audit-20260916/goi-cuon-candidate.png",
+    "candidate_sha256": "1d06180ecbe6f998894fba2131cc15ebaacbd82b8f3eabf2036d6e279ca289d6",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "bun-cha",
+    "source": "masters/bun-cha.png",
+    "source_sha256": "1544c9530fdd7098c3ad875bcf973f3e3089ad24b7506170cf3af8ab6076eb04",
+    "candidate": "revisions/alpha-audit-20260916/bun-cha-candidate.png",
+    "candidate_sha256": "bfe7e2988ae7c9931a7f829087ec2babcf2c8915178342361677784750d56a68",
+    "dimensions": [
+      1437,
+      1095
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "banh-cuon",
+    "source": "masters/banh-cuon.png",
+    "source_sha256": "e019fc8cc143fc9869fdc4f277882ce9a5e44c82cf1a4aebda22047536c7c1f2",
+    "candidate": "revisions/alpha-audit-20260916/banh-cuon-candidate.png",
+    "candidate_sha256": "f1e36c4e15372f55f10eb680e53ef3ce6addbf75b72f2902edd4a517ba85faa1",
+    "dimensions": [
+      1436,
+      1096
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 2,
+    "removed_component_pixels": 2,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "banh-chung",
+    "source": "masters/banh-chung.png",
+    "source_sha256": "9c3340a98b52f04a2571a3a845a05108610c969396680fb13ec2880979f92fe0",
+    "candidate": "revisions/alpha-audit-20260916/banh-chung-candidate.png",
+    "candidate_sha256": "4305353149a7463c33031c7481878f430b8c3b8349d9546d2eb8b04247b2bff1",
+    "dimensions": [
+      1379,
+      1141
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 16,
+    "removed_component_pixels": 48,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "che-ba-mau",
+    "source": "masters/che-ba-mau.png",
+    "source_sha256": "1e4e2272dff59f88104c78a9c5f58a2c4bcb0cff6989a3684d7c8e62e5125680",
+    "candidate": "revisions/alpha-audit-20260916/che-ba-mau-candidate.png",
+    "candidate_sha256": "6b6b4ae99c0cb4cce578828ee9cc9ba14cf3a2e4b9315ef81dee46622ee80b78",
+    "dimensions": [
+      1272,
+      1236
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "tet-lucky-envelope",
+    "source": "masters/tet-lucky-envelope.png",
+    "source_sha256": "296e977d628d0d5892af93f5d54243a7805c6be8f6dc1c577081a4d9fee394af",
+    "candidate": "revisions/alpha-audit-20260916/tet-lucky-envelope-candidate.png",
+    "candidate_sha256": "3d1a0c248f31c0296d2c183ab735ebf17b76cc930020f50a90e82776d8b844ec",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "tet-kumquat-pot",
+    "source": "masters/tet-kumquat-pot.png",
+    "source_sha256": "85419597148a4685551b324be1c89be460ede99ac6d4b3d3c33d3d5cac10205b",
+    "candidate": "revisions/alpha-audit-20260916/tet-kumquat-pot-candidate.png",
+    "candidate_sha256": "717cc56f0c23d91987827fd3def86dada2d414c77583592df50cf298a21c26ba",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 31,
+    "removed_component_pixels": 57,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "tet-peach-blossom",
+    "source": "masters/tet-peach-blossom.png",
+    "source_sha256": "beb0923c5158a6db78204a6d26b90d782217addfa2fa5482efd03fe0490cd531",
+    "candidate": "revisions/alpha-audit-20260916/tet-peach-blossom-candidate.png",
+    "candidate_sha256": "1a2fe792d6a46c6848d60fc5989c146c3700d9a0ff6aedadb8a700dbe4b3dbc3",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 10,
+    "removed_component_pixels": 11,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "tet-lion-head",
+    "source": "masters/tet-lion-head.png",
+    "source_sha256": "0304462b13db8ac0c53f4247b534b435e0eece0bd86db299ea06b3da507cfefc",
+    "candidate": "revisions/alpha-audit-20260916/tet-lion-head-candidate.png",
+    "candidate_sha256": "847ea7acae5b825f76325c12495f092410f848ede56a8f42f606ed62ec78191d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 16,
+    "removed_component_pixels": 25,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "tet-watermelon",
+    "source": "masters/tet-watermelon.png",
+    "source_sha256": "af8d0e185a50a74fcc0ba0bdc4d1f8efd34a0df787d8860bfb3b6ab8b04016fa",
+    "candidate": "revisions/alpha-audit-20260916/tet-watermelon-candidate.png",
+    "candidate_sha256": "ec27e3bb100084a9ba9fa062d3f63ef6dee328e3355776573f7d79aa9e0f574d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 1,
+    "removed_component_pixels": 1,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "tet-coconut-candy-tray",
+    "source": "masters/tet-coconut-candy-tray.png",
+    "source_sha256": "c9b70fe052fe8fb2cd8410b0e472cdc63dd022d785ff73a35e311fdc775d08f8",
+    "candidate": "revisions/alpha-audit-20260916/tet-coconut-candy-tray-candidate.png",
+    "candidate_sha256": "fb407990d63feb07d9d715aa312dd449642123c753a67f8929b2995012780a68",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 2,
+    "removed_component_pixels": 8,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "tet-firecracker-string",
+    "source": "masters/tet-firecracker-string.png",
+    "source_sha256": "90039c47f04d7a798303e0cc86519748c3aeb52f69ed81014d6f015c741f6002",
+    "candidate": "revisions/alpha-audit-20260916/tet-firecracker-string-candidate.png",
+    "candidate_sha256": "fb4519358dbb5ecfe9a04db8ee12c078186e9720619ff55c84a45dd3fc72b3b5",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 3,
+    "removed_component_pixels": 3,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "beehive-skep",
+    "source": "masters/beehive-skep.png",
+    "source_sha256": "8f07fd7c89091d0b09c56e46a5fc7b98bc82b2454ba684e98c34d7d123394d10",
+    "candidate": "revisions/alpha-audit-20260916/beehive-skep-candidate.png",
+    "candidate_sha256": "06de805f75ea63eb16e7b052fd203dd93b5d995bf7e1a74d336f14426bc68f83",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "honey-dipper",
+    "source": "masters/honey-dipper.png",
+    "source_sha256": "aaa0809d420432af0cb003e85e27cd7d26a335ba84e87c8e395209c7145c449c",
+    "candidate": "revisions/alpha-audit-20260916/honey-dipper-candidate.png",
+    "candidate_sha256": "f5648637826a061ad4be6a2f66e8982cc5915f4bf7ba1a91a803aa2414629b8a",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 6,
+    "removed_component_pixels": 6,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "bee-smoker",
+    "source": "masters/bee-smoker.png",
+    "source_sha256": "6d9488e14fee9a36b85eedd16eba3eee8c4ed3aca35838ea86f7ab5168a829cb",
+    "candidate": "revisions/alpha-audit-20260916/bee-smoker-candidate.png",
+    "candidate_sha256": "6757228dc082014738fc3aed4d54920ce8dbf5439698e786f52c87facbaf777f",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "beekeeper-veil-hat",
+    "source": "masters/beekeeper-veil-hat.png",
+    "source_sha256": "4ffb8fe3468e6702540e182b6839dfab75dfc6e2e20416627377b3ba9e984dff",
+    "candidate": "revisions/alpha-audit-20260916/beekeeper-veil-hat-candidate.png",
+    "candidate_sha256": "a3f67fc9cd1b126488716da57f68971357a8f52c926d32e47cea1ee778c8ec53",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "honeycomb-frame",
+    "source": "masters/honeycomb-frame.png",
+    "source_sha256": "8a42c8f6972c22efbd864b220d267044b32efaa366ae148266dda4db0959e0c1",
+    "candidate": "revisions/alpha-audit-20260916/honeycomb-frame-candidate.png",
+    "candidate_sha256": "5dcead56c1ca65e681273d493d85ec193d3c4d0f93c75c4a68869acd592e19dd",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 25,
+    "removed_component_pixels": 26,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "honey-extractor",
+    "source": "masters/honey-extractor.png",
+    "source_sha256": "9ea747b40bbc0b584c492b055c97b42f56efbf1ecd6481c72150e33650f3f6e9",
+    "candidate": "revisions/alpha-audit-20260916/honey-extractor-candidate.png",
+    "candidate_sha256": "c7b14c41caf738ebed2888f8ba80e1d05a20305a1ae337fa8fa8e8043860b36d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "beekeeper-gloves",
+    "source": "masters/beekeeper-gloves.png",
+    "source_sha256": "2288834b927a3f2c773d1ac8010a5c98bb98e1b4da2b4553b4c707d991d5ea6d",
+    "candidate": "revisions/alpha-audit-20260916/beekeeper-gloves-candidate.png",
+    "candidate_sha256": "2046b4b9d16f8d38911a8bee76d1ee73e2df355b458f1be1aa3dd0c5bb6809b4",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 13,
+    "removed_component_pixels": 39,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "bee-feeding-jar",
+    "source": "masters/bee-feeding-jar.png",
+    "source_sha256": "2a08d47dfc225572f0e6955e10dc213ba1863025a6552d3b64ad22786e5ad554",
+    "candidate": "revisions/alpha-audit-20260916/bee-feeding-jar-candidate.png",
+    "candidate_sha256": "877a75b62ae28e7f5d499fa0b9648db6476a1def4e6bdb6225b9604a9fc8181f",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 10,
+    "removed_component_pixels": 40,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "honey-pancakes",
+    "source": "masters/honey-pancakes.png",
+    "source_sha256": "c4baa8c11610c7895de7b0e72ce57aeb1c52cf941ae468614cf5683111bc0185",
+    "candidate": "revisions/alpha-audit-20260916/honey-pancakes-candidate.png",
+    "candidate_sha256": "c11eafdef20cd9b4821dc36953c1424a85b5ee708561383f57c2508198e3ecdb",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "honey-waffles",
+    "source": "masters/honey-waffles.png",
+    "source_sha256": "121e9a3a8615eacbe4f400a8af70161fe3428a5a3b2dc3f6c80b18ee1c660390",
+    "candidate": "revisions/alpha-audit-20260916/honey-waffles-candidate.png",
+    "candidate_sha256": "62c835682e9732631961b020cffaac41c04904cb0c88e025f20a48c0bb677a33",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "honey-parfait",
+    "source": "masters/honey-parfait.png",
+    "source_sha256": "dad408ba92d2d5670e60682267357dc926e1007be7f053261f344f26204c6bcd",
+    "candidate": "revisions/alpha-audit-20260916/honey-parfait-candidate.png",
+    "candidate_sha256": "3d9d7afcfc81eda3c882115a19ecaa3c1444e7a9a6f6849a4d3fe0e8d5a42fb1",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "honey-toast",
+    "source": "masters/honey-toast.png",
+    "source_sha256": "feb0fb99eed85e7258e8058c4063b45525a39ce33f73d05653a061082ef05c50",
+    "candidate": "revisions/alpha-audit-20260916/honey-toast-candidate.png",
+    "candidate_sha256": "3826c8fb252391b92017379a0d1db8f93e6b14760ea203a16f7133825014ecf6",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "honey-crumpet",
+    "source": "masters/honey-crumpet.png",
+    "source_sha256": "d2405c79221cd27bf95343b19e9023ae9d7e4e0cd36c0fbd94e0d141fca985c6",
+    "candidate": "revisions/alpha-audit-20260916/honey-crumpet-candidate.png",
+    "candidate_sha256": "73f10b6ab1ae3051a7a2d203ad538a29d587c5832101fe27c3ab5083607c31b7",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "honey-butter-dish",
+    "source": "masters/honey-butter-dish.png",
+    "source_sha256": "109962aba8172ba7e9463d857e532f0142fa50a836e9fa6b3ecfac8fb3d2275c",
+    "candidate": "revisions/alpha-audit-20260916/honey-butter-dish-candidate.png",
+    "candidate_sha256": "09af0a539df4480086d1c2dbd50e45d4e5d3f01215dd601247e8943168aec268",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "honey-lemon-tea",
+    "source": "masters/honey-lemon-tea.png",
+    "source_sha256": "c1d98493626b1c7abecddfa192879049c61162b61e310bb6efdb5908e1677568",
+    "candidate": "revisions/alpha-audit-20260916/honey-lemon-tea-candidate.png",
+    "candidate_sha256": "fb96a74c9d24214f0ab93ca8d8f2697acb1107dae2b4f2bdaa30623a3953e15d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "terracotta-amphora",
+    "source": "masters/terracotta-amphora.png",
+    "source_sha256": "851d6cc995dc7ae58041ec79b014dba2d10ad7ab384f82fa9fe74e2abdd2bee7",
+    "candidate": "revisions/alpha-audit-20260916/terracotta-amphora-candidate.png",
+    "candidate_sha256": "5a3ea0d623495d7d8aaacd65c9106ff45c012191e9a7e660d6038baf606ca0fb",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "pottery-wheel",
+    "source": "masters/pottery-wheel.png",
+    "source_sha256": "f61474d53fa17ddaac4f4cc1bf4c326ce8de7885ba97dfb3970a59d9f4767479",
+    "candidate": "revisions/alpha-audit-20260916/pottery-wheel-candidate.png",
+    "candidate_sha256": "ff0785c92c09c43a17f8f6b96eb496bf15ef2f333949dc09387401eeda0167f1",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "wet-clay-lump",
+    "source": "masters/wet-clay-lump.png",
+    "source_sha256": "618de20e014991a91b3a95ad50ddde1e365d33b6ce11d503041bc31dc4ee5bce",
+    "candidate": "revisions/alpha-audit-20260916/wet-clay-lump-candidate.png",
+    "candidate_sha256": "fec974b338557206d1324035520f5251bb07b1a8024228fcd7f4c8b4c118dfd2",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 1,
+    "removed_component_pixels": 1,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "potter-rib-tool",
+    "source": "masters/potter-rib-tool.png",
+    "source_sha256": "c408124e04e32f605ea9752b4688d6b99c0fba73a5dc6dc53e5a56778e130d6a",
+    "candidate": "revisions/alpha-audit-20260916/potter-rib-tool-candidate.png",
+    "candidate_sha256": "d737cd452f224a80757fd896b8555678e084dbaffb27ae4310ec21572547b2b2",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 1,
+    "removed_component_pixels": 1,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "clay-wire-cutter",
+    "source": "masters/clay-wire-cutter.png",
+    "source_sha256": "56b234e0846f08f1d8420be69b7aabd2a569decb76d0bddc831bfb3dd1049c03",
+    "candidate": "revisions/alpha-audit-20260916/clay-wire-cutter-candidate.png",
+    "candidate_sha256": "3b7908e268e671f21516a56a7b796a562e374d2d361a5362bee0fe320d21d734",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 7,
+    "removed_component_pixels": 11,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "loop-trimming-tool",
+    "source": "masters/loop-trimming-tool.png",
+    "source_sha256": "7eca10fc7c044203714e6c45b44e2978c2f6d5606761d0f42a176369e9379be1",
+    "candidate": "revisions/alpha-audit-20260916/loop-trimming-tool-candidate.png",
+    "candidate_sha256": "774908c4f6b33f9d48d2a93a3dd7ffb33f39d5845c5037c44e79225858f6af5c",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "glazing-brush",
+    "source": "masters/glazing-brush.png",
+    "source_sha256": "d07265db235f4ae75d9038ff5fdabf1aa77634aae90752e4c02e752f59b2d41b",
+    "candidate": "revisions/alpha-audit-20260916/glazing-brush-candidate.png",
+    "candidate_sha256": "5626bc4b1537ae0bf9f73a7b509fe87fd0739d3157f37a30d5fe491d4bf42343",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "ceramic-kiln",
+    "source": "masters/ceramic-kiln.png",
+    "source_sha256": "faf2d2721f74bd99281a8d10c68bf7aec2dd7a48c184d8c0bb5d7554c8358e14",
+    "candidate": "revisions/alpha-audit-20260916/ceramic-kiln-candidate.png",
+    "candidate_sha256": "155c9ba17af3db3e4315084f6c39892012f3a5de462256f2a7c6dcb94787dbad",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "excavation-trowel",
+    "source": "masters/excavation-trowel.png",
+    "source_sha256": "f05d3c861089d265fa2a306b9f1adfc6164b6dfa64c72b9514d5bd3b33883a8a",
+    "candidate": "revisions/alpha-audit-20260916/excavation-trowel-candidate.png",
+    "candidate_sha256": "745c18c9c71162bea7a5b67fe623d0f24abee71058d92d849c42a4e015cf0fdd",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "archaeology-sieve",
+    "source": "masters/archaeology-sieve.png",
+    "source_sha256": "1cc354e99a2edfef3aab7a5d93f3326c8edafa38b67f0c39d4996ea184af8265",
+    "candidate": "revisions/alpha-audit-20260916/archaeology-sieve-candidate.png",
+    "candidate_sha256": "7b8094c94bc1366718a66463930a5fe20c978b0077d7f7f0cfa82b905ad1e0b8",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "artifact-brush",
+    "source": "masters/artifact-brush.png",
+    "source_sha256": "6939c34d68725613bf9dcdf230668aa565dab30643f924e1a1dc6e0134db0365",
+    "candidate": "revisions/alpha-audit-20260916/artifact-brush-candidate.png",
+    "candidate_sha256": "54f9c6d588390c91a96bfa877f4527528860bbb4359ead8e65ba0ac7e7292f26",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 13,
+    "removed_component_pixels": 62,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "stratigraphy-block",
+    "source": "masters/stratigraphy-block.png",
+    "source_sha256": "2dbff40cd3c7e0e2f957780869aea65f9438e39a55f4b7574c92100bce9a56fc",
+    "candidate": "revisions/alpha-audit-20260916/stratigraphy-block-candidate.png",
+    "candidate_sha256": "278c29e80978168bd8484c0c1aa3022a86a4bd811c1d67360a924f69c33c514d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "stone-tablet",
+    "source": "masters/stone-tablet.png",
+    "source_sha256": "81395c5d488a87cc06169d29a109ed39dc8071e5bd133120f4da288841cdb38f",
+    "candidate": "revisions/alpha-audit-20260916/stone-tablet-candidate.png",
+    "candidate_sha256": "280c49f81a12861174de1698a102cf6aad02b4a801871dc5beabce725ab28763",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "mosaic-fragment",
+    "source": "masters/mosaic-fragment.png",
+    "source_sha256": "119e1c438ac5f8c097db3b393a9340c69e76fd273f021bd2fd2510572212db9c",
+    "candidate": "revisions/alpha-audit-20260916/mosaic-fragment-candidate.png",
+    "candidate_sha256": "2fcd1cc5f02ee51b20251d492bc1e40db21aede4f1f44ca77f6ab8675fd0f71d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 10,
+    "removed_component_pixels": 12,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "amphitheatre-model",
+    "source": "masters/amphitheatre-model.png",
+    "source_sha256": "59ef36410f8218b63e175d5bb2bc2eb6379556839eeef63c6b8f82004bbe695f",
+    "candidate": "revisions/alpha-audit-20260916/amphitheatre-model-candidate.png",
+    "candidate_sha256": "a00dc8f5542b789798d0e91ec63f4283c708e71c2f45d9260fe9a565a93ca5dd",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 3,
+    "removed_component_pixels": 5,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "tailor-dress-form",
+    "source": "masters/tailor-dress-form.png",
+    "source_sha256": "bce522ad2bd2037a7056f523ce5f2ed9ac0626bc1f069b98eaae960445919d7a",
+    "candidate": "revisions/alpha-audit-20260916/tailor-dress-form-candidate.png",
+    "candidate_sha256": "4e794b57d676515b0cfb6d2076439eab829476467cff484ebafe2af50e3aad62",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 34,
+    "removed_component_pixels": 56,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "sewing-machine",
+    "source": "masters/sewing-machine.png",
+    "source_sha256": "5f635a733544b991a93e45c033811a4e82cd7e790c3d20b0561f9f68ae785076",
+    "candidate": "revisions/alpha-audit-20260916/sewing-machine-candidate.png",
+    "candidate_sha256": "b19d4fa5b453b73020e05f38dbfab3d3c2b6982401b14d33a8a5c3ed8c87dff0",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "tomato-pincushion",
+    "source": "masters/tomato-pincushion.png",
+    "source_sha256": "9ad638ad370bbad19162d6fbd3b0ef0b882d49fa328c28b8f5e9d2347144e7c1",
+    "candidate": "revisions/alpha-audit-20260916/tomato-pincushion-candidate.png",
+    "candidate_sha256": "1a44a7656f25718fd3c5543e7b6ff84deb91d8566595e442da5701b62fa039e0",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "fabric-shears",
+    "source": "masters/fabric-shears.png",
+    "source_sha256": "064ff5565cd420191842c5e1781e81b30456bb424468b025371267f698e24f8a",
+    "candidate": "revisions/alpha-audit-20260916/fabric-shears-candidate.png",
+    "candidate_sha256": "84b9570d697b337feb2d9d9e8d8fd0035693def0531b7227b87e2a37c463ce3e",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "seam-ripper",
+    "source": "masters/seam-ripper.png",
+    "source_sha256": "53a81091db006f61674867916fb5e66ad0eef9aabe19810cae935a22851a0e7d",
+    "candidate": "revisions/alpha-audit-20260916/seam-ripper-candidate.png",
+    "candidate_sha256": "a9d6b1dfc505b10945a6209c0bcee295a317ddba30356d9d43cd924f442a7224",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "tape-measure-coil",
+    "source": "masters/tape-measure-coil.png",
+    "source_sha256": "46262125c29df18d02933e7a65e80a3a6261c870c1c6f0aea56982c923286cac",
+    "candidate": "revisions/alpha-audit-20260916/tape-measure-coil-candidate.png",
+    "candidate_sha256": "6bc725760a0bf1965af1bf491908d3f33390144c004bd1d72e126de2381c1b3f",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "thread-spool-rack",
+    "source": "masters/thread-spool-rack.png",
+    "source_sha256": "abeef31c7565b4d89f7f3cfdd91194db27c8f234dc3c50f3ff60b0ab2ca818d2",
+    "candidate": "revisions/alpha-audit-20260916/thread-spool-rack-candidate.png",
+    "candidate_sha256": "ed0064e682cd22e06911b31c15d6600a12b204e156e732d580edb20b30957330",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 18,
+    "removed_component_pixels": 37,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "sewing-zipper",
+    "source": "masters/sewing-zipper.png",
+    "source_sha256": "dc390bbb8471ff56ee0fa751c99e2d3e6536d3cd3a818f9f69c52586efa0d2c2",
+    "candidate": "revisions/alpha-audit-20260916/sewing-zipper-candidate.png",
+    "candidate_sha256": "7db3cd9acdc14876c1c5d8feefaa806e4df59533372f2bab1d9143ce07a2a7b8",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "theatre-masks",
+    "source": "masters/theatre-masks.png",
+    "source_sha256": "dac97fe774372242c18f6d141abb4f1984e0cee5ce2efba59552f31b59347942",
+    "candidate": "revisions/alpha-audit-20260916/theatre-masks-candidate.png",
+    "candidate_sha256": "e0c3a75f4b6c01aeb3df1d8f65050e381e40ea2071e63d820d427b33e339072d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 13,
+    "removed_component_pixels": 14,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "stage-spotlight",
+    "source": "masters/stage-spotlight.png",
+    "source_sha256": "aa385650fae04921f1cf15d4ab59ad9becbb18a40adee1a08744f0dec80925dd",
+    "candidate": "revisions/alpha-audit-20260916/stage-spotlight-candidate.png",
+    "candidate_sha256": "c0eb632e9bd7e46b3cb54350117f7b586d1f769771e107210cb69c2f8ebd67a2",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "red-theatre-curtain",
+    "source": "masters/red-theatre-curtain.png",
+    "source_sha256": "17383d2c33f03ed8675aa1b69ccc56fe960f5d853d8cc61a8ef2d9b68afda2d8",
+    "candidate": "revisions/alpha-audit-20260916/red-theatre-curtain-candidate.png",
+    "candidate_sha256": "0c0968dfc8f082d42f2da1c1567c227a6c3b05b53e5e38080ad79a286f102a02",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 2,
+    "removed_component_pixels": 2,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "theatre-ticket",
+    "source": "masters/theatre-ticket.png",
+    "source_sha256": "f86b858c0df256636a4a1f4bada10b6b7df732d227ae71ee1b8ea9fea2bd1470",
+    "candidate": "revisions/alpha-audit-20260916/theatre-ticket-candidate.png",
+    "candidate_sha256": "e4b2b9b8e8f8a4665d00f6b0510448a16e3ffedb774e804c3bda30e7040b3c07",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "proscenium-stage-model",
+    "source": "masters/proscenium-stage-model.png",
+    "source_sha256": "018d84f24e66f64146a8df6367df4aa3b6ed8335f535f65267781e747bee8b4c",
+    "candidate": "revisions/alpha-audit-20260916/proscenium-stage-model-candidate.png",
+    "candidate_sha256": "c2f3deca199c3cf0fd27252e6c5c66239c745fa2da858d225937e709dcb90f15",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "opera-binoculars",
+    "source": "masters/opera-binoculars.png",
+    "source_sha256": "195f1ec87b196c02456a27a9cee351f3e73a81e7741883c94a253a291579226f",
+    "candidate": "revisions/alpha-audit-20260916/opera-binoculars-candidate.png",
+    "candidate_sha256": "0883abf4d6728064cf1092ba2a049f8f644c64eeaa47d7455e8a3930067006cd",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "theatrical-mustache",
+    "source": "masters/theatrical-mustache.png",
+    "source_sha256": "5af7dc55d18cfd2482b99ef8795df2c0f113e4cff1d742baa5af6271d0b13e35",
+    "candidate": "revisions/alpha-audit-20260916/theatrical-mustache-candidate.png",
+    "candidate_sha256": "86344c7f2088dc6e9d667a1ef813ca615d3cd9dc52cb5b491f944efa3ae6115d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 25,
+    "removed_component_pixels": 45,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "mushroom-basket",
+    "source": "masters/mushroom-basket.png",
+    "source_sha256": "46062297b2052bb487d815860cd77b6e1530a08e33328aa597f9013a89498005",
+    "candidate": "revisions/alpha-audit-20260916/mushroom-basket-candidate.png",
+    "candidate_sha256": "a59ee7823289cb8dfd396582c7483e1730ce36cb73c9fd6f6d16abc78df986ae",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "fly-agaric",
+    "source": "masters/fly-agaric.png",
+    "source_sha256": "086c5b03b2bc49485459cdfd15b9db2b934f7bbe4c3684a296f4ac69fd955fa7",
+    "candidate": "revisions/alpha-audit-20260916/fly-agaric-candidate.png",
+    "candidate_sha256": "6c8bb01cbe08fa513e6a7cd66ceb1a40de9e1ded08e8b74af02cad12ae95635d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "chanterelle",
+    "source": "masters/chanterelle.png",
+    "source_sha256": "f9eb1129dc3e61d34b55af164a00c361a5f0e70fec659a85311a6d822cf93d20",
+    "candidate": "revisions/alpha-audit-20260916/chanterelle-candidate.png",
+    "candidate_sha256": "7d39f3164cf2c86276292c820daabcab09c9c7051d24b595540606d7aaea1fa7",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "morel",
+    "source": "masters/morel.png",
+    "source_sha256": "f2d9d5ec7278188cadfb943d98a4de4307b1987ced37e6d73808a1577b7f984f",
+    "candidate": "revisions/alpha-audit-20260916/morel-candidate.png",
+    "candidate_sha256": "69f78763eb50274eec5cf75eeffb988427121146fac809231043a9581fa1f277",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "oyster-mushroom",
+    "source": "masters/oyster-mushroom.png",
+    "source_sha256": "5226ccec2542d26073522d3960518b3657d29b252f5bbcd83d5acb16da320d67",
+    "candidate": "revisions/alpha-audit-20260916/oyster-mushroom-candidate.png",
+    "candidate_sha256": "86b26b1ce2401ebb18363833bf2fc6962f95d5a45eff1ee567875e3b24b0490e",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "porcini",
+    "source": "masters/porcini.png",
+    "source_sha256": "e83915a023b2bfdc4f26a20fdc20e724941420ab739d8f528a6c28c07e75f965",
+    "candidate": "revisions/alpha-audit-20260916/porcini-candidate.png",
+    "candidate_sha256": "cc207c7d9c1df2925aa5b9edba70cb2dd4d0b231e4af1c5ae6ac67cfac9d9744",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "lions-mane-mushroom",
+    "source": "masters/lions-mane-mushroom.png",
+    "source_sha256": "000135d592f0a561f6fda5b08a6af3d51cf28e11da4096782a3e98845b0982eb",
+    "candidate": "revisions/alpha-audit-20260916/lions-mane-mushroom-candidate.png",
+    "candidate_sha256": "90c7fd67591f906a6803f2edbf2970803276bc73dfd7b53d51f6dec0f8f3fa6e",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "coral-fungus",
+    "source": "masters/coral-fungus.png",
+    "source_sha256": "3da312a6d0d7ab2e3548d0e32643e9c727857ec10f598bcc9fe01aa9389f71c7",
+    "candidate": "revisions/alpha-audit-20260916/coral-fungus-candidate.png",
+    "candidate_sha256": "c420a11dfbdd5f3e1fb5ad8fcc1dd7467d9bea3158a872ec6742e23ae252215e",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "foraging-knife",
+    "source": "masters/foraging-knife.png",
+    "source_sha256": "d8d10b1f8af468e97ccc0811959cea1e9c047d37bed36434f6fa988bfdf00d8a",
+    "candidate": "revisions/alpha-audit-20260916/foraging-knife-candidate.png",
+    "candidate_sha256": "4d595ceef3d4e6a5d78802af1d9afebb1324108ec69aca6ab82f002c3d0a2170",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "wild-blackberry-branch",
+    "source": "masters/wild-blackberry-branch.png",
+    "source_sha256": "51d923b61ef60dc539fc2c1b1bbf3ec9498d2c84da43e33ce87e977ada5e007d",
+    "candidate": "revisions/alpha-audit-20260916/wild-blackberry-branch-candidate.png",
+    "candidate_sha256": "dfd14d212a3adba47ddfb968b93416294b1a32b1701861d4f9bf1ed080906ec4",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "wild-chestnut",
+    "source": "masters/wild-chestnut.png",
+    "source_sha256": "9193fe5cc134a583dd70c906549c8354932f366dad74ceb889236646eb306f7c",
+    "candidate": "revisions/alpha-audit-20260916/wild-chestnut-candidate.png",
+    "candidate_sha256": "b537dd415b88c2d6d5a21c844fde1d410bb9dfed4f8a347da90432ce9399d90b",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "wild-rosehips",
+    "source": "masters/wild-rosehips.png",
+    "source_sha256": "9309d4517abb8a7169fdcddb4b8692c2d19761f8c0b2367f3f5bd65447516e6d",
+    "candidate": "revisions/alpha-audit-20260916/wild-rosehips-candidate.png",
+    "candidate_sha256": "32339bea1c37d06f7fafb34c654208644aa4b88648ef9cc6dde2aa540610e0d3",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "wild-garlic-bundle",
+    "source": "masters/wild-garlic-bundle.png",
+    "source_sha256": "fd6e836b1f6b7077d311d16bb523c85a308feddf8dd8a74b2ba25b1ac74141d3",
+    "candidate": "revisions/alpha-audit-20260916/wild-garlic-bundle-candidate.png",
+    "candidate_sha256": "e95dd348ef1987f40c50727bc04dfe77336fc0a2c5cdfd425ce6d2839e126ca8",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "fiddlehead-ferns",
+    "source": "masters/fiddlehead-ferns.png",
+    "source_sha256": "b7d1caaae6ad9d5d8402d19ed1093fb8480250d6e50a46671b0057a902f77d6b",
+    "candidate": "revisions/alpha-audit-20260916/fiddlehead-ferns-candidate.png",
+    "candidate_sha256": "081151217fdc18bbece53f86af8834d299dddeabc06ee71ce405fd7fc456770d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "foraging-field-guide",
+    "source": "masters/foraging-field-guide.png",
+    "source_sha256": "78f6a881c413367fc5fc2646c2108add791e49f51f68adf52cc4fd8f1751ead1",
+    "candidate": "revisions/alpha-audit-20260916/foraging-field-guide-candidate.png",
+    "candidate_sha256": "b6642734541e40792accbebe29d92685d1983b1b8fc6e1436d7130d1f07d4ac3",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "haworthia-pot",
+    "source": "masters/haworthia-pot.png",
+    "source_sha256": "84951f0223d3a11943c47ec9815c9076b91a2c8462007b8d61e47aba323fb1bc",
+    "candidate": "revisions/alpha-audit-20260916/haworthia-pot-candidate.png",
+    "candidate_sha256": "f9f20bfec7029502f580659ff11b9465ef0921dcda8c94bf5df0705c52409580",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "closed-jar-terrarium",
+    "source": "masters/closed-jar-terrarium.png",
+    "source_sha256": "95f1b6d93e153a340c4f3c4dd1cc82e3004e2c94ab6230877a256421f6ca1e75",
+    "candidate": "revisions/alpha-audit-20260916/closed-jar-terrarium-candidate.png",
+    "candidate_sha256": "2356620bcd9ff8fb8778db2720f38bf7ecc747afe0d6d789a45a761785d2f385",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "terrarium-tweezers",
+    "source": "masters/terrarium-tweezers.png",
+    "source_sha256": "5aa49a060eaf2293286ebe2a19b86c771fb518ab44b5f782d9231a8ec86b808c",
+    "candidate": "revisions/alpha-audit-20260916/terrarium-tweezers-candidate.png",
+    "candidate_sha256": "49c272f840e5ac40ee3788b8137e14b00652a282fcd2afe7e2ca5b1be3d211be",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "terrarium-mister",
+    "source": "masters/terrarium-mister.png",
+    "source_sha256": "335bf2b776452256ed206802ae15f188241cf7ced20300e47218a430a1b599c2",
+    "candidate": "revisions/alpha-audit-20260916/terrarium-mister-candidate.png",
+    "candidate_sha256": "2870caf2982a7ba76ef534f0640643237b83f6d2bb2eae68142ceec0c067ecf3",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "terrarium-pebbles",
+    "source": "masters/terrarium-pebbles.png",
+    "source_sha256": "453c9b9529b8d89fe704b90fa61f3126253f075a025b3217800bce7618b99be1",
+    "candidate": "revisions/alpha-audit-20260916/terrarium-pebbles-candidate.png",
+    "candidate_sha256": "f070f1747d5fd06c5b588c90898008e9b3a8839cde9ecaa4d7d5af5c1ae54d65",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "terrarium-moss",
+    "source": "masters/terrarium-moss.png",
+    "source_sha256": "78671e7b5552602b9b2297f6d8950cdeb85d74a567bb5b8cf778e538b63b1fc5",
+    "candidate": "revisions/alpha-audit-20260916/terrarium-moss-candidate.png",
+    "candidate_sha256": "b3fec1692cc376c91d3ababbb534b75de39dcd542b34b042916a9a393d3f2e1a",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "terrarium-charcoal",
+    "source": "masters/terrarium-charcoal.png",
+    "source_sha256": "cca8b7025b4bbceda3e8599a5b00e86b46958553ece503dfe9eac468eb2db211",
+    "candidate": "revisions/alpha-audit-20260916/terrarium-charcoal-candidate.png",
+    "candidate_sha256": "0ba70db41751bad458875de86a7ed41377b7760f60e1a89482ecea0596e52ce9",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "terrarium-funnel",
+    "source": "masters/terrarium-funnel.png",
+    "source_sha256": "a948743fe8a2097befb425cb436a6d947ac661eef6b1e02103985778d0df5a5e",
+    "candidate": "revisions/alpha-audit-20260916/terrarium-funnel-candidate.png",
+    "candidate_sha256": "9a4e81d49a586570b10d2d96b28d638946ea87f2178c722390bca50e97077eed",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "echeveria-pot",
+    "source": "masters/echeveria-pot.png",
+    "source_sha256": "3a48e919e1ce9c0866792162b2eb2be9889ae358a26c9c477c5473c1f184bd1f",
+    "candidate": "revisions/alpha-audit-20260916/echeveria-pot-candidate.png",
+    "candidate_sha256": "a57a1b978f40b683d037faec3774e0362be568f95b38e5ab75e7b55adc9ff51a",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "jade-plant-pot",
+    "source": "masters/jade-plant-pot.png",
+    "source_sha256": "57bf17e56279605354f352cc164bf0a4f8a70d43ed0f66aa25e6b0ee5b188d71",
+    "candidate": "revisions/alpha-audit-20260916/jade-plant-pot-candidate.png",
+    "candidate_sha256": "20fb4e6d87a6531831d80402a01b3a88ecfeb676388606d3e57c4911c93ac71a",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "string-of-pearls-pot",
+    "source": "masters/string-of-pearls-pot.png",
+    "source_sha256": "1559676ede47d5559170f5f4176e290a2b915f182efae828cdd23abdaeb0a7a7",
+    "candidate": "revisions/alpha-audit-20260916/string-of-pearls-pot-candidate.png",
+    "candidate_sha256": "2aba8b99ac6f46cb8c24e353a4a851856a54ab8591fa139e28f3c719f26e85fc",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "lithops-pot",
+    "source": "masters/lithops-pot.png",
+    "source_sha256": "e1c396a38adff91d8bb47fa54af75d1a704d6c7a2bc2ad1a061af578b2401403",
+    "candidate": "revisions/alpha-audit-20260916/lithops-pot-candidate.png",
+    "candidate_sha256": "75292103776e07217b2f8e3b11869f5f8b3edff2feee87eaadca420a4b70d39b",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "burros-tail-pot",
+    "source": "masters/burros-tail-pot.png",
+    "source_sha256": "f83e2d89a9e048f10c6da236dab6c58676c4d7b010b98d8362c85d7a4ef88de0",
+    "candidate": "revisions/alpha-audit-20260916/burros-tail-pot-candidate.png",
+    "candidate_sha256": "d5aaaa37da91a40a3a62a568edd095a8557a36c3345fb16e7c3c5eab620d9cef",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "panda-plant-pot",
+    "source": "masters/panda-plant-pot.png",
+    "source_sha256": "6efc6b1493702bb57470b7f4c309bf71c731773a1e9917954cf4f342e9c6b844",
+    "candidate": "revisions/alpha-audit-20260916/panda-plant-pot-candidate.png",
+    "candidate_sha256": "48f1a4c92974c01c8a4bbea7d52ec3ef70a51ff154ac6a9d2a26ba2eee4062d7",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "aeonium-pot",
+    "source": "masters/aeonium-pot.png",
+    "source_sha256": "5b826a81edef15e63129326446a618e0c8a541df5bb72d5ad48701e9dbba96ed",
+    "candidate": "revisions/alpha-audit-20260916/aeonium-pot-candidate.png",
+    "candidate_sha256": "583afc80f93540e3475c64b9db5ddbb1cc6e9f7890eb2844c94cc7f83c77e5ca",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "staghorn-coral",
+    "source": "masters/staghorn-coral.png",
+    "source_sha256": "a67aa8491b72a0c05093d12ec43710961bf8463f9ffec50694674803660d833e",
+    "candidate": "revisions/alpha-audit-20260916/staghorn-coral-candidate.png",
+    "candidate_sha256": "9f8b390c4223642270d8978405756533d8df973a50e0d9d67301d512403ba82b",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 6,
+    "removed_component_pixels": 12,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "snorkel-mask",
+    "source": "masters/snorkel-mask.png",
+    "source_sha256": "80740bb7d606273e9f7d8cb6b1bce4fc2bebfb2bafe81ff88c8836dbcf4bfd26",
+    "candidate": "revisions/alpha-audit-20260916/snorkel-mask-candidate.png",
+    "candidate_sha256": "eecfd1af8f03658f9fb14b14d3076c39921570324446e5101f9800c7be02dead",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "snorkel-tube",
+    "source": "masters/snorkel-tube.png",
+    "source_sha256": "3b7d8d80fbcc4d8e250709d1d4539fa2ac3c21a7614c507a8e43a9168cc7e364",
+    "candidate": "revisions/alpha-audit-20260916/snorkel-tube-candidate.png",
+    "candidate_sha256": "d7b0e6ef3528bb5ec623112d2eae617a427b1ffd3c71f7c3e342e46956883a37",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 33,
+    "removed_component_pixels": 87,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "swim-fins",
+    "source": "masters/swim-fins.png",
+    "source_sha256": "1e14014893b23038814bd3091523eee99035c9a58a52d5c281f1a5d92370aad0",
+    "candidate": "revisions/alpha-audit-20260916/swim-fins-candidate.png",
+    "candidate_sha256": "ad3e8ec2d741c39feb1fe6a4624866ec44ababadc9232e7cf2b51855b28aa347",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "dive-rashguard",
+    "source": "masters/dive-rashguard.png",
+    "source_sha256": "ff7149a5c8e0ad00223c37104724d16a541f51fee86812997f91535bf13a2c2b",
+    "candidate": "revisions/alpha-audit-20260916/dive-rashguard-candidate.png",
+    "candidate_sha256": "62f7801047d57eef274520373620d133f020f752f342cedcda2fa0796404f558",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 26,
+    "removed_component_pixels": 36,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "surface-marker-buoy",
+    "source": "masters/surface-marker-buoy.png",
+    "source_sha256": "7807c7413a57bbf4cc85575900274f5d46b400cd078d6f275202a1ada9d925c8",
+    "candidate": "revisions/alpha-audit-20260916/surface-marker-buoy-candidate.png",
+    "candidate_sha256": "9da2bb434b541689166f29868c7e2e00b9ad3b0b7f2e8969fafc35d5fd6a3a1b",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "underwater-camera",
+    "source": "masters/underwater-camera.png",
+    "source_sha256": "ed3e26bb275f62be31616dcec759f41a01b6baa4385c57f3ee7a8822d202d326",
+    "candidate": "revisions/alpha-audit-20260916/underwater-camera-candidate.png",
+    "candidate_sha256": "44a089a10918406b84771086f305625ec3fd166c6693594cd6ad3355e0a4e847",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 11,
+    "removed_component_pixels": 18,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "reef-id-slate",
+    "source": "masters/reef-id-slate.png",
+    "source_sha256": "7544d17fafd2db85d62a43fee9da718ec728287bf8f9e54a5c5ed03c9982152d",
+    "candidate": "revisions/alpha-audit-20260916/reef-id-slate-candidate.png",
+    "candidate_sha256": "2132df8d9f89b1acde4a9797dd187d00c5ae808db3b5c526f08646423e256d4c",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "brain-coral",
+    "source": "masters/brain-coral.png",
+    "source_sha256": "6b5f323cd4698815d3d5ba46ce0472c4aee9ce0ccb7d42214e26537e7196084c",
+    "candidate": "revisions/alpha-audit-20260916/brain-coral-candidate.png",
+    "candidate_sha256": "364ba63c444283a0540da54faa206975624cb57ea3315586015c0ef005fd19c9",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "table-coral",
+    "source": "masters/table-coral.png",
+    "source_sha256": "621380d8147c963218b1dad5be8cf5b46ea43d3883a72c8833d007febb16bc54",
+    "candidate": "revisions/alpha-audit-20260916/table-coral-candidate.png",
+    "candidate_sha256": "53a74ae211f3d4881f732d7dce5533abd0bbbbcbe0e72098f832aa4a8d93ab12",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "coral-nursery-tree",
+    "source": "masters/coral-nursery-tree.png",
+    "source_sha256": "bd1f6c57ef4f40118ba242e8fd7bb42f240ff19b3063753bf7d7477c57f2923e",
+    "candidate": "revisions/alpha-audit-20260916/coral-nursery-tree-candidate.png",
+    "candidate_sha256": "69e2a84bc2d8a0d3587dea6543a5af38dfda2a09d58509689d25400ced994b9e",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 70,
+    "removed_component_pixels": 137,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "coral-frag-plug",
+    "source": "masters/coral-frag-plug.png",
+    "source_sha256": "b815b54e12108b498f9d9ab5b51b910b2c4440e08be670e024ef3d5bba8b565c",
+    "candidate": "revisions/alpha-audit-20260916/coral-frag-plug-candidate.png",
+    "candidate_sha256": "ebab4b612b8caa57270f50b03d7ec3598316ddfd53b7a553a99248c0038f1108",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 24,
+    "removed_component_pixels": 57,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "coral-cement-bucket",
+    "source": "masters/coral-cement-bucket.png",
+    "source_sha256": "c304879ca0295dfd3c4ffd3fad68192ce17172737b67daec291c9498adbe010c",
+    "candidate": "revisions/alpha-audit-20260916/coral-cement-bucket-candidate.png",
+    "candidate_sha256": "39d3c8e247b51daf5b3376b4e643e9d7ded89336247555daf7ee863e1d32efd7",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "coral-monitoring-quadrat",
+    "source": "masters/coral-monitoring-quadrat.png",
+    "source_sha256": "1ead006f12f8671ed7d16113a86125f56e04c5ccfa6df41059d4f71ca092e280",
+    "candidate": "revisions/alpha-audit-20260916/coral-monitoring-quadrat-candidate.png",
+    "candidate_sha256": "82a98166e74d151255934ef7bc6c4abb36c896339f46e9d7b587c95c9ba9cc01",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 55,
+    "removed_component_pixels": 60,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "coral-cleaning-brush",
+    "source": "masters/coral-cleaning-brush.png",
+    "source_sha256": "6db594f49a1213e18558af9c446f7f6bd31626140d70af9b29c5aaf3ac521bfb",
+    "candidate": "revisions/alpha-audit-20260916/coral-cleaning-brush-candidate.png",
+    "candidate_sha256": "004114be97e16c9d61f5b9758d454c8de0f9066bf5dbfa1d7f40223d9f3bd2fe",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "wax-seal-stamp",
+    "source": "masters/wax-seal-stamp.png",
+    "source_sha256": "67326be25dc0b1f1b3233119ba9c289607340925e11d28e19e0103d1de32663c",
+    "candidate": "revisions/alpha-audit-20260916/wax-seal-stamp-candidate.png",
+    "candidate_sha256": "0fd52455ccf7ecdfca24c5e09cebdc47432f0c3a1cbdf91eb5e951ea268f2d49",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "postal-mailbox",
+    "source": "masters/postal-mailbox.png",
+    "source_sha256": "36186ce61508c793e32fcc11646871ca33f31a02457ddaf6959d811da9478d32",
+    "candidate": "revisions/alpha-audit-20260916/postal-mailbox-candidate.png",
+    "candidate_sha256": "17aca2171b39c19885d5da7512ad734495298274d9916afda7f5147223868f5e",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 3,
+    "removed_component_pixels": 7,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "postal-satchel",
+    "source": "masters/postal-satchel.png",
+    "source_sha256": "4f9dd72d6c16400318fa97df991755c01fc5c475b7383abc13489c7f2cab202b",
+    "candidate": "revisions/alpha-audit-20260916/postal-satchel-candidate.png",
+    "candidate_sha256": "6c3f74197118ecb1003b1b7e66fd27d34c348bf2a29655bdc14d0c3f4edd2d21",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 10,
+    "removed_component_pixels": 10,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "postal-parcel",
+    "source": "masters/postal-parcel.png",
+    "source_sha256": "c3600ebd06f5a9d5782a6bfd618e9c7417858cf7fe9c750fc6c7e807943e1836",
+    "candidate": "revisions/alpha-audit-20260916/postal-parcel-candidate.png",
+    "candidate_sha256": "8bb921cbf308d69c7d35eaa09c2b9dc2c32a062f7dee46b1fb050530cf052682",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 1,
+    "removed_component_pixels": 1,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "postage-stamp-sheet",
+    "source": "masters/postage-stamp-sheet.png",
+    "source_sha256": "52fd292d179259d056d6ef4cfbd42ea7e6cc24fab952140fcc2ebe2ec74897c4",
+    "candidate": "revisions/alpha-audit-20260916/postage-stamp-sheet-candidate.png",
+    "candidate_sha256": "78b5b31a022a47c0ba6cfda91c8d875c0d548f92c48cb42f3e5f47103ac0d109",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 1,
+    "removed_component_pixels": 1,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "postal-scale",
+    "source": "masters/postal-scale.png",
+    "source_sha256": "2082e311cd8d367295544f3d8f912ad0dc02d6db7f627b56702548d82b135929",
+    "candidate": "revisions/alpha-audit-20260916/postal-scale-candidate.png",
+    "candidate_sha256": "d6b5ef9b321c2671e756ea3fcd8a33f898210721929a232041dfc55801ff0834",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 1,
+    "removed_component_pixels": 1,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "airmail-envelope",
+    "source": "masters/airmail-envelope.png",
+    "source_sha256": "a0cd671e0e24a12a1ea2a4360bf19bc5f7e858e523f5e33199696c37734986d3",
+    "candidate": "revisions/alpha-audit-20260916/airmail-envelope-candidate.png",
+    "candidate_sha256": "bd8d90b14378506900ea3d19c357ea0a8fe87ad5b050cc06db83546e4631a512",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 13,
+    "removed_component_pixels": 27,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "postmark-stamper",
+    "source": "masters/postmark-stamper.png",
+    "source_sha256": "4e74ec6b6be61d85d6c3b0398a388ab940d7d230404e92830119c595bf9addc8",
+    "candidate": "revisions/alpha-audit-20260916/postmark-stamper-candidate.png",
+    "candidate_sha256": "6e957c64cb627013d7f7dd5dc470259c6272b22fc46502b0ef75184ef4b58296",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 2,
+    "removed_component_pixels": 19,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "calligraphy-dip-pen",
+    "source": "masters/calligraphy-dip-pen.png",
+    "source_sha256": "3ce85833c1c8cff5200d9a6fb975e39102735a0e066e66c242d2bfe0ff0b1bb4",
+    "candidate": "revisions/alpha-audit-20260916/calligraphy-dip-pen-candidate.png",
+    "candidate_sha256": "0147c8c49167d8c730bfc737023a6a72efa0f40fc9ab8951430e4595c9f67bcc",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 2,
+    "removed_component_pixels": 2,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "calligraphy-ink-bottle",
+    "source": "masters/calligraphy-ink-bottle.png",
+    "source_sha256": "ef8fc1e3f84341b34a41c60e9f2f14dbdc17277ce84b6a2a9cbc5134e4ebed99",
+    "candidate": "revisions/alpha-audit-20260916/calligraphy-ink-bottle-candidate.png",
+    "candidate_sha256": "455d92b09206995df47233eb59387f6b04839b688915fba981b0a049b7ee3fd9",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "calligraphy-brush",
+    "source": "masters/calligraphy-brush.png",
+    "source_sha256": "2d3db09fb103d90dd216c481f01f2bc7845ef47b430a208a393e1df16f6e6904",
+    "candidate": "revisions/alpha-audit-20260916/calligraphy-brush-candidate.png",
+    "candidate_sha256": "b909d417f91f4b4c36e121c49a228bde13a357c8bbe2c69088b9127ede0b430f",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "calligraphy-inkstone",
+    "source": "masters/calligraphy-inkstone.png",
+    "source_sha256": "d58ee97fbd7b51fba4a5bcd68ee848eac9e21b08dcb4f9f03f99dec446e8aea2",
+    "candidate": "revisions/alpha-audit-20260916/calligraphy-inkstone-candidate.png",
+    "candidate_sha256": "cea76320da85d67227139872f77505f9295afe51110ca9624e3a2185b605f501",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "calligraphy-paper-scroll",
+    "source": "masters/calligraphy-paper-scroll.png",
+    "source_sha256": "0699e8a02f46e3040c841d2ef677f9dd824a8bcf89982a3d9d41dd2bfeec906a",
+    "candidate": "revisions/alpha-audit-20260916/calligraphy-paper-scroll-candidate.png",
+    "candidate_sha256": "30f0942b9c30a3e6d7d0a387d12a54cb8bc0de875f0eff2cd7669f216ccb7f02",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 19,
+    "removed_component_pixels": 29,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "calligraphy-pen-rest",
+    "source": "masters/calligraphy-pen-rest.png",
+    "source_sha256": "084b8be3a45482b1838d78225b32803eb860524714e0b85d239c95f1416932b9",
+    "candidate": "revisions/alpha-audit-20260916/calligraphy-pen-rest-candidate.png",
+    "candidate_sha256": "85bc67e03cde478cb930d0ba93bda063841ad783fc660280379ef31432e120cd",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "calligraphy-nib-tin",
+    "source": "masters/calligraphy-nib-tin.png",
+    "source_sha256": "a07c6f273a6062e3199bf4c84aca8947031ea2ed5e3071cf9b3ff949c01605ee",
+    "candidate": "revisions/alpha-audit-20260916/calligraphy-nib-tin-candidate.png",
+    "candidate_sha256": "4dfed4c78643da85969c898c5070724e59ac34ede79b2a23b267931f8ac15745",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 11,
+    "removed_component_pixels": 14,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "glass-thermometer",
+    "source": "masters/glass-thermometer.png",
+    "source_sha256": "d324511c6046cc6542ae61921947caba39b1deb81e4da71ffe89c7ebca3a2efb",
+    "candidate": "revisions/alpha-audit-20260916/glass-thermometer-candidate.png",
+    "candidate_sha256": "61a25dfb24e84ffd0e903679a3127da246c8a78e0d41d24c3d2520d382c3242b",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 1,
+    "removed_component_pixels": 1,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "lab-microscope",
+    "source": "masters/lab-microscope.png",
+    "source_sha256": "543a34e93fec7b43dc9905605cf914e99c36e28d3e72b65c02ed0c3e4b5ccd8c",
+    "candidate": "revisions/alpha-audit-20260916/lab-microscope-candidate.png",
+    "candidate_sha256": "500fb2749f38b71e758352722210d40812e5df8b5cf2d5b021271ce00a8c44ee",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 2,
+    "removed_component_pixels": 2,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "lab-test-tube-rack",
+    "source": "masters/lab-test-tube-rack.png",
+    "source_sha256": "20203c8d4d6fe08b8070f3155911b81687e5b8b49cc760e2a4f7d25bfeb93f0a",
+    "candidate": "revisions/alpha-audit-20260916/lab-test-tube-rack-candidate.png",
+    "candidate_sha256": "feddbf7c7998d942e8a13c12c1c0c9a838b2ea3abc000560ab0f6a04300a2d7f",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 18,
+    "removed_component_pixels": 29,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "lab-erlenmeyer-flask",
+    "source": "masters/lab-erlenmeyer-flask.png",
+    "source_sha256": "691d688b9f6352fbacb07d4dfccba25177035a4616ffe3d9d8528eb7654072be",
+    "candidate": "revisions/alpha-audit-20260916/lab-erlenmeyer-flask-candidate.png",
+    "candidate_sha256": "d35a76911b7964356a5d8a5b03e101f01d90929b4584b4df436fd4e495928603",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 1,
+    "removed_component_pixels": 1,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "lab-petri-dish",
+    "source": "masters/lab-petri-dish.png",
+    "source_sha256": "3adbff8f4d9da667e3421065c604f3d9100e37fb10416963eed920ca1d325233",
+    "candidate": "revisions/alpha-audit-20260916/lab-petri-dish-candidate.png",
+    "candidate_sha256": "0bfb1221d757b76aad3c2028899e3a6764d6a71c64fd5b03093a4b2814bf306e",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 14,
+    "removed_component_pixels": 69,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "lab-pipette",
+    "source": "masters/lab-pipette.png",
+    "source_sha256": "16607b293aeeea3df6eb544b913925e26f857cafab1f95f58b3b8c9fd158ebf7",
+    "candidate": "revisions/alpha-audit-20260916/lab-pipette-candidate.png",
+    "candidate_sha256": "7f6e4ba5578a689bd2c6744ad6b82c05747b1efda68926a54c2865655c124127",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "lab-centrifuge",
+    "source": "masters/lab-centrifuge.png",
+    "source_sha256": "55e7e123bc2e181a2c9d8d9784d87e24c4ce0285e54fcd155b958673c5de09e1",
+    "candidate": "revisions/alpha-audit-20260916/lab-centrifuge-candidate.png",
+    "candidate_sha256": "0310342656926cc30a6804aa8bd5f5ae340c0b3fbcd0ddd85dce4750951b08b6",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "lab-safety-goggles",
+    "source": "masters/lab-safety-goggles.png",
+    "source_sha256": "5155ace2e8eab3ea89363a2fc251c5b99a66cfbbafe421eea972793f6914b4fc",
+    "candidate": "revisions/alpha-audit-20260916/lab-safety-goggles-candidate.png",
+    "candidate_sha256": "81be899a2b245d6722d96774c94c99068402aea8e5150788667007ac02caa412",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 1,
+    "removed_component_pixels": 1,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "weather-anemometer",
+    "source": "masters/weather-anemometer.png",
+    "source_sha256": "1e04da398d32c8f4ec950219a98b9cd6ca8d02458729402a4b1b9d8a4acd29c3",
+    "candidate": "revisions/alpha-audit-20260916/weather-anemometer-candidate.png",
+    "candidate_sha256": "45d26762c64cab9394d946187eaad37f7d32b6281d74ed2540af41102381d92c",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "weather-wind-vane",
+    "source": "masters/weather-wind-vane.png",
+    "source_sha256": "6494978616d0d4c9ee0a3a0591ff55fb56b101ec002fccf03d629be8b72314f4",
+    "candidate": "revisions/alpha-audit-20260916/weather-wind-vane-candidate.png",
+    "candidate_sha256": "ed3b8d2dcae9e7a0a7b6e04bae3685e7cb8e34411ebfeea6ebe63f7bcca25648",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 2,
+    "removed_component_pixels": 2,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "weather-rain-gauge",
+    "source": "masters/weather-rain-gauge.png",
+    "source_sha256": "07151581cad867751d6cbd38c78309a7078227a494e7f76b5e91a48e4b04b5e8",
+    "candidate": "revisions/alpha-audit-20260916/weather-rain-gauge-candidate.png",
+    "candidate_sha256": "c8b17471ae2b7d3f8f16173f29e3179075e011c10ad8cc639d578eba0c21bf29",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "weather-barometer",
+    "source": "masters/weather-barometer.png",
+    "source_sha256": "de95d1c6958744225c535f712398e284d7df4d168439ebf8b2cf8c09d6a06c85",
+    "candidate": "revisions/alpha-audit-20260916/weather-barometer-candidate.png",
+    "candidate_sha256": "61be02097c9413576f367054b620584da5ec75fb42ca585faee46f364c7725aa",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "weather-balloon",
+    "source": "masters/weather-balloon.png",
+    "source_sha256": "aca7184b0922972bbca882b5f6ae286550f5a878b8d3a1dffcd3a95f6bc5d564",
+    "candidate": "revisions/alpha-audit-20260916/weather-balloon-candidate.png",
+    "candidate_sha256": "a09ead02a3b4c1ed27297a3827a396a4a69a88d7655b101f4d5a1108b5c5a052",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 10,
+    "removed_component_pixels": 10,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "weather-windsock",
+    "source": "masters/weather-windsock.png",
+    "source_sha256": "f789904da0ec84ed654dfef1ffc7e9a2e625ef6b3ddad1368dc9f213bd1fa76a",
+    "candidate": "revisions/alpha-audit-20260916/weather-windsock-candidate.png",
+    "candidate_sha256": "a69603481308cb11ad541ad8a341a8e6f95de3237393d92cd13affcd06817116",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 7,
+    "removed_component_pixels": 11,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "weather-shelter",
+    "source": "masters/weather-shelter.png",
+    "source_sha256": "c56642ebb5c90b0542ac85253333671f40c364156e1c63423ab6aff38b331c1d",
+    "candidate": "revisions/alpha-audit-20260916/weather-shelter-candidate.png",
+    "candidate_sha256": "5904dfd75c729f7f7c78f241726c33711d5dda6be6b4b71dfadff3a87b764710",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "snare-drum",
+    "source": "masters/snare-drum.png",
+    "source_sha256": "0aa04f6dfbce8171d2b413e4a2b172fd8452c9035c4db33d88e31c9791f0ff27",
+    "candidate": "revisions/alpha-audit-20260916/snare-drum-candidate.png",
+    "candidate_sha256": "b9b0537eed63dc7d454961c377c18f03e051bf2d15b25eefc773a683d5c2acf3",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "djembe",
+    "source": "masters/djembe.png",
+    "source_sha256": "531466b2b45e04eb3504cacb382603d06f19012b84f07f6d0a58a5326d92cd74",
+    "candidate": "revisions/alpha-audit-20260916/djembe-candidate.png",
+    "candidate_sha256": "3762a5775d04b890d6d8431a34e44c87d296e85db7a23384f1ae507c53f0db8c",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "bongos",
+    "source": "masters/bongos.png",
+    "source_sha256": "d5fed6c4220623cf8d7b876526ce4f3dd2c79cce676d1230ec68edd5e216dd64",
+    "candidate": "revisions/alpha-audit-20260916/bongos-candidate.png",
+    "candidate_sha256": "ab7425f8880e3898664882dcab6e749d6b1a2635c4130137bcd7b51421c7f988",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 6,
+    "removed_component_pixels": 20,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "tambourine",
+    "source": "masters/tambourine.png",
+    "source_sha256": "9e225800ac7b4ff1e7f0059f64f7de6cead502216183a2591dc06bf46742a72d",
+    "candidate": "revisions/alpha-audit-20260916/tambourine-candidate.png",
+    "candidate_sha256": "c221b4c48970bde4acdfa44b57bf559d90c5620f28bf026abf514a13e3e9e888",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "maracas",
+    "source": "masters/maracas.png",
+    "source_sha256": "4b8a15759d5d259b6dcf6d978c3a79c45c5c333ac571e3679cb9bf565ae7257f",
+    "candidate": "revisions/alpha-audit-20260916/maracas-candidate.png",
+    "candidate_sha256": "d592604961bc0b849b4eba6ff7914c88da4fa490376b135e1f42af74213d5ed5",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "triangle-instrument",
+    "source": "masters/triangle-instrument.png",
+    "source_sha256": "4f96a9398377045604f013064a092b6e03065967f236cfd3189fac6615077693",
+    "candidate": "revisions/alpha-audit-20260916/triangle-instrument-candidate.png",
+    "candidate_sha256": "785d33f80bdc4d67440050a8ce12083a074f4d9023bccdb81c0eaf919c768014",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "kalimba",
+    "source": "masters/kalimba.png",
+    "source_sha256": "85ced29c55dc829a4dcb93517f6523e67e0c86b55a32da3fc714b5247a454144",
+    "candidate": "revisions/alpha-audit-20260916/kalimba-candidate.png",
+    "candidate_sha256": "92fc090e54857b446d95439067fac7b3d4803ebcd14b3815e3df31eb97acf1c4",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 3,
+    "removed_component_pixels": 10,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "handpan",
+    "source": "masters/handpan.png",
+    "source_sha256": "038cc86dfd78c152ceb711ef236b865af6fa3e04e56fc7b73e198aaa8713234f",
+    "candidate": "revisions/alpha-audit-20260916/handpan-candidate.png",
+    "candidate_sha256": "2d34281fb67e95671dda5550a787e76531b141ac2a881b30c70cf0919a09ca2a",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "marching-bass-drum",
+    "source": "masters/marching-bass-drum.png",
+    "source_sha256": "7ec0219f1212618c7f62f79c5eb10f848704cf58f159771b8ed6326b91a2d895",
+    "candidate": "revisions/alpha-audit-20260916/marching-bass-drum-candidate.png",
+    "candidate_sha256": "a9dd46f15461786907e80941eaed5a989c67d4c4de1ccf8a90cb6240214dd4e4",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 1,
+    "removed_component_pixels": 1,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "marching-sousaphone",
+    "source": "masters/marching-sousaphone.png",
+    "source_sha256": "d8cc7ec278a1736d4253e3ffd30cadc048a3610bb117ad78e7010c25459122cc",
+    "candidate": "revisions/alpha-audit-20260916/marching-sousaphone-candidate.png",
+    "candidate_sha256": "43d1c5531c2bc8765948a3ee01a86a0b88cf3ac6fd0a4a482723582e31d8536e",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "marching-trumpet",
+    "source": "masters/marching-trumpet.png",
+    "source_sha256": "283bb2e5c6e700bd34d790269a0932be9aa1f5e67254e09b937017650cabd480",
+    "candidate": "revisions/alpha-audit-20260916/marching-trumpet-candidate.png",
+    "candidate_sha256": "1aa4926b5014778d7ff79368799fb5e43f24da5efb3747e8ccf5159b6a0f0b09",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 5,
+    "removed_component_pixels": 8,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "marching-clarinet",
+    "source": "masters/marching-clarinet.png",
+    "source_sha256": "224af34364b00e0dc55eb457264631176e78972d1d0347d58315bc35031e8816",
+    "candidate": "revisions/alpha-audit-20260916/marching-clarinet-candidate.png",
+    "candidate_sha256": "9aaed336cb9c30ad6d01550f0ed2007a85751b3fc31e8216ec6cc10b1b60c955",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "marching-cymbals",
+    "source": "masters/marching-cymbals.png",
+    "source_sha256": "7bdcb878252d45471dd4adf6036bacd00cfe6286fb7fc45d9c20364ecd9700dc",
+    "candidate": "revisions/alpha-audit-20260916/marching-cymbals-candidate.png",
+    "candidate_sha256": "2de4809b85d4bd27f71ca3df26c568455c341a28cbd1b2f1cdab91d07d3c2f55",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "band-shako",
+    "source": "masters/band-shako.png",
+    "source_sha256": "b42e614cba17f8160149cc8a408dae78ccf091e02211ac29574198a04e587530",
+    "candidate": "revisions/alpha-audit-20260916/band-shako-candidate.png",
+    "candidate_sha256": "eca89df1d3cbb0e6607c6a945eaf352feef329df2ba7dc1f02985723c11eb884",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "drum-major-mace",
+    "source": "masters/drum-major-mace.png",
+    "source_sha256": "20cd5b713f9d7681249a114c5ff47599f44a8962d611744b72e346bdaeff4b34",
+    "candidate": "revisions/alpha-audit-20260916/drum-major-mace-candidate.png",
+    "candidate_sha256": "8b3ebecaed3e8d7528ab98af108653e21cff3c48198d28b37589a8212f338478",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 1,
+    "removed_component_pixels": 1,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "ladybird",
+    "source": "masters/ladybird.png",
+    "source_sha256": "4b13a0845e90e01a34b906c7a2f29e1d7c9429a4b6076f1ed1a0b538113604f2",
+    "candidate": "revisions/alpha-audit-20260916/ladybird-candidate.png",
+    "candidate_sha256": "d645ea97885f8fe750ab5b36437798372740ef8ab6cfdc7fd48ad71072f792d6",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 3,
+    "removed_component_pixels": 7,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "praying-mantis",
+    "source": "masters/praying-mantis.png",
+    "source_sha256": "081d3c824366e4b12a6aaf05b3d11fc9da2b6574247bba47913f94b1f70b5145",
+    "candidate": "revisions/alpha-audit-20260916/praying-mantis-candidate.png",
+    "candidate_sha256": "edd89ee1d28bd385fdf46edec50347e9708d324f3b9ed9936421a1ae3714da93",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "dragonfly",
+    "source": "masters/dragonfly.png",
+    "source_sha256": "0c23c02006fdb41a78196c43c3f66ae0647d1e78f7b009e5b4fce16107f9e1b9",
+    "candidate": "revisions/alpha-audit-20260916/dragonfly-candidate.png",
+    "candidate_sha256": "c34eac41db770b4629f352aacb80a85e89e6f6a326320b65d04b8c3db104fb62",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "grasshopper",
+    "source": "masters/grasshopper.png",
+    "source_sha256": "08ff8777391ff25685c25e946bc4109cf20553632df72e38ae5335fbbb406e49",
+    "candidate": "revisions/alpha-audit-20260916/grasshopper-candidate.png",
+    "candidate_sha256": "2a326e4bff0b279a00b802db88b8dc283ddcc389bc4ac0edf17f3a950269c0b6",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 47,
+    "removed_component_pixels": 116,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "stag-beetle",
+    "source": "masters/stag-beetle.png",
+    "source_sha256": "95d23ff6af42e1d338709cbacbce3988bad649f05ab54b2f88ea6be21f47d70f",
+    "candidate": "revisions/alpha-audit-20260916/stag-beetle-candidate.png",
+    "candidate_sha256": "e0a59a6363db639fd361d514a222acfdf083a5bdaea38a663d26c5eb2fbe7070",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 38,
+    "removed_component_pixels": 115,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "leaf-insect",
+    "source": "masters/leaf-insect.png",
+    "source_sha256": "4b089681ecc6196c79f4617ab0c725f56a44355c9880a93b7f509f53111448ac",
+    "candidate": "revisions/alpha-audit-20260916/leaf-insect-candidate.png",
+    "candidate_sha256": "0d0b0c57bcc9f3cf6fd45306cdb48ca351d1435023c1b6ffa060a8d47772773a",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 26,
+    "removed_component_pixels": 52,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "rhinoceros-beetle",
+    "source": "masters/rhinoceros-beetle.png",
+    "source_sha256": "8a1dc103721100e520a88fcb7a365c73c2a16935d743072b1467a1329f5d0a76",
+    "candidate": "revisions/alpha-audit-20260916/rhinoceros-beetle-candidate.png",
+    "candidate_sha256": "de5f9916cee93fc3feafde4fd6b2b06542941cdfbf6c9c46c62e2e32e4a91475",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 4,
+    "removed_component_pixels": 5,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "lacewing",
+    "source": "masters/lacewing.png",
+    "source_sha256": "42585b718f568010eec12bb3a408ad7e410d04cd453496e78e644c25d8e49653",
+    "candidate": "revisions/alpha-audit-20260916/lacewing-candidate.png",
+    "candidate_sha256": "7f0ac955ffa9fa191118bd1388cd225344438bfee4079fe9303969ddfec947f1",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "reptile-glass-enclosure",
+    "source": "masters/reptile-glass-enclosure.png",
+    "source_sha256": "8edfc1504b8e57227dce0dbc21009164642895df79190d46ed64d1d84c4fbd6a",
+    "candidate": "revisions/alpha-audit-20260916/reptile-glass-enclosure-candidate.png",
+    "candidate_sha256": "98c64a29e7ec669a9df9ee5c14f25500a87a9578cbe97ef706a0ee1f4882c313",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "reptile-heat-lamp",
+    "source": "masters/reptile-heat-lamp.png",
+    "source_sha256": "9ba39e12250bcdb444f668563ee9398c563b993eb9392511898139719976f6de",
+    "candidate": "revisions/alpha-audit-20260916/reptile-heat-lamp-candidate.png",
+    "candidate_sha256": "9623e48bb7e402e6df353719bcbee8d42edfea37d83a441b8c5550730c5e38d1",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "reptile-hide-cave",
+    "source": "masters/reptile-hide-cave.png",
+    "source_sha256": "a6b7ac466cc4f5899e47b0e40cbbbb79a8b647db83c0475fe9c124d1ab415c20",
+    "candidate": "revisions/alpha-audit-20260916/reptile-hide-cave-candidate.png",
+    "candidate_sha256": "646cc4d758d08ec07471df48bf6855368111dea11a906e407d2dbd2ee6f973ef",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "reptile-water-dish",
+    "source": "masters/reptile-water-dish.png",
+    "source_sha256": "a2bc824ae1f9adbd6ca5978c5beeba6d8c2c0545a79571db88f2add8869926dd",
+    "candidate": "revisions/alpha-audit-20260916/reptile-water-dish-candidate.png",
+    "candidate_sha256": "26040c3d0507e4d73b7fd116f7ca06a50d81a729d668901180af922373026c0d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 24,
+    "removed_component_pixels": 44,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "reptile-cork-tunnel",
+    "source": "masters/reptile-cork-tunnel.png",
+    "source_sha256": "aa27a95ae6b26a8c0e54572e4cb37403bff2e20e2434ae6de1c4de0b820c39e2",
+    "candidate": "revisions/alpha-audit-20260916/reptile-cork-tunnel-candidate.png",
+    "candidate_sha256": "15ac4cdcd854bd94e029979837756f9947ecdec7c6bbccc28abfa8b599068acd",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "reptile-climbing-branch",
+    "source": "masters/reptile-climbing-branch.png",
+    "source_sha256": "cf702d1407b9bdc82ecf4744299babdbcef7e9ec123d5aee437888bb0d2074de",
+    "candidate": "revisions/alpha-audit-20260916/reptile-climbing-branch-candidate.png",
+    "candidate_sha256": "327ab82d0abc4c65530201297cf268ef4c9aadcfb0e1e8c7990c02e1b63b94c0",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "reptile-hygrometer",
+    "source": "masters/reptile-hygrometer.png",
+    "source_sha256": "b6f92d78cb32e49b06effb459fe901e457a51078be66276fb69b56d85ffa6a26",
+    "candidate": "revisions/alpha-audit-20260916/reptile-hygrometer-candidate.png",
+    "candidate_sha256": "44c35ad68739a2d0117058f483a1c7652fde97e2f6ffbce47990e907a6deefb7",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "reptile-feeding-tongs",
+    "source": "masters/reptile-feeding-tongs.png",
+    "source_sha256": "f76f5d893b30534144c1e2bbccad79fce423626f5664ef82d20c969708475ea6",
+    "candidate": "revisions/alpha-audit-20260916/reptile-feeding-tongs-candidate.png",
+    "candidate_sha256": "14e55b7d2d4655e79f0b25b83515f0ab46c076740627774f18afea10c94645ff",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "wetland-cattails",
+    "source": "masters/wetland-cattails.png",
+    "source_sha256": "81b380af566ca2f1c073432672ce7ad4c22a85dce59e2707d8a7ec8386d07714",
+    "candidate": "revisions/alpha-audit-20260916/wetland-cattails-candidate.png",
+    "candidate_sha256": "aa5cea8962013e4d69bc505b2508a10d2397f60c9216e47856f02ab80443096a",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "wetland-water-lily",
+    "source": "masters/wetland-water-lily.png",
+    "source_sha256": "89427a86fdb9b9e3accfc35f426cd100fa6b9022ce058b77adb3e03c277f12b7",
+    "candidate": "revisions/alpha-audit-20260916/wetland-water-lily-candidate.png",
+    "candidate_sha256": "4e142aa6747ff07267d09a1422d966a49a75c96dca20b87237fe8e666e7a2fd4",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "wetland-kingfisher",
+    "source": "masters/wetland-kingfisher.png",
+    "source_sha256": "d25aca76013665efad1bf7531f62e19fd854a84e36bca8b9f379e710b691d82c",
+    "candidate": "revisions/alpha-audit-20260916/wetland-kingfisher-candidate.png",
+    "candidate_sha256": "ed6ea8907882d1e4f73b955dfaf6f8231120aa8f1e800cc9b77c9c10808ab4e3",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "wetland-heron",
+    "source": "masters/wetland-heron.png",
+    "source_sha256": "70064c5633fb9d3d3c337ef60d1920968ee33aeb965d9636c28bac75d63c7255",
+    "candidate": "revisions/alpha-audit-20260916/wetland-heron-candidate.png",
+    "candidate_sha256": "70064c5633fb9d3d3c337ef60d1920968ee33aeb965d9636c28bac75d63c7255",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "wetland-otter",
+    "source": "masters/wetland-otter.png",
+    "source_sha256": "7f1a466c939846f762f1cbbfd8192a00ff1530e3decb1f55a30039935429d5c0",
+    "candidate": "revisions/alpha-audit-20260916/wetland-otter-candidate.png",
+    "candidate_sha256": "f0c55d3c6922a24013521a1ddfdbcd99ddea788056270e1ab5573d86c399c041",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 19,
+    "removed_component_pixels": 36,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "wetland-beaver",
+    "source": "masters/wetland-beaver.png",
+    "source_sha256": "a1a0aa706810a9533b8919632e0ee4bfdf4ecdc2b70227e190f805ecd22cca18",
+    "candidate": "revisions/alpha-audit-20260916/wetland-beaver-candidate.png",
+    "candidate_sha256": "a1a0aa706810a9533b8919632e0ee4bfdf4ecdc2b70227e190f805ecd22cca18",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "wetland-water-strider",
+    "source": "masters/wetland-water-strider.png",
+    "source_sha256": "bbaa9ca0f0560b3794e5558374fa0affc9cff666b730c77c6c630a2f7dd86e65",
+    "candidate": "revisions/alpha-audit-20260916/wetland-water-strider-candidate.png",
+    "candidate_sha256": "bbaa9ca0f0560b3794e5558374fa0affc9cff666b730c77c6c630a2f7dd86e65",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "wetland-muskrat",
+    "source": "masters/wetland-muskrat.png",
+    "source_sha256": "21cc474566e1daa6580655d2ce779558254d025c86c69ef3448d1bb412f8c2db",
+    "candidate": "revisions/alpha-audit-20260916/wetland-muskrat-candidate.png",
+    "candidate_sha256": "21cc474566e1daa6580655d2ce779558254d025c86c69ef3448d1bb412f8c2db",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "mezze-hummus",
+    "source": "masters/mezze-hummus.png",
+    "source_sha256": "8fdf2ff039614ff164043198f4255d4a4f0c243fd36758b4b347bf408301f875",
+    "candidate": "revisions/alpha-audit-20260916/mezze-hummus-candidate.png",
+    "candidate_sha256": "041c37bf15401ae22465b42ade4cf397d9b7b9ce21fc056a4b80cbb24a23e058",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 32,
+    "removed_component_pixels": 387,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "mezze-falafel",
+    "source": "masters/mezze-falafel.png",
+    "source_sha256": "f11e2d45e3eafeba7dfb809d617a2eca69db850b4b2d308c1b6dd665539b1b37",
+    "candidate": "revisions/alpha-audit-20260916/mezze-falafel-candidate.png",
+    "candidate_sha256": "9fb80a7183439a74e5234ec82a6df771c5adbb4255788f238dc990005fe57007",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 5,
+    "removed_component_pixels": 6,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "mezze-pita",
+    "source": "masters/mezze-pita.png",
+    "source_sha256": "6f5167b4de8da3a7a8c962656b034b95fc9b554def10e4a6cbf59f21c66c05eb",
+    "candidate": "revisions/alpha-audit-20260916/mezze-pita-candidate.png",
+    "candidate_sha256": "6f5167b4de8da3a7a8c962656b034b95fc9b554def10e4a6cbf59f21c66c05eb",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "mezze-dolma",
+    "source": "masters/mezze-dolma.png",
+    "source_sha256": "647f120ba91bcbbb7c8acbbebbe8c39a62b3124f2f7be9d4ee809e0829360f40",
+    "candidate": "revisions/alpha-audit-20260916/mezze-dolma-candidate.png",
+    "candidate_sha256": "647f120ba91bcbbb7c8acbbebbe8c39a62b3124f2f7be9d4ee809e0829360f40",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "mezze-tzatziki",
+    "source": "masters/mezze-tzatziki.png",
+    "source_sha256": "832ce84513bc04d6ff12bc2d7ab25b4fd628d5b2022b03e8f30c0fcbd086db5e",
+    "candidate": "revisions/alpha-audit-20260916/mezze-tzatziki-candidate.png",
+    "candidate_sha256": "832ce84513bc04d6ff12bc2d7ab25b4fd628d5b2022b03e8f30c0fcbd086db5e",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "mezze-olive-dish",
+    "source": "masters/mezze-olive-dish.png",
+    "source_sha256": "f3622028a218b9497dc484573b7dd575c822e34a2727f6e97cd8d3bc96be8b2e",
+    "candidate": "revisions/alpha-audit-20260916/mezze-olive-dish-candidate.png",
+    "candidate_sha256": "f3622028a218b9497dc484573b7dd575c822e34a2727f6e97cd8d3bc96be8b2e",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "mezze-baba-ganoush",
+    "source": "masters/mezze-baba-ganoush.png",
+    "source_sha256": "d48213053fb20c6125473a23b71ef10371c0c5f87742134eda620c96cc440a59",
+    "candidate": "revisions/alpha-audit-20260916/mezze-baba-ganoush-candidate.png",
+    "candidate_sha256": "6c4622540c8785ba63391a76110c043fb710d2a925883f0d0d022e20fd320667",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "mezze-halloumi",
+    "source": "masters/mezze-halloumi.png",
+    "source_sha256": "282e16b1d39578c1a11fe2604802bce95e68ae9112ec7c1354bad6187fe36aa2",
+    "candidate": "revisions/alpha-audit-20260916/mezze-halloumi-candidate.png",
+    "candidate_sha256": "fed96b1c2a2ec0a3427c402c6da09ea6d1e68cfaf418846e1ff49ccc56241f48",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "picnic-hamper",
+    "source": "masters/picnic-hamper.png",
+    "source_sha256": "2a45ee656ac94fa8f71db81fe3674aa9b358edfd8bd96ae599fa11d3ee7a3c5c",
+    "candidate": "revisions/alpha-audit-20260916/picnic-hamper-candidate.png",
+    "candidate_sha256": "d69c46b822098922e6f5ef2d5528f85b7b6c69aff04ef79054ef881e7e80b1c9",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "picnic-checkered-cloth",
+    "source": "masters/picnic-checkered-cloth.png",
+    "source_sha256": "11245005ecd38db6d9c80bdf7d6fe98d928e91d3a37d2bec54484e9d94f81fa7",
+    "candidate": "revisions/alpha-audit-20260916/picnic-checkered-cloth-candidate.png",
+    "candidate_sha256": "71644201b1c2026d306461912d70e1319d567694c98a25b6d9ffc92fecd3cb35",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": true,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "picnic-sandwich-wrap",
+    "source": "masters/picnic-sandwich-wrap.png",
+    "source_sha256": "2fc188be1b61cb2528b63fb7978faa6f67f836a099bb0de3954c03c5cbfc0f18",
+    "candidate": "revisions/alpha-audit-20260916/picnic-sandwich-wrap-candidate.png",
+    "candidate_sha256": "db1259f6f16e413cc8dcbd31339f0bf8d738eee26ffd3da4d351135fa6724abd",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 8,
+    "removed_component_pixels": 12,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "picnic-lemonade-dispenser",
+    "source": "masters/picnic-lemonade-dispenser.png",
+    "source_sha256": "6ec5effd4a72000093a5eee480f78e78d98dcebc3a0a38a44d45ceb40c2cd5d2",
+    "candidate": "revisions/alpha-audit-20260916/picnic-lemonade-dispenser-candidate.png",
+    "candidate_sha256": "6ec5effd4a72000093a5eee480f78e78d98dcebc3a0a38a44d45ceb40c2cd5d2",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "picnic-bento-box",
+    "source": "masters/picnic-bento-box.png",
+    "source_sha256": "31ee4dccb67bdf47f872fda1884ed19267b8d6576cdb2dbbee68300d7b493a16",
+    "candidate": "revisions/alpha-audit-20260916/picnic-bento-box-candidate.png",
+    "candidate_sha256": "31ee4dccb67bdf47f872fda1884ed19267b8d6576cdb2dbbee68300d7b493a16",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "picnic-insulated-flask",
+    "source": "masters/picnic-insulated-flask.png",
+    "source_sha256": "2138c940bf04c3fa16f5370579ffef33aeff458141aec7a63e72c612e5b35df4",
+    "candidate": "revisions/alpha-audit-20260916/picnic-insulated-flask-candidate.png",
+    "candidate_sha256": "2138c940bf04c3fa16f5370579ffef33aeff458141aec7a63e72c612e5b35df4",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "picnic-reusable-cutlery",
+    "source": "masters/picnic-reusable-cutlery.png",
+    "source_sha256": "60c324179b8560ed66ac882bb88e32bc855efbfce5d9db41d5bea252015da5d4",
+    "candidate": "revisions/alpha-audit-20260916/picnic-reusable-cutlery-candidate.png",
+    "candidate_sha256": "60c324179b8560ed66ac882bb88e32bc855efbfce5d9db41d5bea252015da5d4",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  },
+  {
+    "id": "picnic-grass-mat",
+    "source": "masters/picnic-grass-mat.png",
+    "source_sha256": "958ef44d3cb08e92acd49075ebe117031ff9d42423aacdf6455501400342a9e9",
+    "candidate": "revisions/alpha-audit-20260916/picnic-grass-mat-candidate.png",
+    "candidate_sha256": "958ef44d3cb08e92acd49075ebe117031ff9d42423aacdf6455501400342a9e9",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "rgb_unchanged": true,
+    "was_opaque": false,
+    "removed_detached_components": 0,
+    "removed_component_pixels": 0,
+    "status": "needs_visual_audit",
+    "holes": [],
+    "notes": []
+  }
+]

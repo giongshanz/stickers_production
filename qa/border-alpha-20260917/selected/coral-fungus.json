@@ -1,0 +1,16 @@
+{
+  "id": "coral-fungus",
+  "selected_utc": "2026-09-17T09:02:59.412515+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/coral-fungus/masters/coral-fungus.png",
+  "old_sha256": "3da312a6d0d7ab2e3548d0e32643e9c727857ec10f598bcc9fe01aa9389f71c7",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/coral-fungus/delivery/_needs-alpha/forest-fungi/coral-fungus.png"
+  ],
+  "new_master": "masters/coral-fungus.png",
+  "new_sha256": "8949fa3a782e031fac558c527a1e204bf8a757dede68c70d940cbf197db428fc",
+  "selected_candidate": "revisions/border-alpha-20260917/coral-fungus.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

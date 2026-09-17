@@ -1,0 +1,16 @@
+{
+  "id": "lithops-pot",
+  "selected_utc": "2026-09-17T09:02:59.679935+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/lithops-pot/masters/lithops-pot.png",
+  "old_sha256": "e1c396a38adff91d8bb47fa54af75d1a704d6c7a2bc2ad1a061af578b2401403",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/lithops-pot/delivery/_needs-alpha/succulent-collection/lithops-pot.png"
+  ],
+  "new_master": "masters/lithops-pot.png",
+  "new_sha256": "eb6107d8dfdabe605d62d75a5f4db867a0fa0e0a4f435d25cb029fc06d2c936b",
+  "selected_candidate": "revisions/border-alpha-20260917/lithops-pot.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

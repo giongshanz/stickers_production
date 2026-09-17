@@ -1,0 +1,16 @@
+{
+  "id": "wetland-cattails",
+  "selected_utc": "2026-09-17T09:02:59.989683+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/wetland-cattails/masters/wetland-cattails.png",
+  "old_sha256": "81b380af566ca2f1c073432672ce7ad4c22a85dce59e2707d8a7ec8386d07714",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/wetland-cattails/delivery/_needs-alpha/freshwater-wetland/wetland-cattails.png"
+  ],
+  "new_master": "masters/wetland-cattails.png",
+  "new_sha256": "e2f61f4a16ca6813c8210b6b26255f3f05b42a8d1869fd7e6597b1e0145f6f71",
+  "selected_candidate": "revisions/border-alpha-20260917/wetland-cattails.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "banh-xeo",
+  "created_utc": "2026-09-17T08:46:23.795323+00:00",
+  "source": "masters/banh-xeo.png",
+  "source_sha256": "13ccd4d106ba4382dbb593fffbeabf5d49ef5f77145cdfba80657e1cf9ba59cb",
+  "paper_input": "revisions/alpha-audit-20260916/banh-xeo-candidate.png",
+  "paper_input_sha256": "1431e5c6f7689a980c0b9038a75e3f7d28c72f48204ccd9b4736845814050ce9",
+  "candidate": "revisions/border-alpha-20260917/banh-xeo.png",
+  "candidate_sha256": "8de560406403242301dd5ee57724cf6457db281a622e4bbceb00030f9898055c",
+  "method": "border_geometry.cutout, measured inset, original RGB restored",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "dimensions_unchanged": true,
+  "rgb_changed_pixels": 0,
+  "measured_paper_width_px": 20.396078054371138,
+  "radius_px": 18.4,
+  "paper_holes": 0,
+  "hole_seeds": [],
+  "visible_pixels_outside_paper": 0,
+  "partial_alpha_edge_colored_pixels": 0,
+  "transparent_pixels": 778538,
+  "partial_alpha_pixels": 3976,
+  "corner_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 26658,
+    "rgb_changed_chromatic_pixels": 0,
+    "rgb_changed_outside_paper": 2570,
+    "painted_pixels": 726943,
+    "protected_pixels": 740104,
+    "safe_white_pixels": 59810,
+    "dirty_white_pixels": 2932,
+    "radius_px": 18.4,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 778538,
+    "partial_alpha_pixels": 3976,
+    "visible_pixels_outside_paper": 0,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 3976,
+      "min": 17.66077894075848,
+      "max": 19.81021964842404,
+      "mean": 18.395674799678552,
+      "p05": 17.859053968852482,
+      "p25": 18.110886408812483,
+      "median": 18.396409164558722,
+      "p75": 18.677014927604212,
+      "p95": 18.91257210324573
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 3976,
+      "min": 17.783854248012158,
+      "max": 19.017114490896432,
+      "mean": 18.402679463637874,
+      "p05": 17.895917986637002,
+      "p25": 18.1208967505206,
+      "median": 18.404000599051642,
+      "p75": 18.68156270811086,
+      "p95": 18.908726255603593
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 4488,
+        "samples": 17956,
+        "fit_rms_px": 0.6001950460779852,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.25079894173078554
+      }
+    ],
+    "status": "trial_requires_visual_review"
+  },
+  "status": "pending_visual_review"
+}

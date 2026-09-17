@@ -1,0 +1,89 @@
+{
+  "id": "reptile-cork-tunnel",
+  "created_utc": "2026-09-17T08:49:57.565109+00:00",
+  "source": "masters/reptile-cork-tunnel.png",
+  "source_sha256": "aa27a95ae6b26a8c0e54572e4cb37403bff2e20e2434ae6de1c4de0b820c39e2",
+  "paper_input": "revisions/alpha-audit-20260916/reptile-cork-tunnel-candidate.png",
+  "paper_input_sha256": "15ac4cdcd854bd94e029979837756f9947ecdec7c6bbccc28abfa8b599068acd",
+  "candidate": "revisions/border-alpha-20260917/reptile-cork-tunnel.png",
+  "candidate_sha256": "fa9a7f8f19dea7b24cc249560f7268c6fdfe532812ac97a1632ce637ab29e423",
+  "method": "border_geometry.cutout, measured inset, original RGB restored",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "dimensions_unchanged": true,
+  "rgb_changed_pixels": 0,
+  "measured_paper_width_px": 26.570660511172846,
+  "radius_px": 24.8,
+  "paper_holes": 0,
+  "hole_seeds": [],
+  "visible_pixels_outside_paper": 0,
+  "partial_alpha_edge_colored_pixels": 0,
+  "transparent_pixels": 861272,
+  "partial_alpha_pixels": 3602,
+  "corner_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 25755,
+    "rgb_changed_chromatic_pixels": 0,
+    "rgb_changed_outside_paper": 2974,
+    "painted_pixels": 630733,
+    "protected_pixels": 642474,
+    "safe_white_pixels": 73629,
+    "dirty_white_pixels": 3179,
+    "radius_px": 24.8,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 861272,
+    "partial_alpha_pixels": 3602,
+    "visible_pixels_outside_paper": 0,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 3602,
+      "min": 24.106961402209155,
+      "max": 26.417629770063563,
+      "mean": 24.788245043198344,
+      "p05": 24.255951520345477,
+      "p25": 24.505255841123297,
+      "median": 24.78108218039343,
+      "p75": 25.06184799389431,
+      "p95": 25.306823757148813
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 3602,
+      "min": 24.18131672655511,
+      "max": 25.410766681831657,
+      "mean": 24.795940162924772,
+      "p05": 24.299170409044013,
+      "p25": 24.52021658527853,
+      "median": 24.79336540477883,
+      "p75": 25.069198236477195,
+      "p95": 25.301570001764112
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 3934,
+        "samples": 15740,
+        "fit_rms_px": 0.5999027624426843,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.25700845755127927
+      }
+    ],
+    "status": "trial_requires_visual_review"
+  },
+  "status": "pending_visual_review"
+}

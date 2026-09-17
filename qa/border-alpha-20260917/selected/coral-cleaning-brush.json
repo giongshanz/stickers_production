@@ -1,0 +1,16 @@
+{
+  "id": "coral-cleaning-brush",
+  "selected_utc": "2026-09-17T09:02:59.746411+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/coral-cleaning-brush/masters/coral-cleaning-brush.png",
+  "old_sha256": "6db594f49a1213e18558af9c446f7f6bd31626140d70af9b29c5aaf3ac521bfb",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/coral-cleaning-brush/delivery/_needs-alpha/coral-restoration/coral-cleaning-brush.png"
+  ],
+  "new_master": "masters/coral-cleaning-brush.png",
+  "new_sha256": "8296e81a9ee788cf458905dca09ddddca97f5bb0e4828177f98e7e703b809293",
+  "selected_candidate": "revisions/border-alpha-20260917/coral-cleaning-brush.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

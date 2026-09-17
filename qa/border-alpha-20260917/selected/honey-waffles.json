@@ -1,0 +1,16 @@
+{
+  "id": "honey-waffles",
+  "selected_utc": "2026-09-17T09:02:59.163326+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/honey-waffles/masters/honey-waffles.png",
+  "old_sha256": "121e9a3a8615eacbe4f400a8af70161fe3428a5a3b2dc3f6c80b18ee1c660390",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/honey-waffles/delivery/_needs-alpha/honey-breakfast/honey-waffles.png"
+  ],
+  "new_master": "masters/honey-waffles.png",
+  "new_sha256": "0d857dea48e6089b54e154694bdf76199f7c52cf8a433671f27c5df21c3cbbd5",
+  "selected_candidate": "revisions/border-alpha-20260917/honey-waffles.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

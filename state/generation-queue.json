@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-17T08:18:35.950425+00:00",
+  "updated_utc": "2026-09-17T10:37:25.847343+00:00",
   "asset_ids": [],
   "rule": "Missing masters in topic order, restricted by state/work-order.json when opening_new_topics is false. Shared IDs listed once."
 }

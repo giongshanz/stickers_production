@@ -1,0 +1,117 @@
+{
+  "id": "foraging-knife",
+  "created_utc": "2026-09-17T08:53:28.721308+00:00",
+  "source": "masters/foraging-knife.png",
+  "source_sha256": "d8d10b1f8af468e97ccc0811959cea1e9c047d37bed36434f6fa988bfdf00d8a",
+  "paper_input": "revisions/alpha-audit-20260916/foraging-knife-candidate.png",
+  "paper_input_sha256": "4d595ceef3d4e6a5d78802af1d9afebb1324108ec69aca6ab82f002c3d0a2170",
+  "candidate": "revisions/border-alpha-20260917/foraging-knife.png",
+  "candidate_sha256": "3c59f16ed115420e3047e723e75a7eb7d6bd52c6f611ebc9d5280ea3a3c47dd5",
+  "method": "border_geometry.cutout, measured inset, original RGB restored",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "dimensions_unchanged": true,
+  "rgb_changed_pixels": 0,
+  "measured_paper_width_px": 28.284271247461902,
+  "radius_px": 19.0,
+  "paper_holes": 0,
+  "hole_seeds": [],
+  "visible_pixels_outside_paper": 0,
+  "partial_alpha_edge_colored_pixels": 945,
+  "transparent_pixels": 1262395,
+  "partial_alpha_pixels": 4311,
+  "corner_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 40017,
+    "rgb_changed_chromatic_pixels": 123,
+    "rgb_changed_outside_paper": 648,
+    "painted_pixels": 240209,
+    "protected_pixels": 253151,
+    "safe_white_pixels": 76872,
+    "dirty_white_pixels": 19404,
+    "radius_px": 19.0,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 1262395,
+    "partial_alpha_pixels": 4311,
+    "visible_pixels_outside_paper": 0,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 4311,
+      "min": 18.158510753497787,
+      "max": 20.688932373506393,
+      "mean": 18.97278154184422,
+      "p05": 18.432511603892607,
+      "p25": 18.67924056545634,
+      "median": 18.96733296264094,
+      "p75": 19.256372724553074,
+      "p95": 19.530426474385656
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 4311,
+      "min": 18.381891732854395,
+      "max": 19.61769354745868,
+      "mean": 18.998107490469327,
+      "p05": 18.471624272791033,
+      "p25": 18.7146737128235,
+      "median": 18.998524551415382,
+      "p75": 19.283000342009313,
+      "p95": 19.52512082949694
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 150,
+        "samples": 604,
+        "fit_rms_px": 0.6050572280645843,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.28062718067194414
+      },
+      {
+        "vertices": 102,
+        "samples": 412,
+        "fit_rms_px": 0.6104670729464613,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.21399634691913308
+      },
+      {
+        "vertices": 998,
+        "samples": 3996,
+        "fit_rms_px": 0.6005337337298705,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.24885781242482702
+      },
+      {
+        "vertices": 3302,
+        "samples": 13212,
+        "fit_rms_px": 0.6003342705498486,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.27704185190418706
+      },
+      {
+        "vertices": 212,
+        "samples": 852,
+        "fit_rms_px": 0.6045896661227844,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.20670368783506834
+      }
+    ],
+    "status": "trial_requires_visual_review"
+  },
+  "status": "pending_visual_review"
+}

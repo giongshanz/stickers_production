@@ -1,0 +1,16 @@
+{
+  "id": "morel",
+  "selected_utc": "2026-09-17T09:02:59.363466+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/morel/masters/morel.png",
+  "old_sha256": "f2d9d5ec7278188cadfb943d98a4de4307b1987ced37e6d73808a1577b7f984f",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/morel/delivery/_needs-alpha/forest-fungi/morel.png"
+  ],
+  "new_master": "masters/morel.png",
+  "new_sha256": "461507d1536f6e5efc959b6e85abfc89b9bb23203b93941f878a766c95c94c7a",
+  "selected_candidate": "revisions/border-alpha-20260917/morel.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

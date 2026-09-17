@@ -1,0 +1,14 @@
+{
+  "id": "bongos",
+  "selected_utc": "2026-09-17T10:37:12.310173+00:00",
+  "reason": "Both side edges are too close to the canvas and include white export debris. Reframe the full paired drums smaller with clear padding.",
+  "old_master": "revisions/rework-20260917/previous/bongos/masters/bongos.png",
+  "old_sha256": "d5fed6c4220623cf8d7b876526ce4f3dd2c79cce676d1230ec68edd5e216dd64",
+  "old_deliveries": [
+    "revisions/rework-20260917/previous/bongos/delivery/stickers/percussion/bongos.png"
+  ],
+  "new_master": "masters/bongos.png",
+  "new_sha256": "70a94ee315057291185d89635fa76b6585b195336b3e09b445414a3698846dfe",
+  "selected_candidate": "revisions/rework-20260917/bongos-v1.png",
+  "review": "Subject, silhouette, padding and alpha visually reviewed on dark contact sheets; provisional art acceptance."
+}

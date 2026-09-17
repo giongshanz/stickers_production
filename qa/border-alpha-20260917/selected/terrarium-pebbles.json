@@ -1,0 +1,16 @@
+{
+  "id": "terrarium-pebbles",
+  "selected_utc": "2026-09-17T09:02:59.589855+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/terrarium-pebbles/masters/terrarium-pebbles.png",
+  "old_sha256": "453c9b9529b8d89fe704b90fa61f3126253f075a025b3217800bce7618b99be1",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/terrarium-pebbles/delivery/_needs-alpha/terrarium-workshop/terrarium-pebbles.png"
+  ],
+  "new_master": "masters/terrarium-pebbles.png",
+  "new_sha256": "e1ccbdaa6ce5956237c19968f24f72ad0d000ecaa97d2cff828e24ebb1ab9eb2",
+  "selected_candidate": "revisions/border-alpha-20260917/terrarium-pebbles.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

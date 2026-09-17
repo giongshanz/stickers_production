@@ -1,0 +1,16 @@
+{
+  "id": "sewing-zipper",
+  "selected_utc": "2026-09-17T09:02:59.270673+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/sewing-zipper/masters/sewing-zipper.png",
+  "old_sha256": "dc390bbb8471ff56ee0fa751c99e2d3e6536d3cd3a818f9f69c52586efa0d2c2",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/sewing-zipper/delivery/_needs-alpha/sewing-room/sewing-zipper.png"
+  ],
+  "new_master": "masters/sewing-zipper.png",
+  "new_sha256": "bd400d712c2587c45abf9f3883ed2308c6abf293893df335bcb8d2a975f2e142",
+  "selected_candidate": "revisions/border-alpha-20260917/sewing-zipper.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

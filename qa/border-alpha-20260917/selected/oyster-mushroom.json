@@ -1,0 +1,16 @@
+{
+  "id": "oyster-mushroom",
+  "selected_utc": "2026-09-17T09:02:59.378167+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/oyster-mushroom/masters/oyster-mushroom.png",
+  "old_sha256": "5226ccec2542d26073522d3960518b3657d29b252f5bbcd83d5acb16da320d67",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/oyster-mushroom/delivery/_needs-alpha/forest-fungi/oyster-mushroom.png"
+  ],
+  "new_master": "masters/oyster-mushroom.png",
+  "new_sha256": "b2c07325a372c6cfb92ced13224afbacf0c90afd0189343c28fd0aa0a9da3fa2",
+  "selected_candidate": "revisions/border-alpha-20260917/oyster-mushroom.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

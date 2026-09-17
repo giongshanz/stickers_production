@@ -1,0 +1,16 @@
+{
+  "id": "terrarium-tweezers",
+  "selected_utc": "2026-09-17T09:02:59.563212+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/terrarium-tweezers/masters/terrarium-tweezers.png",
+  "old_sha256": "5aa49a060eaf2293286ebe2a19b86c771fb518ab44b5f782d9231a8ec86b808c",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/terrarium-tweezers/delivery/_needs-alpha/terrarium-workshop/terrarium-tweezers.png"
+  ],
+  "new_master": "masters/terrarium-tweezers.png",
+  "new_sha256": "c6092a83d2eca40211f3a23363ac45bb6a17c5839ea8ea6230afe454179585f2",
+  "selected_candidate": "revisions/border-alpha-20260917/terrarium-tweezers.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

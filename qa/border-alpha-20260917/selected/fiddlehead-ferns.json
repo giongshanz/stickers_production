@@ -1,0 +1,16 @@
+{
+  "id": "fiddlehead-ferns",
+  "selected_utc": "2026-09-17T09:02:59.510848+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/fiddlehead-ferns/masters/fiddlehead-ferns.png",
+  "old_sha256": "b7d1caaae6ad9d5d8402d19ed1093fb8480250d6e50a46671b0057a902f77d6b",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/fiddlehead-ferns/delivery/_needs-alpha/woodland-foraging/fiddlehead-ferns.png"
+  ],
+  "new_master": "masters/fiddlehead-ferns.png",
+  "new_sha256": "07d9f12ce21274010fd59f44a3bc63d6d2d371c954bf7d8cd916b75e7d6c0a84",
+  "selected_candidate": "revisions/border-alpha-20260917/fiddlehead-ferns.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

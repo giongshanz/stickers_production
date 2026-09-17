@@ -1,0 +1,17 @@
+{
+  "id": "mushroom-basket",
+  "selected_utc": "2026-09-17T09:02:59.334339+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/mushroom-basket/masters/mushroom-basket.png",
+  "old_sha256": "46062297b2052bb487d815860cd77b6e1530a08e33328aa597f9013a89498005",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/mushroom-basket/delivery/_needs-alpha/forest-fungi/mushroom-basket.png",
+    "revisions/border-alpha-20260917/previous/mushroom-basket/delivery/_needs-alpha/woodland-foraging/mushroom-basket.png"
+  ],
+  "new_master": "masters/mushroom-basket.png",
+  "new_sha256": "9dfeeee2e725128c5c941441d998b63b271f24acf248fdcce0b0d4b2e8faad9f",
+  "selected_candidate": "revisions/border-alpha-20260917/mushroom-basket.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

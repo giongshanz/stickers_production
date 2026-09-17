@@ -1,0 +1,16 @@
+{
+  "id": "pho-bo",
+  "selected_utc": "2026-09-17T09:02:59.062536+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/pho-bo/masters/pho-bo.png",
+  "old_sha256": "a57bcde8df78cbcfdcc1075adc6dc0733181eca29ab9ac5eecd3b4f69f48d709",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/pho-bo/delivery/_needs-alpha/vietnamese-cuisine/pho-bo.png"
+  ],
+  "new_master": "masters/pho-bo.png",
+  "new_sha256": "7855fae69bfea10c05fc1e1b821719f59238cc26a325c39afb79c9b181460943",
+  "selected_candidate": "revisions/border-alpha-20260917/pho-bo.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

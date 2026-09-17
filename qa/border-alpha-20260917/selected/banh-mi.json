@@ -1,0 +1,16 @@
+{
+  "id": "banh-mi",
+  "selected_utc": "2026-09-17T09:02:59.050803+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/banh-mi/masters/banh-mi.png",
+  "old_sha256": "92ff93a2e6b727f0723331020edd99a7fd813ff0d6dcd395aae31b31ef8898b2",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/banh-mi/delivery/_needs-alpha/vietnamese-cuisine/banh-mi.png"
+  ],
+  "new_master": "masters/banh-mi.png",
+  "new_sha256": "efa19e01f240ea246a462e880b3fb5b9a73c251d6a5e1b44436e0a60fb482e85",
+  "selected_candidate": "revisions/border-alpha-20260917/banh-mi.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

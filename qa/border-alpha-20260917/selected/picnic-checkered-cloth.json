@@ -1,0 +1,16 @@
+{
+  "id": "picnic-checkered-cloth",
+  "selected_utc": "2026-09-17T09:03:00.074294+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/picnic-checkered-cloth/masters/picnic-checkered-cloth.png",
+  "old_sha256": "11245005ecd38db6d9c80bdf7d6fe98d928e91d3a37d2bec54484e9d94f81fa7",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/picnic-checkered-cloth/delivery/_needs-alpha/picnic-day/picnic-checkered-cloth.png"
+  ],
+  "new_master": "masters/picnic-checkered-cloth.png",
+  "new_sha256": "3436fbe6aebb1ab5d7b1909f154879a2fad2380d04c7866d895311de2323bdbf",
+  "selected_candidate": "revisions/border-alpha-20260917/picnic-checkered-cloth.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

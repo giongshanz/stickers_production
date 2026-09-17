@@ -1,0 +1,16 @@
+{
+  "id": "calligraphy-inkstone",
+  "selected_utc": "2026-09-17T09:02:59.771265+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/calligraphy-inkstone/masters/calligraphy-inkstone.png",
+  "old_sha256": "d58ee97fbd7b51fba4a5bcd68ee848eac9e21b08dcb4f9f03f99dec446e8aea2",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/calligraphy-inkstone/delivery/_needs-alpha/calligraphy-desk/calligraphy-inkstone.png"
+  ],
+  "new_master": "masters/calligraphy-inkstone.png",
+  "new_sha256": "a9809bcf64abfdb9ea911a52988d304d7a33c86ca2ba2c76aa0ab9d5330d9cbe",
+  "selected_candidate": "revisions/border-alpha-20260917/calligraphy-inkstone.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

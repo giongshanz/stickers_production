@@ -1,0 +1,89 @@
+{
+  "id": "reptile-hygrometer",
+  "created_utc": "2026-09-17T08:50:05.989443+00:00",
+  "source": "masters/reptile-hygrometer.png",
+  "source_sha256": "b6f92d78cb32e49b06effb459fe901e457a51078be66276fb69b56d85ffa6a26",
+  "paper_input": "revisions/alpha-audit-20260916/reptile-hygrometer-candidate.png",
+  "paper_input_sha256": "44c35ad68739a2d0117058f483a1c7652fde97e2f6ffbce47990e907a6deefb7",
+  "candidate": "revisions/border-alpha-20260917/reptile-hygrometer.png",
+  "candidate_sha256": "c8ea8a104aef65fa1b96bb2b1f42187889932f3c286be37044db63c720def28b",
+  "method": "border_geometry.cutout, measured inset, original RGB restored",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "dimensions_unchanged": true,
+  "rgb_changed_pixels": 0,
+  "measured_paper_width_px": 29.68164415931166,
+  "radius_px": 27.6,
+  "paper_holes": 0,
+  "hole_seeds": [],
+  "visible_pixels_outside_paper": 0,
+  "partial_alpha_edge_colored_pixels": 0,
+  "transparent_pixels": 911560,
+  "partial_alpha_pixels": 3413,
+  "corner_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {
+    "method": "pixel-square spline contour with Euclidean offset white margin",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "dimensions_unchanged": true,
+    "rgb_protected_unchanged": true,
+    "rgb_changed_pixels": 23960,
+    "rgb_changed_chromatic_pixels": 0,
+    "rgb_changed_outside_paper": 2048,
+    "painted_pixels": 576402,
+    "protected_pixels": 587473,
+    "safe_white_pixels": 78843,
+    "dirty_white_pixels": 2237,
+    "radius_px": 27.6,
+    "protected_radius_px": 4,
+    "distance_gaussian_sigma_px": 3,
+    "alpha_samples_per_pixel": 64,
+    "transparent_pixels": 911560,
+    "partial_alpha_pixels": 3413,
+    "visible_pixels_outside_paper": 0,
+    "opaque_pixels_outside_paper": 0,
+    "border_distance_at_partial_alpha": {
+      "count": 3413,
+      "min": 26.902401726280242,
+      "max": 29.357063380284913,
+      "mean": 27.595113268611478,
+      "p05": 27.087364076672195,
+      "p25": 27.311252425155853,
+      "median": 27.588919238400443,
+      "p75": 27.86858675474836,
+      "p95": 28.098466233336172
+    },
+    "smoothed_distance_at_partial_alpha": {
+      "count": 3413,
+      "min": 26.984637740083215,
+      "max": 28.212757472522373,
+      "mean": 27.60535064526638,
+      "p05": 27.10098599080681,
+      "p25": 27.327903243027063,
+      "median": 27.60198553399101,
+      "p75": 27.879497758494306,
+      "p95": 28.107988664083262
+    },
+    "holes": [],
+    "contour_fits": [
+      {
+        "vertices": 3710,
+        "samples": 14844,
+        "fit_rms_px": 0.6000356064648396,
+        "target_rms_px": 0.6,
+        "largest_sample_step_px": 0.24159305185475408
+      }
+    ],
+    "status": "trial_requires_visual_review"
+  },
+  "status": "pending_visual_review"
+}

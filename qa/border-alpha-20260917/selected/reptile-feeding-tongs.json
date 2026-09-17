@@ -1,0 +1,16 @@
+{
+  "id": "reptile-feeding-tongs",
+  "selected_utc": "2026-09-17T09:02:59.977621+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/reptile-feeding-tongs/masters/reptile-feeding-tongs.png",
+  "old_sha256": "f76f5d893b30534144c1e2bbccad79fce423626f5664ef82d20c969708475ea6",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/reptile-feeding-tongs/delivery/_needs-alpha/reptile-habitat/reptile-feeding-tongs.png"
+  ],
+  "new_master": "masters/reptile-feeding-tongs.png",
+  "new_sha256": "94ce7abe2c9b7d98416e360018ff179bc027285d1fd6b9febb37499be4f082da",
+  "selected_candidate": "revisions/border-alpha-20260917/reptile-feeding-tongs.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

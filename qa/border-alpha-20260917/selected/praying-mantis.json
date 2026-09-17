@@ -1,0 +1,16 @@
+{
+  "id": "praying-mantis",
+  "selected_utc": "2026-09-17T09:02:59.876624+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/praying-mantis/masters/praying-mantis.png",
+  "old_sha256": "081d3c824366e4b12a6aaf05b3d11fc9da2b6574247bba47913f94b1f70b5145",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/praying-mantis/delivery/_needs-alpha/garden-insects/praying-mantis.png"
+  ],
+  "new_master": "masters/praying-mantis.png",
+  "new_sha256": "2070e3817d591f3bea5328fa8287ffec6e610aa9635c8bad04427937c6f37362",
+  "selected_candidate": "revisions/border-alpha-20260917/praying-mantis.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

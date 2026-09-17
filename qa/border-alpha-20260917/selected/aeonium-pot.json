@@ -1,0 +1,16 @@
+{
+  "id": "aeonium-pot",
+  "selected_utc": "2026-09-17T09:02:59.719515+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/aeonium-pot/masters/aeonium-pot.png",
+  "old_sha256": "5b826a81edef15e63129326446a618e0c8a541df5bb72d5ad48701e9dbba96ed",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/aeonium-pot/delivery/_needs-alpha/succulent-collection/aeonium-pot.png"
+  ],
+  "new_master": "masters/aeonium-pot.png",
+  "new_sha256": "8e105ff8b19e8fbbc158b3c5f8383986fe5c71bb9992fb7ce46f9b00796083b5",
+  "selected_candidate": "revisions/border-alpha-20260917/aeonium-pot.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

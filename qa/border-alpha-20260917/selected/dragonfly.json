@@ -1,0 +1,16 @@
+{
+  "id": "dragonfly",
+  "selected_utc": "2026-09-17T09:02:59.887855+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/dragonfly/masters/dragonfly.png",
+  "old_sha256": "0c23c02006fdb41a78196c43c3f66ae0647d1e78f7b009e5b4fce16107f9e1b9",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/dragonfly/delivery/_needs-alpha/garden-insects/dragonfly.png"
+  ],
+  "new_master": "masters/dragonfly.png",
+  "new_sha256": "2994a1ed97aa90a28dca58f359546b9831a842f6b967605ab1b3b7727ac6c66b",
+  "selected_candidate": "revisions/border-alpha-20260917/dragonfly.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

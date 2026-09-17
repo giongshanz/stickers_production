@@ -1,0 +1,16 @@
+{
+  "id": "foraging-field-guide",
+  "selected_utc": "2026-09-17T09:02:59.523295+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/foraging-field-guide/masters/foraging-field-guide.png",
+  "old_sha256": "78f6a881c413367fc5fc2646c2108add791e49f51f68adf52cc4fd8f1751ead1",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/foraging-field-guide/delivery/_needs-alpha/woodland-foraging/foraging-field-guide.png"
+  ],
+  "new_master": "masters/foraging-field-guide.png",
+  "new_sha256": "754b096dae4f38d702c2f1885ff13aafab1c138b2b6db83068958e9c6bf6861a",
+  "selected_candidate": "revisions/border-alpha-20260917/foraging-field-guide.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

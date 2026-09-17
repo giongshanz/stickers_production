@@ -1,0 +1,16 @@
+{
+  "id": "reptile-cork-tunnel",
+  "selected_utc": "2026-09-17T09:02:59.937508+00:00",
+  "reason": "User-approved 2026-09-17 alpha-only geometric background removal; visually reviewed on dark contact sheets.",
+  "old_master": "revisions/border-alpha-20260917/previous/reptile-cork-tunnel/masters/reptile-cork-tunnel.png",
+  "old_sha256": "aa27a95ae6b26a8c0e54572e4cb37403bff2e20e2434ae6de1c4de0b820c39e2",
+  "old_deliveries": [
+    "revisions/border-alpha-20260917/previous/reptile-cork-tunnel/delivery/_needs-alpha/reptile-habitat/reptile-cork-tunnel.png"
+  ],
+  "new_master": "masters/reptile-cork-tunnel.png",
+  "new_sha256": "fa9a7f8f19dea7b24cc249560f7268c6fdfe532812ac97a1632ce637ab29e423",
+  "selected_candidate": "revisions/border-alpha-20260917/reptile-cork-tunnel.png",
+  "rgb_unchanged": true,
+  "dimensions_unchanged": true,
+  "alpha_review": "provisional; other visual-rework notes in qa/visual-qa.json remain open"
+}

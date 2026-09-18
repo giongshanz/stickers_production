@@ -1,0 +1,17 @@
+{
+  "id": "observatory-star-chart",
+  "subject": "A circular navy star chart showing a few gold star dots and connecting lines, no writing",
+  "topic_slugs": ["observatory"],
+  "profile": "objects",
+  "prompt": "Turn the first image into a flat hand-held circular STAR CHART, not a tabletop instrument. Keep the round navy chart face, a few small gold star dots and thin connecting constellation lines, and a simple narrow warm gold edge. Remove the pedestal, side knobs, heavy frame and any mechanical supports completely. The final silhouette is only one flat round printed chart disk, shown slightly tilted in three-quarter view so it reads as a portable paper card with very shallow thickness. Fewer stars and simpler lines than the first image; no writing or symbols resembling letters. The second original desktop artwork is style reference only: soft warm matte 2D paint, restrained detail, thin locally colored outline. Add a narrow even white sticker-cut margin around the disk and generous real transparent padding. Transparent square PNG, target 512 × 512. No scene, shadow, hands, text or checkerboard.",
+  "referenced_image_paths": [
+    "revisions/batch-20260918/observatory-star-chart-v1.png",
+    "references/Stickers/8-Gardening/8-Gardening_1.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final edit removed the erroneous stand and knobs. Initial prompt is state/requests/observatory-star-chart.json."
+}

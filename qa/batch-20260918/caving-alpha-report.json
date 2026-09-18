@@ -1,0 +1,58 @@
+[
+  {
+    "id": "caving-suit",
+    "source": "revisions\\batch-20260918\\caving-suit-v2.png",
+    "selected": "revisions\\batch-20260918\\caving-suit-v2-alpha.png",
+    "dimensions_unchanged": true,
+    "rgb_unchanged": true,
+    "alpha_pixels_removed": 11558,
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "caving-survey-kit",
+    "source": "revisions\\batch-20260918\\caving-survey-kit-v1.png",
+    "selected": "revisions\\batch-20260918\\caving-survey-kit-v1-alpha.png",
+    "dimensions_unchanged": true,
+    "rgb_unchanged": true,
+    "alpha_pixels_removed": 43518,
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "caving-stalactite",
+    "source": "revisions\\batch-20260918\\caving-stalactite-v1.png",
+    "selected": "revisions\\batch-20260918\\caving-stalactite-v1-alpha.png",
+    "dimensions_unchanged": true,
+    "rgb_unchanged": true,
+    "alpha_pixels_removed": 32179,
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "caving-stalagmite",
+    "source": "revisions\\batch-20260918\\caving-stalagmite-v1.png",
+    "selected": "revisions\\batch-20260918\\caving-stalagmite-v1-alpha.png",
+    "dimensions_unchanged": true,
+    "rgb_unchanged": true,
+    "alpha_pixels_removed": 39542,
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]

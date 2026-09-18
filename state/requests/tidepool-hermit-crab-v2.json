@@ -1,0 +1,17 @@
+{
+  "id": "tidepool-hermit-crab",
+  "subject": "A small orange hermit crab peeking out of a cream spiral shell",
+  "topic_slugs": ["rock-pool"],
+  "profile": "marine",
+  "prompt": "Edit the first sticker of a small orange hermit crab peeking from a cream spiral shell. Preserve the natural crab anatomy, two eyes on short stalks, two modest claws, and readable coiled shell, but make the whole sticker about 75 percent of the square canvas width and center it with comfortable transparent padding. Simplify the shell's many small spots into only two or three broad soft cream paint patches, matching the restrained original desktop reference in the second image. Clean the narrow white sticker-cut margin into a smooth even outline. All open spaces between the crab's walking legs and claws must be genuinely transparent alpha, with no white fill, speckles, or broken patches. Warm matte hand-painted 2D style, fine locally colored outlines, no shiny 3D look. Transparent PNG, square target 512 × 512. No water, rocks, scene, shadow, lettering, or checkerboard.",
+  "referenced_image_paths": [
+    "revisions/rock-pool-pilot-20260918/tidepool-hermit-crab-v1.png",
+    "references/Stickers/19_MarineLife/marine_life_1.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final exact edit prompt for the selected trial; v1 request is state/requests/tidepool-hermit-crab.json."
+}

@@ -1,0 +1,19 @@
+{
+  "encountered_utc": "2026-09-18T08:54:59Z",
+  "tool": "built-in imagegen",
+  "error_type": "usage_limit_reached",
+  "http_status": 429,
+  "plan_type": "plus",
+  "reset_at_utc": "2026-09-18T11:56:38Z",
+  "reset_at_vietnam": "2026-09-18T18:56:38+07:00",
+  "attempted_ids": [
+    "glassblowing-pipe",
+    "glassblowing-jacks",
+    "glassblowing-marver",
+    "glassblowing-furnace"
+  ],
+  "generated_unique_at_failure": 278,
+  "missing_unique_at_failure": 112,
+  "topics_with_all_images_at_failure": 36,
+  "continuation": "Retry glassblowing-pipe first in state/generation-queue.json after the built-in imagegen limit resets. Prepared exact prompts are in state/requests. Do not switch tool, account, or API to bypass the limit."
+}

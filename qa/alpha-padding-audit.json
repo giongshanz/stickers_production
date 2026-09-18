@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-17T10:37:25.847343+00:00",
+  "updated_utc": "2026-09-18T08:56:57.587397+00:00",
   "padding_definition": "Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",
   "assets": [
     {
@@ -3657,6 +3657,174 @@
       "opaque_pixels": 570187
     },
     {
+      "id": "tidepool-hermit-crab",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        146,
+        59,
+        80,
+        164
+      ],
+      "review_edge": false,
+      "transparent_pixels": 956066,
+      "partial_alpha_pixels": 615930,
+      "opaque_pixels": 520
+    },
+    {
+      "id": "tidepool-anemone",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        108,
+        78,
+        100,
+        64
+      ],
+      "review_edge": false,
+      "transparent_pixels": 792719,
+      "partial_alpha_pixels": 778703,
+      "opaque_pixels": 1094
+    },
+    {
+      "id": "tidepool-limpet",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        21,
+        71,
+        44,
+        20
+      ],
+      "review_edge": true,
+      "transparent_pixels": 817766,
+      "partial_alpha_pixels": 754266,
+      "opaque_pixels": 484
+    },
+    {
+      "id": "tidepool-barnacles",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        5,
+        110,
+        146
+      ],
+      "review_edge": true,
+      "transparent_pixels": 850390,
+      "partial_alpha_pixels": 721592,
+      "opaque_pixels": 534
+    },
+    {
+      "id": "tidepool-chiton",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        73,
+        53,
+        154,
+        72
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1086474,
+      "partial_alpha_pixels": 485211,
+      "opaque_pixels": 831
+    },
+    {
+      "id": "tidepool-blenny",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        57,
+        53,
+        136,
+        88
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1185569,
+      "partial_alpha_pixels": 386045,
+      "opaque_pixels": 902
+    },
+    {
+      "id": "tidepool-sea-lettuce",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        47,
+        9,
+        6,
+        61
+      ],
+      "review_edge": true,
+      "transparent_pixels": 708724,
+      "partial_alpha_pixels": 862169,
+      "opaque_pixels": 1623
+    },
+    {
+      "id": "tidepool-brittle-star",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        55,
+        28,
+        18,
+        56
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1024086,
+      "partial_alpha_pixels": 547183,
+      "opaque_pixels": 1247
+    },
+    {
       "id": "fossil-ammonite",
       "width": 1254,
       "height": 1254,
@@ -3825,6 +3993,174 @@
       "opaque_pixels": 389
     },
     {
+      "id": "observatory-telescope",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        144,
+        62,
+        68
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1173343,
+      "partial_alpha_pixels": 398284,
+      "opaque_pixels": 889
+    },
+    {
+      "id": "observatory-dome",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        128,
+        36,
+        54,
+        88
+      ],
+      "review_edge": false,
+      "transparent_pixels": 777802,
+      "partial_alpha_pixels": 793324,
+      "opaque_pixels": 1390
+    },
+    {
+      "id": "observatory-star-chart",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        111,
+        45,
+        109,
+        121
+      ],
+      "review_edge": false,
+      "transparent_pixels": 890969,
+      "partial_alpha_pixels": 681397,
+      "opaque_pixels": 150
+    },
+    {
+      "id": "observatory-armillary",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        103,
+        86,
+        62,
+        56
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1095317,
+      "partial_alpha_pixels": 475619,
+      "opaque_pixels": 1580
+    },
+    {
+      "id": "observatory-orrery",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        23,
+        53,
+        42,
+        62
+      ],
+      "review_edge": true,
+      "transparent_pixels": 863590,
+      "partial_alpha_pixels": 707833,
+      "opaque_pixels": 1093
+    },
+    {
+      "id": "observatory-eyepiece",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        105,
+        71,
+        54,
+        56
+      ],
+      "review_edge": false,
+      "transparent_pixels": 962179,
+      "partial_alpha_pixels": 609297,
+      "opaque_pixels": 1040
+    },
+    {
+      "id": "observatory-red-torch",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        52,
+        26,
+        56
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1068141,
+      "partial_alpha_pixels": 503531,
+      "opaque_pixels": 844
+    },
+    {
+      "id": "observatory-meteorite",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        29,
+        53,
+        42,
+        72
+      ],
+      "review_edge": false,
+      "transparent_pixels": 910069,
+      "partial_alpha_pixels": 662134,
+      "opaque_pixels": 313
+    },
+    {
       "id": "mineral-amethyst",
       "width": 1254,
       "height": 1254,
@@ -3991,6 +4327,1014 @@
       "transparent_pixels": 997012,
       "partial_alpha_pixels": 574957,
       "opaque_pixels": 547
+    },
+    {
+      "id": "caving-helmet",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        70,
+        111,
+        90
+      ],
+      "review_edge": true,
+      "transparent_pixels": 901360,
+      "partial_alpha_pixels": 670320,
+      "opaque_pixels": 836
+    },
+    {
+      "id": "caving-rope-coil",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        33,
+        189,
+        13,
+        134
+      ],
+      "review_edge": true,
+      "transparent_pixels": 952961,
+      "partial_alpha_pixels": 618696,
+      "opaque_pixels": 859
+    },
+    {
+      "id": "caving-ascender",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        97,
+        33,
+        197,
+        58
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1036232,
+      "partial_alpha_pixels": 534876,
+      "opaque_pixels": 1408
+    },
+    {
+      "id": "caving-descender",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        113,
+        47,
+        62,
+        26
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1184753,
+      "partial_alpha_pixels": 387691,
+      "opaque_pixels": 72
+    },
+    {
+      "id": "caving-suit",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        256,
+        63,
+        258,
+        69
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1022528,
+      "partial_alpha_pixels": 548828,
+      "opaque_pixels": 1160
+    },
+    {
+      "id": "caving-survey-kit",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        181,
+        145,
+        176,
+        134
+      ],
+      "review_edge": false,
+      "transparent_pixels": 926110,
+      "partial_alpha_pixels": 646406,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "caving-stalactite",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        167,
+        113,
+        165,
+        187
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1099412,
+      "partial_alpha_pixels": 473089,
+      "opaque_pixels": 15
+    },
+    {
+      "id": "caving-stalagmite",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        314,
+        79,
+        314,
+        76
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1144292,
+      "partial_alpha_pixels": 428224,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "railway-signal",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        247,
+        103,
+        496,
+        383
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1536473,
+      "partial_alpha_pixels": 35656,
+      "opaque_pixels": 387
+    },
+    {
+      "id": "railway-locomotive",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        104,
+        112,
+        92,
+        150
+      ],
+      "review_edge": false,
+      "transparent_pixels": 860172,
+      "partial_alpha_pixels": 712342,
+      "opaque_pixels": 2
+    },
+    {
+      "id": "railway-platform-clock",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        127,
+        70,
+        100,
+        104
+      ],
+      "review_edge": false,
+      "transparent_pixels": 902786,
+      "partial_alpha_pixels": 669730,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "railway-conductor-hat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        99,
+        229,
+        93,
+        230
+      ],
+      "review_edge": false,
+      "transparent_pixels": 920736,
+      "partial_alpha_pixels": 651780,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "railway-ticket-punch",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        21,
+        21,
+        80,
+        72
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1014454,
+      "partial_alpha_pixels": 557258,
+      "opaque_pixels": 804
+    },
+    {
+      "id": "railway-luggage-trolley",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        162,
+        94,
+        110,
+        65
+      ],
+      "review_edge": false,
+      "transparent_pixels": 905068,
+      "partial_alpha_pixels": 666971,
+      "opaque_pixels": 477
+    },
+    {
+      "id": "railway-buffer-stop",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        109,
+        204,
+        93,
+        173
+      ],
+      "review_edge": false,
+      "transparent_pixels": 984961,
+      "partial_alpha_pixels": 587555,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "railway-crossing-gate",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        105,
+        52,
+        31,
+        56
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1229067,
+      "partial_alpha_pixels": 342901,
+      "opaque_pixels": 548
+    },
+    {
+      "id": "harbor-tugboat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        122,
+        130,
+        89,
+        110
+      ],
+      "review_edge": false,
+      "transparent_pixels": 892660,
+      "partial_alpha_pixels": 679578,
+      "opaque_pixels": 278
+    },
+    {
+      "id": "harbor-mooring-bollard",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        161,
+        147,
+        43,
+        144
+      ],
+      "review_edge": false,
+      "transparent_pixels": 886458,
+      "partial_alpha_pixels": 685983,
+      "opaque_pixels": 75
+    },
+    {
+      "id": "harbor-buoy",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        228,
+        40,
+        229,
+        39
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1052945,
+      "partial_alpha_pixels": 517959,
+      "opaque_pixels": 1612
+    },
+    {
+      "id": "harbor-dock-cleat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        39,
+        190,
+        26,
+        88
+      ],
+      "review_edge": false,
+      "transparent_pixels": 912448,
+      "partial_alpha_pixels": 658767,
+      "opaque_pixels": 1301
+    },
+    {
+      "id": "harbor-lobster-trap",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        33,
+        218,
+        28,
+        233
+      ],
+      "review_edge": false,
+      "transparent_pixels": 905020,
+      "partial_alpha_pixels": 666484,
+      "opaque_pixels": 1012
+    },
+    {
+      "id": "harbor-ship-wheel",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        48,
+        48,
+        48,
+        50
+      ],
+      "review_edge": false,
+      "transparent_pixels": 929545,
+      "partial_alpha_pixels": 642971,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "harbor-lighthouse",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        318,
+        59,
+        301,
+        68
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1089526,
+      "partial_alpha_pixels": 482903,
+      "opaque_pixels": 87
+    },
+    {
+      "id": "harbor-cargo-crane",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        104,
+        69,
+        97,
+        83
+      ],
+      "review_edge": false,
+      "transparent_pixels": 985573,
+      "partial_alpha_pixels": 586943,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "vineyard-grape-trellis",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        254,
+        85,
+        210,
+        69
+      ],
+      "review_edge": false,
+      "transparent_pixels": 953555,
+      "partial_alpha_pixels": 618961,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "vineyard-pruning-shears",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        119,
+        142,
+        116,
+        129
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1218536,
+      "partial_alpha_pixels": 353980,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "vineyard-grape-basket",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        78,
+        80,
+        76,
+        83
+      ],
+      "review_edge": false,
+      "transparent_pixels": 777611,
+      "partial_alpha_pixels": 794903,
+      "opaque_pixels": 2
+    },
+    {
+      "id": "vineyard-oak-barrel",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        125,
+        101,
+        108,
+        96
+      ],
+      "review_edge": false,
+      "transparent_pixels": 765838,
+      "partial_alpha_pixels": 806678,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "vineyard-grape-press",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        276,
+        73,
+        272,
+        75
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1022688,
+      "partial_alpha_pixels": 549650,
+      "opaque_pixels": 178
+    },
+    {
+      "id": "vineyard-carafe",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        138,
+        109,
+        100,
+        33
+      ],
+      "review_edge": false,
+      "transparent_pixels": 912874,
+      "partial_alpha_pixels": 658597,
+      "opaque_pixels": 1045
+    },
+    {
+      "id": "vineyard-corkscrew",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        108,
+        149,
+        101,
+        127
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1182481,
+      "partial_alpha_pixels": 390035,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "vineyard-vine-cutting",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        165,
+        63,
+        172,
+        63
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1076733,
+      "partial_alpha_pixels": 495783,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "pasta-hand-crank-machine",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        83,
+        183,
+        20,
+        136
+      ],
+      "review_edge": true,
+      "transparent_pixels": 887820,
+      "partial_alpha_pixels": 684696,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "pasta-tagliatelle-nest",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        107,
+        177,
+        108,
+        172
+      ],
+      "review_edge": false,
+      "transparent_pixels": 894904,
+      "partial_alpha_pixels": 677612,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "pasta-ravioli",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        72,
+        162,
+        53,
+        138
+      ],
+      "review_edge": false,
+      "transparent_pixels": 876990,
+      "partial_alpha_pixels": 695525,
+      "opaque_pixels": 1
+    },
+    {
+      "id": "pasta-gnocchi-board",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        99,
+        149,
+        46,
+        121
+      ],
+      "review_edge": false,
+      "transparent_pixels": 991636,
+      "partial_alpha_pixels": 580880,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "pasta-farfalle",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        113,
+        118,
+        78,
+        106
+      ],
+      "review_edge": false,
+      "transparent_pixels": 833595,
+      "partial_alpha_pixels": 738921,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "pasta-tortellini",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        72,
+        185,
+        46,
+        130
+      ],
+      "review_edge": false,
+      "transparent_pixels": 843682,
+      "partial_alpha_pixels": 728834,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "pasta-wheel-cutter",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        112,
+        99,
+        81,
+        89
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1177995,
+      "partial_alpha_pixels": 394521,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "pasta-drying-rack",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        57,
+        84,
+        32,
+        65
+      ],
+      "review_edge": false,
+      "transparent_pixels": 749777,
+      "partial_alpha_pixels": 819622,
+      "opaque_pixels": 3117
+    },
+    {
+      "id": "dumpling-bamboo-steamer",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        105,
+        192,
+        103,
+        162
+      ],
+      "review_edge": false,
+      "transparent_pixels": 786410,
+      "partial_alpha_pixels": 786106,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "dumpling-har-gow",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        38,
+        189,
+        34,
+        183
+      ],
+      "review_edge": false,
+      "transparent_pixels": 860778,
+      "partial_alpha_pixels": 711738,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "dumpling-siu-mai",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        106,
+        178,
+        99,
+        162
+      ],
+      "review_edge": false,
+      "transparent_pixels": 874534,
+      "partial_alpha_pixels": 697631,
+      "opaque_pixels": 351
+    },
+    {
+      "id": "dumpling-bao",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        134,
+        205,
+        134,
+        192
+      ],
+      "review_edge": false,
+      "transparent_pixels": 925466,
+      "partial_alpha_pixels": 647050,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "dumpling-mandu",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        137,
+        257,
+        65,
+        175
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1061199,
+      "partial_alpha_pixels": 511317,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "dumpling-momo",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        151,
+        183,
+        151,
+        171
+      ],
+      "review_edge": false,
+      "transparent_pixels": 952541,
+      "partial_alpha_pixels": 619975,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "dumpling-rolling-pin",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        58,
+        256,
+        49,
+        258
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1099612,
+      "partial_alpha_pixels": 472904,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "dumpling-dipping-dish",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        199,
+        290,
+        204,
+        308
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1136920,
+      "partial_alpha_pixels": 435596,
+      "opaque_pixels": 0
     },
     {
       "id": "mezze-hummus",
@@ -4327,6 +5671,174 @@
       "transparent_pixels": 1169568,
       "partial_alpha_pixels": 4793,
       "opaque_pixels": 398155
+    },
+    {
+      "id": "soap-lavender-bar",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        94,
+        239,
+        91,
+        197
+      ],
+      "review_edge": false,
+      "transparent_pixels": 955013,
+      "partial_alpha_pixels": 617503,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "soap-loaf-mold",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        68,
+        156,
+        61,
+        146
+      ],
+      "review_edge": false,
+      "transparent_pixels": 872717,
+      "partial_alpha_pixels": 699799,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "soap-wire-cutter",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        116,
+        76,
+        115,
+        68
+      ],
+      "review_edge": false,
+      "transparent_pixels": 910743,
+      "partial_alpha_pixels": 661772,
+      "opaque_pixels": 1
+    },
+    {
+      "id": "soap-silicone-flower-mold",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        62,
+        187,
+        60,
+        167
+      ],
+      "review_edge": false,
+      "transparent_pixels": 880560,
+      "partial_alpha_pixels": 691956,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "soap-essential-oil",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        400,
+        64,
+        404,
+        61
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1156760,
+      "partial_alpha_pixels": 415756,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "soap-mixing-pitcher",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        158,
+        76,
+        86,
+        70
+      ],
+      "review_edge": false,
+      "transparent_pixels": 868960,
+      "partial_alpha_pixels": 703556,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "soap-oatmeal-bar",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        102,
+        238,
+        89,
+        228
+      ],
+      "review_edge": false,
+      "transparent_pixels": 911742,
+      "partial_alpha_pixels": 660774,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "soap-curing-rack",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        93,
+        134,
+        83,
+        93
+      ],
+      "review_edge": false,
+      "transparent_pixels": 762176,
+      "partial_alpha_pixels": 810340,
+      "opaque_pixels": 0
     }
   ]
 }

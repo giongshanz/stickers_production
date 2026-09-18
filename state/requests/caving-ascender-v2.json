@@ -1,0 +1,17 @@
+{
+  "id": "caving-ascender",
+  "subject": "A blue handled mechanical rope ascender with a silver toothed cam",
+  "topic_slugs": ["cave-exploration"],
+  "profile": "objects",
+  "prompt": "Edit the first blue handled mechanical rope ascender sticker. Preserve the blue frame, gray grip, silver toothed cam and three open holes. Make the two circular attachment holes at the upper-left and lower-left ACTUAL transparent alpha openings, identical to the background through the large central handle opening. Remove the solid white fills inside those circles, retaining only a narrow, smooth white sticker-cut margin immediately next to the blue metal rim if needed. Keep the outer narrow white cut edge, muted matte hand-painted 2D style and clear padding. The second original desktop sticker is only a style reference. Transparent square PNG, target 512 × 512; no extra objects, rope, background scene, text or printed checkerboard.",
+  "referenced_image_paths": [
+    "revisions/batch-20260918/caving-ascender-v1.png",
+    "references/Stickers/8-Gardening/8-Gardening_1.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final edit corrected alpha in two circular attachment holes. Initial prompt is state/requests/caving-ascender.json."
+}

@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-17T10:37:37.765052+00:00",
+  "updated_utc": "2026-09-18T08:57:00.741636+00:00",
   "files": [
     {
       "path": ".gitattributes",
@@ -147,6 +147,46 @@
       "sha256": "67326be25dc0b1f1b3233119ba9c289607340925e11d28e19e0103d1de32663c"
     },
     {
+      "path": "delivery/stickers/cave-exploration/caving-ascender.png",
+      "bytes": 955384,
+      "sha256": "840a0c783219f0e69e43718ca89514e1aa7ad73697edba272dbb69e0e2a0701e"
+    },
+    {
+      "path": "delivery/stickers/cave-exploration/caving-descender.png",
+      "bytes": 748685,
+      "sha256": "1ff5fed7eeb0feb78f276edd479ab5dcc613a3ab8776813aa13331736b77556a"
+    },
+    {
+      "path": "delivery/stickers/cave-exploration/caving-helmet.png",
+      "bytes": 963575,
+      "sha256": "a885a88a11825f791413682c67c6f650dade9fc1a215e862b3723c3e2f3723c9"
+    },
+    {
+      "path": "delivery/stickers/cave-exploration/caving-rope-coil.png",
+      "bytes": 1017471,
+      "sha256": "d09f44c852846590a679e3b147a62eec486732979840bbc309b330887a407a2a"
+    },
+    {
+      "path": "delivery/stickers/cave-exploration/caving-stalactite.png",
+      "bytes": 770622,
+      "sha256": "e9684629c3aff4fd6ae7e975f30fc5306481b648b17c961a818e34ddb2dcb830"
+    },
+    {
+      "path": "delivery/stickers/cave-exploration/caving-stalagmite.png",
+      "bytes": 701934,
+      "sha256": "dbe74c6f1a0fae97dfc656c34bb624101a7e56dabc2408d33bfc15a553fa29ce"
+    },
+    {
+      "path": "delivery/stickers/cave-exploration/caving-suit.png",
+      "bytes": 851364,
+      "sha256": "302512c9faaf538e21ba4c78ea6e42a1c5219367a83852e0f658cbdbf0f7a304"
+    },
+    {
+      "path": "delivery/stickers/cave-exploration/caving-survey-kit.png",
+      "bytes": 1072999,
+      "sha256": "9bc800a356b8c0d77e3df1f576123ba3cd285fce1b64798bdb2e82fd9139891f"
+    },
+    {
       "path": "delivery/stickers/coral-restoration/brain-coral.png",
       "bytes": 1159979,
       "sha256": "6b5f323cd4698815d3d5ba46ce0472c4aee9ce0ccb7d42214e26537e7196084c"
@@ -185,6 +225,46 @@
       "path": "delivery/stickers/coral-restoration/table-coral.png",
       "bytes": 661554,
       "sha256": "f5e50abf8c242e1eea8e1f9688f360596d4045dfc1f8e16a4b67b09a048338ad"
+    },
+    {
+      "path": "delivery/stickers/dumpling-table/dumpling-bamboo-steamer.png",
+      "bytes": 1192730,
+      "sha256": "50459d97070a19c7ceac023fd0202b6bf4e73098ef6baaaea1565405b0f1f66a"
+    },
+    {
+      "path": "delivery/stickers/dumpling-table/dumpling-bao.png",
+      "bytes": 791917,
+      "sha256": "eeeb382ffbf6c49c4fddfc75344b5dc04e7b143fb19c6e0555a531c4e07bfe86"
+    },
+    {
+      "path": "delivery/stickers/dumpling-table/dumpling-dipping-dish.png",
+      "bytes": 649136,
+      "sha256": "24d2cea0318da5bd73218af4095a8f23418b7e0a64f2d4dff383e64c67a62e25"
+    },
+    {
+      "path": "delivery/stickers/dumpling-table/dumpling-har-gow.png",
+      "bytes": 968143,
+      "sha256": "0878020754aa7c5c9833e96669389bf38fe8a5f967fc0a1a5ae1f3e76222d57b"
+    },
+    {
+      "path": "delivery/stickers/dumpling-table/dumpling-mandu.png",
+      "bytes": 773968,
+      "sha256": "afc7e109739c4e2d8ba6bb3266bc85c569f7c114df39ce740e68864fc361f813"
+    },
+    {
+      "path": "delivery/stickers/dumpling-table/dumpling-momo.png",
+      "bytes": 904446,
+      "sha256": "e867d935b18fe3b7b8f443ef31586a8a76efa4dcdce3bd1ac22f5eb952daa747"
+    },
+    {
+      "path": "delivery/stickers/dumpling-table/dumpling-rolling-pin.png",
+      "bytes": 772206,
+      "sha256": "ef974f1afdef29dc2a568afa72da3ba6492ca241a369a737e41082b25bbd93fa"
+    },
+    {
+      "path": "delivery/stickers/dumpling-table/dumpling-siu-mai.png",
+      "bytes": 1024486,
+      "sha256": "5d8a18da4add34914a321e610b09216913195199f049fbdae14cbce8112a7c9d"
     },
     {
       "path": "delivery/stickers/forest-fungi/chanterelle.png",
@@ -347,6 +427,46 @@
       "sha256": "95d23ff6af42e1d338709cbacbce3988bad649f05ab54b2f88ea6be21f47d70f"
     },
     {
+      "path": "delivery/stickers/harbor-life/harbor-buoy.png",
+      "bytes": 792785,
+      "sha256": "63c333271f0b1d028aacba00489cfd761c3d804079072ba167c3cf9dea134789"
+    },
+    {
+      "path": "delivery/stickers/harbor-life/harbor-cargo-crane.png",
+      "bytes": 1025181,
+      "sha256": "5b873116a0bc39ff92a762d59158f4e9c7354708fec5d74a955b491ea145b249"
+    },
+    {
+      "path": "delivery/stickers/harbor-life/harbor-dock-cleat.png",
+      "bytes": 1038852,
+      "sha256": "d02c29fb5297079511bed83f1c581bfdfd2a59d457cc32bf033034f06222d060"
+    },
+    {
+      "path": "delivery/stickers/harbor-life/harbor-lighthouse.png",
+      "bytes": 762606,
+      "sha256": "0d91ccd02fcd20cc75906c5c0803c4fafaa543862b5467fe7233ee9651f495ca"
+    },
+    {
+      "path": "delivery/stickers/harbor-life/harbor-lobster-trap.png",
+      "bytes": 1264129,
+      "sha256": "396222b7328d86980ee72226b2148a847c595ce29e8a5b8882acc92219b7ddbd"
+    },
+    {
+      "path": "delivery/stickers/harbor-life/harbor-mooring-bollard.png",
+      "bytes": 1041792,
+      "sha256": "e1c2dd58f7d37a999462998ace9b53bceb69c800141901773845728709b82f90"
+    },
+    {
+      "path": "delivery/stickers/harbor-life/harbor-ship-wheel.png",
+      "bytes": 1241765,
+      "sha256": "ed97a733dc4f9aa200c6d2fa888410adf1b41431dbb30b8243681b5c8f4f4b87"
+    },
+    {
+      "path": "delivery/stickers/harbor-life/harbor-tugboat.png",
+      "bytes": 1038802,
+      "sha256": "cdc743ffbe0fbc9addf1b295c8811466c2aef213ea6c6468b9085983230acb33"
+    },
+    {
       "path": "delivery/stickers/honey-breakfast/honey-butter-dish.png",
       "bytes": 2012074,
       "sha256": "790004332fe678866606cc0cf52b6693bdd83859c943675efa2562f736c26571"
@@ -505,6 +625,86 @@
       "path": "delivery/stickers/mineral-collection/mineral-selenite.png",
       "bytes": 670465,
       "sha256": "4dc7535d64ca8f3a83e1b76277e99b4f449b4e137add5080d97a1d48256713be"
+    },
+    {
+      "path": "delivery/stickers/observatory/observatory-armillary.png",
+      "bytes": 952827,
+      "sha256": "23b45bbd81ebf51c16173c516354edd4615dc2c71ae0be2aaffd8b3cfee22784"
+    },
+    {
+      "path": "delivery/stickers/observatory/observatory-dome.png",
+      "bytes": 981743,
+      "sha256": "3432c8292140577595482b011c2ec66657c05bd32ba31fedb7d53beb10578773"
+    },
+    {
+      "path": "delivery/stickers/observatory/observatory-eyepiece.png",
+      "bytes": 878267,
+      "sha256": "4a8bb24082623db27aba88c941df8d493613af1500a7adb402cb438dedf5d9f7"
+    },
+    {
+      "path": "delivery/stickers/observatory/observatory-meteorite.png",
+      "bytes": 1095527,
+      "sha256": "e59660b3d8f0cf05d49beb72feebf8e1f20b12472c820666961c0cbec66825cf"
+    },
+    {
+      "path": "delivery/stickers/observatory/observatory-orrery.png",
+      "bytes": 1230308,
+      "sha256": "fa81fba93c3ce315b7ae8e2c79c959e8c17d115524e0a602a5142ea495660aba"
+    },
+    {
+      "path": "delivery/stickers/observatory/observatory-red-torch.png",
+      "bytes": 821687,
+      "sha256": "04ffb5ecee732006400a35f1a0629e1310c950d9a437619e6cb00011410cb3d9"
+    },
+    {
+      "path": "delivery/stickers/observatory/observatory-star-chart.png",
+      "bytes": 1114601,
+      "sha256": "932dba5106223119a814bb64db9f66585f5c83b294634226bc22998cb9211bcc"
+    },
+    {
+      "path": "delivery/stickers/observatory/observatory-telescope.png",
+      "bytes": 733865,
+      "sha256": "0fd3e803d49f99560d298d704c990f94b5f9bca168ba05f4cf5946d8932bb0d2"
+    },
+    {
+      "path": "delivery/stickers/pasta-workshop/pasta-drying-rack.png",
+      "bytes": 1334872,
+      "sha256": "5bc7187e4bdf00bc8a12655288f2afdd8b537d8fe1cf71fff4d05604e4b07f58"
+    },
+    {
+      "path": "delivery/stickers/pasta-workshop/pasta-farfalle.png",
+      "bytes": 1166028,
+      "sha256": "a2b3670648a999eaf934d821c0a84d2d97f47adc1877605181f1d35a685ae0be"
+    },
+    {
+      "path": "delivery/stickers/pasta-workshop/pasta-gnocchi-board.png",
+      "bytes": 1021655,
+      "sha256": "ca8658c02a930fad89760dfed6a241808418d8980631e008a0af2c41d4b452c4"
+    },
+    {
+      "path": "delivery/stickers/pasta-workshop/pasta-hand-crank-machine.png",
+      "bytes": 1094886,
+      "sha256": "fa62019476f137577064421b9aec6ce4a0d631a45901dda75f34f6aa2e283839"
+    },
+    {
+      "path": "delivery/stickers/pasta-workshop/pasta-ravioli.png",
+      "bytes": 999359,
+      "sha256": "73383abd6a885103ed2e05b0f9f335f456598e5451403f7fcb011f5c87a6dbe8"
+    },
+    {
+      "path": "delivery/stickers/pasta-workshop/pasta-tagliatelle-nest.png",
+      "bytes": 1041731,
+      "sha256": "13258170b5dddde5064ccfae56efe71f8815814ff64b24e62d9ad151089bddfa"
+    },
+    {
+      "path": "delivery/stickers/pasta-workshop/pasta-tortellini.png",
+      "bytes": 1030524,
+      "sha256": "49b7c1734c0b9da1732d743587e09b6bec0766410fedc30a55a8097799092c3e"
+    },
+    {
+      "path": "delivery/stickers/pasta-workshop/pasta-wheel-cutter.png",
+      "bytes": 807257,
+      "sha256": "b1ee1c05407584cfc5de40752458b36d339dc160bc560caaa30d05a309e144b7"
     },
     {
       "path": "delivery/stickers/percussion/bongos.png",
@@ -667,6 +867,46 @@
       "sha256": "618de20e014991a91b3a95ad50ddde1e365d33b6ce11d503041bc31dc4ee5bce"
     },
     {
+      "path": "delivery/stickers/railway-station/railway-buffer-stop.png",
+      "bytes": 910403,
+      "sha256": "f80140473d36863eb3751cf6f7dd6750390b571ed8c41242f03a7563759bbc5a"
+    },
+    {
+      "path": "delivery/stickers/railway-station/railway-conductor-hat.png",
+      "bytes": 848460,
+      "sha256": "ab79748ea383000333fdb42c3acaa7e6484e87d71a4468112be6e23a58d3c223"
+    },
+    {
+      "path": "delivery/stickers/railway-station/railway-crossing-gate.png",
+      "bytes": 567052,
+      "sha256": "f10690c38a30d5bde1d99bae42e18dee389c6ba8537d833f62af0a20a4efa6c8"
+    },
+    {
+      "path": "delivery/stickers/railway-station/railway-locomotive.png",
+      "bytes": 1082716,
+      "sha256": "76bf124545e47a79adbd8b1459b85b0a43dc77e6a3a515a63f89477ae695b177"
+    },
+    {
+      "path": "delivery/stickers/railway-station/railway-luggage-trolley.png",
+      "bytes": 1103017,
+      "sha256": "7104d4dd34dc6ed10a126a3fa8e17808e7cc8edb623c2fb0326bf8360bcb81b3"
+    },
+    {
+      "path": "delivery/stickers/railway-station/railway-platform-clock.png",
+      "bytes": 1126932,
+      "sha256": "e85251ee863e043bf0530a14f08d5c834ed70150e700ceffc60545c08256a47d"
+    },
+    {
+      "path": "delivery/stickers/railway-station/railway-signal.png",
+      "bytes": 556381,
+      "sha256": "c03a05cc5da282ad70522d07543c4f13b25c0edc6d216b475228224ab009b317"
+    },
+    {
+      "path": "delivery/stickers/railway-station/railway-ticket-punch.png",
+      "bytes": 852942,
+      "sha256": "14f61bfe5d891d527e68812fc36152d1e675b8465b5099bc9e828b2cdd3a7858"
+    },
+    {
       "path": "delivery/stickers/reptile-habitat/reptile-climbing-branch.png",
       "bytes": 2153875,
       "sha256": "b5e02ec4d208ad245952c2c196f8f5d6dbd01f7f3b6ba7aea555f11989275546"
@@ -705,6 +945,46 @@
       "path": "delivery/stickers/reptile-habitat/reptile-water-dish.png",
       "bytes": 913586,
       "sha256": "a2bc824ae1f9adbd6ca5978c5beeba6d8c2c0545a79571db88f2add8869926dd"
+    },
+    {
+      "path": "delivery/stickers/rock-pool/tidepool-anemone.png",
+      "bytes": 1211178,
+      "sha256": "d0e9d84023505df8fbdea4756545ae4584e832d7e732fd7ecca14cc367641776"
+    },
+    {
+      "path": "delivery/stickers/rock-pool/tidepool-barnacles.png",
+      "bytes": 1118598,
+      "sha256": "667f832018056273761a4741448b5c40577213245af6e0d80affeef1a5e6f472"
+    },
+    {
+      "path": "delivery/stickers/rock-pool/tidepool-blenny.png",
+      "bytes": 744552,
+      "sha256": "d62dfe7ef2227827e0f708c202bc3bdca2d2224e20f4ee58c065f3ecbe8ab8ab"
+    },
+    {
+      "path": "delivery/stickers/rock-pool/tidepool-brittle-star.png",
+      "bytes": 996034,
+      "sha256": "9f83fb7a9a0d8a3bf21daa8e5da8f9ab549834a861d377ac1575203354160625"
+    },
+    {
+      "path": "delivery/stickers/rock-pool/tidepool-chiton.png",
+      "bytes": 915787,
+      "sha256": "f58f306a5c9f5a41b0ee4d89b351c678e7cb9003116fcd0d49df82351a4538af"
+    },
+    {
+      "path": "delivery/stickers/rock-pool/tidepool-hermit-crab.png",
+      "bytes": 994103,
+      "sha256": "d0a934ba1328f31cd1bebacc8cbe012024771074585bb5c8f3dfbf72b5eb0b6a"
+    },
+    {
+      "path": "delivery/stickers/rock-pool/tidepool-limpet.png",
+      "bytes": 1195272,
+      "sha256": "c631cfdec17336080f62290bcb190fbd4b5d5ec19953565595487d8d74f8eab1"
+    },
+    {
+      "path": "delivery/stickers/rock-pool/tidepool-sea-lettuce.png",
+      "bytes": 1360815,
+      "sha256": "8484462b6d3a9041f24edb3fe89c0c55a127af3fdac168b0ab21d5d3e91aa42b"
     },
     {
       "path": "delivery/stickers/science-laboratory/glass-thermometer.png",
@@ -825,6 +1105,46 @@
       "path": "delivery/stickers/snorkeling/underwater-camera.png",
       "bytes": 1137725,
       "sha256": "ed3e26bb275f62be31616dcec759f41a01b6baa4385c57f3ee7a8822d202d326"
+    },
+    {
+      "path": "delivery/stickers/soap-making/soap-curing-rack.png",
+      "bytes": 1316275,
+      "sha256": "2c0b0b335814f999abcfc7273b55bf0c3c7e633b5867850056b502bed440152c"
+    },
+    {
+      "path": "delivery/stickers/soap-making/soap-essential-oil.png",
+      "bytes": 638833,
+      "sha256": "e31e84db4d17d84b19d8c60ca8874334a5c314e322c824f45548d5ac5db040c1"
+    },
+    {
+      "path": "delivery/stickers/soap-making/soap-lavender-bar.png",
+      "bytes": 949897,
+      "sha256": "fd7229df214d4387765bda3aa6ae364b88663250744a5b897c3b0918f8e47449"
+    },
+    {
+      "path": "delivery/stickers/soap-making/soap-loaf-mold.png",
+      "bytes": 968306,
+      "sha256": "65c9f9305b582c06ef5edededafd5ba8f5b719ce77d1ee43b26bbfb2d2fb1a8f"
+    },
+    {
+      "path": "delivery/stickers/soap-making/soap-mixing-pitcher.png",
+      "bytes": 1023577,
+      "sha256": "f2adc7f8d5d437efd8f2235cc8ce9e7c7f14f02f3a111b1ffaacc033d324d0b7"
+    },
+    {
+      "path": "delivery/stickers/soap-making/soap-oatmeal-bar.png",
+      "bytes": 962579,
+      "sha256": "f4287188d7d52542456f6770f5002e51b40b0abaca796ad977216e864b6ca1b7"
+    },
+    {
+      "path": "delivery/stickers/soap-making/soap-silicone-flower-mold.png",
+      "bytes": 961724,
+      "sha256": "46e7608ac23ad72d5a2d5a8118769df5800a93f3c9b5d4d41fb422416437e77c"
+    },
+    {
+      "path": "delivery/stickers/soap-making/soap-wire-cutter.png",
+      "bytes": 971737,
+      "sha256": "c74b1448e415f8b2a6cc4378d5a096b86caaf487a7d09d361351d50f07d5ff96"
     },
     {
       "path": "delivery/stickers/succulent-collection/aeonium-pot.png",
@@ -1027,6 +1347,46 @@
       "sha256": "af8d0e185a50a74fcc0ba0bdc4d1f8efd34a0df787d8860bfb3b6ab8b04016fa"
     },
     {
+      "path": "delivery/stickers/vineyard/vineyard-carafe.png",
+      "bytes": 941496,
+      "sha256": "d7b63e797528db2c2bb1890b9acde43a8fa857116201dab84a48a62dfb811194"
+    },
+    {
+      "path": "delivery/stickers/vineyard/vineyard-corkscrew.png",
+      "bytes": 718602,
+      "sha256": "7075118346ea033a63af14685f6803ec28655d2cb99caba893323567bd0c49d4"
+    },
+    {
+      "path": "delivery/stickers/vineyard/vineyard-grape-basket.png",
+      "bytes": 1384215,
+      "sha256": "8b245070a9bc698cb758521058f8dca76b34aacde0ed120d3ef6dd154ce72db8"
+    },
+    {
+      "path": "delivery/stickers/vineyard/vineyard-grape-press.png",
+      "bytes": 977933,
+      "sha256": "b8df42b04f340ce4ee8c089fc33c7871c366a3a9c55b8c2236ec9217df67d07b"
+    },
+    {
+      "path": "delivery/stickers/vineyard/vineyard-grape-trellis.png",
+      "bytes": 1122507,
+      "sha256": "458bb83ca24e0eb222d7fa6da3f2be57ad17ba34f311814d26a206916983ff10"
+    },
+    {
+      "path": "delivery/stickers/vineyard/vineyard-oak-barrel.png",
+      "bytes": 1244792,
+      "sha256": "1c170d4dda7f8a683fd1ded59b50cdfa4bdb3a2e6575aaa85d8210023b289af0"
+    },
+    {
+      "path": "delivery/stickers/vineyard/vineyard-pruning-shears.png",
+      "bytes": 664043,
+      "sha256": "9e4ce7450cd70c0a3e29c9cfa41428a7c22ca3bad596c4a187350ec1b20121ee"
+    },
+    {
+      "path": "delivery/stickers/vineyard/vineyard-vine-cutting.png",
+      "bytes": 908755,
+      "sha256": "1a87123d3209886e57e422fb22f2434a2b8f480737c390a09c07d7768eb61b8e"
+    },
+    {
       "path": "delivery/stickers/weather-station/glass-thermometer.png",
       "bytes": 507421,
       "sha256": "d324511c6046cc6542ae61921947caba39b1deb81e4da71ffe89c7ebca3a2efb"
@@ -1108,8 +1468,8 @@
     },
     {
       "path": "delivery/topic-map.csv",
-      "bytes": 54038,
-      "sha256": "79727d26d44ae1487fd99b5bfb75bfa1678a03cff2d57d15ea255f16d0c44172"
+      "bytes": 63331,
+      "sha256": "656a4ca3641a6ffabe3b97a10accb65ff8762047313a53f42d5c61e2bec4798a"
     },
     {
       "path": "history/delivery/.gitattributes",
@@ -1493,8 +1853,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 139558,
-      "sha256": "787856505efacc1294c6fde971086f24909a2df8a28fd7807d4265fc5c6302c0"
+      "bytes": 157017,
+      "sha256": "6f029264dff618e156c8bda7c901c6a572d453056003f6e88290bc59ed82e0f5"
     },
     {
       "path": "logs/alpha-pilot-20260917.jsonl",
@@ -1518,8 +1878,8 @@
     },
     {
       "path": "logs/generation.jsonl",
-      "bytes": 18484,
-      "sha256": "88ec388f7d2b49a5d251311be8a71ecdb50dc4fc71ace4f4b5e8500232d8e220"
+      "bytes": 58706,
+      "sha256": "08aebd5c63e0ae2b576d63607dbc63c383fb8ef43aad64fda7c8957ff9bc0391"
     },
     {
       "path": "logs/README.vi.md",
@@ -1662,6 +2022,46 @@
       "sha256": "057730a4ed60bd98fc87676802d36cabe6adcdfabc06f1c9e9f75bd3b389f828"
     },
     {
+      "path": "masters/caving-ascender.png",
+      "bytes": 955384,
+      "sha256": "840a0c783219f0e69e43718ca89514e1aa7ad73697edba272dbb69e0e2a0701e"
+    },
+    {
+      "path": "masters/caving-descender.png",
+      "bytes": 748685,
+      "sha256": "1ff5fed7eeb0feb78f276edd479ab5dcc613a3ab8776813aa13331736b77556a"
+    },
+    {
+      "path": "masters/caving-helmet.png",
+      "bytes": 963575,
+      "sha256": "a885a88a11825f791413682c67c6f650dade9fc1a215e862b3723c3e2f3723c9"
+    },
+    {
+      "path": "masters/caving-rope-coil.png",
+      "bytes": 1017471,
+      "sha256": "d09f44c852846590a679e3b147a62eec486732979840bbc309b330887a407a2a"
+    },
+    {
+      "path": "masters/caving-stalactite.png",
+      "bytes": 770622,
+      "sha256": "e9684629c3aff4fd6ae7e975f30fc5306481b648b17c961a818e34ddb2dcb830"
+    },
+    {
+      "path": "masters/caving-stalagmite.png",
+      "bytes": 701934,
+      "sha256": "dbe74c6f1a0fae97dfc656c34bb624101a7e56dabc2408d33bfc15a553fa29ce"
+    },
+    {
+      "path": "masters/caving-suit.png",
+      "bytes": 851364,
+      "sha256": "302512c9faaf538e21ba4c78ea6e42a1c5219367a83852e0f658cbdbf0f7a304"
+    },
+    {
+      "path": "masters/caving-survey-kit.png",
+      "bytes": 1072999,
+      "sha256": "9bc800a356b8c0d77e3df1f576123ba3cd285fce1b64798bdb2e82fd9139891f"
+    },
+    {
       "path": "masters/ceramic-kiln.png",
       "bytes": 1946098,
       "sha256": "9d9834a95116fdcd2bbee7d8613e3a2265991f511e3b670646947e754f2004e6"
@@ -1735,6 +2135,46 @@
       "path": "masters/drum-major-mace.png",
       "bytes": 674425,
       "sha256": "20cd5b713f9d7681249a114c5ff47599f44a8962d611744b72e346bdaeff4b34"
+    },
+    {
+      "path": "masters/dumpling-bamboo-steamer.png",
+      "bytes": 1192730,
+      "sha256": "50459d97070a19c7ceac023fd0202b6bf4e73098ef6baaaea1565405b0f1f66a"
+    },
+    {
+      "path": "masters/dumpling-bao.png",
+      "bytes": 791917,
+      "sha256": "eeeb382ffbf6c49c4fddfc75344b5dc04e7b143fb19c6e0555a531c4e07bfe86"
+    },
+    {
+      "path": "masters/dumpling-dipping-dish.png",
+      "bytes": 649136,
+      "sha256": "24d2cea0318da5bd73218af4095a8f23418b7e0a64f2d4dff383e64c67a62e25"
+    },
+    {
+      "path": "masters/dumpling-har-gow.png",
+      "bytes": 968143,
+      "sha256": "0878020754aa7c5c9833e96669389bf38fe8a5f967fc0a1a5ae1f3e76222d57b"
+    },
+    {
+      "path": "masters/dumpling-mandu.png",
+      "bytes": 773968,
+      "sha256": "afc7e109739c4e2d8ba6bb3266bc85c569f7c114df39ce740e68864fc361f813"
+    },
+    {
+      "path": "masters/dumpling-momo.png",
+      "bytes": 904446,
+      "sha256": "e867d935b18fe3b7b8f443ef31586a8a76efa4dcdce3bd1ac22f5eb952daa747"
+    },
+    {
+      "path": "masters/dumpling-rolling-pin.png",
+      "bytes": 772206,
+      "sha256": "ef974f1afdef29dc2a568afa72da3ba6492ca241a369a737e41082b25bbd93fa"
+    },
+    {
+      "path": "masters/dumpling-siu-mai.png",
+      "bytes": 1024486,
+      "sha256": "5d8a18da4add34914a321e610b09216913195199f049fbdae14cbce8112a7c9d"
     },
     {
       "path": "masters/echeveria-pot.png",
@@ -1835,6 +2275,46 @@
       "path": "masters/handpan.png",
       "bytes": 1040184,
       "sha256": "038cc86dfd78c152ceb711ef236b865af6fa3e04e56fc7b73e198aaa8713234f"
+    },
+    {
+      "path": "masters/harbor-buoy.png",
+      "bytes": 792785,
+      "sha256": "63c333271f0b1d028aacba00489cfd761c3d804079072ba167c3cf9dea134789"
+    },
+    {
+      "path": "masters/harbor-cargo-crane.png",
+      "bytes": 1025181,
+      "sha256": "5b873116a0bc39ff92a762d59158f4e9c7354708fec5d74a955b491ea145b249"
+    },
+    {
+      "path": "masters/harbor-dock-cleat.png",
+      "bytes": 1038852,
+      "sha256": "d02c29fb5297079511bed83f1c581bfdfd2a59d457cc32bf033034f06222d060"
+    },
+    {
+      "path": "masters/harbor-lighthouse.png",
+      "bytes": 762606,
+      "sha256": "0d91ccd02fcd20cc75906c5c0803c4fafaa543862b5467fe7233ee9651f495ca"
+    },
+    {
+      "path": "masters/harbor-lobster-trap.png",
+      "bytes": 1264129,
+      "sha256": "396222b7328d86980ee72226b2148a847c595ce29e8a5b8882acc92219b7ddbd"
+    },
+    {
+      "path": "masters/harbor-mooring-bollard.png",
+      "bytes": 1041792,
+      "sha256": "e1c2dd58f7d37a999462998ace9b53bceb69c800141901773845728709b82f90"
+    },
+    {
+      "path": "masters/harbor-ship-wheel.png",
+      "bytes": 1241765,
+      "sha256": "ed97a733dc4f9aa200c6d2fa888410adf1b41431dbb30b8243681b5c8f4f4b87"
+    },
+    {
+      "path": "masters/harbor-tugboat.png",
+      "bytes": 1038802,
+      "sha256": "cdc743ffbe0fbc9addf1b295c8811466c2aef213ea6c6468b9085983230acb33"
     },
     {
       "path": "masters/haworthia-pot.png",
@@ -2092,6 +2572,46 @@
       "sha256": "459047959df4aa38d76ffc76d352e40fc40138ed491ecd2bb172e6747138e252"
     },
     {
+      "path": "masters/observatory-armillary.png",
+      "bytes": 952827,
+      "sha256": "23b45bbd81ebf51c16173c516354edd4615dc2c71ae0be2aaffd8b3cfee22784"
+    },
+    {
+      "path": "masters/observatory-dome.png",
+      "bytes": 981743,
+      "sha256": "3432c8292140577595482b011c2ec66657c05bd32ba31fedb7d53beb10578773"
+    },
+    {
+      "path": "masters/observatory-eyepiece.png",
+      "bytes": 878267,
+      "sha256": "4a8bb24082623db27aba88c941df8d493613af1500a7adb402cb438dedf5d9f7"
+    },
+    {
+      "path": "masters/observatory-meteorite.png",
+      "bytes": 1095527,
+      "sha256": "e59660b3d8f0cf05d49beb72feebf8e1f20b12472c820666961c0cbec66825cf"
+    },
+    {
+      "path": "masters/observatory-orrery.png",
+      "bytes": 1230308,
+      "sha256": "fa81fba93c3ce315b7ae8e2c79c959e8c17d115524e0a602a5142ea495660aba"
+    },
+    {
+      "path": "masters/observatory-red-torch.png",
+      "bytes": 821687,
+      "sha256": "04ffb5ecee732006400a35f1a0629e1310c950d9a437619e6cb00011410cb3d9"
+    },
+    {
+      "path": "masters/observatory-star-chart.png",
+      "bytes": 1114601,
+      "sha256": "932dba5106223119a814bb64db9f66585f5c83b294634226bc22998cb9211bcc"
+    },
+    {
+      "path": "masters/observatory-telescope.png",
+      "bytes": 733865,
+      "sha256": "0fd3e803d49f99560d298d704c990f94b5f9bca168ba05f4cf5946d8932bb0d2"
+    },
+    {
       "path": "masters/opera-binoculars.png",
       "bytes": 2142642,
       "sha256": "294f85e913da6f16bfd258d537f51b160eb3ced159ebbdc333093e3509627df5"
@@ -2105,6 +2625,46 @@
       "path": "masters/panda-plant-pot.png",
       "bytes": 2107338,
       "sha256": "341232d951e3358a381022e095a4af858b1d59307595f169602b270f8e4934e9"
+    },
+    {
+      "path": "masters/pasta-drying-rack.png",
+      "bytes": 1334872,
+      "sha256": "5bc7187e4bdf00bc8a12655288f2afdd8b537d8fe1cf71fff4d05604e4b07f58"
+    },
+    {
+      "path": "masters/pasta-farfalle.png",
+      "bytes": 1166028,
+      "sha256": "a2b3670648a999eaf934d821c0a84d2d97f47adc1877605181f1d35a685ae0be"
+    },
+    {
+      "path": "masters/pasta-gnocchi-board.png",
+      "bytes": 1021655,
+      "sha256": "ca8658c02a930fad89760dfed6a241808418d8980631e008a0af2c41d4b452c4"
+    },
+    {
+      "path": "masters/pasta-hand-crank-machine.png",
+      "bytes": 1094886,
+      "sha256": "fa62019476f137577064421b9aec6ce4a0d631a45901dda75f34f6aa2e283839"
+    },
+    {
+      "path": "masters/pasta-ravioli.png",
+      "bytes": 999359,
+      "sha256": "73383abd6a885103ed2e05b0f9f335f456598e5451403f7fcb011f5c87a6dbe8"
+    },
+    {
+      "path": "masters/pasta-tagliatelle-nest.png",
+      "bytes": 1041731,
+      "sha256": "13258170b5dddde5064ccfae56efe71f8815814ff64b24e62d9ad151089bddfa"
+    },
+    {
+      "path": "masters/pasta-tortellini.png",
+      "bytes": 1030524,
+      "sha256": "49b7c1734c0b9da1732d743587e09b6bec0766410fedc30a55a8097799092c3e"
+    },
+    {
+      "path": "masters/pasta-wheel-cutter.png",
+      "bytes": 807257,
+      "sha256": "b1ee1c05407584cfc5de40752458b36d339dc160bc560caaa30d05a309e144b7"
     },
     {
       "path": "masters/pho-bo.png",
@@ -2207,6 +2767,46 @@
       "sha256": "d6ca2ac9b62a3c9f8c223e7677f488838a18715e3340e960e396df083d4924fb"
     },
     {
+      "path": "masters/railway-buffer-stop.png",
+      "bytes": 910403,
+      "sha256": "f80140473d36863eb3751cf6f7dd6750390b571ed8c41242f03a7563759bbc5a"
+    },
+    {
+      "path": "masters/railway-conductor-hat.png",
+      "bytes": 848460,
+      "sha256": "ab79748ea383000333fdb42c3acaa7e6484e87d71a4468112be6e23a58d3c223"
+    },
+    {
+      "path": "masters/railway-crossing-gate.png",
+      "bytes": 567052,
+      "sha256": "f10690c38a30d5bde1d99bae42e18dee389c6ba8537d833f62af0a20a4efa6c8"
+    },
+    {
+      "path": "masters/railway-locomotive.png",
+      "bytes": 1082716,
+      "sha256": "76bf124545e47a79adbd8b1459b85b0a43dc77e6a3a515a63f89477ae695b177"
+    },
+    {
+      "path": "masters/railway-luggage-trolley.png",
+      "bytes": 1103017,
+      "sha256": "7104d4dd34dc6ed10a126a3fa8e17808e7cc8edb623c2fb0326bf8360bcb81b3"
+    },
+    {
+      "path": "masters/railway-platform-clock.png",
+      "bytes": 1126932,
+      "sha256": "e85251ee863e043bf0530a14f08d5c834ed70150e700ceffc60545c08256a47d"
+    },
+    {
+      "path": "masters/railway-signal.png",
+      "bytes": 556381,
+      "sha256": "c03a05cc5da282ad70522d07543c4f13b25c0edc6d216b475228224ab009b317"
+    },
+    {
+      "path": "masters/railway-ticket-punch.png",
+      "bytes": 852942,
+      "sha256": "14f61bfe5d891d527e68812fc36152d1e675b8465b5099bc9e828b2cdd3a7858"
+    },
+    {
       "path": "masters/red-theatre-curtain.png",
       "bytes": 1071036,
       "sha256": "17383d2c33f03ed8675aa1b69ccc56fe960f5d853d8cc61a8ef2d9b68afda2d8"
@@ -2290,6 +2890,46 @@
       "path": "masters/snorkel-tube.png",
       "bytes": 439184,
       "sha256": "7f889c80faa1dbc04e4fcb343dba487eb69d5e0a6d6e67d6422041fd49d13f0c"
+    },
+    {
+      "path": "masters/soap-curing-rack.png",
+      "bytes": 1316275,
+      "sha256": "2c0b0b335814f999abcfc7273b55bf0c3c7e633b5867850056b502bed440152c"
+    },
+    {
+      "path": "masters/soap-essential-oil.png",
+      "bytes": 638833,
+      "sha256": "e31e84db4d17d84b19d8c60ca8874334a5c314e322c824f45548d5ac5db040c1"
+    },
+    {
+      "path": "masters/soap-lavender-bar.png",
+      "bytes": 949897,
+      "sha256": "fd7229df214d4387765bda3aa6ae364b88663250744a5b897c3b0918f8e47449"
+    },
+    {
+      "path": "masters/soap-loaf-mold.png",
+      "bytes": 968306,
+      "sha256": "65c9f9305b582c06ef5edededafd5ba8f5b719ce77d1ee43b26bbfb2d2fb1a8f"
+    },
+    {
+      "path": "masters/soap-mixing-pitcher.png",
+      "bytes": 1023577,
+      "sha256": "f2adc7f8d5d437efd8f2235cc8ce9e7c7f14f02f3a111b1ffaacc033d324d0b7"
+    },
+    {
+      "path": "masters/soap-oatmeal-bar.png",
+      "bytes": 962579,
+      "sha256": "f4287188d7d52542456f6770f5002e51b40b0abaca796ad977216e864b6ca1b7"
+    },
+    {
+      "path": "masters/soap-silicone-flower-mold.png",
+      "bytes": 961724,
+      "sha256": "46e7608ac23ad72d5a2d5a8118769df5800a93f3c9b5d4d41fb422416437e77c"
+    },
+    {
+      "path": "masters/soap-wire-cutter.png",
+      "bytes": 971737,
+      "sha256": "c74b1448e415f8b2a6cc4378d5a096b86caaf487a7d09d361351d50f07d5ff96"
     },
     {
       "path": "masters/stag-beetle.png",
@@ -2442,6 +3082,46 @@
       "sha256": "abeef31c7565b4d89f7f3cfdd91194db27c8f234dc3c50f3ff60b0ab2ca818d2"
     },
     {
+      "path": "masters/tidepool-anemone.png",
+      "bytes": 1211178,
+      "sha256": "d0e9d84023505df8fbdea4756545ae4584e832d7e732fd7ecca14cc367641776"
+    },
+    {
+      "path": "masters/tidepool-barnacles.png",
+      "bytes": 1118598,
+      "sha256": "667f832018056273761a4741448b5c40577213245af6e0d80affeef1a5e6f472"
+    },
+    {
+      "path": "masters/tidepool-blenny.png",
+      "bytes": 744552,
+      "sha256": "d62dfe7ef2227827e0f708c202bc3bdca2d2224e20f4ee58c065f3ecbe8ab8ab"
+    },
+    {
+      "path": "masters/tidepool-brittle-star.png",
+      "bytes": 996034,
+      "sha256": "9f83fb7a9a0d8a3bf21daa8e5da8f9ab549834a861d377ac1575203354160625"
+    },
+    {
+      "path": "masters/tidepool-chiton.png",
+      "bytes": 915787,
+      "sha256": "f58f306a5c9f5a41b0ee4d89b351c678e7cb9003116fcd0d49df82351a4538af"
+    },
+    {
+      "path": "masters/tidepool-hermit-crab.png",
+      "bytes": 994103,
+      "sha256": "d0a934ba1328f31cd1bebacc8cbe012024771074585bb5c8f3dfbf72b5eb0b6a"
+    },
+    {
+      "path": "masters/tidepool-limpet.png",
+      "bytes": 1195272,
+      "sha256": "c631cfdec17336080f62290bcb190fbd4b5d5ec19953565595487d8d74f8eab1"
+    },
+    {
+      "path": "masters/tidepool-sea-lettuce.png",
+      "bytes": 1360815,
+      "sha256": "8484462b6d3a9041f24edb3fe89c0c55a127af3fdac168b0ab21d5d3e91aa42b"
+    },
+    {
       "path": "masters/tomato-pincushion.png",
       "bytes": 1068819,
       "sha256": "9ad638ad370bbad19162d6fbd3b0ef0b882d49fa328c28b8f5e9d2347144e7c1"
@@ -2455,6 +3135,46 @@
       "path": "masters/underwater-camera.png",
       "bytes": 1137725,
       "sha256": "ed3e26bb275f62be31616dcec759f41a01b6baa4385c57f3ee7a8822d202d326"
+    },
+    {
+      "path": "masters/vineyard-carafe.png",
+      "bytes": 941496,
+      "sha256": "d7b63e797528db2c2bb1890b9acde43a8fa857116201dab84a48a62dfb811194"
+    },
+    {
+      "path": "masters/vineyard-corkscrew.png",
+      "bytes": 718602,
+      "sha256": "7075118346ea033a63af14685f6803ec28655d2cb99caba893323567bd0c49d4"
+    },
+    {
+      "path": "masters/vineyard-grape-basket.png",
+      "bytes": 1384215,
+      "sha256": "8b245070a9bc698cb758521058f8dca76b34aacde0ed120d3ef6dd154ce72db8"
+    },
+    {
+      "path": "masters/vineyard-grape-press.png",
+      "bytes": 977933,
+      "sha256": "b8df42b04f340ce4ee8c089fc33c7871c366a3a9c55b8c2236ec9217df67d07b"
+    },
+    {
+      "path": "masters/vineyard-grape-trellis.png",
+      "bytes": 1122507,
+      "sha256": "458bb83ca24e0eb222d7fa6da3f2be57ad17ba34f311814d26a206916983ff10"
+    },
+    {
+      "path": "masters/vineyard-oak-barrel.png",
+      "bytes": 1244792,
+      "sha256": "1c170d4dda7f8a683fd1ded59b50cdfa4bdb3a2e6575aaa85d8210023b289af0"
+    },
+    {
+      "path": "masters/vineyard-pruning-shears.png",
+      "bytes": 664043,
+      "sha256": "9e4ce7450cd70c0a3e29c9cfa41428a7c22ca3bad596c4a187350ec1b20121ee"
+    },
+    {
+      "path": "masters/vineyard-vine-cutting.png",
+      "bytes": 908755,
+      "sha256": "1a87123d3209886e57e422fb22f2434a2b8f480737c390a09c07d7768eb61b8e"
     },
     {
       "path": "masters/wax-seal-stamp.png",
@@ -4608,8 +5328,8 @@
     },
     {
       "path": "qa/alpha-padding-audit.json",
-      "bytes": 79144,
-      "sha256": "9733550d6b931edc07e1b32d3065b7f7a52fc06976e1ecfca9b6a85f8780200d"
+      "bytes": 106874,
+      "sha256": "1122b85731e671fef9f921c60d8013843e10d43c660259afae2caa601180b055"
     },
     {
       "path": "qa/alpha-pilot-20260917/before-dark.png",
@@ -4975,6 +5695,151 @@
       "path": "qa/batch-20260917/mineral-malachite-dark-preview.png",
       "bytes": 1019484,
       "sha256": "31aebfe41ac659c8a1c843f6b236781f636fc4618dc8d7249c2eac294665ff86"
+    },
+    {
+      "path": "qa/batch-20260918/caving-alpha-report.json",
+      "bytes": 1423,
+      "sha256": "24c5f0d1c463e7629ed734bb6b378dfcb5026920247292d1cc59e2a1e1087525"
+    },
+    {
+      "path": "qa/batch-20260918/caving-ascender-dark.png",
+      "bytes": 798539,
+      "sha256": "1463f3a15f177f483f691e3412362560721bdbea1590270a409043934fee7390"
+    },
+    {
+      "path": "qa/batch-20260918/caving-last-three-dark.png",
+      "bytes": 263807,
+      "sha256": "03c08f269d2816f28128639b7a04eaf7e510bd9364b9f247e1b1ef40c74680b3"
+    },
+    {
+      "path": "qa/batch-20260918/caving-suit-dark.png",
+      "bytes": 720396,
+      "sha256": "51e6b7458e25faaf9de8da27fd9617601f64963b4527aa4bf1a9d5bbd5c45419"
+    },
+    {
+      "path": "qa/batch-20260918/dumpling-first-four-dark.png",
+      "bytes": 427070,
+      "sha256": "19fcfd24d5bc284eab24457101a67d55c277df9b91729461331973335f48355f"
+    },
+    {
+      "path": "qa/batch-20260918/dumpling-last-four-dark.png",
+      "bytes": 318807,
+      "sha256": "bc775d97dedfec69a4fbb0bb43b039015ec0c4d6f79c29d641fd518550efd470"
+    },
+    {
+      "path": "qa/batch-20260918/harbor-buoy-v2-dark.png",
+      "bytes": 660789,
+      "sha256": "c3a76d71c799e25894d4dc17e412acda9a9afccf2fc5f588385bc1c7ac36f17c"
+    },
+    {
+      "path": "qa/batch-20260918/harbor-first-four-dark.png",
+      "bytes": 410364,
+      "sha256": "315ee8280fcf8a62e7a16e04c26eec233ad8f05a1cbe482cd0aaf74aea9f8c48"
+    },
+    {
+      "path": "qa/batch-20260918/harbor-last-four-dark.png",
+      "bytes": 459794,
+      "sha256": "acde55a23a74cb15f3944635f9bf416d3b6303138df5a7d64f7a477076679837"
+    },
+    {
+      "path": "qa/batch-20260918/harbor-lobster-v2-dark.png",
+      "bytes": 1046067,
+      "sha256": "0b084a4364fac6b3598d7698aa7c581f4ee96834e480e263ade9d38e8103a9de"
+    },
+    {
+      "path": "qa/batch-20260918/harbor-uuid-map.png",
+      "bytes": 186194,
+      "sha256": "9ba82eb67a73e887e1c9877fa17cbf75385a716e00af3a4c8d14adec6061da6b"
+    },
+    {
+      "path": "qa/batch-20260918/observatory-armillary-dark.png",
+      "bytes": 905271,
+      "sha256": "4ac2c4d604c3c5bbd77fd76f114ca34b02caa7031201c24ada8802404bc306b6"
+    },
+    {
+      "path": "qa/batch-20260918/observatory-armillary-v2-dark.png",
+      "bytes": 800193,
+      "sha256": "3c60f5dcc3bd981e6d13b13f343cdbb5f93315f3a309afd0fa73a31d4873adf9"
+    },
+    {
+      "path": "qa/batch-20260918/observatory-dark.png",
+      "bytes": 806214,
+      "sha256": "2144e487870c1b65a39978fd8109c098df33ef98f20315897ea61affd892c125"
+    },
+    {
+      "path": "qa/batch-20260918/observatory-orrery-dark.png",
+      "bytes": 1051306,
+      "sha256": "fa3496f02728b1b678714b38217fec7cf8f36403a51035bd12a0e279c1911ce1"
+    },
+    {
+      "path": "qa/batch-20260918/observatory-telescope-dark.png",
+      "bytes": 598586,
+      "sha256": "57fe01f94622b9e78ad12c1bcfb8a2a62078ca791563773282d62f906f99d31f"
+    },
+    {
+      "path": "qa/batch-20260918/pasta-drying-v2-dark.png",
+      "bytes": 1134916,
+      "sha256": "f77f5d0d3bf20cfe10b3e93a654eb5e21dacec1bfcbeef687da3d0465c4a3aec"
+    },
+    {
+      "path": "qa/batch-20260918/pasta-first-four-dark.png",
+      "bytes": 439910,
+      "sha256": "7e41a7b432d0088d1e6108bab6402e21e817bc448b16cf2624a2cc1016d4ef64"
+    },
+    {
+      "path": "qa/batch-20260918/pasta-last-four-dark.png",
+      "bytes": 434812,
+      "sha256": "12f3b283441d49135579b78c2d0f51d7dc8cf0d3ddbb4301c08e3435fb08efcd"
+    },
+    {
+      "path": "qa/batch-20260918/railway-first-three-dark.png",
+      "bytes": 321890,
+      "sha256": "3b7e3d9ec7e4994e061f0a69714c4feafdb621cea8baf6bcc6eeebdf641978b5"
+    },
+    {
+      "path": "qa/batch-20260918/railway-last-four-dark.png",
+      "bytes": 363360,
+      "sha256": "e7e16fdd0b1333f6e26ba5cea979053247bf050bba7225ce42b4fb7cb64bc695"
+    },
+    {
+      "path": "qa/batch-20260918/railway-luggage-v2-dark.png",
+      "bytes": 895862,
+      "sha256": "7360cfc3f62f0e7664646c5e778b2fabb23d5b66c42a182271ac5d2e3f83dffc"
+    },
+    {
+      "path": "qa/batch-20260918/railway-two-original-dark.png",
+      "bytes": 211535,
+      "sha256": "1a7446ce2c4387a3d1f839d65632867c4f628d2e2d2e9a1057b3f70c6315b61b"
+    },
+    {
+      "path": "qa/batch-20260918/rock-pool-dark.png",
+      "bytes": 854510,
+      "sha256": "68eb8008cdda21af81be995b44e1b0e64be08091dd8ce00dd8b431897fb5b1cd"
+    },
+    {
+      "path": "qa/batch-20260918/soap-first-four-dark.png",
+      "bytes": 408641,
+      "sha256": "b73773241b27b2942f279cfa411b4f0696adb06570a85a654220208a55e8f0b8"
+    },
+    {
+      "path": "qa/batch-20260918/soap-last-four-dark.png",
+      "bytes": 411611,
+      "sha256": "5f699747d7b7933525231d3c20a3f0546efcc819b5ebd71cd1200bcfd1795e8b"
+    },
+    {
+      "path": "qa/batch-20260918/vineyard-first-four-dark.png",
+      "bytes": 470034,
+      "sha256": "b50ad85b5b99fbbf3ce63125896f8f80c78b4b5c7c2469dc23f8fc7203b6d54f"
+    },
+    {
+      "path": "qa/batch-20260918/vineyard-last-four-dark.png",
+      "bytes": 357342,
+      "sha256": "63a4c77dcefb413b4af7269fc46651cd091bca8b599781dbf45e2e954ee1d152"
+    },
+    {
+      "path": "qa/batch-20260918/vineyard-uuid-map.png",
+      "bytes": 215678,
+      "sha256": "64fd95f4757b03c5ea3870d4ec8d0e1c7486e84421a4cbf7f09780f7c31ce41f"
     },
     {
       "path": "qa/border-alpha-20260917/aeonium-pot.json",
@@ -6162,9 +7027,19 @@
       "sha256": "95b4c01cb150217364be3352cfa8da4039cd8d6f0377fe5f461d922a2f86e71d"
     },
     {
+      "path": "qa/rock-pool-pilot-20260918/report.json",
+      "bytes": 1014,
+      "sha256": "fe001db89c67755e28676f5477fc21422bd1be293b9c1ef961d8ef61d4bfef10"
+    },
+    {
+      "path": "qa/rock-pool-pilot-20260918/tidepool-hermit-crab-dark.png",
+      "bytes": 849565,
+      "sha256": "2b145eb2db58726c0406a0add32c07c15553c136e55fafce65f6dc7247888771"
+    },
+    {
       "path": "qa/visual-qa.json",
-      "bytes": 8421,
-      "sha256": "de1550423a41c38a7c8d88b10b129838a1a05db2cdc3ffa904dc4d781cd24e2a"
+      "bytes": 14108,
+      "sha256": "07dd90602502b0e17be06264f9dbd6d2307d3e1ffad19e2a66e189d10720f7a1"
     },
     {
       "path": "README.md",
@@ -17112,6 +17987,701 @@
       "sha256": "3d1a0c248f31c0296d2c183ab735ebf17b76cc930020f50a90e82776d8b844ec"
     },
     {
+      "path": "revisions/batch-20260918/caving-ascender-v1.png",
+      "bytes": 932003,
+      "sha256": "05ff4611d07153041eb029676847de2f88bfe98bfb9d00657d3468ca3ce74d01"
+    },
+    {
+      "path": "revisions/batch-20260918/caving-ascender-v2.png",
+      "bytes": 955384,
+      "sha256": "840a0c783219f0e69e43718ca89514e1aa7ad73697edba272dbb69e0e2a0701e"
+    },
+    {
+      "path": "revisions/batch-20260918/caving-descender-v1.png",
+      "bytes": 710682,
+      "sha256": "f435b2b797e506fb3fb4793b01c97600eb67f93b506b51ee9fd0ce280ead210c"
+    },
+    {
+      "path": "revisions/batch-20260918/caving-descender-v2.png",
+      "bytes": 748685,
+      "sha256": "1ff5fed7eeb0feb78f276edd479ab5dcc613a3ab8776813aa13331736b77556a"
+    },
+    {
+      "path": "revisions/batch-20260918/caving-helmet-v1.png",
+      "bytes": 963575,
+      "sha256": "a885a88a11825f791413682c67c6f650dade9fc1a215e862b3723c3e2f3723c9"
+    },
+    {
+      "path": "revisions/batch-20260918/caving-rope-coil-v1.png",
+      "bytes": 1017471,
+      "sha256": "d09f44c852846590a679e3b147a62eec486732979840bbc309b330887a407a2a"
+    },
+    {
+      "path": "revisions/batch-20260918/caving-stalactite-v1-alpha.png",
+      "bytes": 770622,
+      "sha256": "e9684629c3aff4fd6ae7e975f30fc5306481b648b17c961a818e34ddb2dcb830"
+    },
+    {
+      "path": "revisions/batch-20260918/caving-stalactite-v1.png",
+      "bytes": 797767,
+      "sha256": "5f70165b1dd3d1d3bbe74ca92d14f9b528f14484ab8c8f034c33eb60b09ec4dd"
+    },
+    {
+      "path": "revisions/batch-20260918/caving-stalagmite-v1-alpha.png",
+      "bytes": 701934,
+      "sha256": "dbe74c6f1a0fae97dfc656c34bb624101a7e56dabc2408d33bfc15a553fa29ce"
+    },
+    {
+      "path": "revisions/batch-20260918/caving-stalagmite-v1.png",
+      "bytes": 728694,
+      "sha256": "27fedd9af04133e0b131a58d75beaa0e4f7da705d16c6ea4303bc2d1d6cc5368"
+    },
+    {
+      "path": "revisions/batch-20260918/caving-suit-v1.png",
+      "bytes": 898026,
+      "sha256": "3f9003e7a6924b30cbc50ff8cca88f9f3c17024fdeb7596076c88312ef9427fb"
+    },
+    {
+      "path": "revisions/batch-20260918/caving-suit-v2-alpha.png",
+      "bytes": 851364,
+      "sha256": "302512c9faaf538e21ba4c78ea6e42a1c5219367a83852e0f658cbdbf0f7a304"
+    },
+    {
+      "path": "revisions/batch-20260918/caving-suit-v2.png",
+      "bytes": 856927,
+      "sha256": "cdd59211879a622e099dc45fe1ee0446002d4647dc6bc6e4fcb1de2a88fa218a"
+    },
+    {
+      "path": "revisions/batch-20260918/caving-survey-kit-v1-alpha.png",
+      "bytes": 1072999,
+      "sha256": "9bc800a356b8c0d77e3df1f576123ba3cd285fce1b64798bdb2e82fd9139891f"
+    },
+    {
+      "path": "revisions/batch-20260918/caving-survey-kit-v1.png",
+      "bytes": 1101477,
+      "sha256": "04a05ca40eef29a2824bd97cfe6d2d68aad5fb06d8ecc94e639722b02337f975"
+    },
+    {
+      "path": "revisions/batch-20260918/dumpling-bamboo-steamer-v1-alpha.png",
+      "bytes": 1192730,
+      "sha256": "50459d97070a19c7ceac023fd0202b6bf4e73098ef6baaaea1565405b0f1f66a"
+    },
+    {
+      "path": "revisions/batch-20260918/dumpling-bamboo-steamer-v1.png",
+      "bytes": 1219233,
+      "sha256": "851664aaf52395b958dfa6136f20286aec2b7d095945dc14fcec2c0e36eadc73"
+    },
+    {
+      "path": "revisions/batch-20260918/dumpling-bao-v1-alpha.png",
+      "bytes": 791917,
+      "sha256": "eeeb382ffbf6c49c4fddfc75344b5dc04e7b143fb19c6e0555a531c4e07bfe86"
+    },
+    {
+      "path": "revisions/batch-20260918/dumpling-bao-v1.png",
+      "bytes": 826353,
+      "sha256": "835ba7f95e71e855dee8f1ed6e5ff90b0058c5dc7d26f96c79b128e6f1b5794f"
+    },
+    {
+      "path": "revisions/batch-20260918/dumpling-dipping-dish-v1-alpha.png",
+      "bytes": 649136,
+      "sha256": "24d2cea0318da5bd73218af4095a8f23418b7e0a64f2d4dff383e64c67a62e25"
+    },
+    {
+      "path": "revisions/batch-20260918/dumpling-dipping-dish-v1.png",
+      "bytes": 678230,
+      "sha256": "85b7e171af313e24ee6eef62f5019e85b5cf106127d33e15768b3a036770dbb6"
+    },
+    {
+      "path": "revisions/batch-20260918/dumpling-har-gow-v1-alpha.png",
+      "bytes": 968143,
+      "sha256": "0878020754aa7c5c9833e96669389bf38fe8a5f967fc0a1a5ae1f3e76222d57b"
+    },
+    {
+      "path": "revisions/batch-20260918/dumpling-har-gow-v1.png",
+      "bytes": 1003798,
+      "sha256": "1b3649eb6d44db26c818c4a67a3166099e959d1a71a47ba8b324c2c728b35328"
+    },
+    {
+      "path": "revisions/batch-20260918/dumpling-mandu-v1-alpha.png",
+      "bytes": 773968,
+      "sha256": "afc7e109739c4e2d8ba6bb3266bc85c569f7c114df39ce740e68864fc361f813"
+    },
+    {
+      "path": "revisions/batch-20260918/dumpling-mandu-v1.png",
+      "bytes": 796581,
+      "sha256": "888df39a9c215a111c53594a4c8bd3eb9986c6b96e8837051dc15caffafe16b4"
+    },
+    {
+      "path": "revisions/batch-20260918/dumpling-momo-v1-alpha.png",
+      "bytes": 904446,
+      "sha256": "e867d935b18fe3b7b8f443ef31586a8a76efa4dcdce3bd1ac22f5eb952daa747"
+    },
+    {
+      "path": "revisions/batch-20260918/dumpling-momo-v1.png",
+      "bytes": 932255,
+      "sha256": "6083554581bec66d8a73df4a5aa506f0bb6bd47507fb793b1668f98e0c570f37"
+    },
+    {
+      "path": "revisions/batch-20260918/dumpling-rolling-pin-v1-alpha.png",
+      "bytes": 772206,
+      "sha256": "ef974f1afdef29dc2a568afa72da3ba6492ca241a369a737e41082b25bbd93fa"
+    },
+    {
+      "path": "revisions/batch-20260918/dumpling-rolling-pin-v1.png",
+      "bytes": 798357,
+      "sha256": "76c72d622bfac27da882c2349538c9ec01598b52c460c6cb9eaf7d4252155b39"
+    },
+    {
+      "path": "revisions/batch-20260918/dumpling-siu-mai-v1-alpha.png",
+      "bytes": 1024486,
+      "sha256": "5d8a18da4add34914a321e610b09216913195199f049fbdae14cbce8112a7c9d"
+    },
+    {
+      "path": "revisions/batch-20260918/dumpling-siu-mai-v1.png",
+      "bytes": 1038705,
+      "sha256": "b0d2b586bd793a68a372b5b4b281e45e85bd1fb984fc150ccc42a78874daaca5"
+    },
+    {
+      "path": "revisions/batch-20260918/harbor-buoy-v1-alpha.png",
+      "bytes": 811341,
+      "sha256": "9bf4958403a57ac49bf68e2d79c9196ee7d66f1e06a5db1ed6360d31f037f3e3"
+    },
+    {
+      "path": "revisions/batch-20260918/harbor-buoy-v1.png",
+      "bytes": 836984,
+      "sha256": "a8aedb37631343e8a7682f8937689d402bc6c79d648e6cca1939d7a88d5bd87c"
+    },
+    {
+      "path": "revisions/batch-20260918/harbor-buoy-v2-alpha.png",
+      "bytes": 792785,
+      "sha256": "63c333271f0b1d028aacba00489cfd761c3d804079072ba167c3cf9dea134789"
+    },
+    {
+      "path": "revisions/batch-20260918/harbor-buoy-v2.png",
+      "bytes": 799877,
+      "sha256": "a6a35a858d9c3cdc18f113fff5c84f82d2fded3fb091c934b223bc030c31a556"
+    },
+    {
+      "path": "revisions/batch-20260918/harbor-cargo-crane-v1-alpha.png",
+      "bytes": 1025181,
+      "sha256": "5b873116a0bc39ff92a762d59158f4e9c7354708fec5d74a955b491ea145b249"
+    },
+    {
+      "path": "revisions/batch-20260918/harbor-cargo-crane-v1.png",
+      "bytes": 1066422,
+      "sha256": "628d1df6731f687336e91780103b8be5b7ec51d1ddbcdacfbaa8fc95d6194c65"
+    },
+    {
+      "path": "revisions/batch-20260918/harbor-dock-cleat-v1-alpha.png",
+      "bytes": 1001355,
+      "sha256": "e68743f544fe7734208c59724fb8dd562e698cb842ed5dd760aa0c7fbd83ba95"
+    },
+    {
+      "path": "revisions/batch-20260918/harbor-dock-cleat-v1.png",
+      "bytes": 1038852,
+      "sha256": "d02c29fb5297079511bed83f1c581bfdfd2a59d457cc32bf033034f06222d060"
+    },
+    {
+      "path": "revisions/batch-20260918/harbor-lighthouse-v1-alpha.png",
+      "bytes": 762606,
+      "sha256": "0d91ccd02fcd20cc75906c5c0803c4fafaa543862b5467fe7233ee9651f495ca"
+    },
+    {
+      "path": "revisions/batch-20260918/harbor-lighthouse-v1.png",
+      "bytes": 783278,
+      "sha256": "21359f29f1aaa7324f8af332a8fe4bc2678e4a6e8cd6d28ff73cdc8789d4d971"
+    },
+    {
+      "path": "revisions/batch-20260918/harbor-lobster-trap-v1-alpha.png",
+      "bytes": 1184608,
+      "sha256": "259a8fe93c4c5bf1b871cbb4865fb577e93a3b3e4ba57d37ca45b70063382a96"
+    },
+    {
+      "path": "revisions/batch-20260918/harbor-lobster-trap-v1.png",
+      "bytes": 1218949,
+      "sha256": "ff46b3b0477dbcc9aff75f036a26d4dae15ca6529997163199b4cc8c643d0f70"
+    },
+    {
+      "path": "revisions/batch-20260918/harbor-lobster-trap-v2-alpha.png",
+      "bytes": 1264129,
+      "sha256": "396222b7328d86980ee72226b2148a847c595ce29e8a5b8882acc92219b7ddbd"
+    },
+    {
+      "path": "revisions/batch-20260918/harbor-lobster-trap-v2.png",
+      "bytes": 1274162,
+      "sha256": "7a3296f2acdd867ae4e2bd4e51403ad7a7e6bcda15815a16f316382e2e9efd80"
+    },
+    {
+      "path": "revisions/batch-20260918/harbor-mooring-bollard-v1-alpha.png",
+      "bytes": 1041792,
+      "sha256": "e1c2dd58f7d37a999462998ace9b53bceb69c800141901773845728709b82f90"
+    },
+    {
+      "path": "revisions/batch-20260918/harbor-mooring-bollard-v1.png",
+      "bytes": 1069754,
+      "sha256": "f24aa0d83e1fede2ed92ccad6f33d5bfd0def2a78dfc9780ce187667e1bae313"
+    },
+    {
+      "path": "revisions/batch-20260918/harbor-ship-wheel-v1-alpha.png",
+      "bytes": 1241765,
+      "sha256": "ed97a733dc4f9aa200c6d2fa888410adf1b41431dbb30b8243681b5c8f4f4b87"
+    },
+    {
+      "path": "revisions/batch-20260918/harbor-ship-wheel-v1.png",
+      "bytes": 1288925,
+      "sha256": "c63aef806a660681100e9407f377330686dddc28895b75180fbacf8a59f112e2"
+    },
+    {
+      "path": "revisions/batch-20260918/harbor-tugboat-v1-alpha.png",
+      "bytes": 1038802,
+      "sha256": "cdc743ffbe0fbc9addf1b295c8811466c2aef213ea6c6468b9085983230acb33"
+    },
+    {
+      "path": "revisions/batch-20260918/harbor-tugboat-v1.png",
+      "bytes": 1062612,
+      "sha256": "5e24d0d94863abe31a719f00bea9b46394f28ec7e905781abc79a0388b1cb7bb"
+    },
+    {
+      "path": "revisions/batch-20260918/observatory-armillary-v1.png",
+      "bytes": 1056544,
+      "sha256": "defddd561d13bdaf63fbd14abfe025b846cc77e4d4caea861634e1dbbd7358bc"
+    },
+    {
+      "path": "revisions/batch-20260918/observatory-armillary-v2.png",
+      "bytes": 952827,
+      "sha256": "23b45bbd81ebf51c16173c516354edd4615dc2c71ae0be2aaffd8b3cfee22784"
+    },
+    {
+      "path": "revisions/batch-20260918/observatory-dome-v1.png",
+      "bytes": 981743,
+      "sha256": "3432c8292140577595482b011c2ec66657c05bd32ba31fedb7d53beb10578773"
+    },
+    {
+      "path": "revisions/batch-20260918/observatory-eyepiece-v1.png",
+      "bytes": 878267,
+      "sha256": "4a8bb24082623db27aba88c941df8d493613af1500a7adb402cb438dedf5d9f7"
+    },
+    {
+      "path": "revisions/batch-20260918/observatory-meteorite-v1.png",
+      "bytes": 957223,
+      "sha256": "731004137a67e476c15af9389ad02e50a12e613a81b9d6b55687f9cfaff5b338"
+    },
+    {
+      "path": "revisions/batch-20260918/observatory-meteorite-v2.png",
+      "bytes": 1095527,
+      "sha256": "e59660b3d8f0cf05d49beb72feebf8e1f20b12472c820666961c0cbec66825cf"
+    },
+    {
+      "path": "revisions/batch-20260918/observatory-orrery-v1.png",
+      "bytes": 1230308,
+      "sha256": "fa81fba93c3ce315b7ae8e2c79c959e8c17d115524e0a602a5142ea495660aba"
+    },
+    {
+      "path": "revisions/batch-20260918/observatory-red-torch-v1.png",
+      "bytes": 821687,
+      "sha256": "04ffb5ecee732006400a35f1a0629e1310c950d9a437619e6cb00011410cb3d9"
+    },
+    {
+      "path": "revisions/batch-20260918/observatory-star-chart-v1.png",
+      "bytes": 1359356,
+      "sha256": "06ce06aca6eded3b61dee1ecff592b28235c0f2a6e789cef9ede4a07b275027b"
+    },
+    {
+      "path": "revisions/batch-20260918/observatory-star-chart-v2.png",
+      "bytes": 1114601,
+      "sha256": "932dba5106223119a814bb64db9f66585f5c83b294634226bc22998cb9211bcc"
+    },
+    {
+      "path": "revisions/batch-20260918/observatory-telescope-v1.png",
+      "bytes": 937102,
+      "sha256": "6cd551351960d9ee20789d9083d890ab444c0f9e09ebed5d6a1fd8ef08f5a2c1"
+    },
+    {
+      "path": "revisions/batch-20260918/observatory-telescope-v2.png",
+      "bytes": 733865,
+      "sha256": "0fd3e803d49f99560d298d704c990f94b5f9bca168ba05f4cf5946d8932bb0d2"
+    },
+    {
+      "path": "revisions/batch-20260918/pasta-drying-rack-v1-alpha.png",
+      "bytes": 1256329,
+      "sha256": "065d23c1405033f81d3093ad9de0b31eb1a1cfea37c9d9beb449277c0bc62ee7"
+    },
+    {
+      "path": "revisions/batch-20260918/pasta-drying-rack-v1.png",
+      "bytes": 1284560,
+      "sha256": "ec48f092f36d6a07f935cfd37acbc69e59a2f62063b447909d42c423d72a7e07"
+    },
+    {
+      "path": "revisions/batch-20260918/pasta-drying-rack-v2-alpha.png",
+      "bytes": 1334872,
+      "sha256": "5bc7187e4bdf00bc8a12655288f2afdd8b537d8fe1cf71fff4d05604e4b07f58"
+    },
+    {
+      "path": "revisions/batch-20260918/pasta-drying-rack-v2.png",
+      "bytes": 1331323,
+      "sha256": "d1477aa90beae7b7903fa6d64d7ddb7525fb3db37b96b70b388790fb0e6c0a23"
+    },
+    {
+      "path": "revisions/batch-20260918/pasta-farfalle-v1-alpha.png",
+      "bytes": 1166028,
+      "sha256": "a2b3670648a999eaf934d821c0a84d2d97f47adc1877605181f1d35a685ae0be"
+    },
+    {
+      "path": "revisions/batch-20260918/pasta-farfalle-v1.png",
+      "bytes": 1193407,
+      "sha256": "2b2f661cc18119e5004394dc196ef8a96fe02773bbdc400f861c6d16319d48c8"
+    },
+    {
+      "path": "revisions/batch-20260918/pasta-gnocchi-board-v1-alpha.png",
+      "bytes": 1021655,
+      "sha256": "ca8658c02a930fad89760dfed6a241808418d8980631e008a0af2c41d4b452c4"
+    },
+    {
+      "path": "revisions/batch-20260918/pasta-gnocchi-board-v1.png",
+      "bytes": 1051803,
+      "sha256": "db33b910e36d474a28877aef4b8559d8eb24c537fcc155e62b16b8a00d957a93"
+    },
+    {
+      "path": "revisions/batch-20260918/pasta-hand-crank-machine-v1-alpha.png",
+      "bytes": 1094886,
+      "sha256": "fa62019476f137577064421b9aec6ce4a0d631a45901dda75f34f6aa2e283839"
+    },
+    {
+      "path": "revisions/batch-20260918/pasta-hand-crank-machine-v1.png",
+      "bytes": 1122545,
+      "sha256": "057b7ca318cb42b39af674d76ba30ce5cc2b6526cad58fb3bca59367afd9e518"
+    },
+    {
+      "path": "revisions/batch-20260918/pasta-ravioli-v1-alpha.png",
+      "bytes": 999359,
+      "sha256": "73383abd6a885103ed2e05b0f9f335f456598e5451403f7fcb011f5c87a6dbe8"
+    },
+    {
+      "path": "revisions/batch-20260918/pasta-ravioli-v1.png",
+      "bytes": 1024945,
+      "sha256": "0936f55665b6c40368aee4fe838430e3d9fc69c95b788ebb2b1ead35667e2e9c"
+    },
+    {
+      "path": "revisions/batch-20260918/pasta-tagliatelle-nest-v1-alpha.png",
+      "bytes": 1041731,
+      "sha256": "13258170b5dddde5064ccfae56efe71f8815814ff64b24e62d9ad151089bddfa"
+    },
+    {
+      "path": "revisions/batch-20260918/pasta-tagliatelle-nest-v1.png",
+      "bytes": 1061758,
+      "sha256": "c71db132a4e3986696027b9be55dc47fbac6703a9e4ba606ccc9ecd80b79e481"
+    },
+    {
+      "path": "revisions/batch-20260918/pasta-tortellini-v1-alpha.png",
+      "bytes": 1030524,
+      "sha256": "49b7c1734c0b9da1732d743587e09b6bec0766410fedc30a55a8097799092c3e"
+    },
+    {
+      "path": "revisions/batch-20260918/pasta-tortellini-v1.png",
+      "bytes": 1054328,
+      "sha256": "8a3534b91efc60788228d543f4637a96364527128a8f6f60e2e646ed6c812838"
+    },
+    {
+      "path": "revisions/batch-20260918/pasta-wheel-cutter-v1-alpha.png",
+      "bytes": 807257,
+      "sha256": "b1ee1c05407584cfc5de40752458b36d339dc160bc560caaa30d05a309e144b7"
+    },
+    {
+      "path": "revisions/batch-20260918/pasta-wheel-cutter-v1.png",
+      "bytes": 824163,
+      "sha256": "483bbfa78c6e43c293f799d15f637664ac09c962794e32664f1a29165f5adbda"
+    },
+    {
+      "path": "revisions/batch-20260918/railway-buffer-stop-v1-alpha.png",
+      "bytes": 910403,
+      "sha256": "f80140473d36863eb3751cf6f7dd6750390b571ed8c41242f03a7563759bbc5a"
+    },
+    {
+      "path": "revisions/batch-20260918/railway-buffer-stop-v1.png",
+      "bytes": 946710,
+      "sha256": "57ef28263019ca7ef552ba6a6dd7a83a457c85d5f71cef40142a7d0fac9db003"
+    },
+    {
+      "path": "revisions/batch-20260918/railway-conductor-hat-v1-alpha.png",
+      "bytes": 848460,
+      "sha256": "ab79748ea383000333fdb42c3acaa7e6484e87d71a4468112be6e23a58d3c223"
+    },
+    {
+      "path": "revisions/batch-20260918/railway-conductor-hat-v1.png",
+      "bytes": 888156,
+      "sha256": "94dd49ca255448525765224e7c0fba331370b8a1e6d10d0199f8274cb2c1798c"
+    },
+    {
+      "path": "revisions/batch-20260918/railway-crossing-gate-v1.png",
+      "bytes": 567052,
+      "sha256": "f10690c38a30d5bde1d99bae42e18dee389c6ba8537d833f62af0a20a4efa6c8"
+    },
+    {
+      "path": "revisions/batch-20260918/railway-locomotive-v1-alpha.png",
+      "bytes": 1082716,
+      "sha256": "76bf124545e47a79adbd8b1459b85b0a43dc77e6a3a515a63f89477ae695b177"
+    },
+    {
+      "path": "revisions/batch-20260918/railway-locomotive-v1.png",
+      "bytes": 1114870,
+      "sha256": "190385656af612916f8fc1d8b080c1dde383c0cb4a4d2cd0421ef56d59e49ac6"
+    },
+    {
+      "path": "revisions/batch-20260918/railway-luggage-trolley-v1-alpha.png",
+      "bytes": 1079536,
+      "sha256": "dea0eac8b5ac593e13ccf46c8cd97057a33548fc6aba0f3ad2584e12d74063a6"
+    },
+    {
+      "path": "revisions/batch-20260918/railway-luggage-trolley-v1.png",
+      "bytes": 1125630,
+      "sha256": "0dfc9e778624cb224cc1f71b5b9cae55490085721d769d19c90af6f01ad861f7"
+    },
+    {
+      "path": "revisions/batch-20260918/railway-luggage-trolley-v2-alpha.png",
+      "bytes": 1103017,
+      "sha256": "7104d4dd34dc6ed10a126a3fa8e17808e7cc8edb623c2fb0326bf8360bcb81b3"
+    },
+    {
+      "path": "revisions/batch-20260918/railway-luggage-trolley-v2.png",
+      "bytes": 1138375,
+      "sha256": "955c7fbe3a22f88732c9dd309b81eedd557678ed8cae7fee939116f9f649bfda"
+    },
+    {
+      "path": "revisions/batch-20260918/railway-platform-clock-v1-alpha.png",
+      "bytes": 1126932,
+      "sha256": "e85251ee863e043bf0530a14f08d5c834ed70150e700ceffc60545c08256a47d"
+    },
+    {
+      "path": "revisions/batch-20260918/railway-platform-clock-v1.png",
+      "bytes": 1171588,
+      "sha256": "ab0a305f093c38b2d51a364e6e9ae472beca67668ef7d758f553c9b2133c0ac2"
+    },
+    {
+      "path": "revisions/batch-20260918/railway-signal-v1-alpha.png",
+      "bytes": 556381,
+      "sha256": "c03a05cc5da282ad70522d07543c4f13b25c0edc6d216b475228224ab009b317"
+    },
+    {
+      "path": "revisions/batch-20260918/railway-signal-v1.png",
+      "bytes": 580406,
+      "sha256": "734b01cb75eb082ff171236667a1d5802f280e9b963f8d3b760707626ee22cf0"
+    },
+    {
+      "path": "revisions/batch-20260918/railway-ticket-punch-v1-alpha.png",
+      "bytes": 811050,
+      "sha256": "5bd55c8e370e14de2a9b62af4c64300f79180b25e8e1231cc6fbc9a51d9ad45d"
+    },
+    {
+      "path": "revisions/batch-20260918/railway-ticket-punch-v1.png",
+      "bytes": 852942,
+      "sha256": "14f61bfe5d891d527e68812fc36152d1e675b8465b5099bc9e828b2cdd3a7858"
+    },
+    {
+      "path": "revisions/batch-20260918/soap-curing-rack-v1-alpha.png",
+      "bytes": 1316275,
+      "sha256": "2c0b0b335814f999abcfc7273b55bf0c3c7e633b5867850056b502bed440152c"
+    },
+    {
+      "path": "revisions/batch-20260918/soap-curing-rack-v1.png",
+      "bytes": 1346297,
+      "sha256": "605faad70d71413561bb52eefd7ac9e52bd26b2912badf857ab4bbbee4bdf76e"
+    },
+    {
+      "path": "revisions/batch-20260918/soap-essential-oil-v1-alpha.png",
+      "bytes": 638833,
+      "sha256": "e31e84db4d17d84b19d8c60ca8874334a5c314e322c824f45548d5ac5db040c1"
+    },
+    {
+      "path": "revisions/batch-20260918/soap-essential-oil-v1.png",
+      "bytes": 657305,
+      "sha256": "005fc86d046e837133335e9e8d319d2ba3c066b7cb2beb7660b3d4d21d8b01c5"
+    },
+    {
+      "path": "revisions/batch-20260918/soap-lavender-bar-v1-alpha.png",
+      "bytes": 949897,
+      "sha256": "fd7229df214d4387765bda3aa6ae364b88663250744a5b897c3b0918f8e47449"
+    },
+    {
+      "path": "revisions/batch-20260918/soap-lavender-bar-v1.png",
+      "bytes": 978907,
+      "sha256": "33122859040f6c9e787411e7f91225df79bbe5a915c8a00a48f067fb4063ca69"
+    },
+    {
+      "path": "revisions/batch-20260918/soap-loaf-mold-v1-alpha.png",
+      "bytes": 968306,
+      "sha256": "65c9f9305b582c06ef5edededafd5ba8f5b719ce77d1ee43b26bbfb2d2fb1a8f"
+    },
+    {
+      "path": "revisions/batch-20260918/soap-loaf-mold-v1.png",
+      "bytes": 1000660,
+      "sha256": "b7bc50f305e12d975b85ef054dbac231aa5b772f836814fac0d87ae58ff33af2"
+    },
+    {
+      "path": "revisions/batch-20260918/soap-mixing-pitcher-v1-alpha.png",
+      "bytes": 1023577,
+      "sha256": "f2adc7f8d5d437efd8f2235cc8ce9e7c7f14f02f3a111b1ffaacc033d324d0b7"
+    },
+    {
+      "path": "revisions/batch-20260918/soap-mixing-pitcher-v1.png",
+      "bytes": 1057935,
+      "sha256": "9c3e817ea5e2db0abea07694b8f12f5a989a593b6d6e7b2b70a72b7ccd594df4"
+    },
+    {
+      "path": "revisions/batch-20260918/soap-oatmeal-bar-v1-alpha.png",
+      "bytes": 962579,
+      "sha256": "f4287188d7d52542456f6770f5002e51b40b0abaca796ad977216e864b6ca1b7"
+    },
+    {
+      "path": "revisions/batch-20260918/soap-oatmeal-bar-v1.png",
+      "bytes": 987141,
+      "sha256": "be2e7498c7cd2456b3d25e6529a7ee011e35f3aba2aa79a8fc9fbfd1992a0f91"
+    },
+    {
+      "path": "revisions/batch-20260918/soap-silicone-flower-mold-v1-alpha.png",
+      "bytes": 961724,
+      "sha256": "46e7608ac23ad72d5a2d5a8118769df5800a93f3c9b5d4d41fb422416437e77c"
+    },
+    {
+      "path": "revisions/batch-20260918/soap-silicone-flower-mold-v1.png",
+      "bytes": 996922,
+      "sha256": "c537ebd9d8738bc6b9be30dcbf2965cf3cd24af50be4f3ccdd16fcdce5692711"
+    },
+    {
+      "path": "revisions/batch-20260918/soap-wire-cutter-v1-alpha.png",
+      "bytes": 971737,
+      "sha256": "c74b1448e415f8b2a6cc4378d5a096b86caaf487a7d09d361351d50f07d5ff96"
+    },
+    {
+      "path": "revisions/batch-20260918/soap-wire-cutter-v1.png",
+      "bytes": 1005737,
+      "sha256": "e7baa803d4a0443963de37014f1475f11bc38cf5dacd62a560097df3122de370"
+    },
+    {
+      "path": "revisions/batch-20260918/tidepool-anemone-v1.png",
+      "bytes": 1211178,
+      "sha256": "d0e9d84023505df8fbdea4756545ae4584e832d7e732fd7ecca14cc367641776"
+    },
+    {
+      "path": "revisions/batch-20260918/tidepool-barnacles-v1.png",
+      "bytes": 1118598,
+      "sha256": "667f832018056273761a4741448b5c40577213245af6e0d80affeef1a5e6f472"
+    },
+    {
+      "path": "revisions/batch-20260918/tidepool-blenny-v1.png",
+      "bytes": 1160829,
+      "sha256": "7957a23e099946704191eec33da51490f8017772f4eaa0543fff8b1da1c9671e"
+    },
+    {
+      "path": "revisions/batch-20260918/tidepool-blenny-v2.png",
+      "bytes": 744552,
+      "sha256": "d62dfe7ef2227827e0f708c202bc3bdca2d2224e20f4ee58c065f3ecbe8ab8ab"
+    },
+    {
+      "path": "revisions/batch-20260918/tidepool-brittle-star-v1.png",
+      "bytes": 996034,
+      "sha256": "9f83fb7a9a0d8a3bf21daa8e5da8f9ab549834a861d377ac1575203354160625"
+    },
+    {
+      "path": "revisions/batch-20260918/tidepool-chiton-v1.png",
+      "bytes": 1276157,
+      "sha256": "7187e2fa2c9c08c1d957111f1a2c37aba9135c6187c4d8bf0e5057025fbeeaae"
+    },
+    {
+      "path": "revisions/batch-20260918/tidepool-chiton-v2.png",
+      "bytes": 915787,
+      "sha256": "f58f306a5c9f5a41b0ee4d89b351c678e7cb9003116fcd0d49df82351a4538af"
+    },
+    {
+      "path": "revisions/batch-20260918/tidepool-limpet-v1.png",
+      "bytes": 1195272,
+      "sha256": "c631cfdec17336080f62290bcb190fbd4b5d5ec19953565595487d8d74f8eab1"
+    },
+    {
+      "path": "revisions/batch-20260918/tidepool-sea-lettuce-v1.png",
+      "bytes": 1360815,
+      "sha256": "8484462b6d3a9041f24edb3fe89c0c55a127af3fdac168b0ab21d5d3e91aa42b"
+    },
+    {
+      "path": "revisions/batch-20260918/vineyard-carafe-v1-alpha.png",
+      "bytes": 903076,
+      "sha256": "ca14f36d5fb81b5b37a45bbe80cb3c5d2de15cbe14b0be813b85030fcaa73481"
+    },
+    {
+      "path": "revisions/batch-20260918/vineyard-carafe-v1.png",
+      "bytes": 941496,
+      "sha256": "d7b63e797528db2c2bb1890b9acde43a8fa857116201dab84a48a62dfb811194"
+    },
+    {
+      "path": "revisions/batch-20260918/vineyard-corkscrew-v1-alpha.png",
+      "bytes": 718602,
+      "sha256": "7075118346ea033a63af14685f6803ec28655d2cb99caba893323567bd0c49d4"
+    },
+    {
+      "path": "revisions/batch-20260918/vineyard-corkscrew-v1.png",
+      "bytes": 748553,
+      "sha256": "cce6df7d67fb249d2aacad3de493d55983034c194b5c94959fe1fb8704db16e2"
+    },
+    {
+      "path": "revisions/batch-20260918/vineyard-grape-basket-v1-alpha.png",
+      "bytes": 1384215,
+      "sha256": "8b245070a9bc698cb758521058f8dca76b34aacde0ed120d3ef6dd154ce72db8"
+    },
+    {
+      "path": "revisions/batch-20260918/vineyard-grape-basket-v1.png",
+      "bytes": 1400265,
+      "sha256": "6b8555ca03535cf60cb00ca362a0782d462a025738e160da0643b05062f365c3"
+    },
+    {
+      "path": "revisions/batch-20260918/vineyard-grape-press-v1-alpha.png",
+      "bytes": 977933,
+      "sha256": "b8df42b04f340ce4ee8c089fc33c7871c366a3a9c55b8c2236ec9217df67d07b"
+    },
+    {
+      "path": "revisions/batch-20260918/vineyard-grape-press-v1.png",
+      "bytes": 994920,
+      "sha256": "0a9b12469d73fa6667fc8d3a53fe9993311a60529611e225a8e90fd1346ec05a"
+    },
+    {
+      "path": "revisions/batch-20260918/vineyard-grape-trellis-v1-alpha.png",
+      "bytes": 1122507,
+      "sha256": "458bb83ca24e0eb222d7fa6da3f2be57ad17ba34f311814d26a206916983ff10"
+    },
+    {
+      "path": "revisions/batch-20260918/vineyard-grape-trellis-v1.png",
+      "bytes": 1148756,
+      "sha256": "0a5e1c5ee1ac9b68a1e7a2bc6d38217b7af73c7f53eb71a77826ac577661313d"
+    },
+    {
+      "path": "revisions/batch-20260918/vineyard-oak-barrel-v1-alpha.png",
+      "bytes": 1244792,
+      "sha256": "1c170d4dda7f8a683fd1ded59b50cdfa4bdb3a2e6575aaa85d8210023b289af0"
+    },
+    {
+      "path": "revisions/batch-20260918/vineyard-oak-barrel-v1.png",
+      "bytes": 1272007,
+      "sha256": "eb3b6d404e4f1eb8e04cc82aa8928166bd457ceb029cb7f37de946a31a2f6648"
+    },
+    {
+      "path": "revisions/batch-20260918/vineyard-pruning-shears-v1-alpha.png",
+      "bytes": 664043,
+      "sha256": "9e4ce7450cd70c0a3e29c9cfa41428a7c22ca3bad596c4a187350ec1b20121ee"
+    },
+    {
+      "path": "revisions/batch-20260918/vineyard-pruning-shears-v1.png",
+      "bytes": 704448,
+      "sha256": "4c758f2a8312087f43ecc82e56d33dbd3900669bacac8196c9914b324207f1db"
+    },
+    {
+      "path": "revisions/batch-20260918/vineyard-vine-cutting-v1-alpha.png",
+      "bytes": 908755,
+      "sha256": "1a87123d3209886e57e422fb22f2434a2b8f480737c390a09c07d7768eb61b8e"
+    },
+    {
+      "path": "revisions/batch-20260918/vineyard-vine-cutting-v1.png",
+      "bytes": 938600,
+      "sha256": "f224c480e779f69e16072a79723956c412b0da739ba58e4622adda4321561d97"
+    },
+    {
       "path": "revisions/bongos-padding-20260915.png",
       "bytes": 1593836,
       "sha256": "3caa505863d80bd6c0d301d6c2da9a4c08dff4a485b14d4319886857f76f5e54"
@@ -18867,6 +20437,16 @@
       "sha256": "b06679d18e51f4fc82d65a03228d485fe4687291679095c8ab408d6b8386a7ae"
     },
     {
+      "path": "revisions/rock-pool-pilot-20260918/tidepool-hermit-crab-v1.png",
+      "bytes": 1076806,
+      "sha256": "22ac9429000aa9e5c4d4d7f0d1b5ca295a5d43de1f364957d10b0bdcc5ad5bd8"
+    },
+    {
+      "path": "revisions/rock-pool-pilot-20260918/tidepool-hermit-crab-v2.png",
+      "bytes": 994103,
+      "sha256": "d0a934ba1328f31cd1bebacc8cbe012024771074585bb5c8f3dfbf72b5eb0b6a"
+    },
+    {
       "path": "revisions/sewing-zipper-alpha.png",
       "bytes": 1716988,
       "sha256": "4f192bd3599703cb998271c4661000cc08c8cf484327ad8637fc6641377d42e7"
@@ -18900,6 +20480,11 @@
       "path": "scripts/border_geometry.py",
       "bytes": 12006,
       "sha256": "1951ea7d0eac045141d8c23ac13ed3375b682b038724ecedb9a95ea50f181f0e"
+    },
+    {
+      "path": "scripts/clean_generated_white_margin.py",
+      "bytes": 1902,
+      "sha256": "02d9ae129a76a685e5754612db2901f7206ca59af1b9c91376aea3e0286e3250"
     },
     {
       "path": "scripts/continue_border_trials.py",
@@ -18943,18 +20528,123 @@
     },
     {
       "path": "state/generation-queue.json",
-      "bytes": 214,
-      "sha256": "799e95c3ae62f51b858c1e34ea620c779b07a81d9f827389998f693b2b59d54c"
+      "bytes": 3366,
+      "sha256": "6f87a50d7f743e1c68cb69fb0697aa1f285f750fc1e860a1bf92d466d0c33b0f"
+    },
+    {
+      "path": "state/imagegen-quota-20260918-second.json",
+      "bytes": 731,
+      "sha256": "58ba6f2b2567b606604484f205a7ae9aeb6ba691b7cb96c62bb200f71909a99b"
+    },
+    {
+      "path": "state/imagegen-quota-20260918.json",
+      "bytes": 733,
+      "sha256": "13d389db9ef85ca88c8b52cda26fb7976303e24ec91506c4fdb54437f47d1347"
     },
     {
       "path": "state/progress.json",
-      "bytes": 333236,
-      "sha256": "10682717606dba86300872e6bdb6aa96f4597fbf2582d41f919c91c543b50ec1"
+      "bytes": 376845,
+      "sha256": "f6db04dc7cb6a30251fce53acbd785c3bf8454c2979243dd2d0081a3557be914"
     },
     {
       "path": "state/relocation-verification.json",
       "bytes": 1390,
       "sha256": "bf1bac14e7185b00e703b6f945e119e361ba867ddf7534f60befcbb05b42fcae"
+    },
+    {
+      "path": "state/requests/caving-ascender-v2.json",
+      "bytes": 1368,
+      "sha256": "82881cd756b3e281fa49318d2a88935412ae5ad98b76890ddd7326ccf66eb93b"
+    },
+    {
+      "path": "state/requests/caving-ascender.json",
+      "bytes": 1902,
+      "sha256": "13ed921b168757cd08e163a1710571fc95d235cd43acea8ab0af7e177981da24"
+    },
+    {
+      "path": "state/requests/caving-descender-v2.json",
+      "bytes": 1423,
+      "sha256": "7b7d7a66eeeaf68b9822443eea79aa1ad38940dfd7910f99595c44783d699145"
+    },
+    {
+      "path": "state/requests/caving-descender.json",
+      "bytes": 1915,
+      "sha256": "84bb6a5a2a9c50d72b93edc63ba5f36658f2e72bcb46bd936a8dd22a19c3fe71"
+    },
+    {
+      "path": "state/requests/caving-helmet.json",
+      "bytes": 1910,
+      "sha256": "110a8b7643f22a90959907032293147e5224cd70a4cab00047b0d1e07410d9c1"
+    },
+    {
+      "path": "state/requests/caving-rope-coil.json",
+      "bytes": 1889,
+      "sha256": "518227e6ab82b1be8a0e02f0c3e8d0cc96d2d31a3f38c5049b0e804392d32ce1"
+    },
+    {
+      "path": "state/requests/caving-stalactite.json",
+      "bytes": 1920,
+      "sha256": "917166687606bdb0ee4d8b42e5d6bd3de314e2f675dbef708b72b4e73c68ea84"
+    },
+    {
+      "path": "state/requests/caving-stalagmite.json",
+      "bytes": 1920,
+      "sha256": "0b2d714ae2f5d13ec1fbbaef718188649e5e9864f736957fd1debd9e105861a1"
+    },
+    {
+      "path": "state/requests/caving-suit-v2.json",
+      "bytes": 1680,
+      "sha256": "660c7b406d7f9fc264ca11274de582e9dfdc08311290606c63303e85160c98df"
+    },
+    {
+      "path": "state/requests/caving-suit.json",
+      "bytes": 1900,
+      "sha256": "bd0b03f66eee50ec2ccfb4e97d11ed366002f3cbb3eb5e1d64dba2e6f0b29262"
+    },
+    {
+      "path": "state/requests/caving-survey-kit.json",
+      "bytes": 1932,
+      "sha256": "83b527c89c9f9de16038812b16dd2b634185b25708b4bf1ec4d99a7cb922872c"
+    },
+    {
+      "path": "state/requests/dumpling-bamboo-steamer.json",
+      "bytes": 1897,
+      "sha256": "e1413d44a5e3439422109790117510ab927a66492241b06fe1c3ec72a7fe1dc4"
+    },
+    {
+      "path": "state/requests/dumpling-bao.json",
+      "bytes": 1884,
+      "sha256": "e22e227460a94fdfc1c880ecf1084253b6aefc8350445dd8896ded7aa56a4833"
+    },
+    {
+      "path": "state/requests/dumpling-dipping-dish.json",
+      "bytes": 1923,
+      "sha256": "9118a4ed0631e34f82b93f8f68daa370b7a2a835d8a301ca26bc8da8ffbae306"
+    },
+    {
+      "path": "state/requests/dumpling-har-gow.json",
+      "bytes": 1900,
+      "sha256": "51c7d9ed18664cfcea536f3dd94438daa3f92d8857c22d07f689f5cdb076bb18"
+    },
+    {
+      "path": "state/requests/dumpling-mandu.json",
+      "bytes": 1898,
+      "sha256": "7798478c38a55debfb5792fc63abbd9717f8022f51e4177481ed6fbf373267df"
+    },
+    {
+      "path": "state/requests/dumpling-momo.json",
+      "bytes": 1895,
+      "sha256": "eeb3b88a54b6e159afd4de0455b5e46205cf1211697dcbaef5aa3dbfa8042268"
+    },
+    {
+      "path": "state/requests/dumpling-rolling-pin.json",
+      "bytes": 1928,
+      "sha256": "30e6ef2844083b33a270c677113249c0b65b0d0cba3087e7478a19d4f07a3a2f"
+    },
+    {
+      "path": "state/requests/dumpling-siu-mai.json",
+      "bytes": 1912,
+      "sha256": "f334ff86d67b49ff4aab6695f971d2fd778d1ad823c39edbadb6d8b7b08c8e97"
     },
     {
       "path": "state/requests/fossil-amber-insect.json",
@@ -18995,6 +20685,76 @@
       "path": "state/requests/fossil-trilobite.json",
       "bytes": 2201,
       "sha256": "189fcfab08e3eeb70f3e7b1db91fcce7f8e6c18ccaa27573b27edd7f3fca331f"
+    },
+    {
+      "path": "state/requests/glassblowing-furnace.json",
+      "bytes": 1907,
+      "sha256": "04a8e84cf178e02e92985b1beedf8db43ea1430d25fd2507af6bffce7287fde8"
+    },
+    {
+      "path": "state/requests/glassblowing-jacks.json",
+      "bytes": 1911,
+      "sha256": "6c827cd8780e2f8f5b9672a12deaa66731521f04e4bba00417cc2a676badb42f"
+    },
+    {
+      "path": "state/requests/glassblowing-marver.json",
+      "bytes": 1910,
+      "sha256": "ab3cb2ed04de5c4e1f16adbfa92967d2161c5004d47b06d4178908619d690142"
+    },
+    {
+      "path": "state/requests/glassblowing-pipe.json",
+      "bytes": 1926,
+      "sha256": "fcd14f1639e9322b4f0aa1390d4225e132f13903b5d75ac125cb7a8793ddb5f6"
+    },
+    {
+      "path": "state/requests/harbor-buoy-v2.json",
+      "bytes": 1576,
+      "sha256": "400c6acfb26c683326bdedc103a27ca8e2c0f055cb5df6eaacfd07de7c75ed27"
+    },
+    {
+      "path": "state/requests/harbor-buoy.json",
+      "bytes": 1893,
+      "sha256": "e92cc8311769d86c00510fa18c0ed30e4c7d180d1228d5889426651418768615"
+    },
+    {
+      "path": "state/requests/harbor-cargo-crane.json",
+      "bytes": 1906,
+      "sha256": "8f17fe01ad5d71753b7393318e37d042cbf5ace85c462272b4c56bc2924587cd"
+    },
+    {
+      "path": "state/requests/harbor-dock-cleat.json",
+      "bytes": 1917,
+      "sha256": "aa7dfff2c0cf56ae1716becb8805d1577102af6a7320c3640eecf478fabe226e"
+    },
+    {
+      "path": "state/requests/harbor-lighthouse.json",
+      "bytes": 1915,
+      "sha256": "499ecfd941a4a4c5f13d4bc1d4bba87239c1489a11bb19d8047bd59184d90702"
+    },
+    {
+      "path": "state/requests/harbor-lobster-trap-v2.json",
+      "bytes": 1598,
+      "sha256": "6511f0a9a431b1eb722fdc6f6c37e4d155c9e9899738462aa9f191475d0cbae0"
+    },
+    {
+      "path": "state/requests/harbor-lobster-trap.json",
+      "bytes": 1911,
+      "sha256": "e616b440d0c2cf86f29edb67742a283688096d85e9bdcf074eee6ff5e2f28dbb"
+    },
+    {
+      "path": "state/requests/harbor-mooring-bollard.json",
+      "bytes": 1912,
+      "sha256": "4626bb7f7e4f61e407ca1ceb40411fa6e81c57768c7c34f310dbef759a547914"
+    },
+    {
+      "path": "state/requests/harbor-ship-wheel.json",
+      "bytes": 1911,
+      "sha256": "c9201b944335645ca600cba825566e73cffff27dd5513c948e0bffe59242824a"
+    },
+    {
+      "path": "state/requests/harbor-tugboat.json",
+      "bytes": 1912,
+      "sha256": "3ad9620ee6e7b33650ccf6deaad512269f3dfad691fb19c5113bd74d650a9563"
     },
     {
       "path": "state/requests/mezze-dolma.json",
@@ -19072,6 +20832,111 @@
       "sha256": "4629f60066c50f76a02e6683f9b402607c54f09c26139c6a8332baf5ccc88eed"
     },
     {
+      "path": "state/requests/observatory-armillary-v2.json",
+      "bytes": 1488,
+      "sha256": "cb3418892fdcacf82bbe322acea016c4e1765decc72c7f60f7158a2dccc64f25"
+    },
+    {
+      "path": "state/requests/observatory-armillary.json",
+      "bytes": 1923,
+      "sha256": "2d515a9d75f570ce9bffda59175cbf1b236a3ff5a0a7ef1e8b8746d34421f0f5"
+    },
+    {
+      "path": "state/requests/observatory-dome.json",
+      "bytes": 1912,
+      "sha256": "589a6cc897fa9bfd121a7763b7270934d4c24197d2e04d0b02b8bcfd17fd358a"
+    },
+    {
+      "path": "state/requests/observatory-eyepiece.json",
+      "bytes": 1926,
+      "sha256": "b5e43eb9b9425e05c37fdb08f652130d53bea399bf5860f92fe3d29569e47e13"
+    },
+    {
+      "path": "state/requests/observatory-meteorite-v2.json",
+      "bytes": 1448,
+      "sha256": "89e45a0a4b18b4b4311a1686247b51db76cfce08600ac712a9632916848ee1ac"
+    },
+    {
+      "path": "state/requests/observatory-meteorite.json",
+      "bytes": 1907,
+      "sha256": "54b33b80b4792157e243dcd6c2f90cabcfdb9ca3d9a6bb628cb0f2fe3c6204dd"
+    },
+    {
+      "path": "state/requests/observatory-orrery.json",
+      "bytes": 1940,
+      "sha256": "bd433d01f5d2f4ed4adcc019adaa1522a9a6e7d0f37b1d8aa4bb863c125f93ec"
+    },
+    {
+      "path": "state/requests/observatory-red-torch.json",
+      "bytes": 1943,
+      "sha256": "e14550533e0142db6dcf3812ad276a695bb36aaec35ba8460e3b32ca4a4fe5c3"
+    },
+    {
+      "path": "state/requests/observatory-star-chart-v2.json",
+      "bytes": 1557,
+      "sha256": "0fd83c4a12cb2fdc560bad876b399073ffc047d4d009048c0fe5a34c374ea7e8"
+    },
+    {
+      "path": "state/requests/observatory-star-chart.json",
+      "bytes": 1950,
+      "sha256": "f820d0d72c23c58c9e9f5c50993976151df0475041e07b852022b4f67e33202f"
+    },
+    {
+      "path": "state/requests/observatory-telescope-v2.json",
+      "bytes": 1516,
+      "sha256": "0ff470822f53ccf8ad95cbb69e00db298f97e5a7c3114d66302d27e8d16c9bd8"
+    },
+    {
+      "path": "state/requests/observatory-telescope.json",
+      "bytes": 1917,
+      "sha256": "b006c67b924bf2c8fa0d4af7b2c3f01e3da01d1a52935af2555d9ce298192981"
+    },
+    {
+      "path": "state/requests/pasta-drying-rack-v2.json",
+      "bytes": 1561,
+      "sha256": "11bc5c1fc1d45da49872b1415cdcdd206dcfa560879d3bba6c22b998be528808"
+    },
+    {
+      "path": "state/requests/pasta-drying-rack.json",
+      "bytes": 1915,
+      "sha256": "a06232faec9955d667d31049dca12651c780bd17b683562d7f0106d83d633a2f"
+    },
+    {
+      "path": "state/requests/pasta-farfalle.json",
+      "bytes": 1890,
+      "sha256": "b7de9734c08a793184f467834d8f78c1f148e6871dffdf7b45fcde277db99a3f"
+    },
+    {
+      "path": "state/requests/pasta-gnocchi-board.json",
+      "bytes": 1905,
+      "sha256": "e78b267111e2ec72124d131dbcf4d6a03c2386d78648250fbe18b95ae3011801"
+    },
+    {
+      "path": "state/requests/pasta-hand-crank-machine.json",
+      "bytes": 1922,
+      "sha256": "b546a7eb1a5abe59405ab6bf454291e30401c39663c3a40f1cdb856f01a90efa"
+    },
+    {
+      "path": "state/requests/pasta-ravioli.json",
+      "bytes": 1915,
+      "sha256": "2b6590dca58ceacd6a1d11fea1efbec13cf5130a7fcc1701026257282f1c4902"
+    },
+    {
+      "path": "state/requests/pasta-tagliatelle-nest.json",
+      "bytes": 1898,
+      "sha256": "339c40b2665f12e2c11ba4b2d11bad5808cbeaf8b774bf843d03f0be073f237b"
+    },
+    {
+      "path": "state/requests/pasta-tortellini.json",
+      "bytes": 1908,
+      "sha256": "12ab126f6d564055b90a9124b4ffc8bcb8966a06ea9d1f0752770338839c8aa5"
+    },
+    {
+      "path": "state/requests/pasta-wheel-cutter.json",
+      "bytes": 1864,
+      "sha256": "337909587be3d6e9fe5740a4b6b3865328aef94045b4d8e796fe2ad528f3723c"
+    },
+    {
       "path": "state/requests/picnic-bento-box.json",
       "bytes": 1955,
       "sha256": "4ee395ea09f56d3d0282782ffb9d877aca3352add9a6a1994d329f35f65b3f57"
@@ -19102,6 +20967,186 @@
       "sha256": "9a412080624142ca41ded02e6fb422492c0f79da512b69c3e8f17287bb098c98"
     },
     {
+      "path": "state/requests/railway-buffer-stop.json",
+      "bytes": 1919,
+      "sha256": "17300ced688249326e992f86582a20cda0d0adc8eac029b4ee174b14929a820c"
+    },
+    {
+      "path": "state/requests/railway-conductor-hat.json",
+      "bytes": 1893,
+      "sha256": "d3797cf804b4cadb7fc88b9b52924f9bd0d44a612f47d5488ecafc78854a1bdd"
+    },
+    {
+      "path": "state/requests/railway-crossing-gate.json",
+      "bytes": 1905,
+      "sha256": "c9793dd8c6d26eac4d744985db347ee1f32ebecaf9059cfe42cb3fca8bf12421"
+    },
+    {
+      "path": "state/requests/railway-locomotive.json",
+      "bytes": 1934,
+      "sha256": "58d84034a0d89c425d817c518fe5bfbdab2bac0a0f89a9a402370d8e1d8c2521"
+    },
+    {
+      "path": "state/requests/railway-luggage-trolley-v2.json",
+      "bytes": 1607,
+      "sha256": "478e405b8d0b587bd46116e5885615bb9f74ff88ff8ba220a7f797e5379f2745"
+    },
+    {
+      "path": "state/requests/railway-luggage-trolley.json",
+      "bytes": 1907,
+      "sha256": "6f15c6e57aa33a960361101c1eac55f36f9b3caf4a14e45372e3151691ed184d"
+    },
+    {
+      "path": "state/requests/railway-platform-clock.json",
+      "bytes": 1916,
+      "sha256": "e3364583cbd7e151529d1d467a47f0dcbc30fd8601ea11ade98eaed94b8bed2c"
+    },
+    {
+      "path": "state/requests/railway-signal.json",
+      "bytes": 1920,
+      "sha256": "21cf324b313771b1cd7d602ed9fcff471f984f3511e8778d2975e375d90f1bf4"
+    },
+    {
+      "path": "state/requests/railway-ticket-punch.json",
+      "bytes": 1906,
+      "sha256": "219bc2698823352055a5e0301fafe539c07c2c27dd28cd0f22cf593d63957eaf"
+    },
+    {
+      "path": "state/requests/soap-curing-rack.json",
+      "bytes": 1920,
+      "sha256": "6f3ddf316a66d4a1f644fa4e3ea958a298a6280dce79f0af473b02b39b0bc4d3"
+    },
+    {
+      "path": "state/requests/soap-essential-oil.json",
+      "bytes": 1918,
+      "sha256": "d60b28f744ebcf235e8d4fc27f82e7102ecb27fb9eb26f7db097aee619febf36"
+    },
+    {
+      "path": "state/requests/soap-lavender-bar.json",
+      "bytes": 1923,
+      "sha256": "120ab092a82bb1fee6ed086db8e9c5772d5f60bd06c181d8a67b162cb59bc889"
+    },
+    {
+      "path": "state/requests/soap-loaf-mold.json",
+      "bytes": 1910,
+      "sha256": "bf2238de4767c2818da47edec8d7003bf2b79e9ea78fc3232c00e64e3ad26bed"
+    },
+    {
+      "path": "state/requests/soap-mixing-pitcher.json",
+      "bytes": 1921,
+      "sha256": "c90d53b27525ee4b5a73d067630fa3871c0993fecc2b1c82c76fda31c83493cf"
+    },
+    {
+      "path": "state/requests/soap-oatmeal-bar.json",
+      "bytes": 1904,
+      "sha256": "0cfdaacd8503ef42687e43d0873630acffcc2dcce93528ea25bf2d9e219bd2e7"
+    },
+    {
+      "path": "state/requests/soap-silicone-flower-mold.json",
+      "bytes": 1913,
+      "sha256": "60958c634c784c4ea6472a9ca678d3b20ebb7b799213ab9a50c8aae139bd57e1"
+    },
+    {
+      "path": "state/requests/soap-wire-cutter.json",
+      "bytes": 1890,
+      "sha256": "2af6c5cc3536d892b817f0bda255a72fa2bf1ebba030216f8761a191c81747f2"
+    },
+    {
+      "path": "state/requests/tidepool-anemone.json",
+      "bytes": 2109,
+      "sha256": "b523af78186d8ff960702cfc3e26a71e4ae525542a46b844c586479226c2862e"
+    },
+    {
+      "path": "state/requests/tidepool-barnacles.json",
+      "bytes": 2089,
+      "sha256": "a09cc131ba862c3d1224c1758ff2ca32b649c2c38c0dc97092687d6ff3aa7164"
+    },
+    {
+      "path": "state/requests/tidepool-blenny-v2.json",
+      "bytes": 1455,
+      "sha256": "ee1269e15d29a3b05e85db77d7a96c60718ac1ae367d477dde1d1dab6f521250"
+    },
+    {
+      "path": "state/requests/tidepool-blenny.json",
+      "bytes": 2104,
+      "sha256": "716d798c6920b3a14952e6b1a6cda9b6006eff5ef170961450810072383adf40"
+    },
+    {
+      "path": "state/requests/tidepool-brittle-star.json",
+      "bytes": 2100,
+      "sha256": "3feb5af126d7c0612b627d1bb1a054e35a2e69fb30e2f3045a591ebaa699f0f3"
+    },
+    {
+      "path": "state/requests/tidepool-chiton-v2.json",
+      "bytes": 1406,
+      "sha256": "a734ff23603f7137179d6cef55c2c36a944e4db3aff393847b4a920f698f2756"
+    },
+    {
+      "path": "state/requests/tidepool-chiton.json",
+      "bytes": 2090,
+      "sha256": "9635157840c9bed3bda56e704d3ca099676c8f77c2a7261c35e4e5a0942d6795"
+    },
+    {
+      "path": "state/requests/tidepool-hermit-crab-v2.json",
+      "bytes": 1506,
+      "sha256": "866d1a0e83114ba2a3a314108afa94fa8d1ac6f560fd805af5d389bbc45baeb4"
+    },
+    {
+      "path": "state/requests/tidepool-hermit-crab.json",
+      "bytes": 2260,
+      "sha256": "8a8bcdfdbd872a08758431e3e63c4e52f6dc2efd9209754ddd1febe4a70937d6"
+    },
+    {
+      "path": "state/requests/tidepool-limpet.json",
+      "bytes": 2094,
+      "sha256": "1a8f504e0b2d498e917bb6594f1e17aa7c592c417b90cd3745b5c8f22dae442e"
+    },
+    {
+      "path": "state/requests/tidepool-sea-lettuce.json",
+      "bytes": 2079,
+      "sha256": "a17d50bd0956d94b62f8edffaccac4daf3cef46e8a9dcbe481b7dec76c6039ec"
+    },
+    {
+      "path": "state/requests/vineyard-carafe.json",
+      "bytes": 2100,
+      "sha256": "6de29a5259dfdb2a5cc3715c6c41d28fa1ef170f455f17b01e1103de4ba4ea75"
+    },
+    {
+      "path": "state/requests/vineyard-corkscrew.json",
+      "bytes": 2067,
+      "sha256": "f9981253ace7f2a8cbb3fec6c740951947dfe922cd7afd60cc85d1a5175d9a9f"
+    },
+    {
+      "path": "state/requests/vineyard-grape-basket.json",
+      "bytes": 2114,
+      "sha256": "16854108abd6fff7c57f300e43333cd4661057e72c4f4ec06c349f99e062c14a"
+    },
+    {
+      "path": "state/requests/vineyard-grape-press.json",
+      "bytes": 2089,
+      "sha256": "2807e67d62e5d0537bfb02dc48ba9ffd5061c1211aad523e7505e9261cf2ded1"
+    },
+    {
+      "path": "state/requests/vineyard-grape-trellis.json",
+      "bytes": 2125,
+      "sha256": "d413a5d270c2e7e6ee5053fd84531511b7c5b64bb76468b6b406ee48b6b54aa6"
+    },
+    {
+      "path": "state/requests/vineyard-oak-barrel.json",
+      "bytes": 2084,
+      "sha256": "7d8848bade411ee829291052f85259556676cabb8b6a0c17fed94f660e0d370e"
+    },
+    {
+      "path": "state/requests/vineyard-pruning-shears.json",
+      "bytes": 2106,
+      "sha256": "c4d6080fa5650236d2e525a44021f4201b8db105cdb639c8ab7ef18b40e98a78"
+    },
+    {
+      "path": "state/requests/vineyard-vine-cutting.json",
+      "bytes": 2112,
+      "sha256": "eaa5447004d47c3c28c043b1041dec6b49187c808cb5392da70e3032201be747"
+    },
+    {
       "path": "state/requests/wetland-beaver.json",
       "bytes": 2089,
       "sha256": "bc0499ff5c29a09430ba5eb68a71daafb7c8f1c13e9c8c29787ecb5ed7d9e295"
@@ -19128,13 +21173,13 @@
     },
     {
       "path": "state/resume.json",
-      "bytes": 891,
-      "sha256": "dff0345910c704eb176bd5b13fc1b9f86ea1a4b6fd09b7f697a722602d024b45"
+      "bytes": 1264,
+      "sha256": "a177ec5f7e1364ee7a53f55ba7a000763d15160fffe4ee80194d2a8cf5eabf21"
     },
     {
       "path": "state/work-order.json",
-      "bytes": 6001,
-      "sha256": "da007b9eff10bcef3573a7c3d49db401afc6c18e42fd7e45ec219a2a7227c5f3"
+      "bytes": 6345,
+      "sha256": "555c26e73ed1ab76dd37bee59c4f95eb34513600ef85266d6ad962af168b1efa"
     },
     {
       "path": "workspace.json",

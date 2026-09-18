@@ -1,0 +1,17 @@
+{
+  "id": "observatory-meteorite",
+  "subject": "A dark irregular iron meteorite with shallow thumbprint depressions",
+  "topic_slugs": ["observatory"],
+  "profile": "objects",
+  "prompt": "Refine the first sticker: the subject remains one irregular dark iron meteorite, but its thumbprint depressions must be SHALLOW, softly painted dimples rather than deep black craters. Use a warm charcoal-gray midtone with only two or three quiet same-hue shadow planes; reduce the number of dimples to about five broad shallow marks and remove the tiny rusty speckles and dense stone texture. Keep the silhouette irregular and scientifically recognizable. The second original desktop artwork is a style reference only: restrained matte hand-painted 2D volume, fine locally tinted outline, modest detail. Center the whole meteorite with clear real transparent padding and a narrow smooth white cut margin. Transparent square PNG, target 512 × 512. No scene, fire trail, crater ground, lettering or checkerboard.",
+  "referenced_image_paths": [
+    "revisions/batch-20260918/observatory-meteorite-v1.png",
+    "references/Stickers/8-Gardening/8-Gardening_1.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final edit softens deep craters and dense stone texture. Initial prompt is state/requests/observatory-meteorite.json."
+}

@@ -1,14 +1,14 @@
 {
-  "updated_utc": "2026-09-17T10:37:25.847343+00:00",
+  "updated_utc": "2026-09-18T08:56:57.587397+00:00",
   "target_topics": 50,
   "target_slots": 400,
   "target_unique": 390,
-  "generated_unique": 206,
-  "missing_unique": 184,
-  "alpha_corners_clear_unique": 206,
+  "generated_unique": 278,
+  "missing_unique": 112,
+  "alpha_corners_clear_unique": 278,
   "needs_alpha_unique": 0,
-  "topics_with_all_images": 27,
-  "generated_topic_slots": 216,
+  "topics_with_all_images": 36,
+  "generated_topic_slots": 288,
   "visual_rework_unique": 0,
   "complete": false,
   "prompt_target_dimensions": [
@@ -5429,8 +5429,29 @@
         "rock-pool"
       ],
       "source": "masters/tidepool-hermit-crab.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 956066,
+      "partial_alpha_pixels": 615930,
+      "opaque_pixels": 520,
+      "padding_nonzero_alpha": [
+        146,
+        59,
+        80,
+        164
+      ],
+      "review_edge": false,
+      "sha256": "d0a934ba1328f31cd1bebacc8cbe012024771074585bb5c8f3dfbf72b5eb0b6a",
+      "bytes": 994103
     },
     {
       "id": "tidepool-anemone",
@@ -5439,8 +5460,29 @@
         "rock-pool"
       ],
       "source": "masters/tidepool-anemone.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 792719,
+      "partial_alpha_pixels": 778703,
+      "opaque_pixels": 1094,
+      "padding_nonzero_alpha": [
+        108,
+        78,
+        100,
+        64
+      ],
+      "review_edge": false,
+      "sha256": "d0e9d84023505df8fbdea4756545ae4584e832d7e732fd7ecca14cc367641776",
+      "bytes": 1211178
     },
     {
       "id": "tidepool-limpet",
@@ -5449,8 +5491,29 @@
         "rock-pool"
       ],
       "source": "masters/tidepool-limpet.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 817766,
+      "partial_alpha_pixels": 754266,
+      "opaque_pixels": 484,
+      "padding_nonzero_alpha": [
+        21,
+        71,
+        44,
+        20
+      ],
+      "review_edge": true,
+      "sha256": "c631cfdec17336080f62290bcb190fbd4b5d5ec19953565595487d8d74f8eab1",
+      "bytes": 1195272
     },
     {
       "id": "tidepool-barnacles",
@@ -5459,8 +5522,29 @@
         "rock-pool"
       ],
       "source": "masters/tidepool-barnacles.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 850390,
+      "partial_alpha_pixels": 721592,
+      "opaque_pixels": 534,
+      "padding_nonzero_alpha": [
+        0,
+        5,
+        110,
+        146
+      ],
+      "review_edge": true,
+      "sha256": "667f832018056273761a4741448b5c40577213245af6e0d80affeef1a5e6f472",
+      "bytes": 1118598
     },
     {
       "id": "tidepool-chiton",
@@ -5469,8 +5553,29 @@
         "rock-pool"
       ],
       "source": "masters/tidepool-chiton.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1086474,
+      "partial_alpha_pixels": 485211,
+      "opaque_pixels": 831,
+      "padding_nonzero_alpha": [
+        73,
+        53,
+        154,
+        72
+      ],
+      "review_edge": false,
+      "sha256": "f58f306a5c9f5a41b0ee4d89b351c678e7cb9003116fcd0d49df82351a4538af",
+      "bytes": 915787
     },
     {
       "id": "tidepool-blenny",
@@ -5479,8 +5584,29 @@
         "rock-pool"
       ],
       "source": "masters/tidepool-blenny.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1185569,
+      "partial_alpha_pixels": 386045,
+      "opaque_pixels": 902,
+      "padding_nonzero_alpha": [
+        57,
+        53,
+        136,
+        88
+      ],
+      "review_edge": false,
+      "sha256": "d62dfe7ef2227827e0f708c202bc3bdca2d2224e20f4ee58c065f3ecbe8ab8ab",
+      "bytes": 744552
     },
     {
       "id": "tidepool-sea-lettuce",
@@ -5489,8 +5615,29 @@
         "rock-pool"
       ],
       "source": "masters/tidepool-sea-lettuce.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 708724,
+      "partial_alpha_pixels": 862169,
+      "opaque_pixels": 1623,
+      "padding_nonzero_alpha": [
+        47,
+        9,
+        6,
+        61
+      ],
+      "review_edge": true,
+      "sha256": "8484462b6d3a9041f24edb3fe89c0c55a127af3fdac168b0ab21d5d3e91aa42b",
+      "bytes": 1360815
     },
     {
       "id": "tidepool-brittle-star",
@@ -5499,8 +5646,29 @@
         "rock-pool"
       ],
       "source": "masters/tidepool-brittle-star.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1024086,
+      "partial_alpha_pixels": 547183,
+      "opaque_pixels": 1247,
+      "padding_nonzero_alpha": [
+        55,
+        28,
+        18,
+        56
+      ],
+      "review_edge": true,
+      "sha256": "9f83fb7a9a0d8a3bf21daa8e5da8f9ab549834a861d377ac1575203354160625",
+      "bytes": 996034
     },
     {
       "id": "fossil-ammonite",
@@ -5757,8 +5925,29 @@
         "observatory"
       ],
       "source": "masters/observatory-telescope.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1173343,
+      "partial_alpha_pixels": 398284,
+      "opaque_pixels": 889,
+      "padding_nonzero_alpha": [
+        0,
+        144,
+        62,
+        68
+      ],
+      "review_edge": true,
+      "sha256": "0fd3e803d49f99560d298d704c990f94b5f9bca168ba05f4cf5946d8932bb0d2",
+      "bytes": 733865
     },
     {
       "id": "observatory-dome",
@@ -5767,8 +5956,29 @@
         "observatory"
       ],
       "source": "masters/observatory-dome.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 777802,
+      "partial_alpha_pixels": 793324,
+      "opaque_pixels": 1390,
+      "padding_nonzero_alpha": [
+        128,
+        36,
+        54,
+        88
+      ],
+      "review_edge": false,
+      "sha256": "3432c8292140577595482b011c2ec66657c05bd32ba31fedb7d53beb10578773",
+      "bytes": 981743
     },
     {
       "id": "observatory-star-chart",
@@ -5777,8 +5987,29 @@
         "observatory"
       ],
       "source": "masters/observatory-star-chart.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 890969,
+      "partial_alpha_pixels": 681397,
+      "opaque_pixels": 150,
+      "padding_nonzero_alpha": [
+        111,
+        45,
+        109,
+        121
+      ],
+      "review_edge": false,
+      "sha256": "932dba5106223119a814bb64db9f66585f5c83b294634226bc22998cb9211bcc",
+      "bytes": 1114601
     },
     {
       "id": "observatory-armillary",
@@ -5787,8 +6018,29 @@
         "observatory"
       ],
       "source": "masters/observatory-armillary.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1095317,
+      "partial_alpha_pixels": 475619,
+      "opaque_pixels": 1580,
+      "padding_nonzero_alpha": [
+        103,
+        86,
+        62,
+        56
+      ],
+      "review_edge": false,
+      "sha256": "23b45bbd81ebf51c16173c516354edd4615dc2c71ae0be2aaffd8b3cfee22784",
+      "bytes": 952827
     },
     {
       "id": "observatory-orrery",
@@ -5797,8 +6049,29 @@
         "observatory"
       ],
       "source": "masters/observatory-orrery.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 863590,
+      "partial_alpha_pixels": 707833,
+      "opaque_pixels": 1093,
+      "padding_nonzero_alpha": [
+        23,
+        53,
+        42,
+        62
+      ],
+      "review_edge": true,
+      "sha256": "fa81fba93c3ce315b7ae8e2c79c959e8c17d115524e0a602a5142ea495660aba",
+      "bytes": 1230308
     },
     {
       "id": "observatory-eyepiece",
@@ -5807,8 +6080,29 @@
         "observatory"
       ],
       "source": "masters/observatory-eyepiece.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 962179,
+      "partial_alpha_pixels": 609297,
+      "opaque_pixels": 1040,
+      "padding_nonzero_alpha": [
+        105,
+        71,
+        54,
+        56
+      ],
+      "review_edge": false,
+      "sha256": "4a8bb24082623db27aba88c941df8d493613af1500a7adb402cb438dedf5d9f7",
+      "bytes": 878267
     },
     {
       "id": "observatory-red-torch",
@@ -5817,8 +6111,29 @@
         "observatory"
       ],
       "source": "masters/observatory-red-torch.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1068141,
+      "partial_alpha_pixels": 503531,
+      "opaque_pixels": 844,
+      "padding_nonzero_alpha": [
+        0,
+        52,
+        26,
+        56
+      ],
+      "review_edge": true,
+      "sha256": "04ffb5ecee732006400a35f1a0629e1310c950d9a437619e6cb00011410cb3d9",
+      "bytes": 821687
     },
     {
       "id": "observatory-meteorite",
@@ -5827,8 +6142,29 @@
         "observatory"
       ],
       "source": "masters/observatory-meteorite.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 910069,
+      "partial_alpha_pixels": 662134,
+      "opaque_pixels": 313,
+      "padding_nonzero_alpha": [
+        29,
+        53,
+        42,
+        72
+      ],
+      "review_edge": false,
+      "sha256": "e59660b3d8f0cf05d49beb72feebf8e1f20b12472c820666961c0cbec66825cf",
+      "bytes": 1095527
     },
     {
       "id": "mineral-amethyst",
@@ -6085,8 +6421,29 @@
         "cave-exploration"
       ],
       "source": "masters/caving-helmet.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 901360,
+      "partial_alpha_pixels": 670320,
+      "opaque_pixels": 836,
+      "padding_nonzero_alpha": [
+        0,
+        70,
+        111,
+        90
+      ],
+      "review_edge": true,
+      "sha256": "a885a88a11825f791413682c67c6f650dade9fc1a215e862b3723c3e2f3723c9",
+      "bytes": 963575
     },
     {
       "id": "caving-rope-coil",
@@ -6095,8 +6452,29 @@
         "cave-exploration"
       ],
       "source": "masters/caving-rope-coil.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 952961,
+      "partial_alpha_pixels": 618696,
+      "opaque_pixels": 859,
+      "padding_nonzero_alpha": [
+        33,
+        189,
+        13,
+        134
+      ],
+      "review_edge": true,
+      "sha256": "d09f44c852846590a679e3b147a62eec486732979840bbc309b330887a407a2a",
+      "bytes": 1017471
     },
     {
       "id": "caving-ascender",
@@ -6105,8 +6483,29 @@
         "cave-exploration"
       ],
       "source": "masters/caving-ascender.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1036232,
+      "partial_alpha_pixels": 534876,
+      "opaque_pixels": 1408,
+      "padding_nonzero_alpha": [
+        97,
+        33,
+        197,
+        58
+      ],
+      "review_edge": false,
+      "sha256": "840a0c783219f0e69e43718ca89514e1aa7ad73697edba272dbb69e0e2a0701e",
+      "bytes": 955384
     },
     {
       "id": "caving-descender",
@@ -6115,8 +6514,29 @@
         "cave-exploration"
       ],
       "source": "masters/caving-descender.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1184753,
+      "partial_alpha_pixels": 387691,
+      "opaque_pixels": 72,
+      "padding_nonzero_alpha": [
+        113,
+        47,
+        62,
+        26
+      ],
+      "review_edge": false,
+      "sha256": "1ff5fed7eeb0feb78f276edd479ab5dcc613a3ab8776813aa13331736b77556a",
+      "bytes": 748685
     },
     {
       "id": "caving-suit",
@@ -6125,8 +6545,29 @@
         "cave-exploration"
       ],
       "source": "masters/caving-suit.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1022528,
+      "partial_alpha_pixels": 548828,
+      "opaque_pixels": 1160,
+      "padding_nonzero_alpha": [
+        256,
+        63,
+        258,
+        69
+      ],
+      "review_edge": false,
+      "sha256": "302512c9faaf538e21ba4c78ea6e42a1c5219367a83852e0f658cbdbf0f7a304",
+      "bytes": 851364
     },
     {
       "id": "caving-survey-kit",
@@ -6135,8 +6576,29 @@
         "cave-exploration"
       ],
       "source": "masters/caving-survey-kit.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 926110,
+      "partial_alpha_pixels": 646406,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        181,
+        145,
+        176,
+        134
+      ],
+      "review_edge": false,
+      "sha256": "9bc800a356b8c0d77e3df1f576123ba3cd285fce1b64798bdb2e82fd9139891f",
+      "bytes": 1072999
     },
     {
       "id": "caving-stalactite",
@@ -6145,8 +6607,29 @@
         "cave-exploration"
       ],
       "source": "masters/caving-stalactite.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1099412,
+      "partial_alpha_pixels": 473089,
+      "opaque_pixels": 15,
+      "padding_nonzero_alpha": [
+        167,
+        113,
+        165,
+        187
+      ],
+      "review_edge": false,
+      "sha256": "e9684629c3aff4fd6ae7e975f30fc5306481b648b17c961a818e34ddb2dcb830",
+      "bytes": 770622
     },
     {
       "id": "caving-stalagmite",
@@ -6155,8 +6638,29 @@
         "cave-exploration"
       ],
       "source": "masters/caving-stalagmite.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1144292,
+      "partial_alpha_pixels": 428224,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        314,
+        79,
+        314,
+        76
+      ],
+      "review_edge": false,
+      "sha256": "dbe74c6f1a0fae97dfc656c34bb624101a7e56dabc2408d33bfc15a553fa29ce",
+      "bytes": 701934
     },
     {
       "id": "railway-signal",
@@ -6165,8 +6669,29 @@
         "railway-station"
       ],
       "source": "masters/railway-signal.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1536473,
+      "partial_alpha_pixels": 35656,
+      "opaque_pixels": 387,
+      "padding_nonzero_alpha": [
+        247,
+        103,
+        496,
+        383
+      ],
+      "review_edge": false,
+      "sha256": "c03a05cc5da282ad70522d07543c4f13b25c0edc6d216b475228224ab009b317",
+      "bytes": 556381
     },
     {
       "id": "railway-locomotive",
@@ -6175,8 +6700,29 @@
         "railway-station"
       ],
       "source": "masters/railway-locomotive.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 860172,
+      "partial_alpha_pixels": 712342,
+      "opaque_pixels": 2,
+      "padding_nonzero_alpha": [
+        104,
+        112,
+        92,
+        150
+      ],
+      "review_edge": false,
+      "sha256": "76bf124545e47a79adbd8b1459b85b0a43dc77e6a3a515a63f89477ae695b177",
+      "bytes": 1082716
     },
     {
       "id": "railway-platform-clock",
@@ -6185,8 +6731,29 @@
         "railway-station"
       ],
       "source": "masters/railway-platform-clock.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 902786,
+      "partial_alpha_pixels": 669730,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        127,
+        70,
+        100,
+        104
+      ],
+      "review_edge": false,
+      "sha256": "e85251ee863e043bf0530a14f08d5c834ed70150e700ceffc60545c08256a47d",
+      "bytes": 1126932
     },
     {
       "id": "railway-conductor-hat",
@@ -6195,8 +6762,29 @@
         "railway-station"
       ],
       "source": "masters/railway-conductor-hat.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 920736,
+      "partial_alpha_pixels": 651780,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        99,
+        229,
+        93,
+        230
+      ],
+      "review_edge": false,
+      "sha256": "ab79748ea383000333fdb42c3acaa7e6484e87d71a4468112be6e23a58d3c223",
+      "bytes": 848460
     },
     {
       "id": "railway-ticket-punch",
@@ -6205,8 +6793,29 @@
         "railway-station"
       ],
       "source": "masters/railway-ticket-punch.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1014454,
+      "partial_alpha_pixels": 557258,
+      "opaque_pixels": 804,
+      "padding_nonzero_alpha": [
+        21,
+        21,
+        80,
+        72
+      ],
+      "review_edge": true,
+      "sha256": "14f61bfe5d891d527e68812fc36152d1e675b8465b5099bc9e828b2cdd3a7858",
+      "bytes": 852942
     },
     {
       "id": "railway-luggage-trolley",
@@ -6215,8 +6824,29 @@
         "railway-station"
       ],
       "source": "masters/railway-luggage-trolley.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 905068,
+      "partial_alpha_pixels": 666971,
+      "opaque_pixels": 477,
+      "padding_nonzero_alpha": [
+        162,
+        94,
+        110,
+        65
+      ],
+      "review_edge": false,
+      "sha256": "7104d4dd34dc6ed10a126a3fa8e17808e7cc8edb623c2fb0326bf8360bcb81b3",
+      "bytes": 1103017
     },
     {
       "id": "railway-buffer-stop",
@@ -6225,8 +6855,29 @@
         "railway-station"
       ],
       "source": "masters/railway-buffer-stop.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 984961,
+      "partial_alpha_pixels": 587555,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        109,
+        204,
+        93,
+        173
+      ],
+      "review_edge": false,
+      "sha256": "f80140473d36863eb3751cf6f7dd6750390b571ed8c41242f03a7563759bbc5a",
+      "bytes": 910403
     },
     {
       "id": "railway-crossing-gate",
@@ -6235,8 +6886,29 @@
         "railway-station"
       ],
       "source": "masters/railway-crossing-gate.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1229067,
+      "partial_alpha_pixels": 342901,
+      "opaque_pixels": 548,
+      "padding_nonzero_alpha": [
+        105,
+        52,
+        31,
+        56
+      ],
+      "review_edge": false,
+      "sha256": "f10690c38a30d5bde1d99bae42e18dee389c6ba8537d833f62af0a20a4efa6c8",
+      "bytes": 567052
     },
     {
       "id": "harbor-tugboat",
@@ -6245,8 +6917,29 @@
         "harbor-life"
       ],
       "source": "masters/harbor-tugboat.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 892660,
+      "partial_alpha_pixels": 679578,
+      "opaque_pixels": 278,
+      "padding_nonzero_alpha": [
+        122,
+        130,
+        89,
+        110
+      ],
+      "review_edge": false,
+      "sha256": "cdc743ffbe0fbc9addf1b295c8811466c2aef213ea6c6468b9085983230acb33",
+      "bytes": 1038802
     },
     {
       "id": "harbor-mooring-bollard",
@@ -6255,8 +6948,29 @@
         "harbor-life"
       ],
       "source": "masters/harbor-mooring-bollard.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 886458,
+      "partial_alpha_pixels": 685983,
+      "opaque_pixels": 75,
+      "padding_nonzero_alpha": [
+        161,
+        147,
+        43,
+        144
+      ],
+      "review_edge": false,
+      "sha256": "e1c2dd58f7d37a999462998ace9b53bceb69c800141901773845728709b82f90",
+      "bytes": 1041792
     },
     {
       "id": "harbor-buoy",
@@ -6265,8 +6979,29 @@
         "harbor-life"
       ],
       "source": "masters/harbor-buoy.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1052945,
+      "partial_alpha_pixels": 517959,
+      "opaque_pixels": 1612,
+      "padding_nonzero_alpha": [
+        228,
+        40,
+        229,
+        39
+      ],
+      "review_edge": false,
+      "sha256": "63c333271f0b1d028aacba00489cfd761c3d804079072ba167c3cf9dea134789",
+      "bytes": 792785
     },
     {
       "id": "harbor-dock-cleat",
@@ -6275,8 +7010,29 @@
         "harbor-life"
       ],
       "source": "masters/harbor-dock-cleat.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 912448,
+      "partial_alpha_pixels": 658767,
+      "opaque_pixels": 1301,
+      "padding_nonzero_alpha": [
+        39,
+        190,
+        26,
+        88
+      ],
+      "review_edge": false,
+      "sha256": "d02c29fb5297079511bed83f1c581bfdfd2a59d457cc32bf033034f06222d060",
+      "bytes": 1038852
     },
     {
       "id": "harbor-lobster-trap",
@@ -6285,8 +7041,29 @@
         "harbor-life"
       ],
       "source": "masters/harbor-lobster-trap.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 905020,
+      "partial_alpha_pixels": 666484,
+      "opaque_pixels": 1012,
+      "padding_nonzero_alpha": [
+        33,
+        218,
+        28,
+        233
+      ],
+      "review_edge": false,
+      "sha256": "396222b7328d86980ee72226b2148a847c595ce29e8a5b8882acc92219b7ddbd",
+      "bytes": 1264129
     },
     {
       "id": "harbor-ship-wheel",
@@ -6295,8 +7072,29 @@
         "harbor-life"
       ],
       "source": "masters/harbor-ship-wheel.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 929545,
+      "partial_alpha_pixels": 642971,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        48,
+        48,
+        48,
+        50
+      ],
+      "review_edge": false,
+      "sha256": "ed97a733dc4f9aa200c6d2fa888410adf1b41431dbb30b8243681b5c8f4f4b87",
+      "bytes": 1241765
     },
     {
       "id": "harbor-lighthouse",
@@ -6305,8 +7103,29 @@
         "harbor-life"
       ],
       "source": "masters/harbor-lighthouse.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1089526,
+      "partial_alpha_pixels": 482903,
+      "opaque_pixels": 87,
+      "padding_nonzero_alpha": [
+        318,
+        59,
+        301,
+        68
+      ],
+      "review_edge": false,
+      "sha256": "0d91ccd02fcd20cc75906c5c0803c4fafaa543862b5467fe7233ee9651f495ca",
+      "bytes": 762606
     },
     {
       "id": "harbor-cargo-crane",
@@ -6315,8 +7134,29 @@
         "harbor-life"
       ],
       "source": "masters/harbor-cargo-crane.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 985573,
+      "partial_alpha_pixels": 586943,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        104,
+        69,
+        97,
+        83
+      ],
+      "review_edge": false,
+      "sha256": "5b873116a0bc39ff92a762d59158f4e9c7354708fec5d74a955b491ea145b249",
+      "bytes": 1025181
     },
     {
       "id": "vineyard-grape-trellis",
@@ -6325,8 +7165,29 @@
         "vineyard"
       ],
       "source": "masters/vineyard-grape-trellis.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 953555,
+      "partial_alpha_pixels": 618961,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        254,
+        85,
+        210,
+        69
+      ],
+      "review_edge": false,
+      "sha256": "458bb83ca24e0eb222d7fa6da3f2be57ad17ba34f311814d26a206916983ff10",
+      "bytes": 1122507
     },
     {
       "id": "vineyard-pruning-shears",
@@ -6335,8 +7196,29 @@
         "vineyard"
       ],
       "source": "masters/vineyard-pruning-shears.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1218536,
+      "partial_alpha_pixels": 353980,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        119,
+        142,
+        116,
+        129
+      ],
+      "review_edge": false,
+      "sha256": "9e4ce7450cd70c0a3e29c9cfa41428a7c22ca3bad596c4a187350ec1b20121ee",
+      "bytes": 664043
     },
     {
       "id": "vineyard-grape-basket",
@@ -6345,8 +7227,29 @@
         "vineyard"
       ],
       "source": "masters/vineyard-grape-basket.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 777611,
+      "partial_alpha_pixels": 794903,
+      "opaque_pixels": 2,
+      "padding_nonzero_alpha": [
+        78,
+        80,
+        76,
+        83
+      ],
+      "review_edge": false,
+      "sha256": "8b245070a9bc698cb758521058f8dca76b34aacde0ed120d3ef6dd154ce72db8",
+      "bytes": 1384215
     },
     {
       "id": "vineyard-oak-barrel",
@@ -6355,8 +7258,29 @@
         "vineyard"
       ],
       "source": "masters/vineyard-oak-barrel.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 765838,
+      "partial_alpha_pixels": 806678,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        125,
+        101,
+        108,
+        96
+      ],
+      "review_edge": false,
+      "sha256": "1c170d4dda7f8a683fd1ded59b50cdfa4bdb3a2e6575aaa85d8210023b289af0",
+      "bytes": 1244792
     },
     {
       "id": "vineyard-grape-press",
@@ -6365,8 +7289,29 @@
         "vineyard"
       ],
       "source": "masters/vineyard-grape-press.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1022688,
+      "partial_alpha_pixels": 549650,
+      "opaque_pixels": 178,
+      "padding_nonzero_alpha": [
+        276,
+        73,
+        272,
+        75
+      ],
+      "review_edge": false,
+      "sha256": "b8df42b04f340ce4ee8c089fc33c7871c366a3a9c55b8c2236ec9217df67d07b",
+      "bytes": 977933
     },
     {
       "id": "vineyard-carafe",
@@ -6375,8 +7320,29 @@
         "vineyard"
       ],
       "source": "masters/vineyard-carafe.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 912874,
+      "partial_alpha_pixels": 658597,
+      "opaque_pixels": 1045,
+      "padding_nonzero_alpha": [
+        138,
+        109,
+        100,
+        33
+      ],
+      "review_edge": false,
+      "sha256": "d7b63e797528db2c2bb1890b9acde43a8fa857116201dab84a48a62dfb811194",
+      "bytes": 941496
     },
     {
       "id": "vineyard-corkscrew",
@@ -6385,8 +7351,29 @@
         "vineyard"
       ],
       "source": "masters/vineyard-corkscrew.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1182481,
+      "partial_alpha_pixels": 390035,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        108,
+        149,
+        101,
+        127
+      ],
+      "review_edge": false,
+      "sha256": "7075118346ea033a63af14685f6803ec28655d2cb99caba893323567bd0c49d4",
+      "bytes": 718602
     },
     {
       "id": "vineyard-vine-cutting",
@@ -6395,8 +7382,29 @@
         "vineyard"
       ],
       "source": "masters/vineyard-vine-cutting.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1076733,
+      "partial_alpha_pixels": 495783,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        165,
+        63,
+        172,
+        63
+      ],
+      "review_edge": false,
+      "sha256": "1a87123d3209886e57e422fb22f2434a2b8f480737c390a09c07d7768eb61b8e",
+      "bytes": 908755
     },
     {
       "id": "pasta-hand-crank-machine",
@@ -6405,8 +7413,29 @@
         "pasta-workshop"
       ],
       "source": "masters/pasta-hand-crank-machine.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 887820,
+      "partial_alpha_pixels": 684696,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        83,
+        183,
+        20,
+        136
+      ],
+      "review_edge": true,
+      "sha256": "fa62019476f137577064421b9aec6ce4a0d631a45901dda75f34f6aa2e283839",
+      "bytes": 1094886
     },
     {
       "id": "pasta-tagliatelle-nest",
@@ -6415,8 +7444,29 @@
         "pasta-workshop"
       ],
       "source": "masters/pasta-tagliatelle-nest.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 894904,
+      "partial_alpha_pixels": 677612,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        107,
+        177,
+        108,
+        172
+      ],
+      "review_edge": false,
+      "sha256": "13258170b5dddde5064ccfae56efe71f8815814ff64b24e62d9ad151089bddfa",
+      "bytes": 1041731
     },
     {
       "id": "pasta-ravioli",
@@ -6425,8 +7475,29 @@
         "pasta-workshop"
       ],
       "source": "masters/pasta-ravioli.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 876990,
+      "partial_alpha_pixels": 695525,
+      "opaque_pixels": 1,
+      "padding_nonzero_alpha": [
+        72,
+        162,
+        53,
+        138
+      ],
+      "review_edge": false,
+      "sha256": "73383abd6a885103ed2e05b0f9f335f456598e5451403f7fcb011f5c87a6dbe8",
+      "bytes": 999359
     },
     {
       "id": "pasta-gnocchi-board",
@@ -6435,8 +7506,29 @@
         "pasta-workshop"
       ],
       "source": "masters/pasta-gnocchi-board.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 991636,
+      "partial_alpha_pixels": 580880,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        99,
+        149,
+        46,
+        121
+      ],
+      "review_edge": false,
+      "sha256": "ca8658c02a930fad89760dfed6a241808418d8980631e008a0af2c41d4b452c4",
+      "bytes": 1021655
     },
     {
       "id": "pasta-farfalle",
@@ -6445,8 +7537,29 @@
         "pasta-workshop"
       ],
       "source": "masters/pasta-farfalle.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 833595,
+      "partial_alpha_pixels": 738921,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        113,
+        118,
+        78,
+        106
+      ],
+      "review_edge": false,
+      "sha256": "a2b3670648a999eaf934d821c0a84d2d97f47adc1877605181f1d35a685ae0be",
+      "bytes": 1166028
     },
     {
       "id": "pasta-tortellini",
@@ -6455,8 +7568,29 @@
         "pasta-workshop"
       ],
       "source": "masters/pasta-tortellini.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 843682,
+      "partial_alpha_pixels": 728834,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        72,
+        185,
+        46,
+        130
+      ],
+      "review_edge": false,
+      "sha256": "49b7c1734c0b9da1732d743587e09b6bec0766410fedc30a55a8097799092c3e",
+      "bytes": 1030524
     },
     {
       "id": "pasta-wheel-cutter",
@@ -6465,8 +7599,29 @@
         "pasta-workshop"
       ],
       "source": "masters/pasta-wheel-cutter.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1177995,
+      "partial_alpha_pixels": 394521,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        112,
+        99,
+        81,
+        89
+      ],
+      "review_edge": false,
+      "sha256": "b1ee1c05407584cfc5de40752458b36d339dc160bc560caaa30d05a309e144b7",
+      "bytes": 807257
     },
     {
       "id": "pasta-drying-rack",
@@ -6475,8 +7630,29 @@
         "pasta-workshop"
       ],
       "source": "masters/pasta-drying-rack.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 749777,
+      "partial_alpha_pixels": 819622,
+      "opaque_pixels": 3117,
+      "padding_nonzero_alpha": [
+        57,
+        84,
+        32,
+        65
+      ],
+      "review_edge": false,
+      "sha256": "5bc7187e4bdf00bc8a12655288f2afdd8b537d8fe1cf71fff4d05604e4b07f58",
+      "bytes": 1334872
     },
     {
       "id": "dumpling-bamboo-steamer",
@@ -6485,8 +7661,29 @@
         "dumpling-table"
       ],
       "source": "masters/dumpling-bamboo-steamer.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 786410,
+      "partial_alpha_pixels": 786106,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        105,
+        192,
+        103,
+        162
+      ],
+      "review_edge": false,
+      "sha256": "50459d97070a19c7ceac023fd0202b6bf4e73098ef6baaaea1565405b0f1f66a",
+      "bytes": 1192730
     },
     {
       "id": "dumpling-har-gow",
@@ -6495,8 +7692,29 @@
         "dumpling-table"
       ],
       "source": "masters/dumpling-har-gow.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 860778,
+      "partial_alpha_pixels": 711738,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        38,
+        189,
+        34,
+        183
+      ],
+      "review_edge": false,
+      "sha256": "0878020754aa7c5c9833e96669389bf38fe8a5f967fc0a1a5ae1f3e76222d57b",
+      "bytes": 968143
     },
     {
       "id": "dumpling-siu-mai",
@@ -6505,8 +7723,29 @@
         "dumpling-table"
       ],
       "source": "masters/dumpling-siu-mai.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 874534,
+      "partial_alpha_pixels": 697631,
+      "opaque_pixels": 351,
+      "padding_nonzero_alpha": [
+        106,
+        178,
+        99,
+        162
+      ],
+      "review_edge": false,
+      "sha256": "5d8a18da4add34914a321e610b09216913195199f049fbdae14cbce8112a7c9d",
+      "bytes": 1024486
     },
     {
       "id": "dumpling-bao",
@@ -6515,8 +7754,29 @@
         "dumpling-table"
       ],
       "source": "masters/dumpling-bao.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 925466,
+      "partial_alpha_pixels": 647050,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        134,
+        205,
+        134,
+        192
+      ],
+      "review_edge": false,
+      "sha256": "eeeb382ffbf6c49c4fddfc75344b5dc04e7b143fb19c6e0555a531c4e07bfe86",
+      "bytes": 791917
     },
     {
       "id": "dumpling-mandu",
@@ -6525,8 +7785,29 @@
         "dumpling-table"
       ],
       "source": "masters/dumpling-mandu.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1061199,
+      "partial_alpha_pixels": 511317,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        137,
+        257,
+        65,
+        175
+      ],
+      "review_edge": false,
+      "sha256": "afc7e109739c4e2d8ba6bb3266bc85c569f7c114df39ce740e68864fc361f813",
+      "bytes": 773968
     },
     {
       "id": "dumpling-momo",
@@ -6535,8 +7816,29 @@
         "dumpling-table"
       ],
       "source": "masters/dumpling-momo.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 952541,
+      "partial_alpha_pixels": 619975,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        151,
+        183,
+        151,
+        171
+      ],
+      "review_edge": false,
+      "sha256": "e867d935b18fe3b7b8f443ef31586a8a76efa4dcdce3bd1ac22f5eb952daa747",
+      "bytes": 904446
     },
     {
       "id": "dumpling-rolling-pin",
@@ -6545,8 +7847,29 @@
         "dumpling-table"
       ],
       "source": "masters/dumpling-rolling-pin.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1099612,
+      "partial_alpha_pixels": 472904,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        58,
+        256,
+        49,
+        258
+      ],
+      "review_edge": false,
+      "sha256": "ef974f1afdef29dc2a568afa72da3ba6492ca241a369a737e41082b25bbd93fa",
+      "bytes": 772206
     },
     {
       "id": "dumpling-dipping-dish",
@@ -6555,8 +7878,29 @@
         "dumpling-table"
       ],
       "source": "masters/dumpling-dipping-dish.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1136920,
+      "partial_alpha_pixels": 435596,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        199,
+        290,
+        204,
+        308
+      ],
+      "review_edge": false,
+      "sha256": "24d2cea0318da5bd73218af4095a8f23418b7e0a64f2d4dff383e64c67a62e25",
+      "bytes": 649136
     },
     {
       "id": "mezze-hummus",
@@ -7061,8 +8405,29 @@
         "soap-making"
       ],
       "source": "masters/soap-lavender-bar.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 955013,
+      "partial_alpha_pixels": 617503,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        94,
+        239,
+        91,
+        197
+      ],
+      "review_edge": false,
+      "sha256": "fd7229df214d4387765bda3aa6ae364b88663250744a5b897c3b0918f8e47449",
+      "bytes": 949897
     },
     {
       "id": "soap-loaf-mold",
@@ -7071,8 +8436,29 @@
         "soap-making"
       ],
       "source": "masters/soap-loaf-mold.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 872717,
+      "partial_alpha_pixels": 699799,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        68,
+        156,
+        61,
+        146
+      ],
+      "review_edge": false,
+      "sha256": "65c9f9305b582c06ef5edededafd5ba8f5b719ce77d1ee43b26bbfb2d2fb1a8f",
+      "bytes": 968306
     },
     {
       "id": "soap-wire-cutter",
@@ -7081,8 +8467,29 @@
         "soap-making"
       ],
       "source": "masters/soap-wire-cutter.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 910743,
+      "partial_alpha_pixels": 661772,
+      "opaque_pixels": 1,
+      "padding_nonzero_alpha": [
+        116,
+        76,
+        115,
+        68
+      ],
+      "review_edge": false,
+      "sha256": "c74b1448e415f8b2a6cc4378d5a096b86caaf487a7d09d361351d50f07d5ff96",
+      "bytes": 971737
     },
     {
       "id": "soap-silicone-flower-mold",
@@ -7091,8 +8498,29 @@
         "soap-making"
       ],
       "source": "masters/soap-silicone-flower-mold.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 880560,
+      "partial_alpha_pixels": 691956,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        62,
+        187,
+        60,
+        167
+      ],
+      "review_edge": false,
+      "sha256": "46e7608ac23ad72d5a2d5a8118769df5800a93f3c9b5d4d41fb422416437e77c",
+      "bytes": 961724
     },
     {
       "id": "soap-essential-oil",
@@ -7101,8 +8529,29 @@
         "soap-making"
       ],
       "source": "masters/soap-essential-oil.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1156760,
+      "partial_alpha_pixels": 415756,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        400,
+        64,
+        404,
+        61
+      ],
+      "review_edge": false,
+      "sha256": "e31e84db4d17d84b19d8c60ca8874334a5c314e322c824f45548d5ac5db040c1",
+      "bytes": 638833
     },
     {
       "id": "soap-mixing-pitcher",
@@ -7111,8 +8560,29 @@
         "soap-making"
       ],
       "source": "masters/soap-mixing-pitcher.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 868960,
+      "partial_alpha_pixels": 703556,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        158,
+        76,
+        86,
+        70
+      ],
+      "review_edge": false,
+      "sha256": "f2adc7f8d5d437efd8f2235cc8ce9e7c7f14f02f3a111b1ffaacc033d324d0b7",
+      "bytes": 1023577
     },
     {
       "id": "soap-oatmeal-bar",
@@ -7121,8 +8591,29 @@
         "soap-making"
       ],
       "source": "masters/soap-oatmeal-bar.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 911742,
+      "partial_alpha_pixels": 660774,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        102,
+        238,
+        89,
+        228
+      ],
+      "review_edge": false,
+      "sha256": "f4287188d7d52542456f6770f5002e51b40b0abaca796ad977216e864b6ca1b7",
+      "bytes": 962579
     },
     {
       "id": "soap-curing-rack",
@@ -7131,8 +8622,29 @@
         "soap-making"
       ],
       "source": "masters/soap-curing-rack.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 762176,
+      "partial_alpha_pixels": 810340,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        93,
+        134,
+        83,
+        93
+      ],
+      "review_edge": false,
+      "sha256": "2c0b0b335814f999abcfc7273b55bf0c3c7e633b5867850056b502bed440152c",
+      "bytes": 1316275
     },
     {
       "id": "glassblowing-pipe",
@@ -8397,7 +9909,7 @@
     {
       "slug": "rock-pool",
       "name_vi": "Hồ thủy triều",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
@@ -8409,7 +9921,7 @@
     {
       "slug": "observatory",
       "name_vi": "Đài quan sát",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
@@ -8421,37 +9933,37 @@
     {
       "slug": "cave-exploration",
       "name_vi": "Thám hiểm hang động",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "railway-station",
       "name_vi": "Ga tàu hỏa",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "harbor-life",
       "name_vi": "Bến cảng",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "vineyard",
       "name_vi": "Vườn nho",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "pasta-workshop",
       "name_vi": "Xưởng mì Ý",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "dumpling-table",
       "name_vi": "Bàn bánh hấp",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
@@ -8469,7 +9981,7 @@
     {
       "slug": "soap-making",
       "name_vi": "Làm xà phòng",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
@@ -10218,72 +11730,72 @@
       "topic": "rock-pool",
       "name_vi": "Hồ thủy triều",
       "id": "tidepool-hermit-crab",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/rock-pool/tidepool-hermit-crab.png",
+      "status": "alpha_corners_clear",
+      "sha256": "d0a934ba1328f31cd1bebacc8cbe012024771074585bb5c8f3dfbf72b5eb0b6a",
       "review_note": ""
     },
     {
       "topic": "rock-pool",
       "name_vi": "Hồ thủy triều",
       "id": "tidepool-anemone",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/rock-pool/tidepool-anemone.png",
+      "status": "alpha_corners_clear",
+      "sha256": "d0e9d84023505df8fbdea4756545ae4584e832d7e732fd7ecca14cc367641776",
       "review_note": ""
     },
     {
       "topic": "rock-pool",
       "name_vi": "Hồ thủy triều",
       "id": "tidepool-limpet",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/rock-pool/tidepool-limpet.png",
+      "status": "alpha_corners_clear",
+      "sha256": "c631cfdec17336080f62290bcb190fbd4b5d5ec19953565595487d8d74f8eab1",
       "review_note": ""
     },
     {
       "topic": "rock-pool",
       "name_vi": "Hồ thủy triều",
       "id": "tidepool-barnacles",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/rock-pool/tidepool-barnacles.png",
+      "status": "alpha_corners_clear",
+      "sha256": "667f832018056273761a4741448b5c40577213245af6e0d80affeef1a5e6f472",
       "review_note": ""
     },
     {
       "topic": "rock-pool",
       "name_vi": "Hồ thủy triều",
       "id": "tidepool-chiton",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/rock-pool/tidepool-chiton.png",
+      "status": "alpha_corners_clear",
+      "sha256": "f58f306a5c9f5a41b0ee4d89b351c678e7cb9003116fcd0d49df82351a4538af",
       "review_note": ""
     },
     {
       "topic": "rock-pool",
       "name_vi": "Hồ thủy triều",
       "id": "tidepool-blenny",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/rock-pool/tidepool-blenny.png",
+      "status": "alpha_corners_clear",
+      "sha256": "d62dfe7ef2227827e0f708c202bc3bdca2d2224e20f4ee58c065f3ecbe8ab8ab",
       "review_note": ""
     },
     {
       "topic": "rock-pool",
       "name_vi": "Hồ thủy triều",
       "id": "tidepool-sea-lettuce",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/rock-pool/tidepool-sea-lettuce.png",
+      "status": "alpha_corners_clear",
+      "sha256": "8484462b6d3a9041f24edb3fe89c0c55a127af3fdac168b0ab21d5d3e91aa42b",
       "review_note": ""
     },
     {
       "topic": "rock-pool",
       "name_vi": "Hồ thủy triều",
       "id": "tidepool-brittle-star",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/rock-pool/tidepool-brittle-star.png",
+      "status": "alpha_corners_clear",
+      "sha256": "9f83fb7a9a0d8a3bf21daa8e5da8f9ab549834a861d377ac1575203354160625",
       "review_note": ""
     },
     {
@@ -10362,72 +11874,72 @@
       "topic": "observatory",
       "name_vi": "Đài quan sát",
       "id": "observatory-telescope",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/observatory/observatory-telescope.png",
+      "status": "alpha_corners_clear",
+      "sha256": "0fd3e803d49f99560d298d704c990f94b5f9bca168ba05f4cf5946d8932bb0d2",
       "review_note": ""
     },
     {
       "topic": "observatory",
       "name_vi": "Đài quan sát",
       "id": "observatory-dome",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/observatory/observatory-dome.png",
+      "status": "alpha_corners_clear",
+      "sha256": "3432c8292140577595482b011c2ec66657c05bd32ba31fedb7d53beb10578773",
       "review_note": ""
     },
     {
       "topic": "observatory",
       "name_vi": "Đài quan sát",
       "id": "observatory-star-chart",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/observatory/observatory-star-chart.png",
+      "status": "alpha_corners_clear",
+      "sha256": "932dba5106223119a814bb64db9f66585f5c83b294634226bc22998cb9211bcc",
       "review_note": ""
     },
     {
       "topic": "observatory",
       "name_vi": "Đài quan sát",
       "id": "observatory-armillary",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/observatory/observatory-armillary.png",
+      "status": "alpha_corners_clear",
+      "sha256": "23b45bbd81ebf51c16173c516354edd4615dc2c71ae0be2aaffd8b3cfee22784",
       "review_note": ""
     },
     {
       "topic": "observatory",
       "name_vi": "Đài quan sát",
       "id": "observatory-orrery",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/observatory/observatory-orrery.png",
+      "status": "alpha_corners_clear",
+      "sha256": "fa81fba93c3ce315b7ae8e2c79c959e8c17d115524e0a602a5142ea495660aba",
       "review_note": ""
     },
     {
       "topic": "observatory",
       "name_vi": "Đài quan sát",
       "id": "observatory-eyepiece",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/observatory/observatory-eyepiece.png",
+      "status": "alpha_corners_clear",
+      "sha256": "4a8bb24082623db27aba88c941df8d493613af1500a7adb402cb438dedf5d9f7",
       "review_note": ""
     },
     {
       "topic": "observatory",
       "name_vi": "Đài quan sát",
       "id": "observatory-red-torch",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/observatory/observatory-red-torch.png",
+      "status": "alpha_corners_clear",
+      "sha256": "04ffb5ecee732006400a35f1a0629e1310c950d9a437619e6cb00011410cb3d9",
       "review_note": ""
     },
     {
       "topic": "observatory",
       "name_vi": "Đài quan sát",
       "id": "observatory-meteorite",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/observatory/observatory-meteorite.png",
+      "status": "alpha_corners_clear",
+      "sha256": "e59660b3d8f0cf05d49beb72feebf8e1f20b12472c820666961c0cbec66825cf",
       "review_note": ""
     },
     {
@@ -10506,432 +12018,432 @@
       "topic": "cave-exploration",
       "name_vi": "Thám hiểm hang động",
       "id": "caving-helmet",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/cave-exploration/caving-helmet.png",
+      "status": "alpha_corners_clear",
+      "sha256": "a885a88a11825f791413682c67c6f650dade9fc1a215e862b3723c3e2f3723c9",
       "review_note": ""
     },
     {
       "topic": "cave-exploration",
       "name_vi": "Thám hiểm hang động",
       "id": "caving-rope-coil",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/cave-exploration/caving-rope-coil.png",
+      "status": "alpha_corners_clear",
+      "sha256": "d09f44c852846590a679e3b147a62eec486732979840bbc309b330887a407a2a",
       "review_note": ""
     },
     {
       "topic": "cave-exploration",
       "name_vi": "Thám hiểm hang động",
       "id": "caving-ascender",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/cave-exploration/caving-ascender.png",
+      "status": "alpha_corners_clear",
+      "sha256": "840a0c783219f0e69e43718ca89514e1aa7ad73697edba272dbb69e0e2a0701e",
       "review_note": ""
     },
     {
       "topic": "cave-exploration",
       "name_vi": "Thám hiểm hang động",
       "id": "caving-descender",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/cave-exploration/caving-descender.png",
+      "status": "alpha_corners_clear",
+      "sha256": "1ff5fed7eeb0feb78f276edd479ab5dcc613a3ab8776813aa13331736b77556a",
       "review_note": ""
     },
     {
       "topic": "cave-exploration",
       "name_vi": "Thám hiểm hang động",
       "id": "caving-suit",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/cave-exploration/caving-suit.png",
+      "status": "alpha_corners_clear",
+      "sha256": "302512c9faaf538e21ba4c78ea6e42a1c5219367a83852e0f658cbdbf0f7a304",
       "review_note": ""
     },
     {
       "topic": "cave-exploration",
       "name_vi": "Thám hiểm hang động",
       "id": "caving-survey-kit",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/cave-exploration/caving-survey-kit.png",
+      "status": "alpha_corners_clear",
+      "sha256": "9bc800a356b8c0d77e3df1f576123ba3cd285fce1b64798bdb2e82fd9139891f",
       "review_note": ""
     },
     {
       "topic": "cave-exploration",
       "name_vi": "Thám hiểm hang động",
       "id": "caving-stalactite",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/cave-exploration/caving-stalactite.png",
+      "status": "alpha_corners_clear",
+      "sha256": "e9684629c3aff4fd6ae7e975f30fc5306481b648b17c961a818e34ddb2dcb830",
       "review_note": ""
     },
     {
       "topic": "cave-exploration",
       "name_vi": "Thám hiểm hang động",
       "id": "caving-stalagmite",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/cave-exploration/caving-stalagmite.png",
+      "status": "alpha_corners_clear",
+      "sha256": "dbe74c6f1a0fae97dfc656c34bb624101a7e56dabc2408d33bfc15a553fa29ce",
       "review_note": ""
     },
     {
       "topic": "railway-station",
       "name_vi": "Ga tàu hỏa",
       "id": "railway-signal",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/railway-station/railway-signal.png",
+      "status": "alpha_corners_clear",
+      "sha256": "c03a05cc5da282ad70522d07543c4f13b25c0edc6d216b475228224ab009b317",
       "review_note": ""
     },
     {
       "topic": "railway-station",
       "name_vi": "Ga tàu hỏa",
       "id": "railway-locomotive",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/railway-station/railway-locomotive.png",
+      "status": "alpha_corners_clear",
+      "sha256": "76bf124545e47a79adbd8b1459b85b0a43dc77e6a3a515a63f89477ae695b177",
       "review_note": ""
     },
     {
       "topic": "railway-station",
       "name_vi": "Ga tàu hỏa",
       "id": "railway-platform-clock",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/railway-station/railway-platform-clock.png",
+      "status": "alpha_corners_clear",
+      "sha256": "e85251ee863e043bf0530a14f08d5c834ed70150e700ceffc60545c08256a47d",
       "review_note": ""
     },
     {
       "topic": "railway-station",
       "name_vi": "Ga tàu hỏa",
       "id": "railway-conductor-hat",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/railway-station/railway-conductor-hat.png",
+      "status": "alpha_corners_clear",
+      "sha256": "ab79748ea383000333fdb42c3acaa7e6484e87d71a4468112be6e23a58d3c223",
       "review_note": ""
     },
     {
       "topic": "railway-station",
       "name_vi": "Ga tàu hỏa",
       "id": "railway-ticket-punch",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/railway-station/railway-ticket-punch.png",
+      "status": "alpha_corners_clear",
+      "sha256": "14f61bfe5d891d527e68812fc36152d1e675b8465b5099bc9e828b2cdd3a7858",
       "review_note": ""
     },
     {
       "topic": "railway-station",
       "name_vi": "Ga tàu hỏa",
       "id": "railway-luggage-trolley",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/railway-station/railway-luggage-trolley.png",
+      "status": "alpha_corners_clear",
+      "sha256": "7104d4dd34dc6ed10a126a3fa8e17808e7cc8edb623c2fb0326bf8360bcb81b3",
       "review_note": ""
     },
     {
       "topic": "railway-station",
       "name_vi": "Ga tàu hỏa",
       "id": "railway-buffer-stop",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/railway-station/railway-buffer-stop.png",
+      "status": "alpha_corners_clear",
+      "sha256": "f80140473d36863eb3751cf6f7dd6750390b571ed8c41242f03a7563759bbc5a",
       "review_note": ""
     },
     {
       "topic": "railway-station",
       "name_vi": "Ga tàu hỏa",
       "id": "railway-crossing-gate",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/railway-station/railway-crossing-gate.png",
+      "status": "alpha_corners_clear",
+      "sha256": "f10690c38a30d5bde1d99bae42e18dee389c6ba8537d833f62af0a20a4efa6c8",
       "review_note": ""
     },
     {
       "topic": "harbor-life",
       "name_vi": "Bến cảng",
       "id": "harbor-tugboat",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/harbor-life/harbor-tugboat.png",
+      "status": "alpha_corners_clear",
+      "sha256": "cdc743ffbe0fbc9addf1b295c8811466c2aef213ea6c6468b9085983230acb33",
       "review_note": ""
     },
     {
       "topic": "harbor-life",
       "name_vi": "Bến cảng",
       "id": "harbor-mooring-bollard",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/harbor-life/harbor-mooring-bollard.png",
+      "status": "alpha_corners_clear",
+      "sha256": "e1c2dd58f7d37a999462998ace9b53bceb69c800141901773845728709b82f90",
       "review_note": ""
     },
     {
       "topic": "harbor-life",
       "name_vi": "Bến cảng",
       "id": "harbor-buoy",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/harbor-life/harbor-buoy.png",
+      "status": "alpha_corners_clear",
+      "sha256": "63c333271f0b1d028aacba00489cfd761c3d804079072ba167c3cf9dea134789",
       "review_note": ""
     },
     {
       "topic": "harbor-life",
       "name_vi": "Bến cảng",
       "id": "harbor-dock-cleat",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/harbor-life/harbor-dock-cleat.png",
+      "status": "alpha_corners_clear",
+      "sha256": "d02c29fb5297079511bed83f1c581bfdfd2a59d457cc32bf033034f06222d060",
       "review_note": ""
     },
     {
       "topic": "harbor-life",
       "name_vi": "Bến cảng",
       "id": "harbor-lobster-trap",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/harbor-life/harbor-lobster-trap.png",
+      "status": "alpha_corners_clear",
+      "sha256": "396222b7328d86980ee72226b2148a847c595ce29e8a5b8882acc92219b7ddbd",
       "review_note": ""
     },
     {
       "topic": "harbor-life",
       "name_vi": "Bến cảng",
       "id": "harbor-ship-wheel",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/harbor-life/harbor-ship-wheel.png",
+      "status": "alpha_corners_clear",
+      "sha256": "ed97a733dc4f9aa200c6d2fa888410adf1b41431dbb30b8243681b5c8f4f4b87",
       "review_note": ""
     },
     {
       "topic": "harbor-life",
       "name_vi": "Bến cảng",
       "id": "harbor-lighthouse",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/harbor-life/harbor-lighthouse.png",
+      "status": "alpha_corners_clear",
+      "sha256": "0d91ccd02fcd20cc75906c5c0803c4fafaa543862b5467fe7233ee9651f495ca",
       "review_note": ""
     },
     {
       "topic": "harbor-life",
       "name_vi": "Bến cảng",
       "id": "harbor-cargo-crane",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/harbor-life/harbor-cargo-crane.png",
+      "status": "alpha_corners_clear",
+      "sha256": "5b873116a0bc39ff92a762d59158f4e9c7354708fec5d74a955b491ea145b249",
       "review_note": ""
     },
     {
       "topic": "vineyard",
       "name_vi": "Vườn nho",
       "id": "vineyard-grape-trellis",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/vineyard/vineyard-grape-trellis.png",
+      "status": "alpha_corners_clear",
+      "sha256": "458bb83ca24e0eb222d7fa6da3f2be57ad17ba34f311814d26a206916983ff10",
       "review_note": ""
     },
     {
       "topic": "vineyard",
       "name_vi": "Vườn nho",
       "id": "vineyard-pruning-shears",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/vineyard/vineyard-pruning-shears.png",
+      "status": "alpha_corners_clear",
+      "sha256": "9e4ce7450cd70c0a3e29c9cfa41428a7c22ca3bad596c4a187350ec1b20121ee",
       "review_note": ""
     },
     {
       "topic": "vineyard",
       "name_vi": "Vườn nho",
       "id": "vineyard-grape-basket",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/vineyard/vineyard-grape-basket.png",
+      "status": "alpha_corners_clear",
+      "sha256": "8b245070a9bc698cb758521058f8dca76b34aacde0ed120d3ef6dd154ce72db8",
       "review_note": ""
     },
     {
       "topic": "vineyard",
       "name_vi": "Vườn nho",
       "id": "vineyard-oak-barrel",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/vineyard/vineyard-oak-barrel.png",
+      "status": "alpha_corners_clear",
+      "sha256": "1c170d4dda7f8a683fd1ded59b50cdfa4bdb3a2e6575aaa85d8210023b289af0",
       "review_note": ""
     },
     {
       "topic": "vineyard",
       "name_vi": "Vườn nho",
       "id": "vineyard-grape-press",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/vineyard/vineyard-grape-press.png",
+      "status": "alpha_corners_clear",
+      "sha256": "b8df42b04f340ce4ee8c089fc33c7871c366a3a9c55b8c2236ec9217df67d07b",
       "review_note": ""
     },
     {
       "topic": "vineyard",
       "name_vi": "Vườn nho",
       "id": "vineyard-carafe",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/vineyard/vineyard-carafe.png",
+      "status": "alpha_corners_clear",
+      "sha256": "d7b63e797528db2c2bb1890b9acde43a8fa857116201dab84a48a62dfb811194",
       "review_note": ""
     },
     {
       "topic": "vineyard",
       "name_vi": "Vườn nho",
       "id": "vineyard-corkscrew",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/vineyard/vineyard-corkscrew.png",
+      "status": "alpha_corners_clear",
+      "sha256": "7075118346ea033a63af14685f6803ec28655d2cb99caba893323567bd0c49d4",
       "review_note": ""
     },
     {
       "topic": "vineyard",
       "name_vi": "Vườn nho",
       "id": "vineyard-vine-cutting",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/vineyard/vineyard-vine-cutting.png",
+      "status": "alpha_corners_clear",
+      "sha256": "1a87123d3209886e57e422fb22f2434a2b8f480737c390a09c07d7768eb61b8e",
       "review_note": ""
     },
     {
       "topic": "pasta-workshop",
       "name_vi": "Xưởng mì Ý",
       "id": "pasta-hand-crank-machine",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/pasta-workshop/pasta-hand-crank-machine.png",
+      "status": "alpha_corners_clear",
+      "sha256": "fa62019476f137577064421b9aec6ce4a0d631a45901dda75f34f6aa2e283839",
       "review_note": ""
     },
     {
       "topic": "pasta-workshop",
       "name_vi": "Xưởng mì Ý",
       "id": "pasta-tagliatelle-nest",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/pasta-workshop/pasta-tagliatelle-nest.png",
+      "status": "alpha_corners_clear",
+      "sha256": "13258170b5dddde5064ccfae56efe71f8815814ff64b24e62d9ad151089bddfa",
       "review_note": ""
     },
     {
       "topic": "pasta-workshop",
       "name_vi": "Xưởng mì Ý",
       "id": "pasta-ravioli",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/pasta-workshop/pasta-ravioli.png",
+      "status": "alpha_corners_clear",
+      "sha256": "73383abd6a885103ed2e05b0f9f335f456598e5451403f7fcb011f5c87a6dbe8",
       "review_note": ""
     },
     {
       "topic": "pasta-workshop",
       "name_vi": "Xưởng mì Ý",
       "id": "pasta-gnocchi-board",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/pasta-workshop/pasta-gnocchi-board.png",
+      "status": "alpha_corners_clear",
+      "sha256": "ca8658c02a930fad89760dfed6a241808418d8980631e008a0af2c41d4b452c4",
       "review_note": ""
     },
     {
       "topic": "pasta-workshop",
       "name_vi": "Xưởng mì Ý",
       "id": "pasta-farfalle",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/pasta-workshop/pasta-farfalle.png",
+      "status": "alpha_corners_clear",
+      "sha256": "a2b3670648a999eaf934d821c0a84d2d97f47adc1877605181f1d35a685ae0be",
       "review_note": ""
     },
     {
       "topic": "pasta-workshop",
       "name_vi": "Xưởng mì Ý",
       "id": "pasta-tortellini",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/pasta-workshop/pasta-tortellini.png",
+      "status": "alpha_corners_clear",
+      "sha256": "49b7c1734c0b9da1732d743587e09b6bec0766410fedc30a55a8097799092c3e",
       "review_note": ""
     },
     {
       "topic": "pasta-workshop",
       "name_vi": "Xưởng mì Ý",
       "id": "pasta-wheel-cutter",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/pasta-workshop/pasta-wheel-cutter.png",
+      "status": "alpha_corners_clear",
+      "sha256": "b1ee1c05407584cfc5de40752458b36d339dc160bc560caaa30d05a309e144b7",
       "review_note": ""
     },
     {
       "topic": "pasta-workshop",
       "name_vi": "Xưởng mì Ý",
       "id": "pasta-drying-rack",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/pasta-workshop/pasta-drying-rack.png",
+      "status": "alpha_corners_clear",
+      "sha256": "5bc7187e4bdf00bc8a12655288f2afdd8b537d8fe1cf71fff4d05604e4b07f58",
       "review_note": ""
     },
     {
       "topic": "dumpling-table",
       "name_vi": "Bàn bánh hấp",
       "id": "dumpling-bamboo-steamer",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/dumpling-table/dumpling-bamboo-steamer.png",
+      "status": "alpha_corners_clear",
+      "sha256": "50459d97070a19c7ceac023fd0202b6bf4e73098ef6baaaea1565405b0f1f66a",
       "review_note": ""
     },
     {
       "topic": "dumpling-table",
       "name_vi": "Bàn bánh hấp",
       "id": "dumpling-har-gow",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/dumpling-table/dumpling-har-gow.png",
+      "status": "alpha_corners_clear",
+      "sha256": "0878020754aa7c5c9833e96669389bf38fe8a5f967fc0a1a5ae1f3e76222d57b",
       "review_note": ""
     },
     {
       "topic": "dumpling-table",
       "name_vi": "Bàn bánh hấp",
       "id": "dumpling-siu-mai",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/dumpling-table/dumpling-siu-mai.png",
+      "status": "alpha_corners_clear",
+      "sha256": "5d8a18da4add34914a321e610b09216913195199f049fbdae14cbce8112a7c9d",
       "review_note": ""
     },
     {
       "topic": "dumpling-table",
       "name_vi": "Bàn bánh hấp",
       "id": "dumpling-bao",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/dumpling-table/dumpling-bao.png",
+      "status": "alpha_corners_clear",
+      "sha256": "eeeb382ffbf6c49c4fddfc75344b5dc04e7b143fb19c6e0555a531c4e07bfe86",
       "review_note": ""
     },
     {
       "topic": "dumpling-table",
       "name_vi": "Bàn bánh hấp",
       "id": "dumpling-mandu",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/dumpling-table/dumpling-mandu.png",
+      "status": "alpha_corners_clear",
+      "sha256": "afc7e109739c4e2d8ba6bb3266bc85c569f7c114df39ce740e68864fc361f813",
       "review_note": ""
     },
     {
       "topic": "dumpling-table",
       "name_vi": "Bàn bánh hấp",
       "id": "dumpling-momo",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/dumpling-table/dumpling-momo.png",
+      "status": "alpha_corners_clear",
+      "sha256": "e867d935b18fe3b7b8f443ef31586a8a76efa4dcdce3bd1ac22f5eb952daa747",
       "review_note": ""
     },
     {
       "topic": "dumpling-table",
       "name_vi": "Bàn bánh hấp",
       "id": "dumpling-rolling-pin",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/dumpling-table/dumpling-rolling-pin.png",
+      "status": "alpha_corners_clear",
+      "sha256": "ef974f1afdef29dc2a568afa72da3ba6492ca241a369a737e41082b25bbd93fa",
       "review_note": ""
     },
     {
       "topic": "dumpling-table",
       "name_vi": "Bàn bánh hấp",
       "id": "dumpling-dipping-dish",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/dumpling-table/dumpling-dipping-dish.png",
+      "status": "alpha_corners_clear",
+      "sha256": "24d2cea0318da5bd73218af4095a8f23418b7e0a64f2d4dff383e64c67a62e25",
       "review_note": ""
     },
     {
@@ -11082,72 +12594,72 @@
       "topic": "soap-making",
       "name_vi": "Làm xà phòng",
       "id": "soap-lavender-bar",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/soap-making/soap-lavender-bar.png",
+      "status": "alpha_corners_clear",
+      "sha256": "fd7229df214d4387765bda3aa6ae364b88663250744a5b897c3b0918f8e47449",
       "review_note": ""
     },
     {
       "topic": "soap-making",
       "name_vi": "Làm xà phòng",
       "id": "soap-loaf-mold",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/soap-making/soap-loaf-mold.png",
+      "status": "alpha_corners_clear",
+      "sha256": "65c9f9305b582c06ef5edededafd5ba8f5b719ce77d1ee43b26bbfb2d2fb1a8f",
       "review_note": ""
     },
     {
       "topic": "soap-making",
       "name_vi": "Làm xà phòng",
       "id": "soap-wire-cutter",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/soap-making/soap-wire-cutter.png",
+      "status": "alpha_corners_clear",
+      "sha256": "c74b1448e415f8b2a6cc4378d5a096b86caaf487a7d09d361351d50f07d5ff96",
       "review_note": ""
     },
     {
       "topic": "soap-making",
       "name_vi": "Làm xà phòng",
       "id": "soap-silicone-flower-mold",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/soap-making/soap-silicone-flower-mold.png",
+      "status": "alpha_corners_clear",
+      "sha256": "46e7608ac23ad72d5a2d5a8118769df5800a93f3c9b5d4d41fb422416437e77c",
       "review_note": ""
     },
     {
       "topic": "soap-making",
       "name_vi": "Làm xà phòng",
       "id": "soap-essential-oil",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/soap-making/soap-essential-oil.png",
+      "status": "alpha_corners_clear",
+      "sha256": "e31e84db4d17d84b19d8c60ca8874334a5c314e322c824f45548d5ac5db040c1",
       "review_note": ""
     },
     {
       "topic": "soap-making",
       "name_vi": "Làm xà phòng",
       "id": "soap-mixing-pitcher",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/soap-making/soap-mixing-pitcher.png",
+      "status": "alpha_corners_clear",
+      "sha256": "f2adc7f8d5d437efd8f2235cc8ce9e7c7f14f02f3a111b1ffaacc033d324d0b7",
       "review_note": ""
     },
     {
       "topic": "soap-making",
       "name_vi": "Làm xà phòng",
       "id": "soap-oatmeal-bar",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/soap-making/soap-oatmeal-bar.png",
+      "status": "alpha_corners_clear",
+      "sha256": "f4287188d7d52542456f6770f5002e51b40b0abaca796ad977216e864b6ca1b7",
       "review_note": ""
     },
     {
       "topic": "soap-making",
       "name_vi": "Làm xà phòng",
       "id": "soap-curing-rack",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/soap-making/soap-curing-rack.png",
+      "status": "alpha_corners_clear",
+      "sha256": "2c0b0b335814f999abcfc7273b55bf0c3c7e633b5867850056b502bed440152c",
       "review_note": ""
     },
     {

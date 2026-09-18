@@ -1,0 +1,17 @@
+{
+  "id": "tidepool-chiton",
+  "subject": "An oval chiton with eight overlapping green gray shell plates",
+  "topic_slugs": ["rock-pool"],
+  "profile": "marine",
+  "prompt": "Edit the first chiton sticker while preserving its oval marine animal form, muted green-gray colors, cream cut margin and warm hand-painted 2D style. The anatomical correction is essential: show EXACTLY EIGHT distinct overlapping dorsal shell plates in one row along the chiton's back, each with its own visible curved division line. Count them left to right as 1, 2, 3, 4, 5, 6, 7, 8. Keep a continuous soft body girdle around them. Simplify the mottled surface into a few broad matte paint patches; no dense speckles. The second original desktop artwork is only a style reference. Make the entire animal slightly smaller with comfortable true transparent padding on all sides and a narrow even white sticker-cut edge. Square transparent PNG, target 512 × 512, no rock, water, scene, text or checkerboard.",
+  "referenced_image_paths": [
+    "revisions/batch-20260918/tidepool-chiton-v1.png",
+    "references/Stickers/19_MarineLife/marine_life_1.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final edit to correct plate count. Initial exact prompt is in state/requests/tidepool-chiton.json."
+}

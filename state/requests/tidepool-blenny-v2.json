@@ -1,0 +1,17 @@
+{
+  "id": "tidepool-blenny",
+  "subject": "A small mottled orange blenny fish with large eyes and a curved tail",
+  "topic_slugs": ["rock-pool"],
+  "profile": "marine",
+  "prompt": "Refine the first image into a small natural orange blenny fish sticker. Preserve its curved tail, one large clear eye, continuous dorsal fin and fins. Remove the branching antler-like growths from the head; a blenny may have only two tiny simple eyebrow tufts. Reduce the many orange body spots to a few quiet broad same-hue paint patches, with pale warm belly and matte shading. Recompose the entire fish smaller, about 78 percent of the canvas width, with transparent space all around. The second original desktop sticker is style reference only. Smooth narrow white sticker-cut border, genuinely transparent gaps between body and curved tail, no detached white debris. Hand-painted 2D casual game art, restrained detail, thin tinted outlines. Transparent square PNG, target 512 × 512, no water, rocks, scene, ground shadow or text.",
+  "referenced_image_paths": [
+    "revisions/batch-20260918/tidepool-blenny-v1.png",
+    "references/Stickers/19_MarineLife/marine_life_1.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final edit to simplify texture and head anatomy. Initial exact prompt is in state/requests/tidepool-blenny.json."
+}

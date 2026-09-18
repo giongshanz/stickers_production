@@ -1,0 +1,15 @@
+{
+  "id": "tidepool-hermit-crab",
+  "topic_slug": "rock-pool",
+  "selected_master": "masters/tidepool-hermit-crab.png",
+  "selected_sha256": "d0a934ba1328f31cd1bebacc8cbe012024771074585bb5c8f3dfbf72b5eb0b6a",
+  "selected_from": "revisions/rock-pool-pilot-20260918/tidepool-hermit-crab-v2.png",
+  "initial_trial": "revisions/rock-pool-pilot-20260918/tidepool-hermit-crab-v1.png",
+  "final_request": "state/requests/tidepool-hermit-crab-v2.json",
+  "actual_dimensions": [1254, 1254],
+  "prompt_target_dimensions": [512, 512],
+  "padding_at_alpha_128": [157, 104, 207, 174],
+  "corner_alpha": [0, 0, 0, 0],
+  "dark_preview": "qa/rock-pool-pilot-20260918/tidepool-hermit-crab-dark.png",
+  "review": "Provisional: recognizable orange hermit crab in cream coiled shell, centered with clear padding. Dark-background review shows clean gaps between legs, a continuous white cut margin, and no visible detached background debris. User requested one trial sticker before proceeding with the remaining rock-pool subjects."
+}

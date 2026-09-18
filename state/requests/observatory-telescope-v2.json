@@ -1,0 +1,17 @@
+{
+  "id": "observatory-telescope",
+  "subject": "A cream and navy astronomical telescope on a sturdy tripod",
+  "topic_slugs": ["observatory"],
+  "profile": "objects",
+  "prompt": "Edit the first sticker of the cream and navy astronomical telescope on a three-legged tripod. Keep the recognisable telescope tube, lens, small finder scope and tripod, with warm matte hand-painted 2D shading. Recompose the entire sticker smaller, around 76 percent of the square canvas in its longest dimension, with clear transparent padding on every side. Crucially, all open spaces between the tripod legs, crossbars, and center pole must show the actual transparent background; remove every irregular white patch or dark speck floating in those openings. Keep only a narrow smooth white sticker-cut margin directly along the solid telescope and tripod silhouettes. The second original desktop sticker is style reference only. Simplify harsh contrast and small detail, thin locally tinted outlines. Transparent square PNG, target 512 × 512, no text, scene, stars, ground shadow or checkerboard.",
+  "referenced_image_paths": [
+    "revisions/batch-20260918/observatory-telescope-v1.png",
+    "references/Stickers/8-Gardening/8-Gardening_1.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final edit for tripod alpha gaps and framing. Initial prompt is state/requests/observatory-telescope.json."
+}

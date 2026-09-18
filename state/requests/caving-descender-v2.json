@@ -1,0 +1,17 @@
+{
+  "id": "caving-descender",
+  "subject": "A silver figure eight climbing descender with a small locking carabiner",
+  "topic_slugs": ["cave-exploration"],
+  "profile": "objects",
+  "prompt": "Edit the first sticker: preserve one silver figure-eight rope descender and its small orange locking carabiner, with the same arrangement and soft hand-painted 2D style. Remove the irregular white export fill and black flecks from inside the carabiner loop; that whole interior must become truly transparent alpha with only a narrow, even white sticker-cut line following the metal edge. Keep the large circular opening in the descender genuinely transparent as well. Clean any tiny detached speck above the descender. Give the whole sticker comfortable transparent padding on every side. The second original desktop sticker is style reference only. Restrained warm color, matte shading, thin tinted outlines. Transparent square PNG, target 512 × 512, no scene, rope, text or printed checkerboard.",
+  "referenced_image_paths": [
+    "revisions/batch-20260918/caving-descender-v1.png",
+    "references/Stickers/8-Gardening/8-Gardening_1.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final edit corrected white fill in carabiner loop. Initial prompt is state/requests/caving-descender.json."
+}

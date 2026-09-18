@@ -1,5 +1,5 @@
 {
-  "mode": "finish_existing_topics",
+  "mode": "complete_all_remaining_topics",
   "priority": [
     "background_alpha",
     "visual_rework",
@@ -32,7 +32,8 @@
     "mediterranean-mezze",
     "picnic-day",
     "mineral-collection",
-    "fossil-dig"
+    "fossil-dig",
+    "rock-pool"
   ],
   "existing_asset_ids": [
     "banh-mi",
@@ -207,23 +208,30 @@
     "mezze-baba-ganoush",
     "mezze-halloumi",
     "picnic-hamper",
-    "picnic-checkered-cloth"
+    "picnic-checkered-cloth",
+    "tidepool-hermit-crab"
   ],
   "alpha_script_authorized": true,
   "preserve_rgb": true,
   "preserve_dimensions": true,
   "no_script_resize": true,
-  "opening_new_topics": false,
+  "opening_new_topics": true,
   "authorization": "User selected Cho phép script sửa alpha on 2026-09-15, then asked to continue removing backgrounds.",
-  "latest_user_instruction": "2026-09-17: Complete Mineral Collection and Fossil Dig topics; mineral collection first.",
+  "latest_user_instruction": "2026-09-18: Complete every remaining planned topic and sticker, continuing from the approved rock-pool pilot.",
   "active_batch_ids": [],
   "last_completed_batch": "state/batch-20260917-mineral-fossil.json",
-  "next_action": "The requested mineral and fossil topics now each have 8 images. Resume pending alpha and visual QA in started topics before opening other topics.",
+  "next_action": "After the built-in ImageGen quota resets, generate glassblowing-pipe first and continue all missing IDs in state/generation-queue.json order. Save, review, refresh, verify each batch.",
   "alpha_pilot_pending_review": {
     "id": "tet-lucky-envelope",
     "candidate": "revisions/border-pilot-20260917/tet-lucky-envelope-geometry-alpha.png",
     "previous_candidate": "revisions/background-pilot-20260917/tet-lucky-envelope-alpha.png",
     "qa_report": "qa/border-pilot-20260917/report.json",
     "master_unchanged": true
+  },
+  "quota_status": {
+    "state": "paused_on_built_in_imagegen_limit",
+    "checkpoint": "state/imagegen-quota-20260918-second.json",
+    "reset_at_vietnam": "2026-09-18T18:56:38+07:00",
+    "next_id": "glassblowing-pipe"
   }
 }

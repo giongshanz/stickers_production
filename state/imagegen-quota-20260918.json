@@ -1,0 +1,19 @@
+{
+  "encountered_utc": "2026-09-18T03:06:00Z",
+  "tool": "built-in imagegen",
+  "error_type": "usage_limit_reached",
+  "http_status": 429,
+  "plan_type": "plus",
+  "reset_at_utc": "2026-09-18T06:42:51Z",
+  "reset_at_vietnam": "2026-09-18T13:42:51+07:00",
+  "attempted_ids": [
+    "railway-signal",
+    "railway-locomotive",
+    "railway-platform-clock",
+    "railway-conductor-hat"
+  ],
+  "generated_unique_at_failure": 230,
+  "missing_unique_at_failure": 160,
+  "topics_with_all_images_at_failure": 30,
+  "continuation": "Retry railway-signal first in state/generation-queue.json after the built-in imagegen limit resets. Use the prepared exact prompts in state/requests. Do not switch tool, account, or API to bypass the limit."
+}

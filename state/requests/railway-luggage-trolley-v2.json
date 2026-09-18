@@ -1,0 +1,30 @@
+{
+  "id": "railway-luggage-trolley",
+  "subject": "A green station luggage trolley carrying two compact brown cases",
+  "topic_slugs": [
+    "railway-station"
+  ],
+  "profile": "objects",
+  "prompt": "Edit the first image of a green railway luggage trolley carrying two brown suitcases. Preserve the trolley, suitcase shapes, color palette, composition, all wheels, and warm restrained hand-painted 2D sticker style exactly. Clean only the cutout: all visible spaces BETWEEN the slim upright green bars of the trolley backrest, below the wooden handle and behind the suitcases, must show true transparent alpha instead of solid white. The narrow white sticker cut margin should follow the outer silhouette only and may line each green bar thinly. Keep all painted green rails and luggage intact. No new props, scene, text, or floor shadow. Transparent PNG, square canvas, target 512 x 512.",
+  "referenced_image_paths": [
+    "revisions/batch-20260918/railway-luggage-trolley-v1.png",
+    "references/Stickers/8-Gardening/8-Gardening_1.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "View the referenced images, then resolve their paths against the current workspace root when calling the image tool.",
+  "postprocess": {
+    "type": "alpha_only",
+    "script": "scripts/clean_generated_white_margin.py",
+    "source": "revisions/batch-20260918/railway-luggage-trolley-v2.png",
+    "margin": 13,
+    "rgb_unchanged": true,
+    "dimensions_unchanged": true
+  }
+}

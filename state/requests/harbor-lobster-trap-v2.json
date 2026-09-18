@@ -1,0 +1,30 @@
+{
+  "id": "harbor-lobster-trap",
+  "subject": "A weathered wooden lobster trap with curved ribs and a small rope coil",
+  "topic_slugs": [
+    "harbor-life"
+  ],
+  "profile": "objects",
+  "prompt": "Edit the first image of a curved wooden harbor lobster trap with a small cream rope coil. Keep the exact curved wooden ribs, horizontal wooden slats, olive net lattice, rope coil, warm hand-painted 2D palette, silhouette and proportions. Carefully turn the solid white paper visible THROUGH the open spaces between the slats and THROUGH the diamond shaped net mesh into true transparent alpha. Retain every wooden rib and every slender strand of netting; the user must be able to see a dark background through those openings. Leave a narrow clean white cut margin around the OUTER silhouette only. No new scene, sea, lobster, text or floor shadow. Transparent PNG, square target 512 x 512.",
+  "referenced_image_paths": [
+    "revisions/batch-20260918/harbor-lobster-trap-v1.png",
+    "references/Stickers/8-Gardening/8-Gardening_1.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "View the referenced images, then resolve their paths against the current workspace root when calling the image tool.",
+  "postprocess": {
+    "type": "alpha_only",
+    "script": "scripts/clean_generated_white_margin.py",
+    "source": "revisions/batch-20260918/harbor-lobster-trap-v2.png",
+    "margin": 13,
+    "rgb_unchanged": true,
+    "dimensions_unchanged": true
+  }
+}

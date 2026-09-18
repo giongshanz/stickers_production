@@ -1,0 +1,30 @@
+{
+  "id": "harbor-buoy",
+  "subject": "A red and cream navigation buoy with a small black bell framework",
+  "topic_slugs": [
+    "harbor-life"
+  ],
+  "profile": "objects",
+  "prompt": "Edit the first image of the red and cream harbor navigation buoy with a dark metal bell framework. Preserve the exact buoy shape, stripe colors, bell, dark slim metal legs, rounded floating body, hand-painted 2D style, and overall composition. Remove the opaque white fill inside the open bell frame: every open triangular or rectangular space between the metal legs, around the bell, between the upper and lower rings, and between the legs and red body must have true transparent alpha. The metal and bell themselves remain fully painted. Keep a narrow white cut margin around the outer silhouette only. No scene, water, shadows, text, or extra objects. Transparent PNG, target square 512 x 512.",
+  "referenced_image_paths": [
+    "revisions/batch-20260918/harbor-buoy-v1.png",
+    "references/Stickers/8-Gardening/8-Gardening_1.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "View the referenced images, then resolve their paths against the current workspace root when calling the image tool.",
+  "postprocess": {
+    "type": "alpha_only",
+    "script": "scripts/clean_generated_white_margin.py",
+    "source": "revisions/batch-20260918/harbor-buoy-v2.png",
+    "margin": 13,
+    "rgb_unchanged": true,
+    "dimensions_unchanged": true
+  }
+}

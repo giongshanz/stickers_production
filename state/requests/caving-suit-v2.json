@@ -1,0 +1,30 @@
+{
+  "id": "caving-suit",
+  "subject": "A mustard yellow protective caving suit with dark reinforced knees",
+  "topic_slugs": [
+    "cave-exploration"
+  ],
+  "profile": "objects",
+  "prompt": "Edit the first image, a mustard yellow one-piece cave exploration suit. Preserve its exact garment concept, pose, mustard palette, restrained dark reinforced knees, seams and overall silhouette. Clean the cutout carefully: make every space between the two legs, beneath both sleeves, beside the torso and around the collar true transparent alpha, not white pixels, gray fill, black specks, or printed checkerboard. Keep a narrow clean white cut margin immediately around the outer silhouette only. Preserve the warm hand-painted flat 2D sticker style of the second original reference: thin locally tinted outlines, two or three quiet same-hue shadow patches, modest detail, no glossy rendering. Isolated centered object occupying about 80 percent of a square canvas. Transparent PNG, 512 x 512 target.",
+  "referenced_image_paths": [
+    "revisions/batch-20260918/caving-suit-v1.png",
+    "references/Stickers/Shirts/19_Shirts_1.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "View the referenced images, then resolve their paths against the current workspace root when calling the image tool.",
+  "postprocess": {
+    "type": "alpha_only",
+    "script": "scripts/clean_generated_white_margin.py",
+    "source": "revisions/batch-20260918/caving-suit-v2.png",
+    "margin": 13,
+    "rgb_unchanged": true,
+    "dimensions_unchanged": true
+  }
+}

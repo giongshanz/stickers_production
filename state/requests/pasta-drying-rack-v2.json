@@ -1,0 +1,30 @@
+{
+  "id": "pasta-drying-rack",
+  "subject": "A small wooden pasta drying rack draped with golden spaghetti strands",
+  "topic_slugs": [
+    "pasta-workshop"
+  ],
+  "profile": "food",
+  "prompt": "Edit the first image of a small wooden pasta drying rack draped with thin golden spaghetti strands. Preserve the rack's wooden A-frame, crossbars, hanging spaghetti groups, warm matte hand-painted 2D style, and composition. Remove all opaque white background visible THROUGH the spaces between individual hanging spaghetti strands and behind the pasta inside the rack. Every clear gap inside the wooden frame should be true transparent alpha. Keep the golden noodles and all wooden bars intact with only a narrow clean white cut margin around the outer contours. No scene, text, plate, floor shadow, or extra objects. Transparent PNG, square target 512 x 512.",
+  "referenced_image_paths": [
+    "revisions/batch-20260918/pasta-drying-rack-v1.png",
+    "references/Stickers/8-Gardening/8-Gardening_1.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "View the referenced images, then resolve their paths against the current workspace root when calling the image tool.",
+  "postprocess": {
+    "type": "alpha_only",
+    "script": "scripts/clean_generated_white_margin.py",
+    "source": "revisions/batch-20260918/pasta-drying-rack-v2.png",
+    "margin": 13,
+    "rgb_unchanged": true,
+    "dimensions_unchanged": true
+  }
+}

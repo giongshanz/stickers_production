@@ -1,0 +1,17 @@
+{
+  "id": "observatory-armillary",
+  "subject": "A small brass armillary sphere on a wooden stand",
+  "topic_slugs": ["observatory"],
+  "profile": "objects",
+  "prompt": "Edit the first hand-painted brass armillary sphere on a wooden stand. The main required correction is the transparent negative space: every open area BETWEEN the brass rings, around the central ball, and inside the outer circular frame must be genuinely alpha transparent, showing the same transparent background as outside the sticker. Remove the broad white fill from these openings completely; keep a narrow clean white cut margin only directly along the solid brass rings and wooden base. Make the whole instrument slightly smaller and centered with comfortable transparent padding. Preserve recognizable interlocking rings, central small sphere and wooden foot, with soft warm matte 2D shading and modest detail. The second original desktop sticker is style reference only. Transparent square PNG, target 512 × 512. No extra objects, text, scene, ground shadow or checkerboard.",
+  "referenced_image_paths": [
+    "revisions/batch-20260918/observatory-armillary-v1.png",
+    "references/Stickers/8-Gardening/8-Gardening_1.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Edit reduced broad white fill inside rings. Initial prompt is state/requests/observatory-armillary.json."
+}

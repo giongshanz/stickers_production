@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-18T08:57:00.741636+00:00",
+  "updated_utc": "2026-09-21T08:06:33.377743+00:00",
   "files": [
     {
       "path": ".gitattributes",
@@ -107,6 +107,46 @@
       "sha256": "8a42c8f6972c22efbd864b220d267044b32efaa366ae148266dda4db0959e0c1"
     },
     {
+      "path": "delivery/stickers/bookbinding/bookbinding-bone-folder.png",
+      "bytes": 393235,
+      "sha256": "df527909bf69ed9353dc0af88f75aa7f2a65627f1f3e91f6a6078c56ff590149"
+    },
+    {
+      "path": "delivery/stickers/bookbinding/bookbinding-cloth-roll.png",
+      "bytes": 978612,
+      "sha256": "1c64499abbf194b7962243b0b3010ce17d47106f9d6d37fbc57a7eceef64bfad"
+    },
+    {
+      "path": "delivery/stickers/bookbinding/bookbinding-glue-pot.png",
+      "bytes": 900531,
+      "sha256": "a2928e0e37855aed323f1db572c9c6a6ff1b6c4a677cab18c6cd7fa744372c6d"
+    },
+    {
+      "path": "delivery/stickers/bookbinding/bookbinding-handbound-journal.png",
+      "bytes": 952235,
+      "sha256": "ecbc7ea3fa21b15c33a884337d4da12d80357acb0fdcaf74f3095850e7459e12"
+    },
+    {
+      "path": "delivery/stickers/bookbinding/bookbinding-linen-thread.png",
+      "bytes": 929005,
+      "sha256": "2637009de7effc961cfd1c8d6eb48c85236a5f592c80ccd62cc8472feb95eb97"
+    },
+    {
+      "path": "delivery/stickers/bookbinding/bookbinding-press.png",
+      "bytes": 1085449,
+      "sha256": "7e4fe4fe1217d683aa3003afd6b228d037f292d718e239b4accf205097962322"
+    },
+    {
+      "path": "delivery/stickers/bookbinding/bookbinding-sewing-frame.png",
+      "bytes": 1095093,
+      "sha256": "1c065b0d040f034cbb374a0fa420572b0e10889b03f949a64d22fe7c7ebb143c"
+    },
+    {
+      "path": "delivery/stickers/bookbinding/bookbinding-signatures.png",
+      "bytes": 968509,
+      "sha256": "63f79703585673cac54c4b69edc8874f7ed20a56d9de99103fa22c944df8335d"
+    },
+    {
       "path": "delivery/stickers/calligraphy-desk/calligraphy-brush.png",
       "bytes": 1726138,
       "sha256": "40c6d2c886ad434f0f1e8aab9cdaf4c0442604343ac8f9abb1f650763b77d9e0"
@@ -187,6 +227,46 @@
       "sha256": "9bc800a356b8c0d77e3df1f576123ba3cd285fce1b64798bdb2e82fd9139891f"
     },
     {
+      "path": "delivery/stickers/clockmaking/clockmaking-gear-train.png",
+      "bytes": 1294751,
+      "sha256": "98060ac012efc3a795fea44b348dc71e7db874263e7f4e267c0c81963cec6a4e"
+    },
+    {
+      "path": "delivery/stickers/clockmaking/clockmaking-key.png",
+      "bytes": 749268,
+      "sha256": "a06973f89292f797c623d584d9ec01c4baf861078f48816580fdaa679ef4bac1"
+    },
+    {
+      "path": "delivery/stickers/clockmaking/clockmaking-loupe.png",
+      "bytes": 718688,
+      "sha256": "72b5f32a11e420af0b30efeacf8f3dd3a7c4a653036e7bd39ac744549a42ecfb"
+    },
+    {
+      "path": "delivery/stickers/clockmaking/clockmaking-mainspring.png",
+      "bytes": 993528,
+      "sha256": "6bf9546581a46ea1f9efac827b096e19a5cf58b91f5fa98a6dd6cf1187813d30"
+    },
+    {
+      "path": "delivery/stickers/clockmaking/clockmaking-movement-holder.png",
+      "bytes": 1180554,
+      "sha256": "538c2794a87ebbf542947225dc75298ba5c91a573c94d6da3e216a89b013fbd4"
+    },
+    {
+      "path": "delivery/stickers/clockmaking/clockmaking-oiler.png",
+      "bytes": 382784,
+      "sha256": "e76d336e69570dab3e0247529a4c7531fd5946f6c86ef11ef795b78b3e46e57d"
+    },
+    {
+      "path": "delivery/stickers/clockmaking/clockmaking-pendulum.png",
+      "bytes": 351268,
+      "sha256": "cd74ff2d36d9b1a211592440471e312bb0cd9978e5735390f352eda61fa860c0"
+    },
+    {
+      "path": "delivery/stickers/clockmaking/clockmaking-pocket-watch.png",
+      "bytes": 1030042,
+      "sha256": "311bc255a850e3b16fd08f37b3ec5490783321929d49d4974ace7324db780b72"
+    },
+    {
       "path": "delivery/stickers/coral-restoration/brain-coral.png",
       "bytes": 1159979,
       "sha256": "6b5f323cd4698815d3d5ba46ce0472c4aee9ce0ccb7d42214e26537e7196084c"
@@ -225,6 +305,46 @@
       "path": "delivery/stickers/coral-restoration/table-coral.png",
       "bytes": 661554,
       "sha256": "f5e50abf8c242e1eea8e1f9688f360596d4045dfc1f8e16a4b67b09a048338ad"
+    },
+    {
+      "path": "delivery/stickers/detective-desk/detective-evidence-envelope.png",
+      "bytes": 928741,
+      "sha256": "6273d1b94367ec5bc3349b1646ebe4ddf328bc76c9ef7615e0648230a869c90f"
+    },
+    {
+      "path": "delivery/stickers/detective-desk/detective-evidence-marker.png",
+      "bytes": 524986,
+      "sha256": "157ebe4ebca4b33c1400cc07ae4f66aae0b1c3aec6f98463a4959770eaf2ba7a"
+    },
+    {
+      "path": "delivery/stickers/detective-desk/detective-fingerprint-card.png",
+      "bytes": 971496,
+      "sha256": "8ac526de32d8dc0a8eaf108d6a248f0365e402457b0e35abca742389599ce68e"
+    },
+    {
+      "path": "delivery/stickers/detective-desk/detective-fingerprint-kit.png",
+      "bytes": 1118135,
+      "sha256": "50f46c2834d28f83a3fc62bb53943f608309b6189f43d54634b91baf94490829"
+    },
+    {
+      "path": "delivery/stickers/detective-desk/detective-footprint-cast.png",
+      "bytes": 930906,
+      "sha256": "cf9083535ec5dc9954b213b32dbadf84c9f102baa637f52b8dd21f0b7367d04d"
+    },
+    {
+      "path": "delivery/stickers/detective-desk/detective-magnifier.png",
+      "bytes": 736231,
+      "sha256": "13bfa482607fdec6d4e6cff90e52cd0eb90e28190a7f9eed98e07520e6f6e3c2"
+    },
+    {
+      "path": "delivery/stickers/detective-desk/detective-notebook.png",
+      "bytes": 790298,
+      "sha256": "9f6e5330102b623fd0309c6aa421496009000f38584ccdfbdd298e0407760a18"
+    },
+    {
+      "path": "delivery/stickers/detective-desk/detective-trench-coat.png",
+      "bytes": 1004885,
+      "sha256": "53cd5c5dff52f75964a7f31b5112dc4f7c0a150b8fb5b19765f81e533429f300"
     },
     {
       "path": "delivery/stickers/dumpling-table/dumpling-bamboo-steamer.png",
@@ -427,6 +547,46 @@
       "sha256": "95d23ff6af42e1d338709cbacbce3988bad649f05ab54b2f88ea6be21f47d70f"
     },
     {
+      "path": "delivery/stickers/glassblowing/glassblowing-block.png",
+      "bytes": 630821,
+      "sha256": "316fbf12ac7a3af57d2eae9ec6279f0875db568248057dadd6923b99cd77c4c1"
+    },
+    {
+      "path": "delivery/stickers/glassblowing/glassblowing-furnace.png",
+      "bytes": 1084759,
+      "sha256": "f05ef6eaedb10c2849f3f3bd699aa785e68f76c8b0bc241c3cf4cb1ddb1f0143"
+    },
+    {
+      "path": "delivery/stickers/glassblowing/glassblowing-jacks.png",
+      "bytes": 616744,
+      "sha256": "68f53f7623dcdd00a43931d77c994d63af23b7c36c13f0f0ce1f6a1288012c5e"
+    },
+    {
+      "path": "delivery/stickers/glassblowing/glassblowing-marver.png",
+      "bytes": 830210,
+      "sha256": "cba2b3cabdd70d62fa87e1cc3c11d0881d4a500d12a05dfba61c6b28a121a067"
+    },
+    {
+      "path": "delivery/stickers/glassblowing/glassblowing-paperweight.png",
+      "bytes": 862847,
+      "sha256": "62b419b59511d3ce1e5531786127d969af46e1d422ebe5e9bc33dac770b2ecf0"
+    },
+    {
+      "path": "delivery/stickers/glassblowing/glassblowing-pipe.png",
+      "bytes": 373090,
+      "sha256": "b03c29b24254454106bdc4c1166c4bb4257592e3ace2670481f0f68e68f52f21"
+    },
+    {
+      "path": "delivery/stickers/glassblowing/glassblowing-shears.png",
+      "bytes": 789015,
+      "sha256": "35ed37c39e8d7bc1a185aedb7ed97ad0f0cf8ac5512c4c8a725bc72de97791ba"
+    },
+    {
+      "path": "delivery/stickers/glassblowing/glassblowing-vase.png",
+      "bytes": 734097,
+      "sha256": "21bfa04fba5d3d90de9586cfa7b3e9b5b24674a57864c20308938c90bb754d24"
+    },
+    {
       "path": "delivery/stickers/harbor-life/harbor-buoy.png",
       "bytes": 792785,
       "sha256": "63c333271f0b1d028aacba00489cfd761c3d804079072ba167c3cf9dea134789"
@@ -505,6 +665,46 @@
       "path": "delivery/stickers/honey-breakfast/honey-waffles.png",
       "bytes": 2122200,
       "sha256": "0d857dea48e6089b54e154694bdf76199f7c52cf8a433671f27c5df21c3cbbd5"
+    },
+    {
+      "path": "delivery/stickers/leathercraft/leathercraft-awl.png",
+      "bytes": 423772,
+      "sha256": "9694c4a64eb88ef6115cf1be0c310bbaa752cde83366bc61b331ecb80f497b93"
+    },
+    {
+      "path": "delivery/stickers/leathercraft/leathercraft-belt-buckle.png",
+      "bytes": 815825,
+      "sha256": "6590c04a23c272dd397fabef379e98de66c9eefbf14da43e2de7fe71123d840d"
+    },
+    {
+      "path": "delivery/stickers/leathercraft/leathercraft-edge-beveler.png",
+      "bytes": 485782,
+      "sha256": "11cac331d6a1284ce857ac3b22cdebce5dd6f08b4992b1b98c70abfe9151b9e3"
+    },
+    {
+      "path": "delivery/stickers/leathercraft/leathercraft-hide-roll.png",
+      "bytes": 891948,
+      "sha256": "528a0f290f613cd581adaa6f9e76794f2be781b7678a2c8a68f558db9b236e6b"
+    },
+    {
+      "path": "delivery/stickers/leathercraft/leathercraft-mallet.png",
+      "bytes": 508478,
+      "sha256": "7e3ff2eccab996cfde601606d279cfe378003b561909698289d49bd53f261068"
+    },
+    {
+      "path": "delivery/stickers/leathercraft/leathercraft-pricking-iron.png",
+      "bytes": 562599,
+      "sha256": "ea3940f8c6ed1f7f162bb9e09ed5d75925e28febd6bbbe0516c3d48cfd4206d2"
+    },
+    {
+      "path": "delivery/stickers/leathercraft/leathercraft-saddle-stitch.png",
+      "bytes": 922321,
+      "sha256": "b3ba1356c25984d98068be3370f48b4f3dca45d785f58ab642f34d974d4757ec"
+    },
+    {
+      "path": "delivery/stickers/leathercraft/leathercraft-stitching-pony.png",
+      "bytes": 730651,
+      "sha256": "cc12e3296316956270a91dda5f45d7a41fd72a31a4c8ef84f348a86fc6da3b87"
     },
     {
       "path": "delivery/stickers/marching-band/band-shako.png",
@@ -867,6 +1067,46 @@
       "sha256": "618de20e014991a91b3a95ad50ddde1e365d33b6ce11d503041bc31dc4ee5bce"
     },
     {
+      "path": "delivery/stickers/printmaking/printmaking-baren.png",
+      "bytes": 857856,
+      "sha256": "1f276e1f9e2e3c7313530003b7affb6130eae9cc062f4e5c09eef69a58cfd553"
+    },
+    {
+      "path": "delivery/stickers/printmaking/printmaking-brayer.png",
+      "bytes": 541637,
+      "sha256": "3357b744558565e2cece7e01a4f8dcc5e854f6b251b0ed780d39e828ecd1d483"
+    },
+    {
+      "path": "delivery/stickers/printmaking/printmaking-gouge.png",
+      "bytes": 397522,
+      "sha256": "6bea2e277e6ac91c342512d5e8b01d862bd1186aec633d609f541ac0824a2616"
+    },
+    {
+      "path": "delivery/stickers/printmaking/printmaking-ink-slab.png",
+      "bytes": 729932,
+      "sha256": "d71faa50577047936d7ae8a83e1b674078cf5e918f8d57353166bd88ad06dbc7"
+    },
+    {
+      "path": "delivery/stickers/printmaking/printmaking-ink-tube.png",
+      "bytes": 556531,
+      "sha256": "148365ba63a905568537cb88014205b37f26cf383fc70f60ba3a277a6cdc26b9"
+    },
+    {
+      "path": "delivery/stickers/printmaking/printmaking-leaf-print.png",
+      "bytes": 1040895,
+      "sha256": "73a44328c17ee142bdd1625bf4803e236054070d7f87f4c0361f51a9ad59ed6e"
+    },
+    {
+      "path": "delivery/stickers/printmaking/printmaking-lino-block.png",
+      "bytes": 812079,
+      "sha256": "7e593f88b761776999f152547308f9ceb6038e42ecf192675f50d9cddd314475"
+    },
+    {
+      "path": "delivery/stickers/printmaking/printmaking-press.png",
+      "bytes": 977634,
+      "sha256": "b4ba0bdfebc9ccf5075bbe7a174f1d1917363114b5dd6c86235bb4791577b7ac"
+    },
+    {
       "path": "delivery/stickers/railway-station/railway-buffer-stop.png",
       "bytes": 910403,
       "sha256": "f80140473d36863eb3751cf6f7dd6750390b571ed8c41242f03a7563759bbc5a"
@@ -1065,6 +1305,26 @@
       "path": "delivery/stickers/sewing-room/tomato-pincushion.png",
       "bytes": 1068819,
       "sha256": "9ad638ad370bbad19162d6fbd3b0ef0b882d49fa328c28b8f5e9d2347144e7c1"
+    },
+    {
+      "path": "delivery/stickers/shipwreck-diving/shipwreck-air-tank.png",
+      "bytes": 854325,
+      "sha256": "efd3ec8e8b0af9e8a0b291f31a6d9d2223de577c0f90079f11ce5fda88de9199"
+    },
+    {
+      "path": "delivery/stickers/shipwreck-diving/shipwreck-diving-helmet.png",
+      "bytes": 1337787,
+      "sha256": "ac380307e0d72c98bc93f19389809c14209583aacf18a2743768acf42a984f61"
+    },
+    {
+      "path": "delivery/stickers/shipwreck-diving/shipwreck-porthole.png",
+      "bytes": 1385440,
+      "sha256": "e1b04799d8bce8c9f059fdbb404ed685a59ceaf24391987e478274a438aae7ab"
+    },
+    {
+      "path": "delivery/stickers/shipwreck-diving/shipwreck-rusted-anchor.png",
+      "bytes": 1232525,
+      "sha256": "33fc2dd8f62ca39b3690144cab1b8cbacabc0b0883aaa30cfc07aad38b262b7e"
     },
     {
       "path": "delivery/stickers/snorkeling/dive-rashguard.png",
@@ -1427,6 +1687,46 @@
       "sha256": "f789904da0ec84ed654dfef1ffc7e9a2e625ef6b3ddad1368dc9f213bd1fa76a"
     },
     {
+      "path": "delivery/stickers/weaving-studio/weaving-beater-comb.png",
+      "bytes": 840720,
+      "sha256": "f57dfd1a6a7c8887dce6fd9038843d5c0ced1b68b54978d3b85ad6d8ff7b3330"
+    },
+    {
+      "path": "delivery/stickers/weaving-studio/weaving-drop-spindle.png",
+      "bytes": 677321,
+      "sha256": "5be15f059e6d7748cf864c28efb91fbd0f7b45967f2abc22ea72b3a9562c87ce"
+    },
+    {
+      "path": "delivery/stickers/weaving-studio/weaving-heddle.png",
+      "bytes": 663509,
+      "sha256": "765330b75dfd39b56d9d562a63ee0e7a14b0098154c0b08693734d62fcedc267"
+    },
+    {
+      "path": "delivery/stickers/weaving-studio/weaving-shuttle.png",
+      "bytes": 658450,
+      "sha256": "8721d23228ee479106cf0aae721c1fda1e0b53b43154c3c46545b1c6e7f80fcd"
+    },
+    {
+      "path": "delivery/stickers/weaving-studio/weaving-table-loom.png",
+      "bytes": 1093095,
+      "sha256": "aa2d883826113ce94ef62b2b291e6f33a5afb01e50ad70d35de8fb9d9073f8da"
+    },
+    {
+      "path": "delivery/stickers/weaving-studio/weaving-tapestry.png",
+      "bytes": 924615,
+      "sha256": "59a1c36c5db3d3b14ebb6b6446794893419f9408b2fc9d4e1345206dc8110999"
+    },
+    {
+      "path": "delivery/stickers/weaving-studio/weaving-warping-board.png",
+      "bytes": 928680,
+      "sha256": "110de0f992b5da8e163959791cda09d49caa8d9e30c0bebc436d891736c76ec5"
+    },
+    {
+      "path": "delivery/stickers/weaving-studio/weaving-yarn-cones.png",
+      "bytes": 1137265,
+      "sha256": "ee9d6b43eb6bfb83378299ebe7285ba8c3567c19834af52dc77c66e546d6ff79"
+    },
+    {
       "path": "delivery/stickers/woodland-foraging/fiddlehead-ferns.png",
       "bytes": 2102696,
       "sha256": "07d9f12ce21274010fd59f44a3bc63d6d2d371c954bf7d8cd916b75e7d6c0a84"
@@ -1468,8 +1768,8 @@
     },
     {
       "path": "delivery/topic-map.csv",
-      "bytes": 63331,
-      "sha256": "656a4ca3641a6ffabe3b97a10accb65ff8762047313a53f42d5c61e2bec4798a"
+      "bytes": 71258,
+      "sha256": "ccc0ae1a414398b72a3e46590281cfc0929d5807c6fdb17d9b0fe9257b1c6b1a"
     },
     {
       "path": "history/delivery/.gitattributes",
@@ -1853,8 +2153,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 157017,
-      "sha256": "6f029264dff618e156c8bda7c901c6a572d453056003f6e88290bc59ed82e0f5"
+      "bytes": 172022,
+      "sha256": "e85ff80b73c718e80d7564d4c9493b248885565e552eeaed1fd6e97bbd895b09"
     },
     {
       "path": "logs/alpha-pilot-20260917.jsonl",
@@ -1878,8 +2178,8 @@
     },
     {
       "path": "logs/generation.jsonl",
-      "bytes": 58706,
-      "sha256": "08aebd5c63e0ae2b576d63607dbc63c383fb8ef43aad64fda7c8957ff9bc0391"
+      "bytes": 92801,
+      "sha256": "bfbbbc5bd137b12881c470c2c9257bae30c9631815f5efac845abb063274512f"
     },
     {
       "path": "logs/README.vi.md",
@@ -1970,6 +2270,46 @@
       "path": "masters/bongos.png",
       "bytes": 555840,
       "sha256": "70a94ee315057291185d89635fa76b6585b195336b3e09b445414a3698846dfe"
+    },
+    {
+      "path": "masters/bookbinding-bone-folder.png",
+      "bytes": 393235,
+      "sha256": "df527909bf69ed9353dc0af88f75aa7f2a65627f1f3e91f6a6078c56ff590149"
+    },
+    {
+      "path": "masters/bookbinding-cloth-roll.png",
+      "bytes": 978612,
+      "sha256": "1c64499abbf194b7962243b0b3010ce17d47106f9d6d37fbc57a7eceef64bfad"
+    },
+    {
+      "path": "masters/bookbinding-glue-pot.png",
+      "bytes": 900531,
+      "sha256": "a2928e0e37855aed323f1db572c9c6a6ff1b6c4a677cab18c6cd7fa744372c6d"
+    },
+    {
+      "path": "masters/bookbinding-handbound-journal.png",
+      "bytes": 952235,
+      "sha256": "ecbc7ea3fa21b15c33a884337d4da12d80357acb0fdcaf74f3095850e7459e12"
+    },
+    {
+      "path": "masters/bookbinding-linen-thread.png",
+      "bytes": 929005,
+      "sha256": "2637009de7effc961cfd1c8d6eb48c85236a5f592c80ccd62cc8472feb95eb97"
+    },
+    {
+      "path": "masters/bookbinding-press.png",
+      "bytes": 1085449,
+      "sha256": "7e4fe4fe1217d683aa3003afd6b228d037f292d718e239b4accf205097962322"
+    },
+    {
+      "path": "masters/bookbinding-sewing-frame.png",
+      "bytes": 1095093,
+      "sha256": "1c065b0d040f034cbb374a0fa420572b0e10889b03f949a64d22fe7c7ebb143c"
+    },
+    {
+      "path": "masters/bookbinding-signatures.png",
+      "bytes": 968509,
+      "sha256": "63f79703585673cac54c4b69edc8874f7ed20a56d9de99103fa22c944df8335d"
     },
     {
       "path": "masters/brain-coral.png",
@@ -2082,6 +2422,46 @@
       "sha256": "56b234e0846f08f1d8420be69b7aabd2a569decb76d0bddc831bfb3dd1049c03"
     },
     {
+      "path": "masters/clockmaking-gear-train.png",
+      "bytes": 1294751,
+      "sha256": "98060ac012efc3a795fea44b348dc71e7db874263e7f4e267c0c81963cec6a4e"
+    },
+    {
+      "path": "masters/clockmaking-key.png",
+      "bytes": 749268,
+      "sha256": "a06973f89292f797c623d584d9ec01c4baf861078f48816580fdaa679ef4bac1"
+    },
+    {
+      "path": "masters/clockmaking-loupe.png",
+      "bytes": 718688,
+      "sha256": "72b5f32a11e420af0b30efeacf8f3dd3a7c4a653036e7bd39ac744549a42ecfb"
+    },
+    {
+      "path": "masters/clockmaking-mainspring.png",
+      "bytes": 993528,
+      "sha256": "6bf9546581a46ea1f9efac827b096e19a5cf58b91f5fa98a6dd6cf1187813d30"
+    },
+    {
+      "path": "masters/clockmaking-movement-holder.png",
+      "bytes": 1180554,
+      "sha256": "538c2794a87ebbf542947225dc75298ba5c91a573c94d6da3e216a89b013fbd4"
+    },
+    {
+      "path": "masters/clockmaking-oiler.png",
+      "bytes": 382784,
+      "sha256": "e76d336e69570dab3e0247529a4c7531fd5946f6c86ef11ef795b78b3e46e57d"
+    },
+    {
+      "path": "masters/clockmaking-pendulum.png",
+      "bytes": 351268,
+      "sha256": "cd74ff2d36d9b1a211592440471e312bb0cd9978e5735390f352eda61fa860c0"
+    },
+    {
+      "path": "masters/clockmaking-pocket-watch.png",
+      "bytes": 1030042,
+      "sha256": "311bc255a850e3b16fd08f37b3ec5490783321929d49d4974ace7324db780b72"
+    },
+    {
       "path": "masters/closed-jar-terrarium.png",
       "bytes": 2514922,
       "sha256": "b48ca172cd51a4af3b92e02adbb0a05b61b47faef6eea1db2862f57960642844"
@@ -2115,6 +2495,46 @@
       "path": "masters/coral-nursery-tree.png",
       "bytes": 1034418,
       "sha256": "b97bdb3e145e75c6fd86189ad20620445e3719ebcca51130abd2ed3045bf54e1"
+    },
+    {
+      "path": "masters/detective-evidence-envelope.png",
+      "bytes": 928741,
+      "sha256": "6273d1b94367ec5bc3349b1646ebe4ddf328bc76c9ef7615e0648230a869c90f"
+    },
+    {
+      "path": "masters/detective-evidence-marker.png",
+      "bytes": 524986,
+      "sha256": "157ebe4ebca4b33c1400cc07ae4f66aae0b1c3aec6f98463a4959770eaf2ba7a"
+    },
+    {
+      "path": "masters/detective-fingerprint-card.png",
+      "bytes": 971496,
+      "sha256": "8ac526de32d8dc0a8eaf108d6a248f0365e402457b0e35abca742389599ce68e"
+    },
+    {
+      "path": "masters/detective-fingerprint-kit.png",
+      "bytes": 1118135,
+      "sha256": "50f46c2834d28f83a3fc62bb53943f608309b6189f43d54634b91baf94490829"
+    },
+    {
+      "path": "masters/detective-footprint-cast.png",
+      "bytes": 930906,
+      "sha256": "cf9083535ec5dc9954b213b32dbadf84c9f102baa637f52b8dd21f0b7367d04d"
+    },
+    {
+      "path": "masters/detective-magnifier.png",
+      "bytes": 736231,
+      "sha256": "13bfa482607fdec6d4e6cff90e52cd0eb90e28190a7f9eed98e07520e6f6e3c2"
+    },
+    {
+      "path": "masters/detective-notebook.png",
+      "bytes": 790298,
+      "sha256": "9f6e5330102b623fd0309c6aa421496009000f38584ccdfbdd298e0407760a18"
+    },
+    {
+      "path": "masters/detective-trench-coat.png",
+      "bytes": 1004885,
+      "sha256": "53cd5c5dff52f75964a7f31b5112dc4f7c0a150b8fb5b19765f81e533429f300"
     },
     {
       "path": "masters/dive-rashguard.png",
@@ -2255,6 +2675,46 @@
       "path": "masters/glass-thermometer.png",
       "bytes": 507421,
       "sha256": "d324511c6046cc6542ae61921947caba39b1deb81e4da71ffe89c7ebca3a2efb"
+    },
+    {
+      "path": "masters/glassblowing-block.png",
+      "bytes": 630821,
+      "sha256": "316fbf12ac7a3af57d2eae9ec6279f0875db568248057dadd6923b99cd77c4c1"
+    },
+    {
+      "path": "masters/glassblowing-furnace.png",
+      "bytes": 1084759,
+      "sha256": "f05ef6eaedb10c2849f3f3bd699aa785e68f76c8b0bc241c3cf4cb1ddb1f0143"
+    },
+    {
+      "path": "masters/glassblowing-jacks.png",
+      "bytes": 616744,
+      "sha256": "68f53f7623dcdd00a43931d77c994d63af23b7c36c13f0f0ce1f6a1288012c5e"
+    },
+    {
+      "path": "masters/glassblowing-marver.png",
+      "bytes": 830210,
+      "sha256": "cba2b3cabdd70d62fa87e1cc3c11d0881d4a500d12a05dfba61c6b28a121a067"
+    },
+    {
+      "path": "masters/glassblowing-paperweight.png",
+      "bytes": 862847,
+      "sha256": "62b419b59511d3ce1e5531786127d969af46e1d422ebe5e9bc33dac770b2ecf0"
+    },
+    {
+      "path": "masters/glassblowing-pipe.png",
+      "bytes": 373090,
+      "sha256": "b03c29b24254454106bdc4c1166c4bb4257592e3ace2670481f0f68e68f52f21"
+    },
+    {
+      "path": "masters/glassblowing-shears.png",
+      "bytes": 789015,
+      "sha256": "35ed37c39e8d7bc1a185aedb7ed97ad0f0cf8ac5512c4c8a725bc72de97791ba"
+    },
+    {
+      "path": "masters/glassblowing-vase.png",
+      "bytes": 734097,
+      "sha256": "21bfa04fba5d3d90de9586cfa7b3e9b5b24674a57864c20308938c90bb754d24"
     },
     {
       "path": "masters/glazing-brush.png",
@@ -2430,6 +2890,46 @@
       "path": "masters/leaf-insect.png",
       "bytes": 978284,
       "sha256": "4b089681ecc6196c79f4617ab0c725f56a44355c9880a93b7f509f53111448ac"
+    },
+    {
+      "path": "masters/leathercraft-awl.png",
+      "bytes": 423772,
+      "sha256": "9694c4a64eb88ef6115cf1be0c310bbaa752cde83366bc61b331ecb80f497b93"
+    },
+    {
+      "path": "masters/leathercraft-belt-buckle.png",
+      "bytes": 815825,
+      "sha256": "6590c04a23c272dd397fabef379e98de66c9eefbf14da43e2de7fe71123d840d"
+    },
+    {
+      "path": "masters/leathercraft-edge-beveler.png",
+      "bytes": 485782,
+      "sha256": "11cac331d6a1284ce857ac3b22cdebce5dd6f08b4992b1b98c70abfe9151b9e3"
+    },
+    {
+      "path": "masters/leathercraft-hide-roll.png",
+      "bytes": 891948,
+      "sha256": "528a0f290f613cd581adaa6f9e76794f2be781b7678a2c8a68f558db9b236e6b"
+    },
+    {
+      "path": "masters/leathercraft-mallet.png",
+      "bytes": 508478,
+      "sha256": "7e3ff2eccab996cfde601606d279cfe378003b561909698289d49bd53f261068"
+    },
+    {
+      "path": "masters/leathercraft-pricking-iron.png",
+      "bytes": 562599,
+      "sha256": "ea3940f8c6ed1f7f162bb9e09ed5d75925e28febd6bbbe0516c3d48cfd4206d2"
+    },
+    {
+      "path": "masters/leathercraft-saddle-stitch.png",
+      "bytes": 922321,
+      "sha256": "b3ba1356c25984d98068be3370f48b4f3dca45d785f58ab642f34d974d4757ec"
+    },
+    {
+      "path": "masters/leathercraft-stitching-pony.png",
+      "bytes": 730651,
+      "sha256": "cc12e3296316956270a91dda5f45d7a41fd72a31a4c8ef84f348a86fc6da3b87"
     },
     {
       "path": "masters/lions-mane-mushroom.png",
@@ -2762,6 +3262,46 @@
       "sha256": "2070e3817d591f3bea5328fa8287ffec6e610aa9635c8bad04427937c6f37362"
     },
     {
+      "path": "masters/printmaking-baren.png",
+      "bytes": 857856,
+      "sha256": "1f276e1f9e2e3c7313530003b7affb6130eae9cc062f4e5c09eef69a58cfd553"
+    },
+    {
+      "path": "masters/printmaking-brayer.png",
+      "bytes": 541637,
+      "sha256": "3357b744558565e2cece7e01a4f8dcc5e854f6b251b0ed780d39e828ecd1d483"
+    },
+    {
+      "path": "masters/printmaking-gouge.png",
+      "bytes": 397522,
+      "sha256": "6bea2e277e6ac91c342512d5e8b01d862bd1186aec633d609f541ac0824a2616"
+    },
+    {
+      "path": "masters/printmaking-ink-slab.png",
+      "bytes": 729932,
+      "sha256": "d71faa50577047936d7ae8a83e1b674078cf5e918f8d57353166bd88ad06dbc7"
+    },
+    {
+      "path": "masters/printmaking-ink-tube.png",
+      "bytes": 556531,
+      "sha256": "148365ba63a905568537cb88014205b37f26cf383fc70f60ba3a277a6cdc26b9"
+    },
+    {
+      "path": "masters/printmaking-leaf-print.png",
+      "bytes": 1040895,
+      "sha256": "73a44328c17ee142bdd1625bf4803e236054070d7f87f4c0361f51a9ad59ed6e"
+    },
+    {
+      "path": "masters/printmaking-lino-block.png",
+      "bytes": 812079,
+      "sha256": "7e593f88b761776999f152547308f9ceb6038e42ecf192675f50d9cddd314475"
+    },
+    {
+      "path": "masters/printmaking-press.png",
+      "bytes": 977634,
+      "sha256": "b4ba0bdfebc9ccf5075bbe7a174f1d1917363114b5dd6c86235bb4791577b7ac"
+    },
+    {
       "path": "masters/proscenium-stage-model.png",
       "bytes": 1958673,
       "sha256": "d6ca2ac9b62a3c9f8c223e7677f488838a18715e3340e960e396df083d4924fb"
@@ -2875,6 +3415,26 @@
       "path": "masters/sewing-zipper.png",
       "bytes": 2234279,
       "sha256": "bd400d712c2587c45abf9f3883ed2308c6abf293893df335bcb8d2a975f2e142"
+    },
+    {
+      "path": "masters/shipwreck-air-tank.png",
+      "bytes": 854325,
+      "sha256": "efd3ec8e8b0af9e8a0b291f31a6d9d2223de577c0f90079f11ce5fda88de9199"
+    },
+    {
+      "path": "masters/shipwreck-diving-helmet.png",
+      "bytes": 1337787,
+      "sha256": "ac380307e0d72c98bc93f19389809c14209583aacf18a2743768acf42a984f61"
+    },
+    {
+      "path": "masters/shipwreck-porthole.png",
+      "bytes": 1385440,
+      "sha256": "e1b04799d8bce8c9f059fdbb404ed685a59ceaf24391987e478274a438aae7ab"
+    },
+    {
+      "path": "masters/shipwreck-rusted-anchor.png",
+      "bytes": 1232525,
+      "sha256": "33fc2dd8f62ca39b3690144cab1b8cbacabc0b0883aaa30cfc07aad38b262b7e"
     },
     {
       "path": "masters/snare-drum.png",
@@ -3215,6 +3775,46 @@
       "path": "masters/weather-windsock.png",
       "bytes": 667402,
       "sha256": "f789904da0ec84ed654dfef1ffc7e9a2e625ef6b3ddad1368dc9f213bd1fa76a"
+    },
+    {
+      "path": "masters/weaving-beater-comb.png",
+      "bytes": 840720,
+      "sha256": "f57dfd1a6a7c8887dce6fd9038843d5c0ced1b68b54978d3b85ad6d8ff7b3330"
+    },
+    {
+      "path": "masters/weaving-drop-spindle.png",
+      "bytes": 677321,
+      "sha256": "5be15f059e6d7748cf864c28efb91fbd0f7b45967f2abc22ea72b3a9562c87ce"
+    },
+    {
+      "path": "masters/weaving-heddle.png",
+      "bytes": 663509,
+      "sha256": "765330b75dfd39b56d9d562a63ee0e7a14b0098154c0b08693734d62fcedc267"
+    },
+    {
+      "path": "masters/weaving-shuttle.png",
+      "bytes": 658450,
+      "sha256": "8721d23228ee479106cf0aae721c1fda1e0b53b43154c3c46545b1c6e7f80fcd"
+    },
+    {
+      "path": "masters/weaving-table-loom.png",
+      "bytes": 1093095,
+      "sha256": "aa2d883826113ce94ef62b2b291e6f33a5afb01e50ad70d35de8fb9d9073f8da"
+    },
+    {
+      "path": "masters/weaving-tapestry.png",
+      "bytes": 924615,
+      "sha256": "59a1c36c5db3d3b14ebb6b6446794893419f9408b2fc9d4e1345206dc8110999"
+    },
+    {
+      "path": "masters/weaving-warping-board.png",
+      "bytes": 928680,
+      "sha256": "110de0f992b5da8e163959791cda09d49caa8d9e30c0bebc436d891736c76ec5"
+    },
+    {
+      "path": "masters/weaving-yarn-cones.png",
+      "bytes": 1137265,
+      "sha256": "ee9d6b43eb6bfb83378299ebe7285ba8c3567c19834af52dc77c66e546d6ff79"
     },
     {
       "path": "masters/wet-clay-lump.png",
@@ -5328,8 +5928,8 @@
     },
     {
       "path": "qa/alpha-padding-audit.json",
-      "bytes": 106874,
-      "sha256": "1122b85731e671fef9f921c60d8013843e10d43c660259afae2caa601180b055"
+      "bytes": 130218,
+      "sha256": "50bee76709e356ea8c7376f17c3792b0f1fd31a871803516b16b03b23c52697c"
     },
     {
       "path": "qa/alpha-pilot-20260917/before-dark.png",
@@ -5840,6 +6440,31 @@
       "path": "qa/batch-20260918/vineyard-uuid-map.png",
       "bytes": 215678,
       "sha256": "64fd95f4757b03c5ea3870d4ec8d0e1c7486e84421a4cbf7f09780f7c31ce41f"
+    },
+    {
+      "path": "qa/bookbinding-first4-dark.png",
+      "bytes": 537244,
+      "sha256": "60103af3865aa932eb0ddb6e0979722cb78c68f8a62cf0126e5bb7fc0a3f9e1d"
+    },
+    {
+      "path": "qa/bookbinding-glue-pot-v1-raw-dark.png",
+      "bytes": 850032,
+      "sha256": "87b9485d616833396726ba10232c29d166640dc8d0900c21a25a97b6d2c9f32d"
+    },
+    {
+      "path": "qa/bookbinding-last4-dark.png",
+      "bytes": 575983,
+      "sha256": "ff485faf47c9badf916ecd92fa0b7b657e8397feff33945f79b9641cd4524f95"
+    },
+    {
+      "path": "qa/bookbinding-press-v1-grid.png",
+      "bytes": 966389,
+      "sha256": "6ba6d9e3d7417104768d6218fc5376b3c6870c5da42b0a8e211664d9d80f43ac"
+    },
+    {
+      "path": "qa/bookbinding-sewing-frame-v1-grid.png",
+      "bytes": 975889,
+      "sha256": "f2f3fb6ac40c38d0a521abf5f060282508184bd28e8ddd99f539d99afba697ef"
     },
     {
       "path": "qa/border-alpha-20260917/aeonium-pot.json",
@@ -6897,6 +7522,46 @@
       "sha256": "99f4f72fea222c8eb71b8019397e6aec06a6943a3e8f094374de69fd4113ba74"
     },
     {
+      "path": "qa/clockmaking-first4-dark.png",
+      "bytes": 571054,
+      "sha256": "c46b36fafa75964d75b5d335989ffdeebf869d88690d4d9ec7e49caa3d5b329c"
+    },
+    {
+      "path": "qa/clockmaking-last4-dark.png",
+      "bytes": 459912,
+      "sha256": "adfcd0e9ccfc81215f3bfb0e3772c59c2c7b2b9bab92a75a4d808b69ae8e47ce"
+    },
+    {
+      "path": "qa/clockmaking-last4-raw-check.png",
+      "bytes": 407005,
+      "sha256": "70515ee200b2eb6771689aaea47be9beb64971420ee3327c695362e76b09b153"
+    },
+    {
+      "path": "qa/detective-first4-dark.png",
+      "bytes": 586199,
+      "sha256": "1b0d084949090fccc68608844fdcbf12c68ee7eb06fc434a3cab942f199a6ed2"
+    },
+    {
+      "path": "qa/detective-last4-dark.png",
+      "bytes": 380543,
+      "sha256": "70e082be23f15090e974afa51730359eaa31ed7e522f8b847cf02ec38da15102"
+    },
+    {
+      "path": "qa/printmaking-first4-dark.png",
+      "bytes": 376719,
+      "sha256": "e790e0a7859fe55d34d3e55359f34561b01f8dcec6c740e5dd88b7cc582ba69e"
+    },
+    {
+      "path": "qa/printmaking-ink-slab-v2-raw-dark.png",
+      "bytes": 695649,
+      "sha256": "c1fcef49457b3d1f95eecc4a0e45356a4d996fac1768f78189381d35dcc8a8f6"
+    },
+    {
+      "path": "qa/printmaking-last4-dark.png",
+      "bytes": 480922,
+      "sha256": "9453534c1915e8a4f9912326eba74fb710903f68c74142765d31420f6d1d9a99"
+    },
+    {
       "path": "qa/rework-20260917/alpha-review-dark-1.png",
       "bytes": 831821,
       "sha256": "1d251029dc525d778e7b96237f7117e2b4d7ef659574e7205282a9b4272639a8"
@@ -7037,9 +7702,39 @@
       "sha256": "2b145eb2db58726c0406a0add32c07c15553c136e55fafce65f6dc7247888771"
     },
     {
+      "path": "qa/shipwreck-first4-dark.png",
+      "bytes": 724166,
+      "sha256": "d1f3963c07fc852795ceec59f073f9b08dd0654d326f557a631587dd32e04660"
+    },
+    {
       "path": "qa/visual-qa.json",
-      "bytes": 14108,
-      "sha256": "07dd90602502b0e17be06264f9dbd6d2307d3e1ffad19e2a66e189d10720f7a1"
+      "bytes": 22764,
+      "sha256": "03ecfe75491cbebc60f20e6274534823fa2cb98e96ccf15d4072a957c8b0e177"
+    },
+    {
+      "path": "qa/weaving-beater-comb-v2-alpha-dark.png",
+      "bytes": 716267,
+      "sha256": "b48e2ff0054a6a1909abe1e389590aaaafb06a2dea21898862294d0d0010eb0a"
+    },
+    {
+      "path": "qa/weaving-drop-spindle-v2-alpha-dark.png",
+      "bytes": 557601,
+      "sha256": "331700e3f97900d5438f9bc0dcbb57b2ec7f8be88acd9af2d9fe0e05f47c079e"
+    },
+    {
+      "path": "qa/weaving-table-loom-v2-boxes-dark.png",
+      "bytes": 920475,
+      "sha256": "9525fe13eb68d385bd40c1036e09503597fc34e6c0fd857d04d6dbb3b4b6809d"
+    },
+    {
+      "path": "qa/weaving-table-loom-v2-final-dark.png",
+      "bytes": 924893,
+      "sha256": "c038158b820d47a4b5dee33fe0f7c5116e792876d2894ac6a0533009650fcb0b"
+    },
+    {
+      "path": "qa/weaving-tapestry-v3-dark.png",
+      "bytes": 776411,
+      "sha256": "94b73f30e045f95629e1b2ac9f232ab35685b23804c076497cfea56f3cf0fe46"
     },
     {
       "path": "README.md",
@@ -20197,6 +20892,791 @@
       "sha256": "feae70f369fc6e865b9b91e6c072be34672e2d8df4760988dc09e7e293679e3e"
     },
     {
+      "path": "revisions/generation-20260921/glassblowing-block-v1.png",
+      "bytes": 873308,
+      "sha256": "dab96148c6de2e4cc76facc5fe326e8db3b5c6952c498e1147c26dd40b13084a"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-block-v2.png",
+      "bytes": 630821,
+      "sha256": "316fbf12ac7a3af57d2eae9ec6279f0875db568248057dadd6923b99cd77c4c1"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-furnace-v1.png",
+      "bytes": 1135391,
+      "sha256": "b201ea9775c152161c9695ad220f30545c016518bdf0e2c5bfd8bb6563631d7a"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-furnace-v2.png",
+      "bytes": 1084759,
+      "sha256": "f05ef6eaedb10c2849f3f3bd699aa785e68f76c8b0bc241c3cf4cb1ddb1f0143"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-jacks-v1.png",
+      "bytes": 726803,
+      "sha256": "6176007cb9c558e14e653f7a41a3a48dec580b31d53646a5736c9b78cabe5471"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-jacks-v2-alpha.png",
+      "bytes": 600402,
+      "sha256": "47e55c1e185318330aebfff34d0184519bf2d4fd2f91bf24b0495c0f43569377"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-jacks-v2.png",
+      "bytes": 624650,
+      "sha256": "65dce4e4ab4ab70c434815e1bd824722409712ad3d6094f07c36929181cd4131"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-jacks-v3-alpha.png",
+      "bytes": 616744,
+      "sha256": "68f53f7623dcdd00a43931d77c994d63af23b7c36c13f0f0ce1f6a1288012c5e"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-jacks-v3.png",
+      "bytes": 641164,
+      "sha256": "e9b98e4e841a90549133df9078569be034de5894dd47b3e53c1b09c8093102f5"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-marver-v1.png",
+      "bytes": 1118659,
+      "sha256": "52b7d1a285816f3e39ead2119ab7ee0bd4a110c59c30a6c2a587364ee52a5272"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-marver-v2-alpha.png",
+      "bytes": 867469,
+      "sha256": "b046b2cedac73ffe4b9ac0331ab5db6b39edb320921a1440708b444ef77624ba"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-marver-v2.png",
+      "bytes": 888844,
+      "sha256": "047c13392ac1cd970103ff46a9e881c6d2b61906960955d4ea532b0ce1fd9a63"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-marver-v3-alpha.png",
+      "bytes": 830210,
+      "sha256": "cba2b3cabdd70d62fa87e1cc3c11d0881d4a500d12a05dfba61c6b28a121a067"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-marver-v3.png",
+      "bytes": 855190,
+      "sha256": "29d11c3a92f0a8b39ad2fdf62a37b7734443ee22c2c450105516c439143bdab0"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-paperweight-v1.png",
+      "bytes": 862847,
+      "sha256": "62b419b59511d3ce1e5531786127d969af46e1d422ebe5e9bc33dac770b2ecf0"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-pipe-v1.png",
+      "bytes": 455766,
+      "sha256": "971550298090abd012ad3a2e0c0856c530683e378c6ed6870757404e74016cf2"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-shears-v1.png",
+      "bytes": 820597,
+      "sha256": "5510bf1775bc2bb3559566e1a8affb58f8c7162357e9d6318086c4c56729fd5d"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-shears-v2-alpha.png",
+      "bytes": 828125,
+      "sha256": "89d8b8a9930ba85bfc7479bc179dbb091e8c61bebe904abe2dd210c5cbe3e2de"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-shears-v2.png",
+      "bytes": 868342,
+      "sha256": "821544693194962ef239404e1739e06654b60a920a12b1950ca69a6a01f82137"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-shears-v3.png",
+      "bytes": 789015,
+      "sha256": "35ed37c39e8d7bc1a185aedb7ed97ad0f0cf8ac5512c4c8a725bc72de97791ba"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-vase-v1.png",
+      "bytes": 826711,
+      "sha256": "0e641aece00dbb53b87ac32df552821da7c8f318a02f807224a622a3b8a59096"
+    },
+    {
+      "path": "revisions/generation-20260921/glassblowing-vase-v2.png",
+      "bytes": 734097,
+      "sha256": "21bfa04fba5d3d90de9586cfa7b3e9b5b24674a57864c20308938c90bb754d24"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-awl-v1.png",
+      "bytes": 509823,
+      "sha256": "7d087cfbe3c54ab8bab242131e6325de14c31e31cd0190d094e3216b218481d7"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-awl-v2.png",
+      "bytes": 423772,
+      "sha256": "9694c4a64eb88ef6115cf1be0c310bbaa752cde83366bc61b331ecb80f497b93"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-belt-buckle-v1.png",
+      "bytes": 1024058,
+      "sha256": "c546342bc609602380cec818da2bdbcc829808bbdce2614beff257c4b26d93d1"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-belt-buckle-v2-alpha.png",
+      "bytes": 815825,
+      "sha256": "6590c04a23c272dd397fabef379e98de66c9eefbf14da43e2de7fe71123d840d"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-belt-buckle-v2.png",
+      "bytes": 838015,
+      "sha256": "9f26ed11483008bb40353faa89e6884ce8e5ce6e21513fd7173233a269a715e8"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-edge-beveler-v1.png",
+      "bytes": 623880,
+      "sha256": "189fcc376e79f5cc0497b681fb6da4863be2695d3227fe755586582803207855"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-edge-beveler-v2.png",
+      "bytes": 659671,
+      "sha256": "2ee5f8f0fa44a7214526fda31b9d3c1eaa771634c01c32d954dc5ae46aff10c3"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-edge-beveler-v3-alpha.png",
+      "bytes": 485782,
+      "sha256": "11cac331d6a1284ce857ac3b22cdebce5dd6f08b4992b1b98c70abfe9151b9e3"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-edge-beveler-v3.png",
+      "bytes": 500247,
+      "sha256": "165603b9118b5cccbf0400725d6db879bf76eacd888d225a6c578f85702ff2e8"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-hide-roll-v1.png",
+      "bytes": 1043630,
+      "sha256": "efe18b2166149d61cbb17776b85306ba2b5b345bec455360e761ea819b837aa9"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-hide-roll-v2-alpha.png",
+      "bytes": 891948,
+      "sha256": "528a0f290f613cd581adaa6f9e76794f2be781b7678a2c8a68f558db9b236e6b"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-hide-roll-v2.png",
+      "bytes": 906232,
+      "sha256": "3a9cf6e08b3d71764a4b5c760dbd3e85abc9b4994c0b6282f0e226662eda52e9"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-mallet-v1.png",
+      "bytes": 877921,
+      "sha256": "bc3658b73eba30b2024d76a552d3b060761d5c2853db7dabfdace888f8edb728"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-mallet-v2-alpha.png",
+      "bytes": 508478,
+      "sha256": "7e3ff2eccab996cfde601606d279cfe378003b561909698289d49bd53f261068"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-mallet-v2.png",
+      "bytes": 524876,
+      "sha256": "3fa427a32487d6ab7549f4ca4a5057fe6563a06a95bc02e01d8731fb753030f2"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-pricking-iron-v1.png",
+      "bytes": 740460,
+      "sha256": "e1b39306dad4a759abee9950419d8e39a753810089ea00b4517dae5ecaad6d92"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-pricking-iron-v2.png",
+      "bytes": 695937,
+      "sha256": "792ac6dadd82d56d52c8e118a867b4038e6a5d554811ac927eb92cb981d6ea78"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-pricking-iron-v3.png",
+      "bytes": 562599,
+      "sha256": "ea3940f8c6ed1f7f162bb9e09ed5d75925e28febd6bbbe0516c3d48cfd4206d2"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-saddle-stitch-v1.png",
+      "bytes": 1037820,
+      "sha256": "8b9bbe73ae00637e9feb6b3c9df3161ce9dc2b5b97f75482abf7eb7822b87a65"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-saddle-stitch-v2-alpha.png",
+      "bytes": 922321,
+      "sha256": "b3ba1356c25984d98068be3370f48b4f3dca45d785f58ab642f34d974d4757ec"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-saddle-stitch-v2.png",
+      "bytes": 951981,
+      "sha256": "18f5d06c886d5cd06a107dc37520a024ac3c1e73dbdbbcd6fa9553caad1c544d"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-stitching-pony-v1.png",
+      "bytes": 914766,
+      "sha256": "2a328e9982c2d7d2771b7ee241e970cb2a6f77031b12d276be26459e57729420"
+    },
+    {
+      "path": "revisions/generation-20260921/leathercraft-stitching-pony-v2.png",
+      "bytes": 730651,
+      "sha256": "cc12e3296316956270a91dda5f45d7a41fd72a31a4c8ef84f348a86fc6da3b87"
+    },
+    {
+      "path": "revisions/generation-20260921-bookbinding/bookbinding-bone-folder-v1-alpha.png",
+      "bytes": 393235,
+      "sha256": "df527909bf69ed9353dc0af88f75aa7f2a65627f1f3e91f6a6078c56ff590149"
+    },
+    {
+      "path": "revisions/generation-20260921-bookbinding/bookbinding-bone-folder-v1.png",
+      "bytes": 423490,
+      "sha256": "61936114c95d9e369caa9a5b361e60010eafa9f42de693f56e79a461570ba1b2"
+    },
+    {
+      "path": "revisions/generation-20260921-bookbinding/bookbinding-cloth-roll-v1-alpha.png",
+      "bytes": 978612,
+      "sha256": "1c64499abbf194b7962243b0b3010ce17d47106f9d6d37fbc57a7eceef64bfad"
+    },
+    {
+      "path": "revisions/generation-20260921-bookbinding/bookbinding-cloth-roll-v1.png",
+      "bytes": 995605,
+      "sha256": "e76dec8f5724537b944b2c26cca56dfe33a2ddd000ccf9a21584214651da29ce"
+    },
+    {
+      "path": "revisions/generation-20260921-bookbinding/bookbinding-glue-pot-v1-alpha.png",
+      "bytes": 869456,
+      "sha256": "2b839d43547aa30ee6afa3828e9782a069337e81fe905828ca9ac6244edd0764"
+    },
+    {
+      "path": "revisions/generation-20260921-bookbinding/bookbinding-glue-pot-v1.png",
+      "bytes": 900531,
+      "sha256": "a2928e0e37855aed323f1db572c9c6a6ff1b6c4a677cab18c6cd7fa744372c6d"
+    },
+    {
+      "path": "revisions/generation-20260921-bookbinding/bookbinding-handbound-journal-v1-alpha.png",
+      "bytes": 952235,
+      "sha256": "ecbc7ea3fa21b15c33a884337d4da12d80357acb0fdcaf74f3095850e7459e12"
+    },
+    {
+      "path": "revisions/generation-20260921-bookbinding/bookbinding-handbound-journal-v1.png",
+      "bytes": 986891,
+      "sha256": "0c88cffb40600429a4cba72ec8715bd490bda3672be77ba70a53a356845726c7"
+    },
+    {
+      "path": "revisions/generation-20260921-bookbinding/bookbinding-linen-thread-v1-alpha.png",
+      "bytes": 929005,
+      "sha256": "2637009de7effc961cfd1c8d6eb48c85236a5f592c80ccd62cc8472feb95eb97"
+    },
+    {
+      "path": "revisions/generation-20260921-bookbinding/bookbinding-linen-thread-v1.png",
+      "bytes": 960988,
+      "sha256": "7418edc1c56ba062b8074d37582aa5ac87722f7ae4c6d6c25aa0710956fac556"
+    },
+    {
+      "path": "revisions/generation-20260921-bookbinding/bookbinding-press-v1-alpha.png",
+      "bytes": 1085449,
+      "sha256": "7e4fe4fe1217d683aa3003afd6b228d037f292d718e239b4accf205097962322"
+    },
+    {
+      "path": "revisions/generation-20260921-bookbinding/bookbinding-press-v1.png",
+      "bytes": 1129379,
+      "sha256": "845cf36940f5a550dc79e7edd617e45d3aae2cf22ab166bb9e8ef93fa6dbe5d8"
+    },
+    {
+      "path": "revisions/generation-20260921-bookbinding/bookbinding-sewing-frame-v1-alpha.png",
+      "bytes": 1095093,
+      "sha256": "1c065b0d040f034cbb374a0fa420572b0e10889b03f949a64d22fe7c7ebb143c"
+    },
+    {
+      "path": "revisions/generation-20260921-bookbinding/bookbinding-sewing-frame-v1.png",
+      "bytes": 1134853,
+      "sha256": "933c07c7f0f201967b1c0d6daecba9d40ad12e1808f3a8f5af2855817270435e"
+    },
+    {
+      "path": "revisions/generation-20260921-bookbinding/bookbinding-signatures-v1-alpha.png",
+      "bytes": 968509,
+      "sha256": "63f79703585673cac54c4b69edc8874f7ed20a56d9de99103fa22c944df8335d"
+    },
+    {
+      "path": "revisions/generation-20260921-bookbinding/bookbinding-signatures-v1.png",
+      "bytes": 1009982,
+      "sha256": "327528053fd2948dd796f2dd31cbc8c7718691a0c6f7ab846b3abd51cee74e08"
+    },
+    {
+      "path": "revisions/generation-20260921-clockmaking/clockmaking-gear-train-v1-alpha.png",
+      "bytes": 1294751,
+      "sha256": "98060ac012efc3a795fea44b348dc71e7db874263e7f4e267c0c81963cec6a4e"
+    },
+    {
+      "path": "revisions/generation-20260921-clockmaking/clockmaking-gear-train-v1.png",
+      "bytes": 1321176,
+      "sha256": "8243cbc5ab9d08e9ad0ccf981b937b5037f7dd2e7657850f56af69e71a9570dd"
+    },
+    {
+      "path": "revisions/generation-20260921-clockmaking/clockmaking-key-v1-alpha.png",
+      "bytes": 749268,
+      "sha256": "a06973f89292f797c623d584d9ec01c4baf861078f48816580fdaa679ef4bac1"
+    },
+    {
+      "path": "revisions/generation-20260921-clockmaking/clockmaking-key-v1.png",
+      "bytes": 785877,
+      "sha256": "b4c310fe46f86b11b50245c1dc3b6de138e8e2549290d4e3d660f1e9587fb978"
+    },
+    {
+      "path": "revisions/generation-20260921-clockmaking/clockmaking-loupe-v1-alpha.png",
+      "bytes": 687608,
+      "sha256": "4d22e89affe0b1b5bad155e7ea426f18c8039429a2ab4987bc9e33a0b72d9183"
+    },
+    {
+      "path": "revisions/generation-20260921-clockmaking/clockmaking-loupe-v1.png",
+      "bytes": 718688,
+      "sha256": "72b5f32a11e420af0b30efeacf8f3dd3a7c4a653036e7bd39ac744549a42ecfb"
+    },
+    {
+      "path": "revisions/generation-20260921-clockmaking/clockmaking-mainspring-v1-alpha.png",
+      "bytes": 993528,
+      "sha256": "6bf9546581a46ea1f9efac827b096e19a5cf58b91f5fa98a6dd6cf1187813d30"
+    },
+    {
+      "path": "revisions/generation-20260921-clockmaking/clockmaking-mainspring-v1.png",
+      "bytes": 1024047,
+      "sha256": "5e8bb008fcde62cea885a2ebb90f1abf7e4f93970715cd5b1c422d5c6d819084"
+    },
+    {
+      "path": "revisions/generation-20260921-clockmaking/clockmaking-movement-holder-v1-alpha.png",
+      "bytes": 1139101,
+      "sha256": "e43a5985b6450b9f874732ad00e37f4ddb2a9debec1b87f65f5c704df37d3e59"
+    },
+    {
+      "path": "revisions/generation-20260921-clockmaking/clockmaking-movement-holder-v1.png",
+      "bytes": 1180554,
+      "sha256": "538c2794a87ebbf542947225dc75298ba5c91a573c94d6da3e216a89b013fbd4"
+    },
+    {
+      "path": "revisions/generation-20260921-clockmaking/clockmaking-oiler-v1-alpha.png",
+      "bytes": 382784,
+      "sha256": "e76d336e69570dab3e0247529a4c7531fd5946f6c86ef11ef795b78b3e46e57d"
+    },
+    {
+      "path": "revisions/generation-20260921-clockmaking/clockmaking-oiler-v1.png",
+      "bytes": 407791,
+      "sha256": "d341b8da48ab93db0002cd7864b6f00f7b6f917d66d4bfa3996e29186abbdf20"
+    },
+    {
+      "path": "revisions/generation-20260921-clockmaking/clockmaking-pendulum-v1-alpha.png",
+      "bytes": 351268,
+      "sha256": "cd74ff2d36d9b1a211592440471e312bb0cd9978e5735390f352eda61fa860c0"
+    },
+    {
+      "path": "revisions/generation-20260921-clockmaking/clockmaking-pendulum-v1.png",
+      "bytes": 370066,
+      "sha256": "0026385e9c5754fd3abd291b8ddffbc32bf708998438be0d5fa4dd9fce4aded3"
+    },
+    {
+      "path": "revisions/generation-20260921-clockmaking/clockmaking-pocket-watch-v1-alpha.png",
+      "bytes": 1030042,
+      "sha256": "311bc255a850e3b16fd08f37b3ec5490783321929d49d4974ace7324db780b72"
+    },
+    {
+      "path": "revisions/generation-20260921-clockmaking/clockmaking-pocket-watch-v1.png",
+      "bytes": 1050759,
+      "sha256": "378e70f2c2210050a7cd682373ca2f9d6ae3356c019400ef179f8c6f18eead70"
+    },
+    {
+      "path": "revisions/generation-20260921-detective-desk/detective-evidence-envelope-v1.png",
+      "bytes": 1062176,
+      "sha256": "5b34574fed8c45035d3064cdd04430a73e9fb7037b736d874692bc0d716fb113"
+    },
+    {
+      "path": "revisions/generation-20260921-detective-desk/detective-evidence-envelope-v2-alpha.png",
+      "bytes": 928741,
+      "sha256": "6273d1b94367ec5bc3349b1646ebe4ddf328bc76c9ef7615e0648230a869c90f"
+    },
+    {
+      "path": "revisions/generation-20260921-detective-desk/detective-evidence-envelope-v2.png",
+      "bytes": 957421,
+      "sha256": "18b83f4d862bed1b3921f05084348c06cbccb4acba059f40652bd2e24e007d96"
+    },
+    {
+      "path": "revisions/generation-20260921-detective-desk/detective-evidence-marker-v1-alpha.png",
+      "bytes": 524986,
+      "sha256": "157ebe4ebca4b33c1400cc07ae4f66aae0b1c3aec6f98463a4959770eaf2ba7a"
+    },
+    {
+      "path": "revisions/generation-20260921-detective-desk/detective-evidence-marker-v1.png",
+      "bytes": 553505,
+      "sha256": "bc86bfa00d9ccdc843f8f06c8fe97d73e7cdc61f60a4b9df014614b2f3168041"
+    },
+    {
+      "path": "revisions/generation-20260921-detective-desk/detective-fingerprint-card-v1-alpha.png",
+      "bytes": 913651,
+      "sha256": "50946c7708c45c588cadccb5a9ec65c8612e533eda28eca696d0d48397fe9f10"
+    },
+    {
+      "path": "revisions/generation-20260921-detective-desk/detective-fingerprint-card-v1.png",
+      "bytes": 971496,
+      "sha256": "8ac526de32d8dc0a8eaf108d6a248f0365e402457b0e35abca742389599ce68e"
+    },
+    {
+      "path": "revisions/generation-20260921-detective-desk/detective-fingerprint-kit-v1-alpha.png",
+      "bytes": 1118135,
+      "sha256": "50f46c2834d28f83a3fc62bb53943f608309b6189f43d54634b91baf94490829"
+    },
+    {
+      "path": "revisions/generation-20260921-detective-desk/detective-fingerprint-kit-v1.png",
+      "bytes": 1160824,
+      "sha256": "8585dd914eecd998d753b597fd802f411ca573a41a6dae38ad3c1b019405fd5f"
+    },
+    {
+      "path": "revisions/generation-20260921-detective-desk/detective-footprint-cast-v1-alpha.png",
+      "bytes": 930906,
+      "sha256": "cf9083535ec5dc9954b213b32dbadf84c9f102baa637f52b8dd21f0b7367d04d"
+    },
+    {
+      "path": "revisions/generation-20260921-detective-desk/detective-footprint-cast-v1.png",
+      "bytes": 971495,
+      "sha256": "1606e007b0ad2f942bcd6e29d5de791c735b1d3565884cc5598b6f7aa461498c"
+    },
+    {
+      "path": "revisions/generation-20260921-detective-desk/detective-magnifier-v1.png",
+      "bytes": 736231,
+      "sha256": "13bfa482607fdec6d4e6cff90e52cd0eb90e28190a7f9eed98e07520e6f6e3c2"
+    },
+    {
+      "path": "revisions/generation-20260921-detective-desk/detective-notebook-v1-alpha.png",
+      "bytes": 790298,
+      "sha256": "9f6e5330102b623fd0309c6aa421496009000f38584ccdfbdd298e0407760a18"
+    },
+    {
+      "path": "revisions/generation-20260921-detective-desk/detective-notebook-v1.png",
+      "bytes": 822329,
+      "sha256": "5856bd0f0255a2f291e1a46694259b1117879831ef299e75322de4b6fc507cca"
+    },
+    {
+      "path": "revisions/generation-20260921-detective-desk/detective-trench-coat-v1-alpha.png",
+      "bytes": 1004885,
+      "sha256": "53cd5c5dff52f75964a7f31b5112dc4f7c0a150b8fb5b19765f81e533429f300"
+    },
+    {
+      "path": "revisions/generation-20260921-detective-desk/detective-trench-coat-v1.png",
+      "bytes": 1041575,
+      "sha256": "92da6ab822f5e4d1003ee46b0e0e3e67ce78fabade221aa329c2cbb011d9093a"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-baren-v1.png",
+      "bytes": 1173300,
+      "sha256": "f924f6623a578c293ffdc2cbb70f5fde52275ea72e784c953f65f1e2940da6dc"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-baren-v2-alpha.png",
+      "bytes": 857856,
+      "sha256": "1f276e1f9e2e3c7313530003b7affb6130eae9cc062f4e5c09eef69a58cfd553"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-baren-v2.png",
+      "bytes": 882284,
+      "sha256": "dce1f7f585cdc36527e4b0e31698ae948a49eb407ab3aa891d7c0b9bf9d86876"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-brayer-v1.png",
+      "bytes": 802858,
+      "sha256": "7d275fd53c8475d0b47db56bf6c9990757a7f6844e15cf23ca6849a82c201037"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-brayer-v2-alpha.png",
+      "bytes": 541637,
+      "sha256": "3357b744558565e2cece7e01a4f8dcc5e854f6b251b0ed780d39e828ecd1d483"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-brayer-v2.png",
+      "bytes": 562266,
+      "sha256": "edeb227553732c1f09642fdd583e46ceb0f09aec7ead0e6e7c42ce4f14edd0dd"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-gouge-v1.png",
+      "bytes": 648619,
+      "sha256": "e2949d69b0b4f512e707c58db6015a8646b666d677a269e4cc28a499d3d748ff"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-gouge-v2-alpha.png",
+      "bytes": 397522,
+      "sha256": "6bea2e277e6ac91c342512d5e8b01d862bd1186aec633d609f541ac0824a2616"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-gouge-v2.png",
+      "bytes": 412487,
+      "sha256": "21ae9a54876e763946bd160335711dd4429cdc76c95e0f25c3baebed01e3a606"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-ink-slab-v1.png",
+      "bytes": 778991,
+      "sha256": "64ec326a6da1f36e748ea3ffaf19a3d015262f8d25c27643b7cac0574a17cf0e"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-ink-slab-v2-alpha.png",
+      "bytes": 686536,
+      "sha256": "2b93b02e50a2f39148f462eb9fc88010f931e962f6d9e77537f0875a23fd31ca"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-ink-slab-v2.png",
+      "bytes": 729932,
+      "sha256": "d71faa50577047936d7ae8a83e1b674078cf5e918f8d57353166bd88ad06dbc7"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-ink-tube-v1.png",
+      "bytes": 695393,
+      "sha256": "d7b4feb03e1945d096db81b98b8e9380e1ba2a2b98334d28a2877b73f9834dc0"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-ink-tube-v2-alpha.png",
+      "bytes": 556531,
+      "sha256": "148365ba63a905568537cb88014205b37f26cf383fc70f60ba3a277a6cdc26b9"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-ink-tube-v2.png",
+      "bytes": 580519,
+      "sha256": "2bed0cbd7f10a1db3cb390ccea7d9e19541af5528f46cb1f94e2bb1f9f2e7cbb"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-leaf-print-v1.png",
+      "bytes": 1092416,
+      "sha256": "3451d6a522c7ff6ae0df50744cbbe978db157e2393d8757fa9932fe3ba11d7cf"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-leaf-print-v2-alpha.png",
+      "bytes": 1040895,
+      "sha256": "73a44328c17ee142bdd1625bf4803e236054070d7f87f4c0361f51a9ad59ed6e"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-leaf-print-v2.png",
+      "bytes": 1061822,
+      "sha256": "cb44abb5bb402028af4f99a53e860dd6c800dbfd02b71e983dc642b3d1026538"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-lino-block-v1.png",
+      "bytes": 1103423,
+      "sha256": "70f2835e844bc913b4388ba5d8ae83ca225d33fd8a0f20f3208058fc7e860eaf"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-lino-block-v2-alpha.png",
+      "bytes": 812079,
+      "sha256": "7e593f88b761776999f152547308f9ceb6038e42ecf192675f50d9cddd314475"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-lino-block-v2.png",
+      "bytes": 825536,
+      "sha256": "6e4191695157a4fd86e0567e97aa0a69abafeafe5d2618a2b0444ffdecd81f47"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-press-v1.png",
+      "bytes": 1169017,
+      "sha256": "3a933a6d38fa856b94e0357683478b44c3f38a5b883405039570c7854a53a388"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-press-v2-alpha.png",
+      "bytes": 977634,
+      "sha256": "b4ba0bdfebc9ccf5075bbe7a174f1d1917363114b5dd6c86235bb4791577b7ac"
+    },
+    {
+      "path": "revisions/generation-20260921-printmaking/printmaking-press-v2.png",
+      "bytes": 998453,
+      "sha256": "dfd9e0d0df519ca4b208bbefd8918a6a9b4511c1675bd42ed92691577b59846c"
+    },
+    {
+      "path": "revisions/generation-20260921-shipwreck-diving/shipwreck-air-tank-v1-alpha.png",
+      "bytes": 854325,
+      "sha256": "efd3ec8e8b0af9e8a0b291f31a6d9d2223de577c0f90079f11ce5fda88de9199"
+    },
+    {
+      "path": "revisions/generation-20260921-shipwreck-diving/shipwreck-air-tank-v1.png",
+      "bytes": 878492,
+      "sha256": "101e7167e70a3688f9a4b06b8a72a8b70e74b96e462a6a3eec17216182f2289a"
+    },
+    {
+      "path": "revisions/generation-20260921-shipwreck-diving/shipwreck-diving-helmet-v1.png",
+      "bytes": 1337787,
+      "sha256": "ac380307e0d72c98bc93f19389809c14209583aacf18a2743768acf42a984f61"
+    },
+    {
+      "path": "revisions/generation-20260921-shipwreck-diving/shipwreck-porthole-v1.png",
+      "bytes": 1385440,
+      "sha256": "e1b04799d8bce8c9f059fdbb404ed685a59ceaf24391987e478274a438aae7ab"
+    },
+    {
+      "path": "revisions/generation-20260921-shipwreck-diving/shipwreck-rusted-anchor-v1-alpha.png",
+      "bytes": 1232525,
+      "sha256": "33fc2dd8f62ca39b3690144cab1b8cbacabc0b0883aaa30cfc07aad38b262b7e"
+    },
+    {
+      "path": "revisions/generation-20260921-shipwreck-diving/shipwreck-rusted-anchor-v1.png",
+      "bytes": 1247726,
+      "sha256": "4f3d138dbeaa7f2aa5f296723efcd4e6a88e809de79be614fc6f3702a51c5bf7"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-beater-comb-v1.png",
+      "bytes": 1352305,
+      "sha256": "067035e14556e40462ca6e823e69ded66ad2b7a30e92b199ea2d8100ba981980"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-beater-comb-v2-alpha.png",
+      "bytes": 840720,
+      "sha256": "f57dfd1a6a7c8887dce6fd9038843d5c0ced1b68b54978d3b85ad6d8ff7b3330"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-beater-comb-v2.png",
+      "bytes": 850595,
+      "sha256": "21e1326d476bfe2d33341be718a6b9afaba8549ce29cb6849dce697d444a3c23"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-drop-spindle-v1.png",
+      "bytes": 811782,
+      "sha256": "59fc2d990b54ada6beffbaf3f953e4a9e7f3cdbd9117b56e16be8c7a3d6f06a1"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-drop-spindle-v2-alpha.png",
+      "bytes": 677321,
+      "sha256": "5be15f059e6d7748cf864c28efb91fbd0f7b45967f2abc22ea72b3a9562c87ce"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-drop-spindle-v2.png",
+      "bytes": 691988,
+      "sha256": "3ce3c34eedd0469df0b3fc2150cc2e753af44b3b4bb0496ea811dc1ec46ab7bf"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-heddle-v1.png",
+      "bytes": 992711,
+      "sha256": "5d4b46ac91fe6b3f35f0f77a9f713db99005aae9514d79ce34fae9bfa1760135"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-heddle-v2-alpha.png",
+      "bytes": 704705,
+      "sha256": "ae828c15ef3051eeec84a92f260b54151b43959e87e971739db3a8c4a361da9b"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-heddle-v2-holes.png",
+      "bytes": 700528,
+      "sha256": "60e801edf2ddd49dc63db3b67483de17bcd266813956564e16ec67375b317adf"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-heddle-v2-holes250.png",
+      "bytes": 694571,
+      "sha256": "4a4e1991a7431464c78078c6c823e70e88e5a56e609ef5ff7e226799e1078d4f"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-heddle-v2.png",
+      "bytes": 720659,
+      "sha256": "1cff1b44cbcaab2cc0bbb45043f8bb54b7d019136fcb133a132b38f76cd5e81e"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-heddle-v3-alpha.png",
+      "bytes": 663509,
+      "sha256": "765330b75dfd39b56d9d562a63ee0e7a14b0098154c0b08693734d62fcedc267"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-heddle-v3.png",
+      "bytes": 679398,
+      "sha256": "d990b7c0e8908da229c62358c24a4f7fc0a0f8082e340d205cfcc10241f18365"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-shuttle-v1.png",
+      "bytes": 745602,
+      "sha256": "d7925ed7ec6d01f99cebd129e752af6bb68bb829f63336e565b75af5b6053e0d"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-shuttle-v2-alpha.png",
+      "bytes": 658450,
+      "sha256": "8721d23228ee479106cf0aae721c1fda1e0b53b43154c3c46545b1c6e7f80fcd"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-shuttle-v2.png",
+      "bytes": 678322,
+      "sha256": "4d77d619800e0d0ff60f26d2a2b4845fa23540d65414eac7918bb6c1b8d863dc"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-table-loom-v1.png",
+      "bytes": 1331754,
+      "sha256": "d02989ae5aa96833e52b1b156c0d7773ff715229ec5c3aa5566ef3a1d318a7a4"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-table-loom-v2-alpha.png",
+      "bytes": 1094217,
+      "sha256": "5c52115c784ebd33ce019c657c3491b66684c14d8cf526f54947ed0f363e7a09"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-table-loom-v2-boxes.png",
+      "bytes": 1092423,
+      "sha256": "c21300988766fab64f85ab0230a5b4e23653d419dd1ea0da804dbb13c5d65f1a"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-table-loom-v2-final.png",
+      "bytes": 1093095,
+      "sha256": "aa2d883826113ce94ef62b2b291e6f33a5afb01e50ad70d35de8fb9d9073f8da"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-table-loom-v2-holes.png",
+      "bytes": 1093803,
+      "sha256": "5129be08538fa9c14e8614a31671a5b56ac12247f34dd1b194aabd5342c583fb"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-table-loom-v2-holes250.png",
+      "bytes": 1092900,
+      "sha256": "b16aba962324bd40c964b782e5816acede1695440430e329f682ad826d81bd06"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-table-loom-v2.png",
+      "bytes": 1098192,
+      "sha256": "d41334289de4ee6f3594bbd71d9f0ca6aeec38e27055c32ffef031899b86c164"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-table-loom-v3-rejected.png",
+      "bytes": 1113342,
+      "sha256": "21c65b08dcff766fa47006af9c86b771336d7b7c1ad1280a51807174935edef3"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-tapestry-v1.png",
+      "bytes": 1064377,
+      "sha256": "9a26e32c46b0ad8db2f65b3d2791b829c4f369aa22bf958035ac420f2344cd76"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-tapestry-v2-rejected.png",
+      "bytes": 905624,
+      "sha256": "f947a8d8fd5993509c36251d1b9cbb30f7a122fbbd316b39e85efcbd0203cf64"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-tapestry-v3-alpha.png",
+      "bytes": 924615,
+      "sha256": "59a1c36c5db3d3b14ebb6b6446794893419f9408b2fc9d4e1345206dc8110999"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-tapestry-v3.png",
+      "bytes": 932129,
+      "sha256": "bec04ba5a372bea718c397061839b74e54fcc1d6916c6d6eedfeba032e8efa3f"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-warping-board-v1.png",
+      "bytes": 1223567,
+      "sha256": "0a24ad0633db9d60bc7932c1af76a6be1ffe06a05a196976c3da494c71d2ed33"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-warping-board-v2-alpha.png",
+      "bytes": 928680,
+      "sha256": "110de0f992b5da8e163959791cda09d49caa8d9e30c0bebc436d891736c76ec5"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-warping-board-v2.png",
+      "bytes": 942114,
+      "sha256": "f1f3d707a9a10baafd8c1171cbb2936364377eb5354d01dd0774736a207ed08a"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-yarn-cones-v1.png",
+      "bytes": 1415809,
+      "sha256": "371d2a6cbe3a2876c9763328ed19ea1c88384825572c84407a5169b19c4ff540"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-yarn-cones-v2-alpha.png",
+      "bytes": 1137265,
+      "sha256": "ee9d6b43eb6bfb83378299ebe7285ba8c3567c19834af52dc77c66e546d6ff79"
+    },
+    {
+      "path": "revisions/generation-20260921-weaving/weaving-yarn-cones-v2.png",
+      "bytes": 1148356,
+      "sha256": "52bbbfc3579bf997c9207fc15abb97ff05b260fbb33b87d9ac367a11602927c6"
+    },
+    {
       "path": "revisions/marching-trumpet-padding-20260915.png",
       "bytes": 1903292,
       "sha256": "08ff04f380698ca6d519a4e13d56c1d061b42ecacaadd7012664459c76cf7d6f"
@@ -20492,6 +21972,11 @@
       "sha256": "8a3e8726ceeb7f381fd87215f021291cde0db95ad679508be285a2f16ef9a070"
     },
     {
+      "path": "scripts/fill_enclosed_alpha_holes.py",
+      "bytes": 4000,
+      "sha256": "f40bdb8d5251c70979440d59bdff385604e2841a5d1508b88b5fd5990dcaea61"
+    },
+    {
       "path": "scripts/gallery-template.html",
       "bytes": 5287,
       "sha256": "751a3614ca243531be3db2a20138b98437315bb1676d87d7230cb97801b8bb54"
@@ -20528,8 +22013,8 @@
     },
     {
       "path": "state/generation-queue.json",
-      "bytes": 3366,
-      "sha256": "6f87a50d7f743e1c68cb69fb0697aa1f285f750fc1e860a1bf92d466d0c33b0f"
+      "bytes": 1643,
+      "sha256": "67a3aec93a1593e585e238e82a727ca0d9aced5ad29e9069b9662501b64c0808"
     },
     {
       "path": "state/imagegen-quota-20260918-second.json",
@@ -20542,14 +22027,104 @@
       "sha256": "13d389db9ef85ca88c8b52cda26fb7976303e24ec91506c4fdb54437f47d1347"
     },
     {
+      "path": "state/imagegen-quota-20260921-2.json",
+      "bytes": 873,
+      "sha256": "e9d70cef0e950f7cd2e581168d88f064433d5fac43bc0290d99ea462cbaaa360"
+    },
+    {
+      "path": "state/imagegen-quota-20260921.json",
+      "bytes": 736,
+      "sha256": "b59267bd19282bd7e883ba6129585c5c96937abede267eeb46e7ac4ff8ce2b2d"
+    },
+    {
       "path": "state/progress.json",
-      "bytes": 376845,
-      "sha256": "f6db04dc7cb6a30251fce53acbd785c3bf8454c2979243dd2d0081a3557be914"
+      "bytes": 413426,
+      "sha256": "62a4b767c3d66970fb683531fb343430f8b5ec7bc0cdf9a332fdd5c07246c0d8"
     },
     {
       "path": "state/relocation-verification.json",
       "bytes": 1390,
       "sha256": "bf1bac14e7185b00e703b6f945e119e361ba867ddf7534f60befcbb05b42fcae"
+    },
+    {
+      "path": "state/requests/bookbinding-bone-folder-v1.json",
+      "bytes": 1736,
+      "sha256": "302c81fd3c98d95547c722e5864105ba4f6b102915d55ddd9633b56f827b9823"
+    },
+    {
+      "path": "state/requests/bookbinding-bone-folder.json",
+      "bytes": 1907,
+      "sha256": "634f3204e4559b7665538bc85bb8e6dd5e7e158b5f1a8518551af8909df00411"
+    },
+    {
+      "path": "state/requests/bookbinding-cloth-roll-v1.json",
+      "bytes": 1585,
+      "sha256": "f9387290c40066bc85eb35fe16dbc012769fa6b76d2db45f28b596e1bf2ca3b3"
+    },
+    {
+      "path": "state/requests/bookbinding-cloth-roll.json",
+      "bytes": 1920,
+      "sha256": "1195d853d343fea286b6aab879a5a201bb8817cbf0fad520274fa48441cf0e6e"
+    },
+    {
+      "path": "state/requests/bookbinding-glue-pot-v1.json",
+      "bytes": 1571,
+      "sha256": "16be117e234b7faf0616cec380c37562f933a8a4b08e57aa90969a4a836cd4ce"
+    },
+    {
+      "path": "state/requests/bookbinding-glue-pot.json",
+      "bytes": 1920,
+      "sha256": "10a46e47b540d67d99b4859d709112355dd376fc511b4be2c55e6bc9ff3d4893"
+    },
+    {
+      "path": "state/requests/bookbinding-handbound-journal-v1.json",
+      "bytes": 1610,
+      "sha256": "da5ffe0180964342e8c61061dc8a2f63bcf8215c7a5f248bb109ee8509d00025"
+    },
+    {
+      "path": "state/requests/bookbinding-handbound-journal.json",
+      "bytes": 1937,
+      "sha256": "644a104a11f9b5eaa4c1f0e526abe949d9648e7ac2cf38b4e4153f7b01e0cec5"
+    },
+    {
+      "path": "state/requests/bookbinding-linen-thread-v1.json",
+      "bytes": 1620,
+      "sha256": "104356db0d2d6868bd9fa14ec1917f398afa593fbeee76403728f8d4d620d3f3"
+    },
+    {
+      "path": "state/requests/bookbinding-linen-thread.json",
+      "bytes": 1920,
+      "sha256": "f2332a4920c6cd7ebea2dfd27e4e35f29c98b00b5fbba360bb81e1d08d219b10"
+    },
+    {
+      "path": "state/requests/bookbinding-press-v1.json",
+      "bytes": 1739,
+      "sha256": "f26cdf568d96bd0fbb556d422730498838c958613eebc8a4082a5933a13f71fd"
+    },
+    {
+      "path": "state/requests/bookbinding-press.json",
+      "bytes": 1913,
+      "sha256": "9582521ab6c3c00c1add06b9eb44c29f372a31e8f2b39755024356922319b178"
+    },
+    {
+      "path": "state/requests/bookbinding-sewing-frame-v1.json",
+      "bytes": 1758,
+      "sha256": "9eed4c58ad16f17d9ca224c4cf21a4da6169dc50448b5ed08bee8e0013381e7b"
+    },
+    {
+      "path": "state/requests/bookbinding-sewing-frame.json",
+      "bytes": 1912,
+      "sha256": "639d4d67143cd6dae3315a463d19c9c0713e71d16df0eb7d67696343357ceba7"
+    },
+    {
+      "path": "state/requests/bookbinding-signatures-v1.json",
+      "bytes": 1711,
+      "sha256": "58924226939dbf34e1b6acd2ede7c2e8cfded7d520219f79e8ddb3464840961d"
+    },
+    {
+      "path": "state/requests/bookbinding-signatures.json",
+      "bytes": 1930,
+      "sha256": "4a4f0c69ca0895de8b1d25cbc9922d89a017e9b96977caa501fb5e692ca5e828"
     },
     {
       "path": "state/requests/caving-ascender-v2.json",
@@ -20605,6 +22180,166 @@
       "path": "state/requests/caving-survey-kit.json",
       "bytes": 1932,
       "sha256": "83b527c89c9f9de16038812b16dd2b634185b25708b4bf1ec4d99a7cb922872c"
+    },
+    {
+      "path": "state/requests/clockmaking-gear-train-v1.json",
+      "bytes": 1565,
+      "sha256": "d32360e0273a35c3c4fba9641497fd4c6573feb00e4c3c09b944a0c8096292b2"
+    },
+    {
+      "path": "state/requests/clockmaking-gear-train.json",
+      "bytes": 1922,
+      "sha256": "7a86d6173d61f45dbdae80ffb559667b49e0ab8713dcfcf86db9d6a16d337c36"
+    },
+    {
+      "path": "state/requests/clockmaking-key-v1.json",
+      "bytes": 1499,
+      "sha256": "753b46173125ae161030f98710b454db5ee18b39e40c48be97639592d4a0e051"
+    },
+    {
+      "path": "state/requests/clockmaking-key.json",
+      "bytes": 1863,
+      "sha256": "3b341bf41b1f539d0f0f036a4415b4968dfa672ee64e6d36938d599ca7e695f3"
+    },
+    {
+      "path": "state/requests/clockmaking-loupe-v1.json",
+      "bytes": 1510,
+      "sha256": "05d00dd785464cbde4d18580f5605b233a04e2199fca5efb027448d863656854"
+    },
+    {
+      "path": "state/requests/clockmaking-loupe.json",
+      "bytes": 1885,
+      "sha256": "da02145dff254231c9e614df45016ae1595c37bf8f6057b4e4ec9674ee8cd373"
+    },
+    {
+      "path": "state/requests/clockmaking-mainspring-v1.json",
+      "bytes": 1566,
+      "sha256": "a450da43a53e2eda957bd358f56795cf80bab072731eae2e305cb5489bdf9d49"
+    },
+    {
+      "path": "state/requests/clockmaking-mainspring.json",
+      "bytes": 1922,
+      "sha256": "b35126bad7acaaa23af17a251af63f0cb6ac96025a0fb1631c3059f1cf828413"
+    },
+    {
+      "path": "state/requests/clockmaking-movement-holder-v1.json",
+      "bytes": 1567,
+      "sha256": "02a6c4c2e318043624f3eb4092a0e3a68d970df47fa020b36c5f212ea6b3f270"
+    },
+    {
+      "path": "state/requests/clockmaking-movement-holder.json",
+      "bytes": 1945,
+      "sha256": "f94007bb254c7c7dfcf914501f5d1bd7b67f9834a4d04f3cbf7c9c23cea52a48"
+    },
+    {
+      "path": "state/requests/clockmaking-oiler-v1.json",
+      "bytes": 1549,
+      "sha256": "d61afc3e6e8423dc4f240e3991d334ada07466bba747a98dbea85af0feac5dd2"
+    },
+    {
+      "path": "state/requests/clockmaking-oiler.json",
+      "bytes": 1923,
+      "sha256": "e4223e08ec465081c2c6769911dc3c0f005b9504d598267705df55fafbcfc1c2"
+    },
+    {
+      "path": "state/requests/clockmaking-pendulum-v1.json",
+      "bytes": 1489,
+      "sha256": "0a377c1168ff91c08f6676cbf9509b614af78d5d226380f5124af152e9b45ac9"
+    },
+    {
+      "path": "state/requests/clockmaking-pendulum.json",
+      "bytes": 1864,
+      "sha256": "94490c146aa0f09634ef1b4758b76baf352680f813d1ee09847014511448e79d"
+    },
+    {
+      "path": "state/requests/clockmaking-pocket-watch-v1.json",
+      "bytes": 1569,
+      "sha256": "9771044cbe9a7d9f774ac7445a0713de32afc5cd7dd39624bee1880eccc622f5"
+    },
+    {
+      "path": "state/requests/clockmaking-pocket-watch.json",
+      "bytes": 1920,
+      "sha256": "6d1bf4b310392afe2d288b01bd3b02ddfa0cfbf41ffb74c5c435d30ffd12f9d0"
+    },
+    {
+      "path": "state/requests/detective-evidence-envelope-v2.json",
+      "bytes": 1469,
+      "sha256": "b08815406d2633accc4982eb8ac8de10ad1fbaa1ffd0b645b8d65427b0327c5b"
+    },
+    {
+      "path": "state/requests/detective-evidence-envelope.json",
+      "bytes": 1942,
+      "sha256": "be2d37244569327404b70624077f43fbb4d2246a74a899d5343f6c5d4e3fc4ca"
+    },
+    {
+      "path": "state/requests/detective-evidence-marker-v1.json",
+      "bytes": 1552,
+      "sha256": "840ca009ced636dc448fcc839f1e69c6b9864b4990b02b95b53b5e09e1d7c0d3"
+    },
+    {
+      "path": "state/requests/detective-evidence-marker.json",
+      "bytes": 1936,
+      "sha256": "ec07ee469725504a2a1725f655e8b945803ec6a24a4f9ce36463f7494d0cf844"
+    },
+    {
+      "path": "state/requests/detective-fingerprint-card-v1.json",
+      "bytes": 1525,
+      "sha256": "6faadd1bd70609fd6667ffcf2758bcb77c17f8e91c275773737afb73b0c64594"
+    },
+    {
+      "path": "state/requests/detective-fingerprint-card.json",
+      "bytes": 1935,
+      "sha256": "0be445df12b8670a100dccfd939a779140ab1b23729835b2e48127b2140a544c"
+    },
+    {
+      "path": "state/requests/detective-fingerprint-kit-v1.json",
+      "bytes": 1563,
+      "sha256": "f3b7a3fb4edaae7097b52db6c21d83bd93b216d98c37071f64d1768a050bb9f3"
+    },
+    {
+      "path": "state/requests/detective-fingerprint-kit.json",
+      "bytes": 1946,
+      "sha256": "9cd45d7ceea8aeaeddd64795d134aefc5bd12f0735ef081484d98ac77b56fcc8"
+    },
+    {
+      "path": "state/requests/detective-footprint-cast-v1.json",
+      "bytes": 1553,
+      "sha256": "6f5a0050e688b47db522f8f5a9902567beb71d3eb24d81df95421a047d35dbb0"
+    },
+    {
+      "path": "state/requests/detective-footprint-cast.json",
+      "bytes": 1905,
+      "sha256": "d497161a6c0d4c9cc297eb6407beb8969686f82d8cf94c803d241b4bb7eef517"
+    },
+    {
+      "path": "state/requests/detective-magnifier-v1.json",
+      "bytes": 1464,
+      "sha256": "840509db4b88f198aede7555bfcba1895c3db8a02f16dc305adee164c75131e7"
+    },
+    {
+      "path": "state/requests/detective-magnifier.json",
+      "bytes": 1886,
+      "sha256": "bebc664071ade0a8d2d12eca84442b514e157164b6d82e9b2601c57fdddfbe93"
+    },
+    {
+      "path": "state/requests/detective-notebook-v1.json",
+      "bytes": 1530,
+      "sha256": "dcb15f7597a6662c20612563e942acdd1271fbe83d27f5393ba8a6a9f5a9183b"
+    },
+    {
+      "path": "state/requests/detective-notebook.json",
+      "bytes": 1935,
+      "sha256": "1934958410168f552a3f7151b9e20775aafe7d18b57d57314c40a7dd5ae013fa"
+    },
+    {
+      "path": "state/requests/detective-trench-coat-v1.json",
+      "bytes": 1547,
+      "sha256": "9b6bd706e950e0b46f173cda1d9cf7092087e408cec303887f947114dad2cb92"
+    },
+    {
+      "path": "state/requests/detective-trench-coat.json",
+      "bytes": 1944,
+      "sha256": "cc1b65dd9bf3fa7c29398958ba9c8def6295e28b08aa1432cf517024abdd549d"
     },
     {
       "path": "state/requests/dumpling-bamboo-steamer.json",
@@ -20687,9 +22422,29 @@
       "sha256": "189fcfab08e3eeb70f3e7b1db91fcce7f8e6c18ccaa27573b27edd7f3fca331f"
     },
     {
+      "path": "state/requests/glassblowing-block-v2.json",
+      "bytes": 1216,
+      "sha256": "9a764b195489a7d19dd4abf30659689a902384ff54c307bed575a0f03af8d670"
+    },
+    {
+      "path": "state/requests/glassblowing-block.json",
+      "bytes": 1929,
+      "sha256": "fa05d5b29237e0abd8df415fa6369a3c777bf91da062c5c6a76b9540136fd9fb"
+    },
+    {
+      "path": "state/requests/glassblowing-furnace-v2.json",
+      "bytes": 1462,
+      "sha256": "3e68cf13579c95d43f495ef3c0465d8b235595558bd5bb632b5dbfb9a06360af"
+    },
+    {
       "path": "state/requests/glassblowing-furnace.json",
       "bytes": 1907,
       "sha256": "04a8e84cf178e02e92985b1beedf8db43ea1430d25fd2507af6bffce7287fde8"
+    },
+    {
+      "path": "state/requests/glassblowing-jacks-v3.json",
+      "bytes": 1330,
+      "sha256": "7a1029a12d15afdcab54d08e0169d25b2f41093c65b08a0a9a7d0f6d982514f2"
     },
     {
       "path": "state/requests/glassblowing-jacks.json",
@@ -20697,14 +22452,49 @@
       "sha256": "6c827cd8780e2f8f5b9672a12deaa66731521f04e4bba00417cc2a676badb42f"
     },
     {
+      "path": "state/requests/glassblowing-marver-v3.json",
+      "bytes": 1327,
+      "sha256": "17b782c21d647fc4dd47bef335b50e1f0a63834646d8e4c4df0996e53d76a74e"
+    },
+    {
       "path": "state/requests/glassblowing-marver.json",
       "bytes": 1910,
       "sha256": "ab3cb2ed04de5c4e1f16adbfa92967d2161c5004d47b06d4178908619d690142"
     },
     {
+      "path": "state/requests/glassblowing-paperweight.json",
+      "bytes": 1915,
+      "sha256": "be5639eb97dbe61644453dd899c16ada251e5239821f888a8e4e03b8149bd2b8"
+    },
+    {
+      "path": "state/requests/glassblowing-pipe-v2.json",
+      "bytes": 1686,
+      "sha256": "e08e60800f08c9de11ad0831d542ce04850153b80e570977877568dfc93d0367"
+    },
+    {
       "path": "state/requests/glassblowing-pipe.json",
       "bytes": 1926,
       "sha256": "fcd14f1639e9322b4f0aa1390d4225e132f13903b5d75ac125cb7a8793ddb5f6"
+    },
+    {
+      "path": "state/requests/glassblowing-shears-v3.json",
+      "bytes": 1488,
+      "sha256": "0dde695d868c1f517a5647e9cde2de4ad8c5b6e2b4dd19b4cf7c09da6042c123"
+    },
+    {
+      "path": "state/requests/glassblowing-shears.json",
+      "bytes": 1916,
+      "sha256": "d27a5313bcb41a740f53eaab0ecec0a5a82cc4891c9afa946646998aefacb176"
+    },
+    {
+      "path": "state/requests/glassblowing-vase-v2.json",
+      "bytes": 1377,
+      "sha256": "657579a02f00daef243688f02cdbd2e3b1ea864c3fee068a278d62cc4266c8ac"
+    },
+    {
+      "path": "state/requests/glassblowing-vase.json",
+      "bytes": 1878,
+      "sha256": "55c092b6bae958311d1880e7d390a69ca0fe02529db1813dda25b11c21cd2250"
     },
     {
       "path": "state/requests/harbor-buoy-v2.json",
@@ -20755,6 +22545,96 @@
       "path": "state/requests/harbor-tugboat.json",
       "bytes": 1912,
       "sha256": "3ad9620ee6e7b33650ccf6deaad512269f3dfad691fb19c5113bd74d650a9563"
+    },
+    {
+      "path": "state/requests/leathercraft-awl-v2.json",
+      "bytes": 996,
+      "sha256": "a4d9acc5b2305df71a42c33203a844ad1153f07204deca778bebc7e238c2ce3f"
+    },
+    {
+      "path": "state/requests/leathercraft-awl.json",
+      "bytes": 1929,
+      "sha256": "df79fa7ce8981044b87ec247f0d69d8f69e052a87e0aa4c9d3643513301d2823"
+    },
+    {
+      "path": "state/requests/leathercraft-belt-buckle-v2.json",
+      "bytes": 1183,
+      "sha256": "7af488dca97ceb6ac3e5545ceb8170ec83fa93e7d7ba3112d136162c86f4f0fc"
+    },
+    {
+      "path": "state/requests/leathercraft-belt-buckle.json",
+      "bytes": 1913,
+      "sha256": "fb0ad655af5f58c2222162d36e0976420004631f5cfaeb2730e2c9280686e124"
+    },
+    {
+      "path": "state/requests/leathercraft-edge-beveler-v2.json",
+      "bytes": 1239,
+      "sha256": "77e778ecce9e24b32703ac9387747fc7c77d45fc00b430761d0e122c6b525a02"
+    },
+    {
+      "path": "state/requests/leathercraft-edge-beveler-v3.json",
+      "bytes": 1190,
+      "sha256": "a72ff6ced565110c17864f9c6ca76bca5939886359cc4f8aee0d6aa1f9a2e692"
+    },
+    {
+      "path": "state/requests/leathercraft-edge-beveler.json",
+      "bytes": 1912,
+      "sha256": "d2b9066653398dfd7ea330bbdafcc1523884d39fab5908edd8760abaa250f9ff"
+    },
+    {
+      "path": "state/requests/leathercraft-hide-roll-v2.json",
+      "bytes": 1176,
+      "sha256": "cf0c439cb5fe68d142039dbfa193d476e8d73067189a61ff74b8c1719822d1c7"
+    },
+    {
+      "path": "state/requests/leathercraft-hide-roll.json",
+      "bytes": 1905,
+      "sha256": "74a977e3121b6e3bac7cffee520b7fd23eef27c60d40362c29a02e08ccd388af"
+    },
+    {
+      "path": "state/requests/leathercraft-mallet-v2.json",
+      "bytes": 1358,
+      "sha256": "08f7c646bc9cd51c68a449d9deb901a24fd69649a65876f9ccef5261a35cc63a"
+    },
+    {
+      "path": "state/requests/leathercraft-mallet.json",
+      "bytes": 1898,
+      "sha256": "240d26a03a90d10aee98ecabae1591977b2ea5dacf943916cf50200a13509973"
+    },
+    {
+      "path": "state/requests/leathercraft-pricking-iron-v2.json",
+      "bytes": 1042,
+      "sha256": "649e8967942c946b0716feb00402bfc8ed924b827b979bb46a39e02bc7e9c4ee"
+    },
+    {
+      "path": "state/requests/leathercraft-pricking-iron-v3.json",
+      "bytes": 1047,
+      "sha256": "850633c43b1bc9c34ab2e55b053eba63629a8ead67118b6fe8d0731c820f1f41"
+    },
+    {
+      "path": "state/requests/leathercraft-pricking-iron.json",
+      "bytes": 1907,
+      "sha256": "cd799180af3a009e29d2d1086ebc4aa36bf6efd992a649aa79893d7d9e6aa7b1"
+    },
+    {
+      "path": "state/requests/leathercraft-saddle-stitch-v2.json",
+      "bytes": 1222,
+      "sha256": "e05021376c01d17eb139d64f1f92c4f8f9c9904f5b3d89ce8902ec397e2202f3"
+    },
+    {
+      "path": "state/requests/leathercraft-saddle-stitch.json",
+      "bytes": 1901,
+      "sha256": "b87bc7dc831437efc0b441e05ad6850448aef738c8d8c662ff37e5bb54f95fc3"
+    },
+    {
+      "path": "state/requests/leathercraft-stitching-pony-v2.json",
+      "bytes": 1020,
+      "sha256": "2d1fc4a665cd2d698335d83e892b6df4d1652f234840c6facca78bc0c4d88cfc"
+    },
+    {
+      "path": "state/requests/leathercraft-stitching-pony.json",
+      "bytes": 1910,
+      "sha256": "d6dc07cf87cba9ec02768721a6489a43e81d10966a8f23776c9b1880354a7703"
     },
     {
       "path": "state/requests/mezze-dolma.json",
@@ -20967,6 +22847,86 @@
       "sha256": "9a412080624142ca41ded02e6fb422492c0f79da512b69c3e8f17287bb098c98"
     },
     {
+      "path": "state/requests/printmaking-baren-v2.json",
+      "bytes": 1682,
+      "sha256": "d5470fb4a983e3ea5d8efc211d7277abb5347d668f4bcf41bfd778132e08243d"
+    },
+    {
+      "path": "state/requests/printmaking-baren.json",
+      "bytes": 1899,
+      "sha256": "8c2dc55f2bd84bd5afdf2d38a48226f243ed62892c34b0c478ec0f2687c33e81"
+    },
+    {
+      "path": "state/requests/printmaking-brayer-v2.json",
+      "bytes": 1495,
+      "sha256": "ded52478a56e60eb488115c9ab3743bb3571a7e94a8187a9c97f4a0a667a3535"
+    },
+    {
+      "path": "state/requests/printmaking-brayer.json",
+      "bytes": 1890,
+      "sha256": "83369a3f2a4b31506928f41e1d9d8b9fa1e36465d97f85b3d19e9207bc330147"
+    },
+    {
+      "path": "state/requests/printmaking-gouge-v2.json",
+      "bytes": 1816,
+      "sha256": "675d466d2bc0f50a6cb15db435fe3c125b2a63c9342b9437af850f57440c09b5"
+    },
+    {
+      "path": "state/requests/printmaking-gouge.json",
+      "bytes": 1905,
+      "sha256": "ae1bf2ecbf43a95eed13a00606b5bb9c1aa204c50f94cc4d47e89506aff6945f"
+    },
+    {
+      "path": "state/requests/printmaking-ink-slab-v2.json",
+      "bytes": 1578,
+      "sha256": "6d5006086be49c691b5b0446165a437cf69e2aa73b17c29c31f8d03cc61a1c5d"
+    },
+    {
+      "path": "state/requests/printmaking-ink-slab.json",
+      "bytes": 1894,
+      "sha256": "eed10e70ad9b32c24dc830a809d90e9b002fe19b5fc1dc1317b0158b964676c7"
+    },
+    {
+      "path": "state/requests/printmaking-ink-tube-v2.json",
+      "bytes": 1597,
+      "sha256": "d23eac333a3175fae0e260a732e2848e1ef667b39c1e4c8a223e15c970f6c0cb"
+    },
+    {
+      "path": "state/requests/printmaking-ink-tube.json",
+      "bytes": 1930,
+      "sha256": "9f33e0685929464f398b2904b2d64533f40734efe4371d875aa93c086d48d12a"
+    },
+    {
+      "path": "state/requests/printmaking-leaf-print-v2.json",
+      "bytes": 1640,
+      "sha256": "81554f22bdb0d0a2b99152880d01d7564410f17b9a4205ba12e8187214ffd622"
+    },
+    {
+      "path": "state/requests/printmaking-leaf-print.json",
+      "bytes": 1928,
+      "sha256": "3f5dac54c256a0367150e2f14e1ee96cb8550831946d6b43bf17d2a89584177c"
+    },
+    {
+      "path": "state/requests/printmaking-lino-block-v2.json",
+      "bytes": 1490,
+      "sha256": "d81ca31cfea03adbd5204b7d8f6e5da8069019657ef849982bcebf2d39c07baa"
+    },
+    {
+      "path": "state/requests/printmaking-lino-block.json",
+      "bytes": 1884,
+      "sha256": "8258fd6b93afd22742d44914ea1d473ff2dbe08e569463225a4491b31df46973"
+    },
+    {
+      "path": "state/requests/printmaking-press-v2.json",
+      "bytes": 1625,
+      "sha256": "4de1ad24a116a9c4cea857e45d14b01a6b8173d3ab439d1f428a2238d669e476"
+    },
+    {
+      "path": "state/requests/printmaking-press.json",
+      "bytes": 1925,
+      "sha256": "870c6be23c981d5d841ad88122a90e5d461d7a321b0fd10d0a10b9583af2ac38"
+    },
+    {
       "path": "state/requests/railway-buffer-stop.json",
       "bytes": 1919,
       "sha256": "17300ced688249326e992f86582a20cda0d0adc8eac029b4ee174b14929a820c"
@@ -21010,6 +22970,46 @@
       "path": "state/requests/railway-ticket-punch.json",
       "bytes": 1906,
       "sha256": "219bc2698823352055a5e0301fafe539c07c2c27dd28cd0f22cf593d63957eaf"
+    },
+    {
+      "path": "state/requests/shipwreck-air-tank.json",
+      "bytes": 1925,
+      "sha256": "4b68ef5a10fa1aefe65b23ab614b0bceb6a2da5141500c19e3908099b3459d32"
+    },
+    {
+      "path": "state/requests/shipwreck-ceramic-bottle.json",
+      "bytes": 1941,
+      "sha256": "c2d39bb008d89d9c57946d342744ff81471f7c8e0c25ca9a316b20e2055e4d27"
+    },
+    {
+      "path": "state/requests/shipwreck-diving-helmet.json",
+      "bytes": 1920,
+      "sha256": "8cdf0b4c8171fce2673b25d84d9d9cfee90c36258b6bf377a1bb5433a1e44524"
+    },
+    {
+      "path": "state/requests/shipwreck-diving-torch.json",
+      "bytes": 1895,
+      "sha256": "038569333a7c1d034812f5722dfcfc08d2023ea209013b16692a5ed3db1532e2"
+    },
+    {
+      "path": "state/requests/shipwreck-porthole.json",
+      "bytes": 1905,
+      "sha256": "5978511ccc14f55075a6df8f785d7126ab04c2dc67b0beb8a6c3de35af018b8c"
+    },
+    {
+      "path": "state/requests/shipwreck-rusted-anchor.json",
+      "bytes": 1918,
+      "sha256": "ec5d37f712065683e4de1680a71565d46d5199d335c81b5140eb03b3fc31fffe"
+    },
+    {
+      "path": "state/requests/shipwreck-ship-bell.json",
+      "bytes": 1902,
+      "sha256": "3db06868059b1a4b784b928217993b0286174200df3f810b5e12fd239105339e"
+    },
+    {
+      "path": "state/requests/shipwreck-treasure-chest.json",
+      "bytes": 1933,
+      "sha256": "899f12916c46ef288806c0473745cd80acdf3c8da15bc23dcf5444919a3f3272"
     },
     {
       "path": "state/requests/soap-curing-rack.json",
@@ -21147,6 +23147,101 @@
       "sha256": "eaa5447004d47c3c28c043b1041dec6b49187c808cb5392da70e3032201be747"
     },
     {
+      "path": "state/requests/weaving-beater-comb-v2.json",
+      "bytes": 1354,
+      "sha256": "dcca9dc3616db18d4e095cf3785ba81a30f03917649a987213a6470a9a430d37"
+    },
+    {
+      "path": "state/requests/weaving-beater-comb.json",
+      "bytes": 1902,
+      "sha256": "ed4c9b516dce41029e5864933b8d4dab1a8bdb23205abefc1956b72c8e8b4d7b"
+    },
+    {
+      "path": "state/requests/weaving-drop-spindle-v2.json",
+      "bytes": 1267,
+      "sha256": "8d1c08125bebd00315231de34dde2b417592c7039a737157b2704e13b8a2b10c"
+    },
+    {
+      "path": "state/requests/weaving-drop-spindle.json",
+      "bytes": 1931,
+      "sha256": "5a1d324d7df5ae518ab056b92e85346e6679567cbe7f1ff64a13651a4403ce85"
+    },
+    {
+      "path": "state/requests/weaving-heddle-v2.json",
+      "bytes": 1317,
+      "sha256": "1f6ce02a94168c23351cdfc6fa8c21706a470bc1cf7544bf9c2cb345f7844ab6"
+    },
+    {
+      "path": "state/requests/weaving-heddle-v3.json",
+      "bytes": 1210,
+      "sha256": "ae052790b0e17b48a8a96a4a182723ec74547ba5be1104e1a9c5ef22e4ce5fae"
+    },
+    {
+      "path": "state/requests/weaving-heddle.json",
+      "bytes": 1915,
+      "sha256": "b14efee05375fc31b26ac0fa716ace2f233f11f6f06066ff4a567575ce276d14"
+    },
+    {
+      "path": "state/requests/weaving-shuttle-v2.json",
+      "bytes": 1162,
+      "sha256": "ac3f90b7d6dcb2dcf257776445369b996bb2d1e4f80b9f1c7dbe177d8c71745a"
+    },
+    {
+      "path": "state/requests/weaving-shuttle.json",
+      "bytes": 1892,
+      "sha256": "d9fdae6897c0204a9cad146458b0c033136f9cf1ee14e0cdc962674385e50758"
+    },
+    {
+      "path": "state/requests/weaving-table-loom-v2.json",
+      "bytes": 1559,
+      "sha256": "1133c67c6b41dcd7fe896d661018a885cc8571ce564c63258ca3ba30ef1a9fde"
+    },
+    {
+      "path": "state/requests/weaving-table-loom-v3.json",
+      "bytes": 1295,
+      "sha256": "4b9797185eca5fe4eecd9882d4d323a47cee8dbbaa0a324a247e998f53fe2905"
+    },
+    {
+      "path": "state/requests/weaving-table-loom.json",
+      "bytes": 1909,
+      "sha256": "60286be6510194d2274b211b5d0ef596427fbd0babe83c46438fe2e1e5bf1760"
+    },
+    {
+      "path": "state/requests/weaving-tapestry-v2.json",
+      "bytes": 1189,
+      "sha256": "6dae471f9c99402fd9dc8fcfbd09187b5f944779169ca8369e535c08a2ea6d9a"
+    },
+    {
+      "path": "state/requests/weaving-tapestry-v3.json",
+      "bytes": 1307,
+      "sha256": "bac3fa9337614eb3602ee027b7e326637b1be46272256d856f04f3b3c5123baf"
+    },
+    {
+      "path": "state/requests/weaving-tapestry.json",
+      "bytes": 1929,
+      "sha256": "d1e8d85aa0ff9bfabb99ec1b3739267d9069dd38c97bf0f5cefc6d457df1a5b5"
+    },
+    {
+      "path": "state/requests/weaving-warping-board-v2.json",
+      "bytes": 1172,
+      "sha256": "c767393dcccaa0cfafe37247d3d3716c4922ef722e08fe773a6a7c4a99a69691"
+    },
+    {
+      "path": "state/requests/weaving-warping-board.json",
+      "bytes": 1912,
+      "sha256": "5c7a5fae4753917eff17f01f145b3f8022dd1575f81dea77130f494c148d57c0"
+    },
+    {
+      "path": "state/requests/weaving-yarn-cones-v2.json",
+      "bytes": 1175,
+      "sha256": "eabbaffc6a9d7c490e2540c8c532e6f54cd3cf6af50cefefc919c9efe19ec330"
+    },
+    {
+      "path": "state/requests/weaving-yarn-cones.json",
+      "bytes": 1877,
+      "sha256": "023ae9080bc76df7404a9904baddaea9cc14a4580267fb3235415a9092ac22d8"
+    },
+    {
       "path": "state/requests/wetland-beaver.json",
       "bytes": 2089,
       "sha256": "bc0499ff5c29a09430ba5eb68a71daafb7c8f1c13e9c8c29787ecb5ed7d9e295"
@@ -21173,8 +23268,8 @@
     },
     {
       "path": "state/resume.json",
-      "bytes": 1264,
-      "sha256": "a177ec5f7e1364ee7a53f55ba7a000763d15160fffe4ee80194d2a8cf5eabf21"
+      "bytes": 1240,
+      "sha256": "d1a4970f325c100d396f1439a405c6a4aa29d40a0ad73fa1a9a4fa0637a70e9a"
     },
     {
       "path": "state/work-order.json",

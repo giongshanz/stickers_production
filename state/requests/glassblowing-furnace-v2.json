@@ -1,0 +1,18 @@
+{
+  "id": "glassblowing-furnace",
+  "subject": "A small brick glassblowing furnace with a round warm orange opening",
+  "topic_slugs": ["glassblowing"],
+  "profile": "objects",
+  "prompt": "Edit Image 1 by removing the entire tool rack on the right and removing the blowpipe and wooden handle in front. Leave only one small freestanding brick glassblowing furnace with its round arched warm-orange glowing opening, simple chimney top and four stable feet. Recenter and slightly enlarge the furnace after removing the accessories, while keeping comfortable transparent padding and the entire narrow clean white cut margin visible. Images 2 and 3 are style references only. Preserve warm restrained hand-painted 2D colors, thin locally tinted outlines and only a few quiet shadow patches. No extra tools, no floor, no scene, no text, no deep black cavity, no glossy 3D toy look. Actual transparent background; square canvas, target 512 x 512.",
+  "referenced_image_paths": [
+    "revisions/generation-20260921/glassblowing-furnace-v1.png",
+    "references/Stickers/8-Gardening/8-Gardening_1.png",
+    "references/Stickers/2. Home appliance/68-Home Appliance_2.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final edit removes unrequested tools and blowpipe. Initial exact prompt is in state/requests/glassblowing-furnace.json."
+}

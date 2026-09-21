@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-18T08:56:57.587397+00:00",
+  "updated_utc": "2026-09-21T08:06:29.613810+00:00",
   "padding_definition": "Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",
   "assets": [
     {
@@ -5839,6 +5839,1266 @@
       "transparent_pixels": 762176,
       "partial_alpha_pixels": 810340,
       "opaque_pixels": 0
+    },
+    {
+      "id": "glassblowing-pipe",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        73,
+        104,
+        47,
+        69
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1412089,
+      "partial_alpha_pixels": 159498,
+      "opaque_pixels": 929
+    },
+    {
+      "id": "glassblowing-jacks",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        32,
+        115,
+        18,
+        109
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1306477,
+      "partial_alpha_pixels": 264910,
+      "opaque_pixels": 1129
+    },
+    {
+      "id": "glassblowing-marver",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        157,
+        118,
+        63,
+        94
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1093891,
+      "partial_alpha_pixels": 478625,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "glassblowing-furnace",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        73,
+        49,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 827882,
+      "partial_alpha_pixels": 743972,
+      "opaque_pixels": 662
+    },
+    {
+      "id": "glassblowing-vase",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        49,
+        53,
+        271,
+        88
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1050478,
+      "partial_alpha_pixels": 520913,
+      "opaque_pixels": 1125
+    },
+    {
+      "id": "glassblowing-paperweight",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        178,
+        103,
+        56,
+        52
+      ],
+      "review_edge": false,
+      "transparent_pixels": 970795,
+      "partial_alpha_pixels": 601106,
+      "opaque_pixels": 615
+    },
+    {
+      "id": "glassblowing-block",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        97,
+        53,
+        56,
+        24
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1171000,
+      "partial_alpha_pixels": 400965,
+      "opaque_pixels": 551
+    },
+    {
+      "id": "glassblowing-shears",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        97,
+        103,
+        32,
+        72
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1153997,
+      "partial_alpha_pixels": 417224,
+      "opaque_pixels": 1295
+    },
+    {
+      "id": "leathercraft-stitching-pony",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        97,
+        53,
+        86,
+        40
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1112465,
+      "partial_alpha_pixels": 459577,
+      "opaque_pixels": 474
+    },
+    {
+      "id": "leathercraft-awl",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        103,
+        51,
+        32,
+        72
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1334204,
+      "partial_alpha_pixels": 237564,
+      "opaque_pixels": 748
+    },
+    {
+      "id": "leathercraft-edge-beveler",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        191,
+        263,
+        118,
+        210
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1318348,
+      "partial_alpha_pixels": 253659,
+      "opaque_pixels": 509
+    },
+    {
+      "id": "leathercraft-pricking-iron",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        41,
+        53,
+        55,
+        24
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1262569,
+      "partial_alpha_pixels": 309282,
+      "opaque_pixels": 665
+    },
+    {
+      "id": "leathercraft-mallet",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        286,
+        222,
+        270,
+        201
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1275629,
+      "partial_alpha_pixels": 296172,
+      "opaque_pixels": 715
+    },
+    {
+      "id": "leathercraft-saddle-stitch",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        179,
+        183,
+        171,
+        131
+      ],
+      "review_edge": false,
+      "transparent_pixels": 861903,
+      "partial_alpha_pixels": 710613,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "leathercraft-belt-buckle",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        131,
+        257,
+        112,
+        283
+      ],
+      "review_edge": false,
+      "transparent_pixels": 997852,
+      "partial_alpha_pixels": 574262,
+      "opaque_pixels": 402
+    },
+    {
+      "id": "leathercraft-hide-roll",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        112,
+        219,
+        95,
+        204
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1006295,
+      "partial_alpha_pixels": 565333,
+      "opaque_pixels": 888
+    },
+    {
+      "id": "weaving-table-loom",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        159,
+        179,
+        138,
+        118
+      ],
+      "review_edge": false,
+      "transparent_pixels": 975427,
+      "partial_alpha_pixels": 596160,
+      "opaque_pixels": 929
+    },
+    {
+      "id": "weaving-shuttle",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        48,
+        368,
+        27,
+        320
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1163194,
+      "partial_alpha_pixels": 408729,
+      "opaque_pixels": 593
+    },
+    {
+      "id": "weaving-heddle",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        77,
+        328,
+        71,
+        327
+      ],
+      "review_edge": false,
+      "transparent_pixels": 985900,
+      "partial_alpha_pixels": 586075,
+      "opaque_pixels": 541
+    },
+    {
+      "id": "weaving-yarn-cones",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        113,
+        180,
+        115,
+        155
+      ],
+      "review_edge": false,
+      "transparent_pixels": 904289,
+      "partial_alpha_pixels": 667285,
+      "opaque_pixels": 942
+    },
+    {
+      "id": "weaving-warping-board",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        120,
+        200,
+        118,
+        155
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1036410,
+      "partial_alpha_pixels": 535810,
+      "opaque_pixels": 296
+    },
+    {
+      "id": "weaving-beater-comb",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        178,
+        228,
+        181,
+        194
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1057374,
+      "partial_alpha_pixels": 514277,
+      "opaque_pixels": 865
+    },
+    {
+      "id": "weaving-tapestry",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        303,
+        110,
+        300,
+        97
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1074652,
+      "partial_alpha_pixels": 497486,
+      "opaque_pixels": 378
+    },
+    {
+      "id": "weaving-drop-spindle",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        258,
+        147,
+        208,
+        115
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1228630,
+      "partial_alpha_pixels": 343173,
+      "opaque_pixels": 713
+    },
+    {
+      "id": "printmaking-brayer",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        244,
+        227,
+        194,
+        186
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1240250,
+      "partial_alpha_pixels": 331751,
+      "opaque_pixels": 515
+    },
+    {
+      "id": "printmaking-lino-block",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        194,
+        236,
+        193,
+        188
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1086229,
+      "partial_alpha_pixels": 485715,
+      "opaque_pixels": 572
+    },
+    {
+      "id": "printmaking-gouge",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        247,
+        288,
+        211,
+        249
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1357874,
+      "partial_alpha_pixels": 214030,
+      "opaque_pixels": 612
+    },
+    {
+      "id": "printmaking-ink-tube",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        173,
+        296,
+        153,
+        241
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1251541,
+      "partial_alpha_pixels": 320590,
+      "opaque_pixels": 385
+    },
+    {
+      "id": "printmaking-baren",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        135,
+        322,
+        133,
+        250
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1051584,
+      "partial_alpha_pixels": 520579,
+      "opaque_pixels": 353
+    },
+    {
+      "id": "printmaking-press",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        108,
+        193,
+        67,
+        147
+      ],
+      "review_edge": false,
+      "transparent_pixels": 944144,
+      "partial_alpha_pixels": 627409,
+      "opaque_pixels": 963
+    },
+    {
+      "id": "printmaking-ink-slab",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        57,
+        329,
+        58,
+        72
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1110144,
+      "partial_alpha_pixels": 461177,
+      "opaque_pixels": 1195
+    },
+    {
+      "id": "printmaking-leaf-print",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        134,
+        114,
+        126,
+        110
+      ],
+      "review_edge": false,
+      "transparent_pixels": 903300,
+      "partial_alpha_pixels": 669212,
+      "opaque_pixels": 4
+    },
+    {
+      "id": "bookbinding-press",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        102,
+        174,
+        86,
+        106
+      ],
+      "review_edge": false,
+      "transparent_pixels": 912715,
+      "partial_alpha_pixels": 659801,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "bookbinding-bone-folder",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        162,
+        239,
+        159,
+        167
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1306160,
+      "partial_alpha_pixels": 266356,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "bookbinding-sewing-frame",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        93,
+        113,
+        90,
+        91
+      ],
+      "review_edge": false,
+      "transparent_pixels": 881195,
+      "partial_alpha_pixels": 691321,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "bookbinding-signatures",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        124,
+        197,
+        116,
+        207
+      ],
+      "review_edge": false,
+      "transparent_pixels": 943346,
+      "partial_alpha_pixels": 629170,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "bookbinding-linen-thread",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        155,
+        154,
+        129,
+        155
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1063427,
+      "partial_alpha_pixels": 509089,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "bookbinding-glue-pot",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        47,
+        0,
+        59
+      ],
+      "review_edge": true,
+      "transparent_pixels": 910808,
+      "partial_alpha_pixels": 660954,
+      "opaque_pixels": 754
+    },
+    {
+      "id": "bookbinding-cloth-roll",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        118,
+        256,
+        80,
+        227
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1033716,
+      "partial_alpha_pixels": 538800,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "bookbinding-handbound-journal",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        150,
+        145,
+        130,
+        142
+      ],
+      "review_edge": false,
+      "transparent_pixels": 925165,
+      "partial_alpha_pixels": 647351,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "clockmaking-pocket-watch",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        134,
+        191,
+        123,
+        243
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1004090,
+      "partial_alpha_pixels": 567824,
+      "opaque_pixels": 602
+    },
+    {
+      "id": "clockmaking-gear-train",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        40,
+        93,
+        45,
+        168
+      ],
+      "review_edge": false,
+      "transparent_pixels": 776992,
+      "partial_alpha_pixels": 795296,
+      "opaque_pixels": 228
+    },
+    {
+      "id": "clockmaking-pendulum",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        432,
+        87,
+        435,
+        115
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1385177,
+      "partial_alpha_pixels": 187206,
+      "opaque_pixels": 133
+    },
+    {
+      "id": "clockmaking-mainspring",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        121,
+        222,
+        114,
+        274
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1005125,
+      "partial_alpha_pixels": 567390,
+      "opaque_pixels": 1
+    },
+    {
+      "id": "clockmaking-loupe",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        49,
+        39,
+        60,
+        54
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1063874,
+      "partial_alpha_pixels": 507836,
+      "opaque_pixels": 806
+    },
+    {
+      "id": "clockmaking-oiler",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        149,
+        219,
+        91,
+        218
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1378079,
+      "partial_alpha_pixels": 194280,
+      "opaque_pixels": 157
+    },
+    {
+      "id": "clockmaking-key",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        103,
+        218,
+        83,
+        250
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1142025,
+      "partial_alpha_pixels": 430491,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "clockmaking-movement-holder",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        55,
+        31,
+        6,
+        74
+      ],
+      "review_edge": true,
+      "transparent_pixels": 876168,
+      "partial_alpha_pixels": 694691,
+      "opaque_pixels": 1657
+    },
+    {
+      "id": "detective-magnifier",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        103,
+        68,
+        112,
+        72
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1091388,
+      "partial_alpha_pixels": 480096,
+      "opaque_pixels": 1032
+    },
+    {
+      "id": "detective-evidence-envelope",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        113,
+        263,
+        81,
+        195
+      ],
+      "review_edge": false,
+      "transparent_pixels": 957085,
+      "partial_alpha_pixels": 615412,
+      "opaque_pixels": 19
+    },
+    {
+      "id": "detective-fingerprint-kit",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        175,
+        121,
+        126,
+        118
+      ],
+      "review_edge": false,
+      "transparent_pixels": 864160,
+      "partial_alpha_pixels": 708356,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "detective-trench-coat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        181,
+        82,
+        183,
+        80
+      ],
+      "review_edge": false,
+      "transparent_pixels": 876834,
+      "partial_alpha_pixels": 695493,
+      "opaque_pixels": 189
+    },
+    {
+      "id": "detective-notebook",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        151,
+        275,
+        134,
+        268
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1095088,
+      "partial_alpha_pixels": 477427,
+      "opaque_pixels": 1
+    },
+    {
+      "id": "detective-evidence-marker",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        226,
+        277,
+        220,
+        244
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1142710,
+      "partial_alpha_pixels": 429804,
+      "opaque_pixels": 2
+    },
+    {
+      "id": "detective-fingerprint-card",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        57,
+        53,
+        1,
+        72
+      ],
+      "review_edge": true,
+      "transparent_pixels": 972076,
+      "partial_alpha_pixels": 599280,
+      "opaque_pixels": 1160
+    },
+    {
+      "id": "detective-footprint-cast",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        193,
+        130,
+        126,
+        98
+      ],
+      "review_edge": false,
+      "transparent_pixels": 944700,
+      "partial_alpha_pixels": 627816,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "shipwreck-diving-helmet",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        97,
+        39,
+        110,
+        41
+      ],
+      "review_edge": false,
+      "transparent_pixels": 784828,
+      "partial_alpha_pixels": 787315,
+      "opaque_pixels": 373
+    },
+    {
+      "id": "shipwreck-air-tank",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        377,
+        71,
+        175,
+        65
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1069704,
+      "partial_alpha_pixels": 502812,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "shipwreck-rusted-anchor",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        117,
+        73,
+        118,
+        62
+      ],
+      "review_edge": false,
+      "transparent_pixels": 988859,
+      "partial_alpha_pixels": 583657,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "shipwreck-porthole",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        31,
+        9,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 701874,
+      "partial_alpha_pixels": 870187,
+      "opaque_pixels": 455
     }
   ]
 }

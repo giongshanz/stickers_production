@@ -1,0 +1,11 @@
+{
+  "id": "weaving-warping-board",
+  "subject": "A square wooden warping board with cream yarn zigzagging around pegs",
+  "topic_slugs": ["weaving-studio"],
+  "profile": "objects",
+  "prompt": "Preserve this exact square wooden warping board with seven pegs and cream yarn zigzagging around them. Reframe only: make the complete sticker including its narrow white cut margin occupy about 72 percent of the square canvas in its longest dimension, centered, with generous true transparent padding on every side. Remove detached white flecks outside the cut margin. Keep the warm restrained hand-painted 2D wood colors and matte shading. Do not crop, change the yarn path, add text, scene or floor shadow. Square canvas, target 512 x 512.",
+  "referenced_image_paths": ["revisions/generation-20260921-weaving/weaving-warping-board-v1.png"],
+  "paths_relative_to": "workspace root", "target_dimensions": [512, 512], "target_only": true, "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final selected reframe followed by authorized alpha-only exterior cleanup; RGB and dimensions preserved. Initial prompt is state/requests/weaving-warping-board.json."
+}

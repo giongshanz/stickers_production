@@ -1,0 +1,14 @@
+{
+  "id": "leathercraft-mallet",
+  "subject": "A pale wooden leathercraft mallet with a broad cylindrical head",
+  "topic_slugs": ["leathercraft"],
+  "profile": "objects",
+  "prompt": "Edit this pale wooden leathercraft mallet sticker. Remove the small round peg or knob protruding from the top of the cylindrical head; the broad head must be one clean uninterrupted cylinder with two flat circular striking faces and the wooden handle joined underneath. Preserve the warm restrained hand-painted 2D colors, simple wood grain and narrow white cut margin. Reframe the complete sticker smaller, centered, occupying about 72 percent of the square canvas in its longest dimension, with generous true transparent padding on every side. Remove detached white flecks outside the cut margin. No extra tools, scene, text, logo or floor shadow. Square canvas, target 512 x 512.",
+  "referenced_image_paths": ["revisions/generation-20260921/leathercraft-mallet-v1.png"],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final selected anatomy correction and reframe, followed by authorized alpha-only cleanup of detached white fringe; canvas dimensions and RGB artwork were preserved. Initial prompt is state/requests/leathercraft-mallet.json."
+}

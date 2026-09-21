@@ -1,0 +1,14 @@
+{
+  "id": "glassblowing-jacks",
+  "subject": "A pair of long dark steel glassblowing jacks with gently curved blades",
+  "topic_slugs": ["glassblowing"],
+  "profile": "objects",
+  "prompt": "Edit this sticker with one exact correction: clean the transparency and white cut margin in the open gap between the two long handles and around the two blades. The entire empty gap must be true transparent alpha, with only one narrow, smooth, continuous white cut border hugging each steel edge. Remove every detached white speck, jagged white island and black/white debris. Preserve the tool's exact steel shapes, pivot, colors, shading, diagonal composition and padding. Do not add finger loops or change it into ordinary scissors. One isolated sticker, no scene, no text, no checkerboard. Square canvas, target 512 x 512.",
+  "referenced_image_paths": ["revisions/generation-20260921/glassblowing-jacks-v2.png"],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final ImageGen edit cleans internal openings after the v2 anatomy correction. Selected candidate then received authorized alpha-only white-margin cleanup with RGB and dimensions preserved. Initial request is state/requests/glassblowing-jacks.json."
+}

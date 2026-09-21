@@ -1,0 +1,14 @@
+{
+  "id": "weaving-shuttle",
+  "subject": "A long wooden boat shuttle holding a spool of muted rust yarn",
+  "topic_slugs": ["weaving-studio"],
+  "profile": "objects",
+  "prompt": "Preserve this exact long wooden boat shuttle with the muted rust yarn bobbin and short loose yarn tail. Reframe only: make the complete sticker including its narrow white cut margin occupy about 74 percent of the square canvas in its longest dimension, centered, with generous true transparent padding on every side. Remove detached white flecks outside the cut margin. Keep the warm restrained hand-painted 2D colors, simple wood grain and matte shading. Do not crop or add objects, text, scene or floor shadow. Square canvas, target 512 x 512.",
+  "referenced_image_paths": ["revisions/generation-20260921-weaving/weaving-shuttle-v1.png"],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final selected reframe followed by authorized alpha-only exterior cleanup; RGB and dimensions were preserved. Initial prompt is state/requests/weaving-shuttle.json."
+}

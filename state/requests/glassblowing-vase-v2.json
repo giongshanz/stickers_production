@@ -1,0 +1,17 @@
+{
+  "id": "glassblowing-vase",
+  "subject": "A handmade pale aqua glass vase with a gently wavy rim",
+  "topic_slugs": ["glassblowing"],
+  "profile": "objects",
+  "prompt": "Edit Image 1 by removing every flower, leaf and decorative motif from the vase. Keep the same handmade pale aqua glass vase silhouette with its gently wavy rim, rounded body and small foot. Make the glass plain and unpatterned, with restrained semi-transparent aqua color and only two or three soft broad same-hue shading patches plus a couple of small subtle highlights; reduce the strong glossy look. Image 2 is a style reference only. Preserve the centered composition, comfortable true transparent padding and narrow clean white sticker-cut margin. No flowers, leaves, etched pattern, text, scene, floor shadow or watermark. Warm hand-painted 2D casual-game style, not shiny 3D. Square canvas, target 512 x 512.",
+  "referenced_image_paths": [
+    "revisions/generation-20260921/glassblowing-vase-v1.png",
+    "references/Stickers/2. Home appliance/68-Home Appliance_2.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final edit removes the copied floral motif and tones down the glass highlights. Initial exact prompt is in state/requests/glassblowing-vase.json."
+}

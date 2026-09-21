@@ -1,0 +1,14 @@
+{
+  "id": "leathercraft-awl",
+  "subject": "A short leatherworker's awl with a rounded wooden handle and pointed steel shaft",
+  "topic_slugs": ["leathercraft"],
+  "profile": "objects",
+  "prompt": "Preserve this exact leatherworker awl, including its rounded wooden handle, brass ferrule, pointed steel shaft, diagonal pose, colors and shading. Reframe only: make the complete sticker including white cut margin occupy about 72 percent of the square canvas in its longest dimension, centered, with at least 12 percent true transparent padding on every side. Do not crop or add anything. No scene, text or floor shadow. Square canvas, target 512 x 512.",
+  "referenced_image_paths": ["revisions/generation-20260921/leathercraft-awl-v1.png"],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final selected reframe. Initial prompt is state/requests/leathercraft-awl.json."
+}

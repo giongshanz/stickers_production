@@ -1,0 +1,14 @@
+{
+  "id": "glassblowing-shears",
+  "subject": "A pair of long steel glassblowing diamond shears with broad dark handles",
+  "topic_slugs": ["glassblowing"],
+  "profile": "objects",
+  "prompt": "Edit this exact glassblowing diamond shears sticker only by reframing it smaller and cleaning the alpha openings. Preserve the large dark oval finger-loop handles, central pivot, short V-notched jaws and the obvious open diamond-shaped cutting area at the tip, with the same steel colors and warm hand-painted 2D shading. The COMPLETE sticker including its white cut margin should occupy about 78 to 80 percent of the square canvas in its longest dimension, centered with at least 10 percent true transparent padding on every side. Every handle opening, the space between the shanks and the diamond cutting opening must be true transparent alpha with a narrow smooth continuous white cut margin and no debris. Do not crop, change the tool anatomy, add text or add a scene. Square canvas, target 512 x 512.",
+  "referenced_image_paths": ["revisions/generation-20260921/glassblowing-shears-v2.png"],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final edit preserves the corrected V-notched diamond jaws while adding safer framing. The rejected alpha-only trial removed artwork and was not selected. Initial exact prompt is in state/requests/glassblowing-shears.json."
+}

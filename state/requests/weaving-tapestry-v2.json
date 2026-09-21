@@ -1,0 +1,11 @@
+{
+  "id": "weaving-tapestry",
+  "subject": "A small finished woven wall hanging with geometric earth toned bands and fringe",
+  "topic_slugs": ["weaving-studio"],
+  "profile": "objects",
+  "prompt": "Preserve this exact small finished woven wall hanging with its wooden rod, hanging cord, earth-toned geometric bands and cream fringe. Reframe the complete sticker smaller and centered, occupying about 72 percent of the square canvas in its longest dimension, with generous true transparent padding on every side. The triangular open area inside the hanging cord must be clean actual transparent background with no white or colored flecks. Keep a narrow smooth white cut margin around the solid outer silhouette, warm restrained hand-painted 2D color and matte woven texture. Do not add text, scene or extra objects. Square canvas, target 512 x 512.",
+  "referenced_image_paths": ["revisions/generation-20260921-weaving/weaving-tapestry-v1.png"],
+  "paths_relative_to": "workspace root", "target_dimensions": [512, 512], "target_only": true, "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Rejected because a long horizontal artifact extended from the right edge."
+}

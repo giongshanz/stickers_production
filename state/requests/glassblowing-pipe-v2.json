@@ -1,0 +1,23 @@
+{
+  "id": "glassblowing-pipe",
+  "subject": "A long glassblower's blowpipe with a small warm orange glass bubble at its tip",
+  "topic_slugs": [
+    "glassblowing"
+  ],
+  "profile": "objects",
+  "prompt": "Edit the first input image only. Correct the object so it is an accurate traditional glassblower's blowpipe: one long continuous hollow steel tube with a small simple open mouthpiece at the upper-right end, absolutely no wooden handle or grip. Reduce the molten warm-orange glass gather at the lower-left tip so it is a small rounded bubble, clearly smaller than in the source. Preserve the same diagonal pose, centered composition, comfortable transparent padding, narrow clean white sticker-cut margin, warm restrained hand-painted 2D style, thin locally tinted outlines, quiet same-hue shading, and actual transparent background. Keep it as one isolated sticker. No scene, floor shadow, text, letters, logo, watermark, face, glossy 3D toy look, deep dark crevices, or dense texture. Square canvas, target 512 x 512; do not crop any part.\nInput roles: Image 1 is the edit target. Images 2 and 3 are style references only.",
+  "referenced_image_paths": [
+    "revisions/generation-20260921/glassblowing-pipe-v1.png",
+    "references/Stickers/8-Gardening/8-Gardening_1.png",
+    "references/Stickers/2. Home appliance/68-Home Appliance_2.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final edit corrected the blowpipe anatomy and reduced the molten glass gather. Initial exact prompt is in state/requests/glassblowing-pipe.json."
+}

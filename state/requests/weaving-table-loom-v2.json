@@ -1,0 +1,14 @@
+{
+  "id": "weaving-table-loom",
+  "subject": "A compact wooden table loom with a partly woven teal and cream cloth",
+  "topic_slugs": ["weaving-studio"],
+  "profile": "objects",
+  "prompt": "Edit this compact wooden table loom sticker while preserving its recognizable frame, cream warp threads and partly woven teal-and-cream cloth. Make every open space between the loom's wooden frame members and outside the actual warp threads show true transparent background; remove the irregular white debris floating above and around the loom. Keep only a narrow smooth white sticker-cut margin directly following the outer solid silhouette and the cloth. Reframe the complete sticker smaller and centered, occupying about 74 percent of the square canvas in its longest dimension, with generous transparent padding on every side. Preserve the warm restrained hand-painted 2D style and simple matte shading. No extra tools, text, scene or floor shadow. Square canvas, target 512 x 512.",
+  "referenced_image_paths": ["revisions/generation-20260921-weaving/weaving-table-loom-v1.png"],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Selected edit followed by authorized alpha-only cleanup of detached exterior fringe and two enclosed upper-frame openings. RGB and dimensions were preserved. A later solid-support edit was rejected for introducing colored debris between warp threads. Initial prompt is state/requests/weaving-table-loom.json."
+}

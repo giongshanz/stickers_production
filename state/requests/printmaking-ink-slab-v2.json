@@ -1,0 +1,15 @@
+{
+  "id": "printmaking-ink-slab",
+  "subject": "A rectangular glass inking slab with a thin patch of teal ink",
+  "topic_slugs": ["printmaking"],
+  "profile": "objects",
+  "mode": "image-edit",
+  "prompt": "Edit the FIRST supplied image only. The other supplied images are original style references only. Preserve the same single sticker subject, hand-painted 2D casual-game treatment, warm restrained colors, thin locally tinted outlines, matte painted volume, two or three quiet same-hue shadow patches, and narrow clean white sticker-cut margin. Keep true transparent PNG background. Recompose the complete subject to approximately 70% of the square canvas longest dimension, centered with generous even padding. Target 512 x 512. No scene, floor shadow, text, letters, logo, watermark, extra objects, or stray debris. Subject: a simple rectangular glass inking slab, not a deep tray. Make it a low flat transparent glass plate with subtly visible glass edges and only one thin, matte patch of teal printing ink spread on its top surface. Reduce shine and eliminate extra droplets.",
+  "referenced_image_paths": ["revisions/generation-20260921-printmaking/printmaking-ink-slab-v1.png", "references/Stickers/8-Gardening/8-Gardening_1.png", "references/Stickers/2. Home appliance/68-Home Appliance_2.png"],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "postprocess": "None; retained returned alpha because the glass plate is intentionally semi-transparent."
+}

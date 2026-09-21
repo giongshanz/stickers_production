@@ -1,0 +1,14 @@
+{
+  "id": "leathercraft-belt-buckle",
+  "subject": "A warm brown leather belt end threaded through a simple brass buckle",
+  "topic_slugs": ["leathercraft"],
+  "profile": "objects",
+  "prompt": "Preserve this exact warm brown leather belt end threaded through the simple brass buckle, including the keeper loop, holes, cream stitching, colors and shading. Reframe only: make the complete sticker including the narrow white cut margin occupy about 72 percent of the square canvas in its longest dimension, centered, with generous true transparent padding on every side. Remove detached white flecks outside the cut margin. Do not crop, add text, logo, scene or floor shadow. Square canvas, target 512 x 512.",
+  "referenced_image_paths": ["revisions/generation-20260921/leathercraft-belt-buckle-v1.png"],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final selected reframe followed by authorized alpha-only cleanup of detached white fringe; canvas dimensions and RGB artwork were preserved. Initial prompt is state/requests/leathercraft-belt-buckle.json."
+}

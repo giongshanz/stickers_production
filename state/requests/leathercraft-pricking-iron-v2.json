@@ -1,0 +1,14 @@
+{
+  "id": "leathercraft-pricking-iron",
+  "subject": "A dark metal leather pricking iron with four evenly spaced teeth",
+  "topic_slugs": ["leathercraft"],
+  "profile": "objects",
+  "prompt": "Edit this leather pricking iron sticker with one exact correction: the dark steel head must have EXACTLY FOUR evenly spaced pointed teeth, not five. Count the visible teeth from left to right as 1, 2, 3, 4. Preserve the same rounded wooden handle, ferrule, diagonal pose, warm restrained hand-painted 2D style, narrow white cut margin, clear padding and actual transparent background. Do not add a leather piece, hammer, text, logo or scene. Square canvas, target 512 x 512.",
+  "referenced_image_paths": ["revisions/generation-20260921/leathercraft-pricking-iron-v1.png"],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Exact tooth-count correction pass. Initial prompt is state/requests/leathercraft-pricking-iron.json."
+}

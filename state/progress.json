@@ -1,14 +1,14 @@
 {
-  "updated_utc": "2026-09-18T08:56:57.587397+00:00",
+  "updated_utc": "2026-09-21T08:06:29.613810+00:00",
   "target_topics": 50,
   "target_slots": 400,
   "target_unique": 390,
-  "generated_unique": 278,
-  "missing_unique": 112,
-  "alpha_corners_clear_unique": 278,
+  "generated_unique": 338,
+  "missing_unique": 52,
+  "alpha_corners_clear_unique": 338,
   "needs_alpha_unique": 0,
-  "topics_with_all_images": 36,
-  "generated_topic_slots": 288,
+  "topics_with_all_images": 43,
+  "generated_topic_slots": 348,
   "visual_rework_unique": 0,
   "complete": false,
   "prompt_target_dimensions": [
@@ -8653,8 +8653,29 @@
         "glassblowing"
       ],
       "source": "masters/glassblowing-pipe.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1412089,
+      "partial_alpha_pixels": 159498,
+      "opaque_pixels": 929,
+      "padding_nonzero_alpha": [
+        73,
+        104,
+        47,
+        69
+      ],
+      "review_edge": false,
+      "sha256": "b03c29b24254454106bdc4c1166c4bb4257592e3ace2670481f0f68e68f52f21",
+      "bytes": 373090
     },
     {
       "id": "glassblowing-jacks",
@@ -8663,8 +8684,29 @@
         "glassblowing"
       ],
       "source": "masters/glassblowing-jacks.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1306477,
+      "partial_alpha_pixels": 264910,
+      "opaque_pixels": 1129,
+      "padding_nonzero_alpha": [
+        32,
+        115,
+        18,
+        109
+      ],
+      "review_edge": true,
+      "sha256": "68f53f7623dcdd00a43931d77c994d63af23b7c36c13f0f0ce1f6a1288012c5e",
+      "bytes": 616744
     },
     {
       "id": "glassblowing-marver",
@@ -8673,8 +8715,29 @@
         "glassblowing"
       ],
       "source": "masters/glassblowing-marver.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1093891,
+      "partial_alpha_pixels": 478625,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        157,
+        118,
+        63,
+        94
+      ],
+      "review_edge": false,
+      "sha256": "cba2b3cabdd70d62fa87e1cc3c11d0881d4a500d12a05dfba61c6b28a121a067",
+      "bytes": 830210
     },
     {
       "id": "glassblowing-furnace",
@@ -8683,8 +8746,29 @@
         "glassblowing"
       ],
       "source": "masters/glassblowing-furnace.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 827882,
+      "partial_alpha_pixels": 743972,
+      "opaque_pixels": 662,
+      "padding_nonzero_alpha": [
+        73,
+        49,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "sha256": "f05ef6eaedb10c2849f3f3bd699aa785e68f76c8b0bc241c3cf4cb1ddb1f0143",
+      "bytes": 1084759
     },
     {
       "id": "glassblowing-vase",
@@ -8693,8 +8777,29 @@
         "glassblowing"
       ],
       "source": "masters/glassblowing-vase.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1050478,
+      "partial_alpha_pixels": 520913,
+      "opaque_pixels": 1125,
+      "padding_nonzero_alpha": [
+        49,
+        53,
+        271,
+        88
+      ],
+      "review_edge": false,
+      "sha256": "21bfa04fba5d3d90de9586cfa7b3e9b5b24674a57864c20308938c90bb754d24",
+      "bytes": 734097
     },
     {
       "id": "glassblowing-paperweight",
@@ -8703,8 +8808,29 @@
         "glassblowing"
       ],
       "source": "masters/glassblowing-paperweight.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 970795,
+      "partial_alpha_pixels": 601106,
+      "opaque_pixels": 615,
+      "padding_nonzero_alpha": [
+        178,
+        103,
+        56,
+        52
+      ],
+      "review_edge": false,
+      "sha256": "62b419b59511d3ce1e5531786127d969af46e1d422ebe5e9bc33dac770b2ecf0",
+      "bytes": 862847
     },
     {
       "id": "glassblowing-block",
@@ -8713,8 +8839,29 @@
         "glassblowing"
       ],
       "source": "masters/glassblowing-block.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1171000,
+      "partial_alpha_pixels": 400965,
+      "opaque_pixels": 551,
+      "padding_nonzero_alpha": [
+        97,
+        53,
+        56,
+        24
+      ],
+      "review_edge": true,
+      "sha256": "316fbf12ac7a3af57d2eae9ec6279f0875db568248057dadd6923b99cd77c4c1",
+      "bytes": 630821
     },
     {
       "id": "glassblowing-shears",
@@ -8723,8 +8870,29 @@
         "glassblowing"
       ],
       "source": "masters/glassblowing-shears.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1153997,
+      "partial_alpha_pixels": 417224,
+      "opaque_pixels": 1295,
+      "padding_nonzero_alpha": [
+        97,
+        103,
+        32,
+        72
+      ],
+      "review_edge": false,
+      "sha256": "35ed37c39e8d7bc1a185aedb7ed97ad0f0cf8ac5512c4c8a725bc72de97791ba",
+      "bytes": 789015
     },
     {
       "id": "leathercraft-stitching-pony",
@@ -8733,8 +8901,29 @@
         "leathercraft"
       ],
       "source": "masters/leathercraft-stitching-pony.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1112465,
+      "partial_alpha_pixels": 459577,
+      "opaque_pixels": 474,
+      "padding_nonzero_alpha": [
+        97,
+        53,
+        86,
+        40
+      ],
+      "review_edge": false,
+      "sha256": "cc12e3296316956270a91dda5f45d7a41fd72a31a4c8ef84f348a86fc6da3b87",
+      "bytes": 730651
     },
     {
       "id": "leathercraft-awl",
@@ -8743,8 +8932,29 @@
         "leathercraft"
       ],
       "source": "masters/leathercraft-awl.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1334204,
+      "partial_alpha_pixels": 237564,
+      "opaque_pixels": 748,
+      "padding_nonzero_alpha": [
+        103,
+        51,
+        32,
+        72
+      ],
+      "review_edge": false,
+      "sha256": "9694c4a64eb88ef6115cf1be0c310bbaa752cde83366bc61b331ecb80f497b93",
+      "bytes": 423772
     },
     {
       "id": "leathercraft-edge-beveler",
@@ -8753,8 +8963,29 @@
         "leathercraft"
       ],
       "source": "masters/leathercraft-edge-beveler.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1318348,
+      "partial_alpha_pixels": 253659,
+      "opaque_pixels": 509,
+      "padding_nonzero_alpha": [
+        191,
+        263,
+        118,
+        210
+      ],
+      "review_edge": false,
+      "sha256": "11cac331d6a1284ce857ac3b22cdebce5dd6f08b4992b1b98c70abfe9151b9e3",
+      "bytes": 485782
     },
     {
       "id": "leathercraft-pricking-iron",
@@ -8763,8 +8994,29 @@
         "leathercraft"
       ],
       "source": "masters/leathercraft-pricking-iron.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1262569,
+      "partial_alpha_pixels": 309282,
+      "opaque_pixels": 665,
+      "padding_nonzero_alpha": [
+        41,
+        53,
+        55,
+        24
+      ],
+      "review_edge": true,
+      "sha256": "ea3940f8c6ed1f7f162bb9e09ed5d75925e28febd6bbbe0516c3d48cfd4206d2",
+      "bytes": 562599
     },
     {
       "id": "leathercraft-mallet",
@@ -8773,8 +9025,29 @@
         "leathercraft"
       ],
       "source": "masters/leathercraft-mallet.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1275629,
+      "partial_alpha_pixels": 296172,
+      "opaque_pixels": 715,
+      "padding_nonzero_alpha": [
+        286,
+        222,
+        270,
+        201
+      ],
+      "review_edge": false,
+      "sha256": "7e3ff2eccab996cfde601606d279cfe378003b561909698289d49bd53f261068",
+      "bytes": 508478
     },
     {
       "id": "leathercraft-saddle-stitch",
@@ -8783,8 +9056,29 @@
         "leathercraft"
       ],
       "source": "masters/leathercraft-saddle-stitch.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 861903,
+      "partial_alpha_pixels": 710613,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        179,
+        183,
+        171,
+        131
+      ],
+      "review_edge": false,
+      "sha256": "b3ba1356c25984d98068be3370f48b4f3dca45d785f58ab642f34d974d4757ec",
+      "bytes": 922321
     },
     {
       "id": "leathercraft-belt-buckle",
@@ -8793,8 +9087,29 @@
         "leathercraft"
       ],
       "source": "masters/leathercraft-belt-buckle.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 997852,
+      "partial_alpha_pixels": 574262,
+      "opaque_pixels": 402,
+      "padding_nonzero_alpha": [
+        131,
+        257,
+        112,
+        283
+      ],
+      "review_edge": false,
+      "sha256": "6590c04a23c272dd397fabef379e98de66c9eefbf14da43e2de7fe71123d840d",
+      "bytes": 815825
     },
     {
       "id": "leathercraft-hide-roll",
@@ -8803,8 +9118,29 @@
         "leathercraft"
       ],
       "source": "masters/leathercraft-hide-roll.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1006295,
+      "partial_alpha_pixels": 565333,
+      "opaque_pixels": 888,
+      "padding_nonzero_alpha": [
+        112,
+        219,
+        95,
+        204
+      ],
+      "review_edge": false,
+      "sha256": "528a0f290f613cd581adaa6f9e76794f2be781b7678a2c8a68f558db9b236e6b",
+      "bytes": 891948
     },
     {
       "id": "weaving-table-loom",
@@ -8813,8 +9149,29 @@
         "weaving-studio"
       ],
       "source": "masters/weaving-table-loom.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 975427,
+      "partial_alpha_pixels": 596160,
+      "opaque_pixels": 929,
+      "padding_nonzero_alpha": [
+        159,
+        179,
+        138,
+        118
+      ],
+      "review_edge": false,
+      "sha256": "aa2d883826113ce94ef62b2b291e6f33a5afb01e50ad70d35de8fb9d9073f8da",
+      "bytes": 1093095
     },
     {
       "id": "weaving-shuttle",
@@ -8823,8 +9180,29 @@
         "weaving-studio"
       ],
       "source": "masters/weaving-shuttle.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1163194,
+      "partial_alpha_pixels": 408729,
+      "opaque_pixels": 593,
+      "padding_nonzero_alpha": [
+        48,
+        368,
+        27,
+        320
+      ],
+      "review_edge": false,
+      "sha256": "8721d23228ee479106cf0aae721c1fda1e0b53b43154c3c46545b1c6e7f80fcd",
+      "bytes": 658450
     },
     {
       "id": "weaving-heddle",
@@ -8833,8 +9211,29 @@
         "weaving-studio"
       ],
       "source": "masters/weaving-heddle.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 985900,
+      "partial_alpha_pixels": 586075,
+      "opaque_pixels": 541,
+      "padding_nonzero_alpha": [
+        77,
+        328,
+        71,
+        327
+      ],
+      "review_edge": false,
+      "sha256": "765330b75dfd39b56d9d562a63ee0e7a14b0098154c0b08693734d62fcedc267",
+      "bytes": 663509
     },
     {
       "id": "weaving-yarn-cones",
@@ -8843,8 +9242,29 @@
         "weaving-studio"
       ],
       "source": "masters/weaving-yarn-cones.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 904289,
+      "partial_alpha_pixels": 667285,
+      "opaque_pixels": 942,
+      "padding_nonzero_alpha": [
+        113,
+        180,
+        115,
+        155
+      ],
+      "review_edge": false,
+      "sha256": "ee9d6b43eb6bfb83378299ebe7285ba8c3567c19834af52dc77c66e546d6ff79",
+      "bytes": 1137265
     },
     {
       "id": "weaving-warping-board",
@@ -8853,8 +9273,29 @@
         "weaving-studio"
       ],
       "source": "masters/weaving-warping-board.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1036410,
+      "partial_alpha_pixels": 535810,
+      "opaque_pixels": 296,
+      "padding_nonzero_alpha": [
+        120,
+        200,
+        118,
+        155
+      ],
+      "review_edge": false,
+      "sha256": "110de0f992b5da8e163959791cda09d49caa8d9e30c0bebc436d891736c76ec5",
+      "bytes": 928680
     },
     {
       "id": "weaving-beater-comb",
@@ -8863,8 +9304,29 @@
         "weaving-studio"
       ],
       "source": "masters/weaving-beater-comb.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1057374,
+      "partial_alpha_pixels": 514277,
+      "opaque_pixels": 865,
+      "padding_nonzero_alpha": [
+        178,
+        228,
+        181,
+        194
+      ],
+      "review_edge": false,
+      "sha256": "f57dfd1a6a7c8887dce6fd9038843d5c0ced1b68b54978d3b85ad6d8ff7b3330",
+      "bytes": 840720
     },
     {
       "id": "weaving-tapestry",
@@ -8873,8 +9335,29 @@
         "weaving-studio"
       ],
       "source": "masters/weaving-tapestry.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1074652,
+      "partial_alpha_pixels": 497486,
+      "opaque_pixels": 378,
+      "padding_nonzero_alpha": [
+        303,
+        110,
+        300,
+        97
+      ],
+      "review_edge": false,
+      "sha256": "59a1c36c5db3d3b14ebb6b6446794893419f9408b2fc9d4e1345206dc8110999",
+      "bytes": 924615
     },
     {
       "id": "weaving-drop-spindle",
@@ -8883,8 +9366,29 @@
         "weaving-studio"
       ],
       "source": "masters/weaving-drop-spindle.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1228630,
+      "partial_alpha_pixels": 343173,
+      "opaque_pixels": 713,
+      "padding_nonzero_alpha": [
+        258,
+        147,
+        208,
+        115
+      ],
+      "review_edge": false,
+      "sha256": "5be15f059e6d7748cf864c28efb91fbd0f7b45967f2abc22ea72b3a9562c87ce",
+      "bytes": 677321
     },
     {
       "id": "printmaking-brayer",
@@ -8893,8 +9397,29 @@
         "printmaking"
       ],
       "source": "masters/printmaking-brayer.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1240250,
+      "partial_alpha_pixels": 331751,
+      "opaque_pixels": 515,
+      "padding_nonzero_alpha": [
+        244,
+        227,
+        194,
+        186
+      ],
+      "review_edge": false,
+      "sha256": "3357b744558565e2cece7e01a4f8dcc5e854f6b251b0ed780d39e828ecd1d483",
+      "bytes": 541637
     },
     {
       "id": "printmaking-lino-block",
@@ -8903,8 +9428,29 @@
         "printmaking"
       ],
       "source": "masters/printmaking-lino-block.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1086229,
+      "partial_alpha_pixels": 485715,
+      "opaque_pixels": 572,
+      "padding_nonzero_alpha": [
+        194,
+        236,
+        193,
+        188
+      ],
+      "review_edge": false,
+      "sha256": "7e593f88b761776999f152547308f9ceb6038e42ecf192675f50d9cddd314475",
+      "bytes": 812079
     },
     {
       "id": "printmaking-gouge",
@@ -8913,8 +9459,29 @@
         "printmaking"
       ],
       "source": "masters/printmaking-gouge.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1357874,
+      "partial_alpha_pixels": 214030,
+      "opaque_pixels": 612,
+      "padding_nonzero_alpha": [
+        247,
+        288,
+        211,
+        249
+      ],
+      "review_edge": false,
+      "sha256": "6bea2e277e6ac91c342512d5e8b01d862bd1186aec633d609f541ac0824a2616",
+      "bytes": 397522
     },
     {
       "id": "printmaking-ink-tube",
@@ -8923,8 +9490,29 @@
         "printmaking"
       ],
       "source": "masters/printmaking-ink-tube.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1251541,
+      "partial_alpha_pixels": 320590,
+      "opaque_pixels": 385,
+      "padding_nonzero_alpha": [
+        173,
+        296,
+        153,
+        241
+      ],
+      "review_edge": false,
+      "sha256": "148365ba63a905568537cb88014205b37f26cf383fc70f60ba3a277a6cdc26b9",
+      "bytes": 556531
     },
     {
       "id": "printmaking-baren",
@@ -8933,8 +9521,29 @@
         "printmaking"
       ],
       "source": "masters/printmaking-baren.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1051584,
+      "partial_alpha_pixels": 520579,
+      "opaque_pixels": 353,
+      "padding_nonzero_alpha": [
+        135,
+        322,
+        133,
+        250
+      ],
+      "review_edge": false,
+      "sha256": "1f276e1f9e2e3c7313530003b7affb6130eae9cc062f4e5c09eef69a58cfd553",
+      "bytes": 857856
     },
     {
       "id": "printmaking-press",
@@ -8943,8 +9552,29 @@
         "printmaking"
       ],
       "source": "masters/printmaking-press.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 944144,
+      "partial_alpha_pixels": 627409,
+      "opaque_pixels": 963,
+      "padding_nonzero_alpha": [
+        108,
+        193,
+        67,
+        147
+      ],
+      "review_edge": false,
+      "sha256": "b4ba0bdfebc9ccf5075bbe7a174f1d1917363114b5dd6c86235bb4791577b7ac",
+      "bytes": 977634
     },
     {
       "id": "printmaking-ink-slab",
@@ -8953,8 +9583,29 @@
         "printmaking"
       ],
       "source": "masters/printmaking-ink-slab.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1110144,
+      "partial_alpha_pixels": 461177,
+      "opaque_pixels": 1195,
+      "padding_nonzero_alpha": [
+        57,
+        329,
+        58,
+        72
+      ],
+      "review_edge": false,
+      "sha256": "d71faa50577047936d7ae8a83e1b674078cf5e918f8d57353166bd88ad06dbc7",
+      "bytes": 729932
     },
     {
       "id": "printmaking-leaf-print",
@@ -8963,8 +9614,29 @@
         "printmaking"
       ],
       "source": "masters/printmaking-leaf-print.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 903300,
+      "partial_alpha_pixels": 669212,
+      "opaque_pixels": 4,
+      "padding_nonzero_alpha": [
+        134,
+        114,
+        126,
+        110
+      ],
+      "review_edge": false,
+      "sha256": "73a44328c17ee142bdd1625bf4803e236054070d7f87f4c0361f51a9ad59ed6e",
+      "bytes": 1040895
     },
     {
       "id": "bookbinding-press",
@@ -8973,8 +9645,29 @@
         "bookbinding"
       ],
       "source": "masters/bookbinding-press.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 912715,
+      "partial_alpha_pixels": 659801,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        102,
+        174,
+        86,
+        106
+      ],
+      "review_edge": false,
+      "sha256": "7e4fe4fe1217d683aa3003afd6b228d037f292d718e239b4accf205097962322",
+      "bytes": 1085449
     },
     {
       "id": "bookbinding-bone-folder",
@@ -8983,8 +9676,29 @@
         "bookbinding"
       ],
       "source": "masters/bookbinding-bone-folder.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1306160,
+      "partial_alpha_pixels": 266356,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        162,
+        239,
+        159,
+        167
+      ],
+      "review_edge": false,
+      "sha256": "df527909bf69ed9353dc0af88f75aa7f2a65627f1f3e91f6a6078c56ff590149",
+      "bytes": 393235
     },
     {
       "id": "bookbinding-sewing-frame",
@@ -8993,8 +9707,29 @@
         "bookbinding"
       ],
       "source": "masters/bookbinding-sewing-frame.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 881195,
+      "partial_alpha_pixels": 691321,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        93,
+        113,
+        90,
+        91
+      ],
+      "review_edge": false,
+      "sha256": "1c065b0d040f034cbb374a0fa420572b0e10889b03f949a64d22fe7c7ebb143c",
+      "bytes": 1095093
     },
     {
       "id": "bookbinding-signatures",
@@ -9003,8 +9738,29 @@
         "bookbinding"
       ],
       "source": "masters/bookbinding-signatures.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 943346,
+      "partial_alpha_pixels": 629170,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        124,
+        197,
+        116,
+        207
+      ],
+      "review_edge": false,
+      "sha256": "63f79703585673cac54c4b69edc8874f7ed20a56d9de99103fa22c944df8335d",
+      "bytes": 968509
     },
     {
       "id": "bookbinding-linen-thread",
@@ -9013,8 +9769,29 @@
         "bookbinding"
       ],
       "source": "masters/bookbinding-linen-thread.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1063427,
+      "partial_alpha_pixels": 509089,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        155,
+        154,
+        129,
+        155
+      ],
+      "review_edge": false,
+      "sha256": "2637009de7effc961cfd1c8d6eb48c85236a5f592c80ccd62cc8472feb95eb97",
+      "bytes": 929005
     },
     {
       "id": "bookbinding-glue-pot",
@@ -9023,8 +9800,29 @@
         "bookbinding"
       ],
       "source": "masters/bookbinding-glue-pot.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 910808,
+      "partial_alpha_pixels": 660954,
+      "opaque_pixels": 754,
+      "padding_nonzero_alpha": [
+        0,
+        47,
+        0,
+        59
+      ],
+      "review_edge": true,
+      "sha256": "a2928e0e37855aed323f1db572c9c6a6ff1b6c4a677cab18c6cd7fa744372c6d",
+      "bytes": 900531
     },
     {
       "id": "bookbinding-cloth-roll",
@@ -9033,8 +9831,29 @@
         "bookbinding"
       ],
       "source": "masters/bookbinding-cloth-roll.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1033716,
+      "partial_alpha_pixels": 538800,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        118,
+        256,
+        80,
+        227
+      ],
+      "review_edge": false,
+      "sha256": "1c64499abbf194b7962243b0b3010ce17d47106f9d6d37fbc57a7eceef64bfad",
+      "bytes": 978612
     },
     {
       "id": "bookbinding-handbound-journal",
@@ -9043,8 +9862,29 @@
         "bookbinding"
       ],
       "source": "masters/bookbinding-handbound-journal.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 925165,
+      "partial_alpha_pixels": 647351,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        150,
+        145,
+        130,
+        142
+      ],
+      "review_edge": false,
+      "sha256": "ecbc7ea3fa21b15c33a884337d4da12d80357acb0fdcaf74f3095850e7459e12",
+      "bytes": 952235
     },
     {
       "id": "clockmaking-pocket-watch",
@@ -9053,8 +9893,29 @@
         "clockmaking"
       ],
       "source": "masters/clockmaking-pocket-watch.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1004090,
+      "partial_alpha_pixels": 567824,
+      "opaque_pixels": 602,
+      "padding_nonzero_alpha": [
+        134,
+        191,
+        123,
+        243
+      ],
+      "review_edge": false,
+      "sha256": "311bc255a850e3b16fd08f37b3ec5490783321929d49d4974ace7324db780b72",
+      "bytes": 1030042
     },
     {
       "id": "clockmaking-gear-train",
@@ -9063,8 +9924,29 @@
         "clockmaking"
       ],
       "source": "masters/clockmaking-gear-train.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 776992,
+      "partial_alpha_pixels": 795296,
+      "opaque_pixels": 228,
+      "padding_nonzero_alpha": [
+        40,
+        93,
+        45,
+        168
+      ],
+      "review_edge": false,
+      "sha256": "98060ac012efc3a795fea44b348dc71e7db874263e7f4e267c0c81963cec6a4e",
+      "bytes": 1294751
     },
     {
       "id": "clockmaking-pendulum",
@@ -9073,8 +9955,29 @@
         "clockmaking"
       ],
       "source": "masters/clockmaking-pendulum.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1385177,
+      "partial_alpha_pixels": 187206,
+      "opaque_pixels": 133,
+      "padding_nonzero_alpha": [
+        432,
+        87,
+        435,
+        115
+      ],
+      "review_edge": false,
+      "sha256": "cd74ff2d36d9b1a211592440471e312bb0cd9978e5735390f352eda61fa860c0",
+      "bytes": 351268
     },
     {
       "id": "clockmaking-mainspring",
@@ -9083,8 +9986,29 @@
         "clockmaking"
       ],
       "source": "masters/clockmaking-mainspring.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1005125,
+      "partial_alpha_pixels": 567390,
+      "opaque_pixels": 1,
+      "padding_nonzero_alpha": [
+        121,
+        222,
+        114,
+        274
+      ],
+      "review_edge": false,
+      "sha256": "6bf9546581a46ea1f9efac827b096e19a5cf58b91f5fa98a6dd6cf1187813d30",
+      "bytes": 993528
     },
     {
       "id": "clockmaking-loupe",
@@ -9093,8 +10017,29 @@
         "clockmaking"
       ],
       "source": "masters/clockmaking-loupe.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1063874,
+      "partial_alpha_pixels": 507836,
+      "opaque_pixels": 806,
+      "padding_nonzero_alpha": [
+        49,
+        39,
+        60,
+        54
+      ],
+      "review_edge": false,
+      "sha256": "72b5f32a11e420af0b30efeacf8f3dd3a7c4a653036e7bd39ac744549a42ecfb",
+      "bytes": 718688
     },
     {
       "id": "clockmaking-oiler",
@@ -9103,8 +10048,29 @@
         "clockmaking"
       ],
       "source": "masters/clockmaking-oiler.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1378079,
+      "partial_alpha_pixels": 194280,
+      "opaque_pixels": 157,
+      "padding_nonzero_alpha": [
+        149,
+        219,
+        91,
+        218
+      ],
+      "review_edge": false,
+      "sha256": "e76d336e69570dab3e0247529a4c7531fd5946f6c86ef11ef795b78b3e46e57d",
+      "bytes": 382784
     },
     {
       "id": "clockmaking-key",
@@ -9113,8 +10079,29 @@
         "clockmaking"
       ],
       "source": "masters/clockmaking-key.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1142025,
+      "partial_alpha_pixels": 430491,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        103,
+        218,
+        83,
+        250
+      ],
+      "review_edge": false,
+      "sha256": "a06973f89292f797c623d584d9ec01c4baf861078f48816580fdaa679ef4bac1",
+      "bytes": 749268
     },
     {
       "id": "clockmaking-movement-holder",
@@ -9123,8 +10110,29 @@
         "clockmaking"
       ],
       "source": "masters/clockmaking-movement-holder.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 876168,
+      "partial_alpha_pixels": 694691,
+      "opaque_pixels": 1657,
+      "padding_nonzero_alpha": [
+        55,
+        31,
+        6,
+        74
+      ],
+      "review_edge": true,
+      "sha256": "538c2794a87ebbf542947225dc75298ba5c91a573c94d6da3e216a89b013fbd4",
+      "bytes": 1180554
     },
     {
       "id": "detective-magnifier",
@@ -9133,8 +10141,29 @@
         "detective-desk"
       ],
       "source": "masters/detective-magnifier.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1091388,
+      "partial_alpha_pixels": 480096,
+      "opaque_pixels": 1032,
+      "padding_nonzero_alpha": [
+        103,
+        68,
+        112,
+        72
+      ],
+      "review_edge": false,
+      "sha256": "13bfa482607fdec6d4e6cff90e52cd0eb90e28190a7f9eed98e07520e6f6e3c2",
+      "bytes": 736231
     },
     {
       "id": "detective-evidence-envelope",
@@ -9143,8 +10172,29 @@
         "detective-desk"
       ],
       "source": "masters/detective-evidence-envelope.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 957085,
+      "partial_alpha_pixels": 615412,
+      "opaque_pixels": 19,
+      "padding_nonzero_alpha": [
+        113,
+        263,
+        81,
+        195
+      ],
+      "review_edge": false,
+      "sha256": "6273d1b94367ec5bc3349b1646ebe4ddf328bc76c9ef7615e0648230a869c90f",
+      "bytes": 928741
     },
     {
       "id": "detective-fingerprint-kit",
@@ -9153,8 +10203,29 @@
         "detective-desk"
       ],
       "source": "masters/detective-fingerprint-kit.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 864160,
+      "partial_alpha_pixels": 708356,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        175,
+        121,
+        126,
+        118
+      ],
+      "review_edge": false,
+      "sha256": "50f46c2834d28f83a3fc62bb53943f608309b6189f43d54634b91baf94490829",
+      "bytes": 1118135
     },
     {
       "id": "detective-trench-coat",
@@ -9163,8 +10234,29 @@
         "detective-desk"
       ],
       "source": "masters/detective-trench-coat.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 876834,
+      "partial_alpha_pixels": 695493,
+      "opaque_pixels": 189,
+      "padding_nonzero_alpha": [
+        181,
+        82,
+        183,
+        80
+      ],
+      "review_edge": false,
+      "sha256": "53cd5c5dff52f75964a7f31b5112dc4f7c0a150b8fb5b19765f81e533429f300",
+      "bytes": 1004885
     },
     {
       "id": "detective-notebook",
@@ -9173,8 +10265,29 @@
         "detective-desk"
       ],
       "source": "masters/detective-notebook.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1095088,
+      "partial_alpha_pixels": 477427,
+      "opaque_pixels": 1,
+      "padding_nonzero_alpha": [
+        151,
+        275,
+        134,
+        268
+      ],
+      "review_edge": false,
+      "sha256": "9f6e5330102b623fd0309c6aa421496009000f38584ccdfbdd298e0407760a18",
+      "bytes": 790298
     },
     {
       "id": "detective-evidence-marker",
@@ -9183,8 +10296,29 @@
         "detective-desk"
       ],
       "source": "masters/detective-evidence-marker.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1142710,
+      "partial_alpha_pixels": 429804,
+      "opaque_pixels": 2,
+      "padding_nonzero_alpha": [
+        226,
+        277,
+        220,
+        244
+      ],
+      "review_edge": false,
+      "sha256": "157ebe4ebca4b33c1400cc07ae4f66aae0b1c3aec6f98463a4959770eaf2ba7a",
+      "bytes": 524986
     },
     {
       "id": "detective-fingerprint-card",
@@ -9193,8 +10327,29 @@
         "detective-desk"
       ],
       "source": "masters/detective-fingerprint-card.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 972076,
+      "partial_alpha_pixels": 599280,
+      "opaque_pixels": 1160,
+      "padding_nonzero_alpha": [
+        57,
+        53,
+        1,
+        72
+      ],
+      "review_edge": true,
+      "sha256": "8ac526de32d8dc0a8eaf108d6a248f0365e402457b0e35abca742389599ce68e",
+      "bytes": 971496
     },
     {
       "id": "detective-footprint-cast",
@@ -9203,8 +10358,29 @@
         "detective-desk"
       ],
       "source": "masters/detective-footprint-cast.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 944700,
+      "partial_alpha_pixels": 627816,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        193,
+        130,
+        126,
+        98
+      ],
+      "review_edge": false,
+      "sha256": "cf9083535ec5dc9954b213b32dbadf84c9f102baa637f52b8dd21f0b7367d04d",
+      "bytes": 930906
     },
     {
       "id": "shipwreck-diving-helmet",
@@ -9213,8 +10389,29 @@
         "shipwreck-diving"
       ],
       "source": "masters/shipwreck-diving-helmet.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 784828,
+      "partial_alpha_pixels": 787315,
+      "opaque_pixels": 373,
+      "padding_nonzero_alpha": [
+        97,
+        39,
+        110,
+        41
+      ],
+      "review_edge": false,
+      "sha256": "ac380307e0d72c98bc93f19389809c14209583aacf18a2743768acf42a984f61",
+      "bytes": 1337787
     },
     {
       "id": "shipwreck-air-tank",
@@ -9223,8 +10420,29 @@
         "shipwreck-diving"
       ],
       "source": "masters/shipwreck-air-tank.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1069704,
+      "partial_alpha_pixels": 502812,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        377,
+        71,
+        175,
+        65
+      ],
+      "review_edge": false,
+      "sha256": "efd3ec8e8b0af9e8a0b291f31a6d9d2223de577c0f90079f11ce5fda88de9199",
+      "bytes": 854325
     },
     {
       "id": "shipwreck-rusted-anchor",
@@ -9233,8 +10451,29 @@
         "shipwreck-diving"
       ],
       "source": "masters/shipwreck-rusted-anchor.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 988859,
+      "partial_alpha_pixels": 583657,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        117,
+        73,
+        118,
+        62
+      ],
+      "review_edge": false,
+      "sha256": "33fc2dd8f62ca39b3690144cab1b8cbacabc0b0883aaa30cfc07aad38b262b7e",
+      "bytes": 1232525
     },
     {
       "id": "shipwreck-porthole",
@@ -9243,8 +10482,29 @@
         "shipwreck-diving"
       ],
       "source": "masters/shipwreck-porthole.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 701874,
+      "partial_alpha_pixels": 870187,
+      "opaque_pixels": 455,
+      "padding_nonzero_alpha": [
+        31,
+        9,
+        0,
+        0
+      ],
+      "review_edge": true,
+      "sha256": "e1b04799d8bce8c9f059fdbb404ed685a59ceaf24391987e478274a438aae7ab",
+      "bytes": 1385440
     },
     {
       "id": "shipwreck-treasure-chest",
@@ -9987,49 +11247,49 @@
     {
       "slug": "glassblowing",
       "name_vi": "Nghề thổi thủy tinh",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "leathercraft",
       "name_vi": "Đồ da thủ công",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "weaving-studio",
       "name_vi": "Xưởng dệt",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "printmaking",
       "name_vi": "Nghệ thuật in thủ công",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "bookbinding",
       "name_vi": "Đóng sách thủ công",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "clockmaking",
       "name_vi": "Xưởng đồng hồ",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "detective-desk",
       "name_vi": "Bàn thám tử",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "shipwreck-diving",
       "name_vi": "Khám phá tàu đắm",
-      "generated": 0,
+      "generated": 4,
       "target": 8
     },
     {
@@ -12666,540 +13926,540 @@
       "topic": "glassblowing",
       "name_vi": "Nghề thổi thủy tinh",
       "id": "glassblowing-pipe",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/glassblowing/glassblowing-pipe.png",
+      "status": "alpha_corners_clear",
+      "sha256": "b03c29b24254454106bdc4c1166c4bb4257592e3ace2670481f0f68e68f52f21",
       "review_note": ""
     },
     {
       "topic": "glassblowing",
       "name_vi": "Nghề thổi thủy tinh",
       "id": "glassblowing-jacks",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/glassblowing/glassblowing-jacks.png",
+      "status": "alpha_corners_clear",
+      "sha256": "68f53f7623dcdd00a43931d77c994d63af23b7c36c13f0f0ce1f6a1288012c5e",
       "review_note": ""
     },
     {
       "topic": "glassblowing",
       "name_vi": "Nghề thổi thủy tinh",
       "id": "glassblowing-marver",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/glassblowing/glassblowing-marver.png",
+      "status": "alpha_corners_clear",
+      "sha256": "cba2b3cabdd70d62fa87e1cc3c11d0881d4a500d12a05dfba61c6b28a121a067",
       "review_note": ""
     },
     {
       "topic": "glassblowing",
       "name_vi": "Nghề thổi thủy tinh",
       "id": "glassblowing-furnace",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/glassblowing/glassblowing-furnace.png",
+      "status": "alpha_corners_clear",
+      "sha256": "f05ef6eaedb10c2849f3f3bd699aa785e68f76c8b0bc241c3cf4cb1ddb1f0143",
       "review_note": ""
     },
     {
       "topic": "glassblowing",
       "name_vi": "Nghề thổi thủy tinh",
       "id": "glassblowing-vase",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/glassblowing/glassblowing-vase.png",
+      "status": "alpha_corners_clear",
+      "sha256": "21bfa04fba5d3d90de9586cfa7b3e9b5b24674a57864c20308938c90bb754d24",
       "review_note": ""
     },
     {
       "topic": "glassblowing",
       "name_vi": "Nghề thổi thủy tinh",
       "id": "glassblowing-paperweight",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/glassblowing/glassblowing-paperweight.png",
+      "status": "alpha_corners_clear",
+      "sha256": "62b419b59511d3ce1e5531786127d969af46e1d422ebe5e9bc33dac770b2ecf0",
       "review_note": ""
     },
     {
       "topic": "glassblowing",
       "name_vi": "Nghề thổi thủy tinh",
       "id": "glassblowing-block",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/glassblowing/glassblowing-block.png",
+      "status": "alpha_corners_clear",
+      "sha256": "316fbf12ac7a3af57d2eae9ec6279f0875db568248057dadd6923b99cd77c4c1",
       "review_note": ""
     },
     {
       "topic": "glassblowing",
       "name_vi": "Nghề thổi thủy tinh",
       "id": "glassblowing-shears",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/glassblowing/glassblowing-shears.png",
+      "status": "alpha_corners_clear",
+      "sha256": "35ed37c39e8d7bc1a185aedb7ed97ad0f0cf8ac5512c4c8a725bc72de97791ba",
       "review_note": ""
     },
     {
       "topic": "leathercraft",
       "name_vi": "Đồ da thủ công",
       "id": "leathercraft-stitching-pony",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/leathercraft/leathercraft-stitching-pony.png",
+      "status": "alpha_corners_clear",
+      "sha256": "cc12e3296316956270a91dda5f45d7a41fd72a31a4c8ef84f348a86fc6da3b87",
       "review_note": ""
     },
     {
       "topic": "leathercraft",
       "name_vi": "Đồ da thủ công",
       "id": "leathercraft-awl",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/leathercraft/leathercraft-awl.png",
+      "status": "alpha_corners_clear",
+      "sha256": "9694c4a64eb88ef6115cf1be0c310bbaa752cde83366bc61b331ecb80f497b93",
       "review_note": ""
     },
     {
       "topic": "leathercraft",
       "name_vi": "Đồ da thủ công",
       "id": "leathercraft-edge-beveler",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/leathercraft/leathercraft-edge-beveler.png",
+      "status": "alpha_corners_clear",
+      "sha256": "11cac331d6a1284ce857ac3b22cdebce5dd6f08b4992b1b98c70abfe9151b9e3",
       "review_note": ""
     },
     {
       "topic": "leathercraft",
       "name_vi": "Đồ da thủ công",
       "id": "leathercraft-pricking-iron",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/leathercraft/leathercraft-pricking-iron.png",
+      "status": "alpha_corners_clear",
+      "sha256": "ea3940f8c6ed1f7f162bb9e09ed5d75925e28febd6bbbe0516c3d48cfd4206d2",
       "review_note": ""
     },
     {
       "topic": "leathercraft",
       "name_vi": "Đồ da thủ công",
       "id": "leathercraft-mallet",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/leathercraft/leathercraft-mallet.png",
+      "status": "alpha_corners_clear",
+      "sha256": "7e3ff2eccab996cfde601606d279cfe378003b561909698289d49bd53f261068",
       "review_note": ""
     },
     {
       "topic": "leathercraft",
       "name_vi": "Đồ da thủ công",
       "id": "leathercraft-saddle-stitch",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/leathercraft/leathercraft-saddle-stitch.png",
+      "status": "alpha_corners_clear",
+      "sha256": "b3ba1356c25984d98068be3370f48b4f3dca45d785f58ab642f34d974d4757ec",
       "review_note": ""
     },
     {
       "topic": "leathercraft",
       "name_vi": "Đồ da thủ công",
       "id": "leathercraft-belt-buckle",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/leathercraft/leathercraft-belt-buckle.png",
+      "status": "alpha_corners_clear",
+      "sha256": "6590c04a23c272dd397fabef379e98de66c9eefbf14da43e2de7fe71123d840d",
       "review_note": ""
     },
     {
       "topic": "leathercraft",
       "name_vi": "Đồ da thủ công",
       "id": "leathercraft-hide-roll",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/leathercraft/leathercraft-hide-roll.png",
+      "status": "alpha_corners_clear",
+      "sha256": "528a0f290f613cd581adaa6f9e76794f2be781b7678a2c8a68f558db9b236e6b",
       "review_note": ""
     },
     {
       "topic": "weaving-studio",
       "name_vi": "Xưởng dệt",
       "id": "weaving-table-loom",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/weaving-studio/weaving-table-loom.png",
+      "status": "alpha_corners_clear",
+      "sha256": "aa2d883826113ce94ef62b2b291e6f33a5afb01e50ad70d35de8fb9d9073f8da",
       "review_note": ""
     },
     {
       "topic": "weaving-studio",
       "name_vi": "Xưởng dệt",
       "id": "weaving-shuttle",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/weaving-studio/weaving-shuttle.png",
+      "status": "alpha_corners_clear",
+      "sha256": "8721d23228ee479106cf0aae721c1fda1e0b53b43154c3c46545b1c6e7f80fcd",
       "review_note": ""
     },
     {
       "topic": "weaving-studio",
       "name_vi": "Xưởng dệt",
       "id": "weaving-heddle",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/weaving-studio/weaving-heddle.png",
+      "status": "alpha_corners_clear",
+      "sha256": "765330b75dfd39b56d9d562a63ee0e7a14b0098154c0b08693734d62fcedc267",
       "review_note": ""
     },
     {
       "topic": "weaving-studio",
       "name_vi": "Xưởng dệt",
       "id": "weaving-yarn-cones",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/weaving-studio/weaving-yarn-cones.png",
+      "status": "alpha_corners_clear",
+      "sha256": "ee9d6b43eb6bfb83378299ebe7285ba8c3567c19834af52dc77c66e546d6ff79",
       "review_note": ""
     },
     {
       "topic": "weaving-studio",
       "name_vi": "Xưởng dệt",
       "id": "weaving-warping-board",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/weaving-studio/weaving-warping-board.png",
+      "status": "alpha_corners_clear",
+      "sha256": "110de0f992b5da8e163959791cda09d49caa8d9e30c0bebc436d891736c76ec5",
       "review_note": ""
     },
     {
       "topic": "weaving-studio",
       "name_vi": "Xưởng dệt",
       "id": "weaving-beater-comb",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/weaving-studio/weaving-beater-comb.png",
+      "status": "alpha_corners_clear",
+      "sha256": "f57dfd1a6a7c8887dce6fd9038843d5c0ced1b68b54978d3b85ad6d8ff7b3330",
       "review_note": ""
     },
     {
       "topic": "weaving-studio",
       "name_vi": "Xưởng dệt",
       "id": "weaving-tapestry",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/weaving-studio/weaving-tapestry.png",
+      "status": "alpha_corners_clear",
+      "sha256": "59a1c36c5db3d3b14ebb6b6446794893419f9408b2fc9d4e1345206dc8110999",
       "review_note": ""
     },
     {
       "topic": "weaving-studio",
       "name_vi": "Xưởng dệt",
       "id": "weaving-drop-spindle",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/weaving-studio/weaving-drop-spindle.png",
+      "status": "alpha_corners_clear",
+      "sha256": "5be15f059e6d7748cf864c28efb91fbd0f7b45967f2abc22ea72b3a9562c87ce",
       "review_note": ""
     },
     {
       "topic": "printmaking",
       "name_vi": "Nghệ thuật in thủ công",
       "id": "printmaking-brayer",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/printmaking/printmaking-brayer.png",
+      "status": "alpha_corners_clear",
+      "sha256": "3357b744558565e2cece7e01a4f8dcc5e854f6b251b0ed780d39e828ecd1d483",
       "review_note": ""
     },
     {
       "topic": "printmaking",
       "name_vi": "Nghệ thuật in thủ công",
       "id": "printmaking-lino-block",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/printmaking/printmaking-lino-block.png",
+      "status": "alpha_corners_clear",
+      "sha256": "7e593f88b761776999f152547308f9ceb6038e42ecf192675f50d9cddd314475",
       "review_note": ""
     },
     {
       "topic": "printmaking",
       "name_vi": "Nghệ thuật in thủ công",
       "id": "printmaking-gouge",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/printmaking/printmaking-gouge.png",
+      "status": "alpha_corners_clear",
+      "sha256": "6bea2e277e6ac91c342512d5e8b01d862bd1186aec633d609f541ac0824a2616",
       "review_note": ""
     },
     {
       "topic": "printmaking",
       "name_vi": "Nghệ thuật in thủ công",
       "id": "printmaking-ink-tube",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/printmaking/printmaking-ink-tube.png",
+      "status": "alpha_corners_clear",
+      "sha256": "148365ba63a905568537cb88014205b37f26cf383fc70f60ba3a277a6cdc26b9",
       "review_note": ""
     },
     {
       "topic": "printmaking",
       "name_vi": "Nghệ thuật in thủ công",
       "id": "printmaking-baren",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/printmaking/printmaking-baren.png",
+      "status": "alpha_corners_clear",
+      "sha256": "1f276e1f9e2e3c7313530003b7affb6130eae9cc062f4e5c09eef69a58cfd553",
       "review_note": ""
     },
     {
       "topic": "printmaking",
       "name_vi": "Nghệ thuật in thủ công",
       "id": "printmaking-press",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/printmaking/printmaking-press.png",
+      "status": "alpha_corners_clear",
+      "sha256": "b4ba0bdfebc9ccf5075bbe7a174f1d1917363114b5dd6c86235bb4791577b7ac",
       "review_note": ""
     },
     {
       "topic": "printmaking",
       "name_vi": "Nghệ thuật in thủ công",
       "id": "printmaking-ink-slab",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/printmaking/printmaking-ink-slab.png",
+      "status": "alpha_corners_clear",
+      "sha256": "d71faa50577047936d7ae8a83e1b674078cf5e918f8d57353166bd88ad06dbc7",
       "review_note": ""
     },
     {
       "topic": "printmaking",
       "name_vi": "Nghệ thuật in thủ công",
       "id": "printmaking-leaf-print",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/printmaking/printmaking-leaf-print.png",
+      "status": "alpha_corners_clear",
+      "sha256": "73a44328c17ee142bdd1625bf4803e236054070d7f87f4c0361f51a9ad59ed6e",
       "review_note": ""
     },
     {
       "topic": "bookbinding",
       "name_vi": "Đóng sách thủ công",
       "id": "bookbinding-press",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/bookbinding/bookbinding-press.png",
+      "status": "alpha_corners_clear",
+      "sha256": "7e4fe4fe1217d683aa3003afd6b228d037f292d718e239b4accf205097962322",
       "review_note": ""
     },
     {
       "topic": "bookbinding",
       "name_vi": "Đóng sách thủ công",
       "id": "bookbinding-bone-folder",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/bookbinding/bookbinding-bone-folder.png",
+      "status": "alpha_corners_clear",
+      "sha256": "df527909bf69ed9353dc0af88f75aa7f2a65627f1f3e91f6a6078c56ff590149",
       "review_note": ""
     },
     {
       "topic": "bookbinding",
       "name_vi": "Đóng sách thủ công",
       "id": "bookbinding-sewing-frame",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/bookbinding/bookbinding-sewing-frame.png",
+      "status": "alpha_corners_clear",
+      "sha256": "1c065b0d040f034cbb374a0fa420572b0e10889b03f949a64d22fe7c7ebb143c",
       "review_note": ""
     },
     {
       "topic": "bookbinding",
       "name_vi": "Đóng sách thủ công",
       "id": "bookbinding-signatures",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/bookbinding/bookbinding-signatures.png",
+      "status": "alpha_corners_clear",
+      "sha256": "63f79703585673cac54c4b69edc8874f7ed20a56d9de99103fa22c944df8335d",
       "review_note": ""
     },
     {
       "topic": "bookbinding",
       "name_vi": "Đóng sách thủ công",
       "id": "bookbinding-linen-thread",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/bookbinding/bookbinding-linen-thread.png",
+      "status": "alpha_corners_clear",
+      "sha256": "2637009de7effc961cfd1c8d6eb48c85236a5f592c80ccd62cc8472feb95eb97",
       "review_note": ""
     },
     {
       "topic": "bookbinding",
       "name_vi": "Đóng sách thủ công",
       "id": "bookbinding-glue-pot",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/bookbinding/bookbinding-glue-pot.png",
+      "status": "alpha_corners_clear",
+      "sha256": "a2928e0e37855aed323f1db572c9c6a6ff1b6c4a677cab18c6cd7fa744372c6d",
       "review_note": ""
     },
     {
       "topic": "bookbinding",
       "name_vi": "Đóng sách thủ công",
       "id": "bookbinding-cloth-roll",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/bookbinding/bookbinding-cloth-roll.png",
+      "status": "alpha_corners_clear",
+      "sha256": "1c64499abbf194b7962243b0b3010ce17d47106f9d6d37fbc57a7eceef64bfad",
       "review_note": ""
     },
     {
       "topic": "bookbinding",
       "name_vi": "Đóng sách thủ công",
       "id": "bookbinding-handbound-journal",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/bookbinding/bookbinding-handbound-journal.png",
+      "status": "alpha_corners_clear",
+      "sha256": "ecbc7ea3fa21b15c33a884337d4da12d80357acb0fdcaf74f3095850e7459e12",
       "review_note": ""
     },
     {
       "topic": "clockmaking",
       "name_vi": "Xưởng đồng hồ",
       "id": "clockmaking-pocket-watch",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/clockmaking/clockmaking-pocket-watch.png",
+      "status": "alpha_corners_clear",
+      "sha256": "311bc255a850e3b16fd08f37b3ec5490783321929d49d4974ace7324db780b72",
       "review_note": ""
     },
     {
       "topic": "clockmaking",
       "name_vi": "Xưởng đồng hồ",
       "id": "clockmaking-gear-train",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/clockmaking/clockmaking-gear-train.png",
+      "status": "alpha_corners_clear",
+      "sha256": "98060ac012efc3a795fea44b348dc71e7db874263e7f4e267c0c81963cec6a4e",
       "review_note": ""
     },
     {
       "topic": "clockmaking",
       "name_vi": "Xưởng đồng hồ",
       "id": "clockmaking-pendulum",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/clockmaking/clockmaking-pendulum.png",
+      "status": "alpha_corners_clear",
+      "sha256": "cd74ff2d36d9b1a211592440471e312bb0cd9978e5735390f352eda61fa860c0",
       "review_note": ""
     },
     {
       "topic": "clockmaking",
       "name_vi": "Xưởng đồng hồ",
       "id": "clockmaking-mainspring",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/clockmaking/clockmaking-mainspring.png",
+      "status": "alpha_corners_clear",
+      "sha256": "6bf9546581a46ea1f9efac827b096e19a5cf58b91f5fa98a6dd6cf1187813d30",
       "review_note": ""
     },
     {
       "topic": "clockmaking",
       "name_vi": "Xưởng đồng hồ",
       "id": "clockmaking-loupe",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/clockmaking/clockmaking-loupe.png",
+      "status": "alpha_corners_clear",
+      "sha256": "72b5f32a11e420af0b30efeacf8f3dd3a7c4a653036e7bd39ac744549a42ecfb",
       "review_note": ""
     },
     {
       "topic": "clockmaking",
       "name_vi": "Xưởng đồng hồ",
       "id": "clockmaking-oiler",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/clockmaking/clockmaking-oiler.png",
+      "status": "alpha_corners_clear",
+      "sha256": "e76d336e69570dab3e0247529a4c7531fd5946f6c86ef11ef795b78b3e46e57d",
       "review_note": ""
     },
     {
       "topic": "clockmaking",
       "name_vi": "Xưởng đồng hồ",
       "id": "clockmaking-key",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/clockmaking/clockmaking-key.png",
+      "status": "alpha_corners_clear",
+      "sha256": "a06973f89292f797c623d584d9ec01c4baf861078f48816580fdaa679ef4bac1",
       "review_note": ""
     },
     {
       "topic": "clockmaking",
       "name_vi": "Xưởng đồng hồ",
       "id": "clockmaking-movement-holder",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/clockmaking/clockmaking-movement-holder.png",
+      "status": "alpha_corners_clear",
+      "sha256": "538c2794a87ebbf542947225dc75298ba5c91a573c94d6da3e216a89b013fbd4",
       "review_note": ""
     },
     {
       "topic": "detective-desk",
       "name_vi": "Bàn thám tử",
       "id": "detective-magnifier",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/detective-desk/detective-magnifier.png",
+      "status": "alpha_corners_clear",
+      "sha256": "13bfa482607fdec6d4e6cff90e52cd0eb90e28190a7f9eed98e07520e6f6e3c2",
       "review_note": ""
     },
     {
       "topic": "detective-desk",
       "name_vi": "Bàn thám tử",
       "id": "detective-evidence-envelope",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/detective-desk/detective-evidence-envelope.png",
+      "status": "alpha_corners_clear",
+      "sha256": "6273d1b94367ec5bc3349b1646ebe4ddf328bc76c9ef7615e0648230a869c90f",
       "review_note": ""
     },
     {
       "topic": "detective-desk",
       "name_vi": "Bàn thám tử",
       "id": "detective-fingerprint-kit",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/detective-desk/detective-fingerprint-kit.png",
+      "status": "alpha_corners_clear",
+      "sha256": "50f46c2834d28f83a3fc62bb53943f608309b6189f43d54634b91baf94490829",
       "review_note": ""
     },
     {
       "topic": "detective-desk",
       "name_vi": "Bàn thám tử",
       "id": "detective-trench-coat",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/detective-desk/detective-trench-coat.png",
+      "status": "alpha_corners_clear",
+      "sha256": "53cd5c5dff52f75964a7f31b5112dc4f7c0a150b8fb5b19765f81e533429f300",
       "review_note": ""
     },
     {
       "topic": "detective-desk",
       "name_vi": "Bàn thám tử",
       "id": "detective-notebook",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/detective-desk/detective-notebook.png",
+      "status": "alpha_corners_clear",
+      "sha256": "9f6e5330102b623fd0309c6aa421496009000f38584ccdfbdd298e0407760a18",
       "review_note": ""
     },
     {
       "topic": "detective-desk",
       "name_vi": "Bàn thám tử",
       "id": "detective-evidence-marker",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/detective-desk/detective-evidence-marker.png",
+      "status": "alpha_corners_clear",
+      "sha256": "157ebe4ebca4b33c1400cc07ae4f66aae0b1c3aec6f98463a4959770eaf2ba7a",
       "review_note": ""
     },
     {
       "topic": "detective-desk",
       "name_vi": "Bàn thám tử",
       "id": "detective-fingerprint-card",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/detective-desk/detective-fingerprint-card.png",
+      "status": "alpha_corners_clear",
+      "sha256": "8ac526de32d8dc0a8eaf108d6a248f0365e402457b0e35abca742389599ce68e",
       "review_note": ""
     },
     {
       "topic": "detective-desk",
       "name_vi": "Bàn thám tử",
       "id": "detective-footprint-cast",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/detective-desk/detective-footprint-cast.png",
+      "status": "alpha_corners_clear",
+      "sha256": "cf9083535ec5dc9954b213b32dbadf84c9f102baa637f52b8dd21f0b7367d04d",
       "review_note": ""
     },
     {
       "topic": "shipwreck-diving",
       "name_vi": "Khám phá tàu đắm",
       "id": "shipwreck-diving-helmet",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/shipwreck-diving/shipwreck-diving-helmet.png",
+      "status": "alpha_corners_clear",
+      "sha256": "ac380307e0d72c98bc93f19389809c14209583aacf18a2743768acf42a984f61",
       "review_note": ""
     },
     {
       "topic": "shipwreck-diving",
       "name_vi": "Khám phá tàu đắm",
       "id": "shipwreck-air-tank",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/shipwreck-diving/shipwreck-air-tank.png",
+      "status": "alpha_corners_clear",
+      "sha256": "efd3ec8e8b0af9e8a0b291f31a6d9d2223de577c0f90079f11ce5fda88de9199",
       "review_note": ""
     },
     {
       "topic": "shipwreck-diving",
       "name_vi": "Khám phá tàu đắm",
       "id": "shipwreck-rusted-anchor",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/shipwreck-diving/shipwreck-rusted-anchor.png",
+      "status": "alpha_corners_clear",
+      "sha256": "33fc2dd8f62ca39b3690144cab1b8cbacabc0b0883aaa30cfc07aad38b262b7e",
       "review_note": ""
     },
     {
       "topic": "shipwreck-diving",
       "name_vi": "Khám phá tàu đắm",
       "id": "shipwreck-porthole",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/shipwreck-diving/shipwreck-porthole.png",
+      "status": "alpha_corners_clear",
+      "sha256": "e1b04799d8bce8c9f059fdbb404ed685a59ceaf24391987e478274a438aae7ab",
       "review_note": ""
     },
     {

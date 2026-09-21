@@ -1,0 +1,14 @@
+{
+  "id": "weaving-table-loom",
+  "subject": "A compact wooden table loom with a partly woven teal and cream cloth",
+  "topic_slugs": ["weaving-studio"],
+  "profile": "objects",
+  "prompt": "Edit this compact wooden table loom sticker while preserving the teal-and-cream woven cloth, cream warp threads, overall frame, colors, shading, scale and centered composition. Replace the two small dirty white window-like patches inside the upper left and upper right frame with clean solid warm wooden support blocks matching the surrounding loom; there must be no floating white panels, checkerboard, colored specks or debris anywhere inside the frame. Keep genuine open gaps between thin warp threads clean and transparent where they already exist. Keep the narrow white outer sticker-cut margin and transparent canvas outside. Change only those dirty internal patches. No text, extra tools, scene or floor shadow. Square canvas, target 512 x 512.",
+  "referenced_image_paths": ["revisions/generation-20260921-weaving/weaving-table-loom-v2.png"],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Rejected: introduced colored debris between warp threads and lower-frame gaps."
+}

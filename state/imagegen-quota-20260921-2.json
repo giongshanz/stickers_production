@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-21",
+  "stage": "shipwreck-diving second batch",
+  "tool": "built-in imagegen",
+  "error_type": "usage_limit_reached",
+  "http_status": 429,
+  "message": "The usage limit has been reached",
+  "plan_type": "plus",
+  "resets_at_unix": 1789989709,
+  "resets_at_utc": "2026-09-21T11:21:49+00:00",
+  "resets_at_local": "2026-09-21T18:21:49+07:00",
+  "resets_in_seconds_reported": 11796,
+  "attempted_ids": [
+    "shipwreck-treasure-chest",
+    "shipwreck-ship-bell",
+    "shipwreck-diving-torch",
+    "shipwreck-ceramic-bottle"
+  ],
+  "continuation": "Retry the same four pending IDs in generation-queue order after ImageGen access resets. Do not switch account, API, or image tool.",
+  "workspace_status_before_failed_batch": {
+    "generated_unique": 338,
+    "missing_unique": 52,
+    "topics_with_all_images": 43,
+    "generated_topic_slots": 348
+  }
+}

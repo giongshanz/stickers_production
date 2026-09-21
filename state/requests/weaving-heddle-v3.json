@@ -1,0 +1,14 @@
+{
+  "id": "weaving-heddle",
+  "subject": "A rectangular wooden rigid heddle with alternating narrow slots and holes",
+  "topic_slugs": ["weaving-studio"],
+  "profile": "objects",
+  "prompt": "Edit this rectangular wooden rigid heddle sticker while preserving its frame, cream center plate, alternating round eyes and long narrow slots, colors, shading, scale and centered composition. Make the interior of every eye and slot uniformly clean dark warm-brown recessed openings with no pink, yellow, white or black flecks, no checkerboard and no debris. Keep the opening shapes regular and readable; do not change their count or arrangement. Preserve the narrow white outer sticker-cut margin and true transparent canvas outside the complete tool. No text, scene or extra objects. Square canvas, target 512 x 512.",
+  "referenced_image_paths": ["revisions/generation-20260921-weaving/weaving-heddle-v2.png"],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final selected clean recessed-opening pass followed by authorized alpha-only exterior cleanup; RGB and dimensions were preserved."
+}

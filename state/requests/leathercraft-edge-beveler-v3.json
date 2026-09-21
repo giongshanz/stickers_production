@@ -1,0 +1,14 @@
+{
+  "id": "leathercraft-edge-beveler",
+  "subject": "A wooden handled leather edge beveler with a short forked steel tip",
+  "topic_slugs": ["leathercraft"],
+  "profile": "objects",
+  "prompt": "Preserve this exact corrected leather edge beveler, including the rounded wooden handle, brass ferrule, narrow steel shank and tiny notch only at the extreme tip, plus all colors and shading. Reframe only: make the complete sticker including white cut margin occupy about 72 percent of the square canvas in its longest dimension, centered, with at least 12 percent true transparent padding on every side. Do not crop, enlarge the notch or add anything. No scene, text or floor shadow. Square canvas, target 512 x 512.",
+  "referenced_image_paths": ["revisions/generation-20260921/leathercraft-edge-beveler-v2.png"],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final selected reframe followed by authorized alpha-only cleanup of detached edge fringe; canvas dimensions and RGB artwork were preserved. Initial prompt is state/requests/leathercraft-edge-beveler.json."
+}

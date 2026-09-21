@@ -1,0 +1,11 @@
+{
+  "id": "weaving-drop-spindle",
+  "subject": "A wooden drop spindle with a round whorl and a small bundle of cream wool yarn",
+  "topic_slugs": ["weaving-studio"],
+  "profile": "objects",
+  "prompt": "Preserve this exact wooden drop spindle with round whorl, pointed lower shaft, wrapped cream yarn and compact cream wool bundle. Reframe the complete sticker smaller and centered, occupying about 72 percent of the square canvas in its longest dimension, with generous true transparent padding on every side. Clean the open gap between the hanging yarn and spindle so it shows actual transparent background with no white, black or colored debris. Keep a narrow white cut margin around solid forms and preserve the warm restrained hand-painted 2D style. Do not crop, add text, scene or extra tools. Square canvas, target 512 x 512.",
+  "referenced_image_paths": ["revisions/generation-20260921-weaving/weaving-drop-spindle-v1.png"],
+  "paths_relative_to": "workspace root", "target_dimensions": [512, 512], "target_only": true, "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final selected reframe followed by authorized alpha-only exterior cleanup; RGB and dimensions preserved. Initial prompt is state/requests/weaving-drop-spindle.json."
+}

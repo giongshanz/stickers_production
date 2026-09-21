@@ -1,0 +1,19 @@
+{
+  "encountered_utc": "2026-09-21T05:04:29Z",
+  "tool": "built-in imagegen",
+  "error_type": "usage_limit_reached",
+  "http_status": 429,
+  "plan_type": "plus",
+  "reset_at_utc": "2026-09-21T05:04:44Z",
+  "reset_at_vietnam": "2026-09-21T12:04:44+07:00",
+  "attempted_ids": [
+    "weaving-warping-board",
+    "weaving-beater-comb",
+    "weaving-tapestry",
+    "weaving-drop-spindle"
+  ],
+  "generated_unique_at_failure": 298,
+  "missing_unique_at_failure": 92,
+  "topics_with_all_images_at_failure": 38,
+  "continuation": "Retry weaving-warping-board first in state/generation-queue.json after the built-in imagegen limit resets. Prepared exact prompts are in state/requests. Do not switch tool, account, or API to bypass the limit."
+}

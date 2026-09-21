@@ -1,0 +1,19 @@
+{
+  "id": "printmaking-gouge",
+  "subject": "A wooden-handled linocut gouge with a short curved steel cutting tip",
+  "topic_slugs": ["printmaking"],
+  "profile": "objects",
+  "mode": "image-edit",
+  "prompt": "Edit the FIRST supplied image only. The other supplied images are original style references only. Preserve the same single subject, hand-painted 2D casual-game sticker treatment, warm restrained colors, thin locally tinted outlines, matte painted volume, and narrow white sticker-cut margin. Keep the square canvas and true transparent PNG background. Make the complete subject approximately 72% of the canvas longest dimension, centered with generous clear padding on every side. No scene, floor shadow, text, letters, logo, watermark, extra objects, or scattered debris. Target 512 x 512. Subject: a wooden-handled linocut carving gouge. Correct the tool anatomy: replace the oversized curved knife-like blade with a short narrow steel shaft ending in a tiny hollow U-shaped cutting tip. The exposed metal assembly must be only a small fraction of the wooden handle length. It must unmistakably read as a palm/wood-handled printmaking gouge, never a knife, sickle, or scythe. Preserve the warm wooden handle, ferrule, simple diagonal pose, and style, while reframing smaller.",
+  "referenced_image_paths": [
+    "revisions/generation-20260921-printmaking/printmaking-gouge-v1.png",
+    "references/Stickers/8-Gardening/8-Gardening_1.png",
+    "references/Stickers/2. Home appliance/68-Home Appliance_2.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "postprocess": "Alpha-only cleanup with scripts/clean_generated_white_margin.py; RGB artwork and canvas dimensions preserved."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "glassblowing-marver",
+  "subject": "A compact steel marver table with a small rounded orange glass gather",
+  "topic_slugs": ["glassblowing"],
+  "profile": "objects",
+  "prompt": "Edit this sticker with one exact correction: clean the transparency and white cut margin in every open space between and under the four table legs and around the blowpipe. All empty openings must be true transparent alpha, with only a narrow, smooth, continuous white cut border hugging the painted steel silhouette. Remove every detached white speck, jagged white island and black/white debris. Preserve the exact marver table, four legs, hot orange glass gather, straight blowpipe, colors, shading, composition and padding. No extra brace, no floor, no scene, no text, no checkerboard. Square canvas, target 512 x 512.",
+  "referenced_image_paths": ["revisions/generation-20260921/glassblowing-marver-v2.png"],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final ImageGen edit cleans the open spaces after the v2 frame simplification. Selected candidate then received authorized alpha-only white-margin cleanup with RGB and dimensions preserved. Initial request is state/requests/glassblowing-marver.json."
+}

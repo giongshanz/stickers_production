@@ -1,0 +1,14 @@
+{
+  "id": "leathercraft-edge-beveler",
+  "subject": "A wooden handled leather edge beveler with a short forked steel tip",
+  "topic_slugs": ["leathercraft"],
+  "profile": "objects",
+  "prompt": "Edit this leather edge beveler sticker with one anatomy correction. Preserve the rounded wooden handle, brass ferrule, diagonal pose, warm hand-painted colors, padding and white cut margin. Replace the oversized long U-shaped fork with an accurate short narrow steel beveler shank whose tiny cutting notch appears only at the extreme tip. The notch should be a very small shallow V/U gap, only a few percent of the tool length, with no long separated prongs. It must read as a precision leather edge-trimming tool, not a nail puller or fork. Keep one isolated tool on actual transparent background. No scene, leather piece, text, logo or watermark. Square canvas, target 512 x 512.",
+  "referenced_image_paths": ["revisions/generation-20260921/leathercraft-edge-beveler-v1.png"],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Anatomy correction pass. Initial prompt is state/requests/leathercraft-edge-beveler.json."
+}

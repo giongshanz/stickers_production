@@ -1,0 +1,11 @@
+{
+  "id": "weaving-beater-comb",
+  "subject": "A broad wooden weaving beater comb with long widely spaced teeth",
+  "topic_slugs": ["weaving-studio"],
+  "profile": "objects",
+  "prompt": "Edit this broad wooden weaving beater comb sticker. Remove both decorative green leaf-and-berry motifs so the tool is plain functional wood. Clean the long handle opening so it is a simple uniform dark warm-brown recessed opening with no white, black or colored debris. Preserve the broad top grip and exactly eight long widely spaced wooden teeth, warm restrained hand-painted 2D style and simple matte wood shading. Reframe the complete sticker smaller and centered, occupying about 72 percent of the square canvas in its longest dimension, with generous true transparent padding on every side and a narrow white outer cut margin. No text, scene, flowers or extra objects. Square canvas, target 512 x 512.",
+  "referenced_image_paths": ["revisions/generation-20260921-weaving/weaving-beater-comb-v1.png"],
+  "paths_relative_to": "workspace root", "target_dimensions": [512, 512], "target_only": true, "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final selected plain-tool correction and reframe followed by authorized alpha-only exterior cleanup; RGB and dimensions preserved. Initial prompt is state/requests/weaving-beater-comb.json."
+}

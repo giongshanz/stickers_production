@@ -1,0 +1,15 @@
+{
+  "id": "printmaking-press",
+  "subject": "A small tabletop relief printing press with a black roller and round handwheel",
+  "topic_slugs": ["printmaking"],
+  "profile": "objects",
+  "mode": "image-edit",
+  "prompt": "Edit the FIRST supplied image only. The other supplied images are original style references only. Preserve the same single sticker subject, hand-painted 2D casual-game treatment, warm restrained colors, thin locally tinted outlines, matte painted volume, two or three quiet same-hue shadow patches, and narrow clean white sticker-cut margin. Keep true transparent PNG background. Recompose the complete subject to approximately 70% of the square canvas longest dimension, centered with generous even padding. Target 512 x 512. No scene, floor shadow, text, letters, logo, watermark, extra objects, or stray debris. Subject: the small tabletop relief printing press with one black roller and one round side handwheel. Preserve its mechanically plausible frame, roller, flat press bed, wheel, and crank. Ensure every extremity and the full white cut margin remain comfortably inside the canvas.",
+  "referenced_image_paths": ["revisions/generation-20260921-printmaking/printmaking-press-v1.png", "references/Stickers/8-Gardening/8-Gardening_1.png", "references/Stickers/2. Home appliance/68-Home Appliance_2.png"],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "postprocess": "Alpha-only cleanup with scripts/clean_generated_white_margin.py; RGB artwork and canvas dimensions preserved."
+}

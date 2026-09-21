@@ -1,0 +1,14 @@
+{
+  "id": "glassblowing-block",
+  "subject": "A wooden glassblowing shaping block with a scooped round recess and long handle",
+  "topic_slugs": ["glassblowing"],
+  "profile": "objects",
+  "prompt": "Edit this exact wooden glassblowing shaping block only by reframing it smaller and centered. Preserve the same scooped round recess, front slot, long wooden handle, hanging hole, warm wood colors, painted grain, shading and narrow white cut margin. The COMPLETE sticker including the white cut margin should occupy about 78 to 80 percent of the square canvas in its longest dimension, with at least 10 percent true transparent padding on every side. Do not crop any part and do not add or remove features. No scene, floor shadow, text or checkerboard. Square canvas, target 512 x 512.",
+  "referenced_image_paths": ["revisions/generation-20260921/glassblowing-block-v1.png"],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Final edit adds safe framing after the initial generation touched the left and right canvas edges. Initial exact prompt is in state/requests/glassblowing-block.json."
+}

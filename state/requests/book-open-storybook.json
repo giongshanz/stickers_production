@@ -1,0 +1,28 @@
+{
+  "id": "book-open-storybook",
+  "subject": "One open illustrated storybook with gently curved cream pages and a small simple landscape picture on each page, no writing",
+  "topic_slugs": [
+    "book-collection"
+  ],
+  "profile": "books",
+  "prompt": "Generate ONE new individual sticker in the exact illustrative style of the supplied original desktop sticker references. References are style only, not subjects to copy.\nArt direction: hand-painted 2D casual-game illustration with restrained local contrast, warm mid-light colors, thin warm locally colored outlines, simple matte painted volumes, just two or three quiet same-hue shadow patches. Modest detail and small broad paint marks. Soft illustrative volume matching the reference artwork. No shiny 3D toy appearance, deep dark crevices, harsh light, or dense surface texture. Do not anthropomorphize objects.\nEntire subject centered and fully visible with clear padding on all sides; a narrow clean white sticker-cut margin follows the silhouette. No scene, floor shadow, text, letters, brand or watermark.\nDeliver a PNG with a TRANSPARENT BACKGROUND: empty canvas outside the sticker, actual alpha transparency.\nSquare canvas, target 512 x 512. Entire sticker visible with clear padding.\nSUBJECT: One open illustrated storybook with gently curved cream pages and a small simple landscape picture on each page, no writing. Draw only the named book or connected set of books, not the readers or other objects in the references. Keep covers and page edges plainly constructed, with a clean readable silhouette and restrained hand-painted detail. No readable text, labels, logos or decorative clutter. The complete sticker including its narrow white cut margin occupies about 80 percent of the canvas in its longest dimension, with transparent padding on every side.",
+  "referenced_image_paths": [
+    "references/Stickers/12_SchoolSupplies/school supplies_2.png",
+    "references/Stickers/Reading/25-reading_2.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "The initial exact prompt and references above produced v1. The selected master is the v2 edit below, made from v1 only after source-resolution and padding review.",
+  "selected_edit": {
+    "prompt": "Edit this open storybook sticker only. Reframe the entire same book smaller and centered so the complete white cut margin has generous transparent padding on both left and right, at least about 8 percent of the square canvas on each side. Preserve the two distinct illustrated pages, warm hand-painted 2D colors, page structure and text-free content. Keep a narrow clean white cut margin and an actual transparent PNG background. Do not add objects, change the pages' scenes, or crop any part. Target 512 x 512 square canvas; preserve the actual returned size without scripted resizing.",
+    "target": "revisions/book-collection-20260922/book-open-storybook-v1-master.png",
+    "additional_references": [],
+    "selected_candidate": "revisions/book-collection-20260922/book-open-storybook-v2-candidate.png"
+  }
+}

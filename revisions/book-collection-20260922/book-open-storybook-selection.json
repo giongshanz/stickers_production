@@ -1,0 +1,14 @@
+{
+  "id": "book-open-storybook",
+  "selected_utc": "2026-09-22T10:48:17.539492+00:00",
+  "reason": "Initial sticker had only 16 px alpha>=128 left padding and 26 px right padding. The selected ImageGen edit keeps the same two illustrated pages with more transparent space; alpha>=128 bounds are x=169..1070 on a 1254 px canvas.",
+  "old_master": "revisions/book-collection-20260922/book-open-storybook-v1-master.png",
+  "old_delivery": "revisions/book-collection-20260922/book-open-storybook-v1-delivery.png",
+  "old_sha256": "0555775aaa642c7df4154c167af70679b47dd2027f9d3a2c5567a15536adcb2e",
+  "new_candidate": "revisions/book-collection-20260922/book-open-storybook-v2-candidate.png",
+  "new_master": "masters/book-open-storybook.png",
+  "new_delivery": "delivery/stickers/book-collection/book-open-storybook.png",
+  "new_sha256": "354e16d6acbe208e1b5b9d0e6c3bc028014a0ee342cede35b21d9e5f0bab60b9",
+  "request": "state/requests/book-open-storybook.json",
+  "visual_review": "Selected after full-size comparison; subject and pages retained, all parts visible, clear alpha corners and improved left/right padding. Fine white fringe still subject to game-scale QA."
+}

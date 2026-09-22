@@ -1,0 +1,827 @@
+[
+  {
+    "id": "desert-water-skin",
+    "reason_in_visual_qa": "Printed white and dark alpha flecks remain along the enclosed opening between flask and braided strap after the selected edit and alpha-only exterior trim; requires precise interior alpha cleanup and dark-background QA.",
+    "master": "masters/desert-water-skin.png",
+    "sha256": "42602849198d1f5ece82440453ebbc9324600c147a229e4c31c318846d18a723",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 864115,
+    "alpha_partial_pixels": 707072,
+    "alpha_opaque_pixels": 1329,
+    "painted_bbox": [
+      150,
+      60,
+      1152,
+      1200
+    ],
+    "padding_ltrb": [
+      150,
+      60,
+      102,
+      54
+    ],
+    "delivery_copies": [
+      "delivery/stickers/desert-caravan/desert-water-skin.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "desert-woven-saddlebag",
+    "reason_in_visual_qa": "Printed white background and dark flecks remain in the opening between the two saddlebags beneath the bridge; requires interior alpha cleanup and dark-background QA.",
+    "master": "masters/desert-woven-saddlebag.png",
+    "sha256": "8610a31d0a9a1fc7ace96e4dfebc47da0f22332c8741502f5749ae1cd617e3e3",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 847958,
+    "alpha_partial_pixels": 724377,
+    "alpha_opaque_pixels": 181,
+    "painted_bbox": [
+      29,
+      210,
+      1225,
+      1042
+    ],
+    "padding_ltrb": [
+      29,
+      210,
+      29,
+      212
+    ],
+    "delivery_copies": [
+      "delivery/stickers/desert-caravan/desert-woven-saddlebag.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "desert-navigation-compass",
+    "reason_in_visual_qa": "The small hanging ring hole retains printed white background and dark flecks; requires precise interior alpha cleanup and dark-background QA.",
+    "master": "masters/desert-navigation-compass.png",
+    "sha256": "723488a5829bca9c32fe90dd04164167ff9eab1f2cb1c1fda0d9a174bb5ac8bf",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 948801,
+    "alpha_partial_pixels": 623715,
+    "alpha_opaque_pixels": 0,
+    "painted_bbox": [
+      171,
+      71,
+      1094,
+      1167
+    ],
+    "padding_ltrb": [
+      171,
+      71,
+      160,
+      87
+    ],
+    "delivery_copies": [
+      "delivery/stickers/desert-caravan/desert-navigation-compass.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "arctic-research-hut",
+    "reason_in_visual_qa": "Printed white/dark background remains in the open space beneath the raised cabin and staircase; requires interior alpha cleanup and dark-background QA.",
+    "master": "masters/arctic-research-hut.png",
+    "sha256": "c6074ed4de0252d022244f258313d93e232db43d47a72cfeb0588e894f7eb693",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 811526,
+    "alpha_partial_pixels": 760990,
+    "alpha_opaque_pixels": 0,
+    "painted_bbox": [
+      123,
+      100,
+      1148,
+      1145
+    ],
+    "padding_ltrb": [
+      123,
+      100,
+      106,
+      109
+    ],
+    "delivery_copies": [
+      "delivery/stickers/arctic-research/arctic-research-hut.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "arctic-ice-auger",
+    "reason_in_visual_qa": "Dark and white background flecks remain inside the openings around the auger shaft and blade; requires interior alpha cleanup and dark-background QA.",
+    "master": "masters/arctic-ice-auger.png",
+    "sha256": "b30f4b1ed40880eb726f05c71192df030f5f2d03ececa1c67f87741500065ad9",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 1257101,
+    "alpha_partial_pixels": 314675,
+    "alpha_opaque_pixels": 740,
+    "painted_bbox": [
+      220,
+      85,
+      1069,
+      1167
+    ],
+    "padding_ltrb": [
+      220,
+      85,
+      185,
+      87
+    ],
+    "delivery_copies": [
+      "delivery/stickers/arctic-research/arctic-ice-auger.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "arctic-snowmobile",
+    "reason_in_visual_qa": "Printed dark/white alpha flecks remain in the open gaps between handlebars, body and front ski assemblies; requires interior alpha cleanup and dark-background QA.",
+    "master": "masters/arctic-snowmobile.png",
+    "sha256": "57f15638994b3678e2a943e5789b081f8a12850d661d53bc34f35348ddf20150",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 999050,
+    "alpha_partial_pixels": 572997,
+    "alpha_opaque_pixels": 469,
+    "painted_bbox": [
+      43,
+      189,
+      1226,
+      1072
+    ],
+    "padding_ltrb": [
+      43,
+      189,
+      28,
+      182
+    ],
+    "delivery_copies": [
+      "delivery/stickers/arctic-research/arctic-snowmobile.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "arctic-sample-case",
+    "reason_in_visual_qa": "Printed white background remains in the opening beneath the case handle, including a gray diagonal mark; requires interior alpha cleanup and dark-background QA.",
+    "master": "masters/arctic-sample-case.png",
+    "sha256": "94ea73754d856ead0b29a84ba3f38cdace16722eb5750893e8032538c17c7112",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 758228,
+    "alpha_partial_pixels": 814288,
+    "alpha_opaque_pixels": 0,
+    "painted_bbox": [
+      152,
+      102,
+      1105,
+      1162
+    ],
+    "padding_ltrb": [
+      152,
+      102,
+      149,
+      92
+    ],
+    "delivery_copies": [
+      "delivery/stickers/arctic-research/arctic-sample-case.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "arctic-snow-goggles",
+    "reason_in_visual_qa": "Printed white/dark background remains in the loop between slit-goggle body and brown cord; requires interior alpha cleanup and dark-background QA.",
+    "master": "masters/arctic-snow-goggles.png",
+    "sha256": "ebe2b807a6f4adee0b6e97276f39696ad3296b47aa6433f784df852839f5a611",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 1060352,
+    "alpha_partial_pixels": 512164,
+    "alpha_opaque_pixels": 0,
+    "painted_bbox": [
+      36,
+      281,
+      1227,
+      963
+    ],
+    "padding_ltrb": [
+      36,
+      281,
+      27,
+      291
+    ],
+    "delivery_copies": [
+      "delivery/stickers/arctic-research/arctic-snow-goggles.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "fairy-thimble-bucket",
+    "reason_in_visual_qa": "Dark/white false-background flecks remain in the opening beneath the curved twig handle; requires interior alpha cleanup and dark-background QA.",
+    "master": "masters/fairy-thimble-bucket.png",
+    "sha256": "6eb4d1ceb5982a2e43f2c6909a1b84fe73a3eb5db8de1550211fc639caa0d8f2",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 1193784,
+    "alpha_partial_pixels": 378732,
+    "alpha_opaque_pixels": 0,
+    "painted_bbox": [
+      291,
+      110,
+      953,
+      1134
+    ],
+    "padding_ltrb": [
+      291,
+      110,
+      301,
+      120
+    ],
+    "delivery_copies": [
+      "delivery/stickers/fairy-garden/fairy-thimble-bucket.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "fairy-leaf-boat",
+    "reason_in_visual_qa": "Dark/white false-background flecks remain in the triangular opening between petal sail and curled leaf bow; requires interior alpha cleanup and dark-background QA.",
+    "master": "masters/fairy-leaf-boat.png",
+    "sha256": "698f9f56fbe5e168ca9cefdc84941139e986697260c4da5aa9062ca92f2c5b98",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 980006,
+    "alpha_partial_pixels": 592510,
+    "alpha_opaque_pixels": 0,
+    "painted_bbox": [
+      104,
+      90,
+      1170,
+      1148
+    ],
+    "padding_ltrb": [
+      104,
+      90,
+      84,
+      106
+    ],
+    "delivery_copies": [
+      "delivery/stickers/fairy-garden/fairy-leaf-boat.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "fairy-seed-lantern",
+    "reason_in_visual_qa": "The hanging ring's central opening retains printed white background; requires interior alpha cleanup and dark-background QA.",
+    "master": "masters/fairy-seed-lantern.png",
+    "sha256": "26b8a3ca69317e040d6a56e7db5dd88ae07f97a7ae6d6ef5238ff8488ed64b2c",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 1191520,
+    "alpha_partial_pixels": 380996,
+    "alpha_opaque_pixels": 0,
+    "painted_bbox": [
+      299,
+      36,
+      956,
+      1218
+    ],
+    "padding_ltrb": [
+      299,
+      36,
+      298,
+      36
+    ],
+    "delivery_copies": [
+      "delivery/stickers/fairy-garden/fairy-seed-lantern.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "fairy-dewdrop-watering-can",
+    "reason_in_visual_qa": "Dark/white false-background flecks remain in the loop of the curled green stem handle; preserve the translucent can while cleaning interior alpha.",
+    "master": "masters/fairy-dewdrop-watering-can.png",
+    "sha256": "dc4ee98e68c45e50186ba553053204348241c397a5e0eae425fc00414077937e",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 974855,
+    "alpha_partial_pixels": 597661,
+    "alpha_opaque_pixels": 0,
+    "painted_bbox": [
+      43,
+      156,
+      1210,
+      1104
+    ],
+    "padding_ltrb": [
+      43,
+      156,
+      44,
+      150
+    ],
+    "delivery_copies": [
+      "delivery/stickers/fairy-garden/fairy-dewdrop-watering-can.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "fairy-winged-snail",
+    "reason_in_visual_qa": "Printed white and dark flecks remain between the two eye stalks; requires precise interior alpha cleanup and dark-background QA.",
+    "master": "masters/fairy-winged-snail.png",
+    "sha256": "6def811b111721cb559e123c4b8eb176111d5ad04f03a8552d5c392cef5eadb7",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 825538,
+    "alpha_partial_pixels": 746978,
+    "alpha_opaque_pixels": 0,
+    "painted_bbox": [
+      172,
+      89,
+      1168,
+      1171
+    ],
+    "padding_ltrb": [
+      172,
+      89,
+      86,
+      83
+    ],
+    "delivery_copies": [
+      "delivery/stickers/fairy-garden/fairy-winged-snail.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "apothecary-herb-bundle",
+    "reason_in_visual_qa": "The top twine hanging loop retains printed white background inside its opening; requires interior alpha cleanup and dark-background QA.",
+    "master": "masters/apothecary-herb-bundle.png",
+    "sha256": "f4aa7858c6d3ba3d4d4d30c1b9dcc40fb8f48cb5931b721e45d9b6fa8804a454",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 1119318,
+    "alpha_partial_pixels": 452758,
+    "alpha_opaque_pixels": 440,
+    "painted_bbox": [
+      262,
+      48,
+      993,
+      1204
+    ],
+    "padding_ltrb": [
+      262,
+      48,
+      261,
+      50
+    ],
+    "delivery_copies": [
+      "delivery/stickers/herbal-apothecary/apothecary-herb-bundle.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "apothecary-drying-rack",
+    "reason_in_visual_qa": "Multiple gaps between the circular rack, suspension cords and three plant bundles retain printed white/dark background flecks; requires careful interior alpha cleanup.",
+    "master": "masters/apothecary-drying-rack.png",
+    "sha256": "a97b31f9bb53846cae7c7912e7d10253211c07d7c2a6e484ce2e1d2b5bcf46a2",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 1037639,
+    "alpha_partial_pixels": 534490,
+    "alpha_opaque_pixels": 387,
+    "painted_bbox": [
+      183,
+      72,
+      1069,
+      1181
+    ],
+    "padding_ltrb": [
+      183,
+      72,
+      185,
+      73
+    ],
+    "delivery_copies": [
+      "delivery/stickers/herbal-apothecary/apothecary-drying-rack.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "apothecary-balance-scale",
+    "reason_in_visual_qa": "Open regions between the two suspended pans, chains and central post retain printed white/dark background flecks; requires interior alpha cleanup.",
+    "master": "masters/apothecary-balance-scale.png",
+    "sha256": "1f325a67f1b4f264c322279f47284d0bd01f126be13361a2e097e1f317bc409a",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 1074926,
+    "alpha_partial_pixels": 497541,
+    "alpha_opaque_pixels": 49,
+    "painted_bbox": [
+      65,
+      108,
+      1190,
+      1141
+    ],
+    "padding_ltrb": [
+      65,
+      108,
+      64,
+      113
+    ],
+    "delivery_copies": [
+      "delivery/stickers/herbal-apothecary/apothecary-balance-scale.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "canal-stone-bridge",
+    "reason_in_visual_qa": "Open spaces between the dark iron railing bars contain printed white background rather than transparent alpha; requires interior alpha cleanup.",
+    "master": "masters/canal-stone-bridge.png",
+    "sha256": "59c872a12d46c488d6f3f1bc3427a8867d4a60e91560da30de9288aeeeae30ff",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 956112,
+    "alpha_partial_pixels": 616404,
+    "alpha_opaque_pixels": 0,
+    "painted_bbox": [
+      81,
+      214,
+      1192,
+      1091
+    ],
+    "padding_ltrb": [
+      81,
+      214,
+      62,
+      163
+    ],
+    "delivery_copies": [
+      "delivery/stickers/canal-town/canal-stone-bridge.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "canal-bicycle",
+    "reason_in_visual_qa": "Wheel interiors and frame openings retain printed white background and dark flecks; preserve two-tulip basket while cleaning interior alpha.",
+    "master": "masters/canal-bicycle.png",
+    "sha256": "87d70e893a7689adf982f2ec9313d3b8841be0e1b7dc6cecd3b1eef3c2f28090",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 781266,
+    "alpha_partial_pixels": 790639,
+    "alpha_opaque_pixels": 611,
+    "painted_bbox": [
+      31,
+      74,
+      1231,
+      1167
+    ],
+    "padding_ltrb": [
+      31,
+      74,
+      23,
+      87
+    ],
+    "delivery_copies": [
+      "delivery/stickers/canal-town/canal-bicycle.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "canal-quayside-lamp",
+    "reason_in_visual_qa": "The opening beneath the curved lamp arm retains printed white/dark flecks and exterior fringe; the automated exterior cleaner could not identify painted foreground, so review and clean alpha manually.",
+    "master": "masters/canal-quayside-lamp.png",
+    "sha256": "459073321ee2775d7da070bc3b46d21261e9c1f2bc5cbeb3947f6178e55fe910",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 1228464,
+    "alpha_partial_pixels": 343114,
+    "alpha_opaque_pixels": 938,
+    "painted_bbox": [
+      329,
+      66,
+      953,
+      1196
+    ],
+    "padding_ltrb": [
+      329,
+      66,
+      301,
+      58
+    ],
+    "delivery_copies": [
+      "delivery/stickers/canal-town/canal-quayside-lamp.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "access-manual-wheelchair",
+    "reason_in_visual_qa": "Printed white background fills the large rear wheel between spokes and several open frame gaps; lower frame gap also has dark flecks. Needs careful interior alpha cleanup and dark-background QA.",
+    "master": "masters/access-manual-wheelchair.png",
+    "sha256": "ca5d73d37156c7eacb4117e2c0d6f9823062dfb6034665894ab6303f2100bf46",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 770240,
+    "alpha_partial_pixels": 802276,
+    "alpha_opaque_pixels": 0,
+    "painted_bbox": [
+      69,
+      73,
+      1189,
+      1163
+    ],
+    "padding_ltrb": [
+      69,
+      73,
+      65,
+      91
+    ],
+    "delivery_copies": [
+      "delivery/stickers/accessible-everyday/access-manual-wheelchair.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "access-white-cane",
+    "reason_in_visual_qa": "Black wrist-loop opening and adjacent narrow cane gap contain printed white background and dark flecks; requires interior alpha cleanup.",
+    "master": "masters/access-white-cane.png",
+    "sha256": "1066f267a1f183a180387700e1ff73f10ea7139ddf00772967c7b8a89ca495d4",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 1323028,
+    "alpha_partial_pixels": 249484,
+    "alpha_opaque_pixels": 4,
+    "painted_bbox": [
+      214,
+      92,
+      1077,
+      1130
+    ],
+    "padding_ltrb": [
+      214,
+      92,
+      177,
+      124
+    ],
+    "delivery_copies": [
+      "delivery/stickers/accessible-everyday/access-white-cane.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "access-braille-slate",
+    "reason_in_visual_qa": "The open gap between the blue slate and its stylus contains printed white background and dark speckles; requires interior alpha cleanup.",
+    "master": "masters/access-braille-slate.png",
+    "sha256": "21c8a0111171d4dae3b0ce9d69aa10cbbcab980287d048384e3e29f014a6990f",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 984124,
+    "alpha_partial_pixels": 588003,
+    "alpha_opaque_pixels": 389,
+    "painted_bbox": [
+      63,
+      207,
+      1166,
+      980
+    ],
+    "padding_ltrb": [
+      63,
+      207,
+      88,
+      274
+    ],
+    "delivery_copies": [
+      "delivery/stickers/accessible-everyday/access-braille-slate.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "access-forearm-crutch",
+    "reason_in_visual_qa": "The U-shaped forearm cuff opening retains printed white fill instead of true transparency; requires interior alpha cleanup.",
+    "master": "masters/access-forearm-crutch.png",
+    "sha256": "5411d254d24b7d3f23432538bb96b37e48d3175ad70e96eb1f01c839752a4927",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 1378941,
+    "alpha_partial_pixels": 193575,
+    "alpha_opaque_pixels": 0,
+    "painted_bbox": [
+      413,
+      47,
+      887,
+      1209
+    ],
+    "padding_ltrb": [
+      413,
+      47,
+      367,
+      45
+    ],
+    "delivery_copies": [
+      "delivery/stickers/accessible-everyday/access-forearm-crutch.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "access-walker",
+    "reason_in_visual_qa": "Selected v2 improves the four-leg frame openings, but white fringe and speckled false background remain in most openings; requires multi-region interior alpha cleanup and dark-background QA.",
+    "master": "masters/access-walker.png",
+    "sha256": "04849cc7f0c80710c926faf2dcddff05b8771a0d50bc075192177935f759037f",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 1110705,
+    "alpha_partial_pixels": 460142,
+    "alpha_opaque_pixels": 1669,
+    "painted_bbox": [
+      139,
+      72,
+      1116,
+      1177
+    ],
+    "padding_ltrb": [
+      139,
+      72,
+      138,
+      77
+    ],
+    "delivery_copies": [
+      "delivery/stickers/accessible-everyday/access-walker.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  },
+  {
+    "id": "access-reaching-aid",
+    "reason_in_visual_qa": "The trigger opening near the blue grip retains a printed white wedge and dark flecks; requires interior alpha cleanup.",
+    "master": "masters/access-reaching-aid.png",
+    "sha256": "9a3801d5dcb5c2a42e76b949e3a6d68d4cd400f7ba2af111ba6c2cd14a592efd",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_zero_pixels": 1333189,
+    "alpha_partial_pixels": 239241,
+    "alpha_opaque_pixels": 86,
+    "painted_bbox": [
+      65,
+      69,
+      1197,
+      1179
+    ],
+    "padding_ltrb": [
+      65,
+      69,
+      57,
+      75
+    ],
+    "delivery_copies": [
+      "delivery/stickers/accessible-everyday/access-reaching-aid.png"
+    ],
+    "delivery_hashes_match": true,
+    "catalogue_link_present": true,
+    "progress_status": "alpha_corners_clear",
+    "visual_review_status": "visually_reviewed_on_dark_and_light; not_final_approved"
+  }
+]

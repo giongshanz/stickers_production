@@ -1,0 +1,250 @@
+[
+  {
+    "id": "cat-gray-tabby",
+    "master": "masters/cat-gray-tabby.png",
+    "delivery": "delivery/stickers/cat-collection/cat-gray-tabby.png",
+    "sha256": "0f620a41040eeed705f30c0d689e3007b1ef083eac40b5a714777e1f2abe3990",
+    "delivery_matches": true,
+    "catalogue_link_present": true,
+    "actual_size": [
+      1254,
+      1254
+    ],
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "visible_bbox_alpha_gt_8": [
+      228,
+      52,
+      1054,
+      1213
+    ],
+    "padding_ltrb": [
+      228,
+      52,
+      200,
+      41
+    ],
+    "visible_pixels_alpha_ge_128": 674511
+  },
+  {
+    "id": "cat-black",
+    "master": "masters/cat-black.png",
+    "delivery": "delivery/stickers/cat-collection/cat-black.png",
+    "sha256": "a2420e079e3cbc31b230a5271f2e7ca42c651c2de0284d515c0415a05d061abf",
+    "delivery_matches": true,
+    "catalogue_link_present": true,
+    "actual_size": [
+      1254,
+      1254
+    ],
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "visible_bbox_alpha_gt_8": [
+      104,
+      76,
+      1189,
+      1181
+    ],
+    "padding_ltrb": [
+      104,
+      76,
+      65,
+      73
+    ],
+    "visible_pixels_alpha_ge_128": 753575
+  },
+  {
+    "id": "cat-tuxedo",
+    "master": "masters/cat-tuxedo.png",
+    "delivery": "delivery/stickers/cat-collection/cat-tuxedo.png",
+    "sha256": "5c4a00308c15cbd112544240760671582e23e4ad5e7e08f4856711c3176f0986",
+    "delivery_matches": true,
+    "catalogue_link_present": true,
+    "actual_size": [
+      1254,
+      1254
+    ],
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "visible_bbox_alpha_gt_8": [
+      64,
+      121,
+      1164,
+      1135
+    ],
+    "padding_ltrb": [
+      64,
+      121,
+      90,
+      119
+    ],
+    "visible_pixels_alpha_ge_128": 788287
+  },
+  {
+    "id": "cat-calico",
+    "master": "masters/cat-calico.png",
+    "delivery": "delivery/stickers/cat-collection/cat-calico.png",
+    "sha256": "ae82145937d453c4fc88054fe33b36a882d46070a9cbd6b53df0ad83bbe11bf1",
+    "delivery_matches": true,
+    "catalogue_link_present": true,
+    "actual_size": [
+      1254,
+      1254
+    ],
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "visible_bbox_alpha_gt_8": [
+      147,
+      90,
+      1159,
+      1181
+    ],
+    "padding_ltrb": [
+      147,
+      90,
+      95,
+      73
+    ],
+    "visible_pixels_alpha_ge_128": 768443
+  },
+  {
+    "id": "cat-siamese",
+    "master": "masters/cat-siamese.png",
+    "delivery": "delivery/stickers/cat-collection/cat-siamese.png",
+    "sha256": "9d2e2530e0b8008f309309055553e7ee49d8bc56f3064426570a5038d8e7508f",
+    "delivery_matches": true,
+    "catalogue_link_present": true,
+    "actual_size": [
+      1254,
+      1254
+    ],
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "visible_bbox_alpha_gt_8": [
+      207,
+      67,
+      1128,
+      1200
+    ],
+    "padding_ltrb": [
+      207,
+      67,
+      126,
+      54
+    ],
+    "visible_pixels_alpha_ge_128": 692838
+  },
+  {
+    "id": "cat-white-longhair",
+    "master": "masters/cat-white-longhair.png",
+    "delivery": "delivery/stickers/cat-collection/cat-white-longhair.png",
+    "sha256": "13215fc7b469827a26b54fd7d7096c295184b02a34624e8dfb6959ba493d72c8",
+    "delivery_matches": true,
+    "catalogue_link_present": true,
+    "actual_size": [
+      1254,
+      1254
+    ],
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "visible_bbox_alpha_gt_8": [
+      57,
+      136,
+      1215,
+      1127
+    ],
+    "padding_ltrb": [
+      57,
+      136,
+      39,
+      127
+    ],
+    "visible_pixels_alpha_ge_128": 807114
+  },
+  {
+    "id": "cat-orange-kitten",
+    "master": "masters/cat-orange-kitten.png",
+    "delivery": "delivery/stickers/cat-collection/cat-orange-kitten.png",
+    "sha256": "080f329195029a64073b70053ca9e3b5bd50c2c97b303a22f00a3d14a279698b",
+    "delivery_matches": true,
+    "catalogue_link_present": true,
+    "actual_size": [
+      1254,
+      1254
+    ],
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "visible_bbox_alpha_gt_8": [
+      66,
+      86,
+      1188,
+      1166
+    ],
+    "padding_ltrb": [
+      66,
+      86,
+      66,
+      88
+    ],
+    "visible_pixels_alpha_ge_128": 760439
+  },
+  {
+    "id": "cat-blue-shorthair",
+    "master": "masters/cat-blue-shorthair.png",
+    "delivery": "delivery/stickers/cat-collection/cat-blue-shorthair.png",
+    "sha256": "70dc336c761a4a103b0ac14d569000af98b568497b41b0353160a04c7f121a00",
+    "delivery_matches": true,
+    "catalogue_link_present": true,
+    "actual_size": [
+      1254,
+      1254
+    ],
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "visible_bbox_alpha_gt_8": [
+      97,
+      134,
+      1199,
+      1176
+    ],
+    "padding_ltrb": [
+      97,
+      134,
+      55,
+      78
+    ],
+    "visible_pixels_alpha_ge_128": 818558
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "created_utc": "2026-09-22T08:30:37.691364+00:00",
+  "reason": "Catalogue thumbnails showed only thin white lines because alpha cleanup erased painted interiors; restore alpha from the saved original PNGs.",
+  "method": "Selected saved original RGBA PNG bytes; verified RGB and canvas dimensions equal the old selected masters.",
+  "items": [
+    {
+      "id": "access-hearing-aid",
+      "old_sha256": "2ced182d295a720a83f9189a2728103d91158aeb3fa34f493f282694570d4bca",
+      "new_sha256": "55fc2fa3e8faa86d8274068969e5c68f0de42436ba9f4b5dc0daba0005c7971b",
+      "size": [
+        1254,
+        1254
+      ],
+      "old_visible_pixels": 17534,
+      "new_visible_pixels": 549677,
+      "original": "revisions/generation-20260922-accessible-everyday/access-hearing-aid-v1.png",
+      "master": "masters/access-hearing-aid.png",
+      "delivery": "delivery/stickers/accessible-everyday/access-hearing-aid.png",
+      "archived_master": "revisions/catalogue-alpha-fix-20260922/previous/masters/access-hearing-aid.png",
+      "archived_delivery": "revisions/catalogue-alpha-fix-20260922/previous/delivery/stickers/accessible-everyday/access-hearing-aid.png"
+    },
+    {
+      "id": "railway-signal",
+      "old_sha256": "c03a05cc5da282ad70522d07543c4f13b25c0edc6d216b475228224ab009b317",
+      "new_sha256": "734b01cb75eb082ff171236667a1d5802f280e9b963f8d3b760707626ee22cf0",
+      "size": [
+        1254,
+        1254
+      ],
+      "old_visible_pixels": 31539,
+      "new_visible_pixels": 310998,
+      "original": "revisions/batch-20260918/railway-signal-v1.png",
+      "master": "masters/railway-signal.png",
+      "delivery": "delivery/stickers/railway-station/railway-signal.png",
+      "archived_master": "revisions/catalogue-alpha-fix-20260922/previous/masters/railway-signal.png",
+      "archived_delivery": "revisions/catalogue-alpha-fix-20260922/previous/delivery/stickers/railway-station/railway-signal.png"
+    }
+  ]
+}

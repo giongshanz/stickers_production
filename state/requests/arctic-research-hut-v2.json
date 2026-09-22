@@ -1,0 +1,18 @@
+{
+  "id": "arctic-research-hut",
+  "subject": "A small red polar research cabin standing on short stilts with one frosted window",
+  "topic_slugs": ["arctic-research"],
+  "profile": "objects",
+  "prompt": "Edit the supplied red polar research cabin sticker while preserving its warm restrained hand-painted 2D style, red siding, snow-covered roof, short stilts, stairs, chimney, composition and narrow white sticker-cut margin. The finished cabin must have exactly ONE frosted window: keep the larger frosted window on the right wall. Replace the small glass pane in the door with plain solid cream door material; the door must have no window. Keep the single right-wall window unchanged. No other windows, text, symbols, scene, floor shadow, brand or watermark. The two original desktop stickers are style references only. Deliver a transparent-background PNG with real alpha outside the cut margin, square canvas, target 512 x 512, complete object comfortably inside the canvas.",
+  "referenced_image_paths": [
+    "revisions/generation-20260922-arctic-research/arctic-research-hut-v1.png",
+    "references/Stickers/8-Gardening/8-Gardening_1.png",
+    "references/Stickers/2. Home appliance/68-Home Appliance_2.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Exact edit prompt and reference list used for selected candidate."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "cat-black",
+  "subject": "A single sleek black cat in a relaxed walking pose with amber eyes and its tail gently raised",
+  "topic_slugs": [
+    "cat-collection"
+  ],
+  "profile": "cats",
+  "prompt": "Generate ONE new individual sticker in the exact illustrative style of the supplied original desktop sticker references. References are style only, not subjects to copy.\nArt direction: hand-painted 2D casual-game illustration with restrained local contrast, warm mid-light colors, thin warm locally colored outlines, simple matte painted volumes, just two or three quiet same-hue shadow patches. Modest detail and small broad paint marks. Soft illustrative volume matching the reference artwork. No shiny 3D toy appearance, deep dark crevices, harsh light, or dense surface texture. Do not anthropomorphize objects.\nEntire subject centered and fully visible with clear padding on all sides; a narrow clean white sticker-cut margin follows the silhouette. No scene, floor shadow, text, letters, brand or watermark.\nDeliver a PNG with a TRANSPARENT BACKGROUND: empty canvas outside the sticker, actual alpha transparency.\nSquare canvas, target 512 x 512. Entire sticker visible with clear padding.\nSUBJECT: A single sleek black cat in a relaxed walking pose with amber eyes and its tail gently raised. Draw exactly one whole cat with natural feline ears, eyes, muzzle, four plausible limbs and one tail. The original cat images are style references only; do not duplicate their coat pattern or pose. Keep expression gentle but recognizably feline, with no clothing or props. Use a readable silhouette at game-sticker size, restrained warm hand-painted detail and quiet local shading. The complete sticker including its narrow white cut margin occupies about 80 percent of the canvas in its longest dimension, with transparent padding on every side.",
+  "referenced_image_paths": [
+    "references/Stickers/Cat/9_cat_1.png",
+    "references/Stickers/Cat/9_cat_2.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "View the referenced images, then resolve their paths against the current workspace root when calling the image tool."
+}

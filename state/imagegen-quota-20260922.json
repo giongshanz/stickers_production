@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-22",
+  "stage": "accessible-everyday first batch",
+  "tool": "built-in imagegen",
+  "error_type": "usage_limit_reached",
+  "http_status": 429,
+  "message": "The usage limit has been reached",
+  "plan_type": "plus",
+  "resets_at_unix": 1790059076,
+  "resets_at_utc": "2026-09-22T06:37:56+00:00",
+  "resets_at_local": "2026-09-22T13:37:56+07:00",
+  "resets_in_seconds_reported": 11633,
+  "attempted_id": "access-braille-slate",
+  "saved_prior_ids": [
+    "access-manual-wheelchair",
+    "access-white-cane",
+    "access-hearing-aid"
+  ],
+  "continuation": "After built-in ImageGen access resets, generate access-braille-slate using state/requests/access-braille-slate.json, then continue remaining IDs in state/generation-queue.json order. Do not switch account, API, or image tool. Inspect and save each image, update QA, refresh and verify.",
+  "workspace_status_after_saving_prior_ids": {
+    "generated_unique": 385,
+    "missing_unique": 5,
+    "topics_with_all_images": 49,
+    "generated_topic_slots": 395
+  }
+}

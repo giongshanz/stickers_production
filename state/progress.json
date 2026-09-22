@@ -1,15 +1,15 @@
 {
-  "updated_utc": "2026-09-21T08:06:29.613810+00:00",
-  "target_topics": 50,
-  "target_slots": 400,
-  "target_unique": 390,
-  "generated_unique": 338,
-  "missing_unique": 52,
-  "alpha_corners_clear_unique": 338,
+  "updated_utc": "2026-09-22T10:45:29.355859+00:00",
+  "target_topics": 53,
+  "target_slots": 424,
+  "target_unique": 414,
+  "generated_unique": 414,
+  "missing_unique": 0,
+  "alpha_corners_clear_unique": 414,
   "needs_alpha_unique": 0,
-  "topics_with_all_images": 43,
-  "generated_topic_slots": 348,
-  "visual_rework_unique": 0,
+  "topics_with_all_images": 53,
+  "generated_topic_slots": 424,
+  "visual_rework_unique": 25,
   "complete": false,
   "prompt_target_dimensions": [
     512,
@@ -6680,18 +6680,18 @@
         0,
         0
       ],
-      "transparent_pixels": 1536473,
-      "partial_alpha_pixels": 35656,
-      "opaque_pixels": 387,
+      "transparent_pixels": 1249797,
+      "partial_alpha_pixels": 321747,
+      "opaque_pixels": 972,
       "padding_nonzero_alpha": [
-        247,
-        103,
-        496,
-        383
+        57,
+        102,
+        24,
+        26
       ],
-      "review_edge": false,
-      "sha256": "c03a05cc5da282ad70522d07543c4f13b25c0edc6d216b475228224ab009b317",
-      "bytes": 556381
+      "review_edge": true,
+      "sha256": "734b01cb75eb082ff171236667a1d5802f280e9b963f8d3b760707626ee22cf0",
+      "bytes": 580406
     },
     {
       "id": "railway-locomotive",
@@ -10513,8 +10513,29 @@
         "shipwreck-diving"
       ],
       "source": "masters/shipwreck-treasure-chest.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 832872,
+      "partial_alpha_pixels": 739644,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        164,
+        131,
+        146,
+        120
+      ],
+      "review_edge": false,
+      "sha256": "79ff2a0292b769dc61a9b6ff7ffb3f978999eef5542baaff0db533b4b9bf27d8",
+      "bytes": 1161520
     },
     {
       "id": "shipwreck-ship-bell",
@@ -10523,8 +10544,29 @@
         "shipwreck-diving"
       ],
       "source": "masters/shipwreck-ship-bell.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1140124,
+      "partial_alpha_pixels": 432392,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        265,
+        100,
+        246,
+        100
+      ],
+      "review_edge": false,
+      "sha256": "38c94c4e7dd35a350b36a20de3d6598deabffe7768cf32d0ec70e5ef22d23883",
+      "bytes": 876862
     },
     {
       "id": "shipwreck-diving-torch",
@@ -10533,8 +10575,29 @@
         "shipwreck-diving"
       ],
       "source": "masters/shipwreck-diving-torch.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1007758,
+      "partial_alpha_pixels": 564758,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        80,
+        243,
+        58,
+        201
+      ],
+      "review_edge": false,
+      "sha256": "4aafda285451504690a317f5b7bc362517c216122997d4eee1a717f4158f2d51",
+      "bytes": 959165
     },
     {
       "id": "shipwreck-ceramic-bottle",
@@ -10543,8 +10606,29 @@
         "shipwreck-diving"
       ],
       "source": "masters/shipwreck-ceramic-bottle.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1054930,
+      "partial_alpha_pixels": 517586,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        308,
+        59,
+        306,
+        86
+      ],
+      "review_edge": false,
+      "sha256": "017b444e060578a32d2832dce1ded4e2ee781eaa3cf04163b4c9091aaebb4cb3",
+      "bytes": 878517
     },
     {
       "id": "desert-dromedary",
@@ -10553,8 +10637,29 @@
         "desert-caravan"
       ],
       "source": "masters/desert-dromedary.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 950804,
+      "partial_alpha_pixels": 621711,
+      "opaque_pixels": 1,
+      "padding_nonzero_alpha": [
+        61,
+        55,
+        58,
+        67
+      ],
+      "review_edge": false,
+      "sha256": "d5fb892dda515535aa176295529b8383baa60f72185b6ec3af49c30960d6e1a3",
+      "bytes": 1059221
     },
     {
       "id": "desert-caravan-tent",
@@ -10563,8 +10668,29 @@
         "desert-caravan"
       ],
       "source": "masters/desert-caravan-tent.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 997592,
+      "partial_alpha_pixels": 574760,
+      "opaque_pixels": 164,
+      "padding_nonzero_alpha": [
+        51,
+        212,
+        34,
+        231
+      ],
+      "review_edge": false,
+      "sha256": "759af32b995691e8f07ebe358b126cc785302ec33e05d7b0546dc14c8c1edbbe",
+      "bytes": 909252
     },
     {
       "id": "desert-water-skin",
@@ -10573,8 +10699,29 @@
         "desert-caravan"
       ],
       "source": "masters/desert-water-skin.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "Printed white and dark alpha flecks remain along the enclosed opening between flask and braided strap after the selected edit and alpha-only exterior trim; requires precise interior alpha cleanup and dark-background QA.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 864115,
+      "partial_alpha_pixels": 707072,
+      "opaque_pixels": 1329,
+      "padding_nonzero_alpha": [
+        150,
+        60,
+        102,
+        54
+      ],
+      "review_edge": false,
+      "sha256": "42602849198d1f5ece82440453ebbc9324600c147a229e4c31c318846d18a723",
+      "bytes": 1116325
     },
     {
       "id": "desert-brass-coffee-pot",
@@ -10583,8 +10730,29 @@
         "desert-caravan"
       ],
       "source": "masters/desert-brass-coffee-pot.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1096029,
+      "partial_alpha_pixels": 476487,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        179,
+        73,
+        175,
+        73
+      ],
+      "review_edge": false,
+      "sha256": "31bf5b9efe6a99ca2cb23b027a3da90b681f0d622c05f9b183037fb77d53069d",
+      "bytes": 855228
     },
     {
       "id": "desert-date-bunch",
@@ -10593,8 +10761,29 @@
         "desert-caravan"
       ],
       "source": "masters/desert-date-bunch.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1101517,
+      "partial_alpha_pixels": 470998,
+      "opaque_pixels": 1,
+      "padding_nonzero_alpha": [
+        309,
+        112,
+        195,
+        86
+      ],
+      "review_edge": false,
+      "sha256": "f6c7d94a081eb2e84a4f16bbf25c0ede829c08f4fc340da9444e396277c347b0",
+      "bytes": 868376
     },
     {
       "id": "desert-woven-saddlebag",
@@ -10603,8 +10792,29 @@
         "desert-caravan"
       ],
       "source": "masters/desert-woven-saddlebag.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "Printed white background and dark flecks remain in the opening between the two saddlebags beneath the bridge; requires interior alpha cleanup and dark-background QA.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 847958,
+      "partial_alpha_pixels": 724377,
+      "opaque_pixels": 181,
+      "padding_nonzero_alpha": [
+        29,
+        210,
+        29,
+        212
+      ],
+      "review_edge": false,
+      "sha256": "8610a31d0a9a1fc7ace96e4dfebc47da0f22332c8741502f5749ae1cd617e3e3",
+      "bytes": 1334673
     },
     {
       "id": "desert-sand-rose",
@@ -10613,8 +10823,29 @@
         "desert-caravan"
       ],
       "source": "masters/desert-sand-rose.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 819392,
+      "partial_alpha_pixels": 753124,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        122,
+        132,
+        121,
+        127
+      ],
+      "review_edge": false,
+      "sha256": "fbed8985e15a1475ddbdc3a3942ca96ce262f8400c232cbf2100bd023daa9f5a",
+      "bytes": 1320956
     },
     {
       "id": "desert-navigation-compass",
@@ -10623,8 +10854,29 @@
         "desert-caravan"
       ],
       "source": "masters/desert-navigation-compass.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "The small hanging ring hole retains printed white background and dark flecks; requires precise interior alpha cleanup and dark-background QA.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 948801,
+      "partial_alpha_pixels": 623715,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        171,
+        71,
+        160,
+        87
+      ],
+      "review_edge": false,
+      "sha256": "723488a5829bca9c32fe90dd04164167ff9eab1f2cb1c1fda0d9a174bb5ac8bf",
+      "bytes": 1035704
     },
     {
       "id": "arctic-research-hut",
@@ -10633,8 +10885,29 @@
         "arctic-research"
       ],
       "source": "masters/arctic-research-hut.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "Printed white/dark background remains in the open space beneath the raised cabin and staircase; requires interior alpha cleanup and dark-background QA.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 811526,
+      "partial_alpha_pixels": 760990,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        123,
+        100,
+        106,
+        109
+      ],
+      "review_edge": false,
+      "sha256": "c6074ed4de0252d022244f258313d93e232db43d47a72cfeb0588e894f7eb693",
+      "bytes": 1103647
     },
     {
       "id": "arctic-ice-auger",
@@ -10643,8 +10916,29 @@
         "arctic-research"
       ],
       "source": "masters/arctic-ice-auger.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "Dark and white background flecks remain inside the openings around the auger shaft and blade; requires interior alpha cleanup and dark-background QA.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1257101,
+      "partial_alpha_pixels": 314675,
+      "opaque_pixels": 740,
+      "padding_nonzero_alpha": [
+        220,
+        85,
+        185,
+        87
+      ],
+      "review_edge": false,
+      "sha256": "b30f4b1ed40880eb726f05c71192df030f5f2d03ececa1c67f87741500065ad9",
+      "bytes": 631431
     },
     {
       "id": "arctic-core-sample",
@@ -10653,8 +10947,29 @@
         "arctic-research"
       ],
       "source": "masters/arctic-core-sample.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 991447,
+      "partial_alpha_pixels": 581069,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        62,
+        241,
+        48,
+        223
+      ],
+      "review_edge": false,
+      "sha256": "6946e83116ad99729f15d8c83f326c47856eb2151ff44d094533ae9fa6c6fff9",
+      "bytes": 932013
     },
     {
       "id": "arctic-snowmobile",
@@ -10663,8 +10978,29 @@
         "arctic-research"
       ],
       "source": "masters/arctic-snowmobile.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "Printed dark/white alpha flecks remain in the open gaps between handlebars, body and front ski assemblies; requires interior alpha cleanup and dark-background QA.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 999050,
+      "partial_alpha_pixels": 572997,
+      "opaque_pixels": 469,
+      "padding_nonzero_alpha": [
+        43,
+        189,
+        28,
+        182
+      ],
+      "review_edge": false,
+      "sha256": "57f15638994b3678e2a943e5789b081f8a12850d661d53bc34f35348ddf20150",
+      "bytes": 954219
     },
     {
       "id": "arctic-sample-case",
@@ -10673,8 +11009,29 @@
         "arctic-research"
       ],
       "source": "masters/arctic-sample-case.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "Printed white background remains in the opening beneath the case handle, including a gray diagonal mark; requires interior alpha cleanup and dark-background QA.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 758228,
+      "partial_alpha_pixels": 814288,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        152,
+        102,
+        149,
+        92
+      ],
+      "review_edge": false,
+      "sha256": "94ea73754d856ead0b29a84ba3f38cdace16722eb5750893e8032538c17c7112",
+      "bytes": 1119789
     },
     {
       "id": "arctic-expedition-parka",
@@ -10683,8 +11040,29 @@
         "arctic-research"
       ],
       "source": "masters/arctic-expedition-parka.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 688285,
+      "partial_alpha_pixels": 883604,
+      "opaque_pixels": 627,
+      "padding_nonzero_alpha": [
+        100,
+        35,
+        88,
+        71
+      ],
+      "review_edge": false,
+      "sha256": "f9da9356476dce9ae512a254bd86ab86fa1067e98203fa1c5463711fb5b47c9d",
+      "bytes": 1165387
     },
     {
       "id": "arctic-satellite-phone",
@@ -10693,8 +11071,29 @@
         "arctic-research"
       ],
       "source": "masters/arctic-satellite-phone.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1110494,
+      "partial_alpha_pixels": 462022,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        333,
+        58,
+        321,
+        80
+      ],
+      "review_edge": false,
+      "sha256": "4abf2a32145132579de793cb729bff7e4613ab6dc557f1b28a738cbead5e36d6",
+      "bytes": 811114
     },
     {
       "id": "arctic-snow-goggles",
@@ -10703,8 +11102,29 @@
         "arctic-research"
       ],
       "source": "masters/arctic-snow-goggles.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "Printed white/dark background remains in the loop between slit-goggle body and brown cord; requires interior alpha cleanup and dark-background QA.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1060352,
+      "partial_alpha_pixels": 512164,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        36,
+        281,
+        27,
+        291
+      ],
+      "review_edge": false,
+      "sha256": "ebe2b807a6f4adee0b6e97276f39696ad3296b47aa6433f784df852839f5a611",
+      "bytes": 827241
     },
     {
       "id": "fairy-acorn-house",
@@ -10713,8 +11133,29 @@
         "fairy-garden"
       ],
       "source": "masters/fairy-acorn-house.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 845835,
+      "partial_alpha_pixels": 726681,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        205,
+        69,
+        195,
+        89
+      ],
+      "review_edge": false,
+      "sha256": "8d1586e41a3b4e10cb8e46fcbb64354e63c78dc630c8e911e5c024ac641d92c8",
+      "bytes": 1198519
     },
     {
       "id": "fairy-petal-chair",
@@ -10723,8 +11164,29 @@
         "fairy-garden"
       ],
       "source": "masters/fairy-petal-chair.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1035608,
+      "partial_alpha_pixels": 536903,
+      "opaque_pixels": 5,
+      "padding_nonzero_alpha": [
+        218,
+        93,
+        180,
+        87
+      ],
+      "review_edge": false,
+      "sha256": "53465c7a3307427441e894c8d4906d1042b9651077da6b3a85cff2d4fa7fdb87",
+      "bytes": 943326
     },
     {
       "id": "fairy-thimble-bucket",
@@ -10733,8 +11195,29 @@
         "fairy-garden"
       ],
       "source": "masters/fairy-thimble-bucket.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "Dark/white false-background flecks remain in the opening beneath the curved twig handle; requires interior alpha cleanup and dark-background QA.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1193784,
+      "partial_alpha_pixels": 378732,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        291,
+        110,
+        301,
+        120
+      ],
+      "review_edge": false,
+      "sha256": "6eb4d1ceb5982a2e43f2c6909a1b84fe73a3eb5db8de1550211fc639caa0d8f2",
+      "bytes": 828817
     },
     {
       "id": "fairy-leaf-boat",
@@ -10743,8 +11226,29 @@
         "fairy-garden"
       ],
       "source": "masters/fairy-leaf-boat.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "Dark/white false-background flecks remain in the triangular opening between petal sail and curled leaf bow; requires interior alpha cleanup and dark-background QA.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 980006,
+      "partial_alpha_pixels": 592510,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        104,
+        90,
+        84,
+        106
+      ],
+      "review_edge": false,
+      "sha256": "698f9f56fbe5e168ca9cefdc84941139e986697260c4da5aa9062ca92f2c5b98",
+      "bytes": 868409
     },
     {
       "id": "fairy-seed-lantern",
@@ -10753,8 +11257,29 @@
         "fairy-garden"
       ],
       "source": "masters/fairy-seed-lantern.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "The hanging ring's central opening retains printed white background; requires interior alpha cleanup and dark-background QA.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1191520,
+      "partial_alpha_pixels": 380996,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        299,
+        36,
+        298,
+        36
+      ],
+      "review_edge": false,
+      "sha256": "26b8a3ca69317e040d6a56e7db5dd88ae07f97a7ae6d6ef5238ff8488ed64b2c",
+      "bytes": 753774
     },
     {
       "id": "fairy-dewdrop-watering-can",
@@ -10763,8 +11288,29 @@
         "fairy-garden"
       ],
       "source": "masters/fairy-dewdrop-watering-can.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "Dark/white false-background flecks remain in the loop of the curled green stem handle; preserve the translucent can while cleaning interior alpha.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 974855,
+      "partial_alpha_pixels": 597661,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        43,
+        156,
+        44,
+        150
+      ],
+      "review_edge": false,
+      "sha256": "dc4ee98e68c45e50186ba553053204348241c397a5e0eae425fc00414077937e",
+      "bytes": 986901
     },
     {
       "id": "fairy-pebble-bridge",
@@ -10773,8 +11319,29 @@
         "fairy-garden"
       ],
       "source": "masters/fairy-pebble-bridge.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1051295,
+      "partial_alpha_pixels": 521209,
+      "opaque_pixels": 12,
+      "padding_nonzero_alpha": [
+        56,
+        288,
+        49,
+        265
+      ],
+      "review_edge": false,
+      "sha256": "3c6c2dba7e630b791dc36dc0c92de9b164570e6e8828372799b28db93f1cab76",
+      "bytes": 909271
     },
     {
       "id": "fairy-winged-snail",
@@ -10783,8 +11350,29 @@
         "fairy-garden"
       ],
       "source": "masters/fairy-winged-snail.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "Printed white and dark flecks remain between the two eye stalks; requires precise interior alpha cleanup and dark-background QA.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 825538,
+      "partial_alpha_pixels": 746978,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        172,
+        89,
+        86,
+        83
+      ],
+      "review_edge": false,
+      "sha256": "6def811b111721cb559e123c4b8eb176111d5ad04f03a8552d5c392cef5eadb7",
+      "bytes": 1024779
     },
     {
       "id": "apothecary-mortar-pestle",
@@ -10793,8 +11381,29 @@
         "herbal-apothecary"
       ],
       "source": "masters/apothecary-mortar-pestle.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 923915,
+      "partial_alpha_pixels": 648601,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        177,
+        111,
+        143,
+        92
+      ],
+      "review_edge": false,
+      "sha256": "bfc1ce04d5898b43f02f7b466d965e0b165d84b276ab139ff29be15727f87978",
+      "bytes": 1123245
     },
     {
       "id": "apothecary-herb-bundle",
@@ -10803,8 +11412,29 @@
         "herbal-apothecary"
       ],
       "source": "masters/apothecary-herb-bundle.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "The top twine hanging loop retains printed white background inside its opening; requires interior alpha cleanup and dark-background QA.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1119318,
+      "partial_alpha_pixels": 452758,
+      "opaque_pixels": 440,
+      "padding_nonzero_alpha": [
+        262,
+        48,
+        261,
+        50
+      ],
+      "review_edge": false,
+      "sha256": "f4aa7858c6d3ba3d4d4d30c1b9dcc40fb8f48cb5931b721e45d9b6fa8804a454",
+      "bytes": 981202
     },
     {
       "id": "apothecary-drawer-chest",
@@ -10813,8 +11443,29 @@
         "herbal-apothecary"
       ],
       "source": "masters/apothecary-drawer-chest.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 811524,
+      "partial_alpha_pixels": 760992,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        168,
+        168,
+        168,
+        102
+      ],
+      "review_edge": false,
+      "sha256": "07e4fff6a1163539a4991e01736a71ebe4091be435f50c6be6a1093fd296ddd3",
+      "bytes": 1217173
     },
     {
       "id": "apothecary-potion-bottle",
@@ -10823,8 +11474,29 @@
         "herbal-apothecary"
       ],
       "source": "masters/apothecary-potion-bottle.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 990086,
+      "partial_alpha_pixels": 582430,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        236,
+        91,
+        235,
+        93
+      ],
+      "review_edge": false,
+      "sha256": "98d8f8222c81906bbfc278f0fde44109b6840884b2afee60b538fb0d5a29f842",
+      "bytes": 909643
     },
     {
       "id": "apothecary-drying-rack",
@@ -10833,8 +11505,29 @@
         "herbal-apothecary"
       ],
       "source": "masters/apothecary-drying-rack.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "Multiple gaps between the circular rack, suspension cords and three plant bundles retain printed white/dark background flecks; requires careful interior alpha cleanup.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1037639,
+      "partial_alpha_pixels": 534490,
+      "opaque_pixels": 387,
+      "padding_nonzero_alpha": [
+        183,
+        72,
+        185,
+        73
+      ],
+      "review_edge": false,
+      "sha256": "a97b31f9bb53846cae7c7912e7d10253211c07d7c2a6e484ce2e1d2b5bcf46a2",
+      "bytes": 1056294
     },
     {
       "id": "apothecary-balance-scale",
@@ -10843,8 +11536,29 @@
         "herbal-apothecary"
       ],
       "source": "masters/apothecary-balance-scale.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "Open regions between the two suspended pans, chains and central post retain printed white/dark background flecks; requires interior alpha cleanup.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1074926,
+      "partial_alpha_pixels": 497541,
+      "opaque_pixels": 49,
+      "padding_nonzero_alpha": [
+        65,
+        108,
+        64,
+        113
+      ],
+      "review_edge": false,
+      "sha256": "1f325a67f1b4f264c322279f47284d0bd01f126be13361a2e097e1f317bc409a",
+      "bytes": 1020742
     },
     {
       "id": "apothecary-crescent-vial",
@@ -10853,8 +11567,29 @@
         "herbal-apothecary"
       ],
       "source": "masters/apothecary-crescent-vial.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1151540,
+      "partial_alpha_pixels": 420976,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        304,
+        97,
+        191,
+        144
+      ],
+      "review_edge": false,
+      "sha256": "c2e7292263e319d97d2ff8078cfaa1dfdd06b95d2b53aa3d944f98783178844d",
+      "bytes": 859891
     },
     {
       "id": "apothecary-herbal-salve",
@@ -10863,8 +11598,29 @@
         "herbal-apothecary"
       ],
       "source": "masters/apothecary-herbal-salve.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 906729,
+      "partial_alpha_pixels": 665787,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        118,
+        224,
+        88,
+        228
+      ],
+      "review_edge": false,
+      "sha256": "3861489f84048327d6d71908ef9f3df8f217529ae3d608768b42c081217c3c8c",
+      "bytes": 1041864
     },
     {
       "id": "canal-gabled-house",
@@ -10873,8 +11629,29 @@
         "canal-town"
       ],
       "source": "masters/canal-gabled-house.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1129132,
+      "partial_alpha_pixels": 443384,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        390,
+        68,
+        369,
+        83
+      ],
+      "review_edge": false,
+      "sha256": "4c7ea5b9da6f70fcdab90f45befc44e0eb7970c49f50f668348ff1c736d6a449",
+      "bytes": 598537
     },
     {
       "id": "canal-houseboat",
@@ -10883,8 +11660,29 @@
         "canal-town"
       ],
       "source": "masters/canal-houseboat.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 847209,
+      "partial_alpha_pixels": 725306,
+      "opaque_pixels": 1,
+      "padding_nonzero_alpha": [
+        104,
+        160,
+        59,
+        188
+      ],
+      "review_edge": false,
+      "sha256": "6e86d0f1766f282b90feb031403b433d8424b785cf057fae4377d3e5dfd650bf",
+      "bytes": 997385
     },
     {
       "id": "canal-stone-bridge",
@@ -10893,8 +11691,29 @@
         "canal-town"
       ],
       "source": "masters/canal-stone-bridge.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "Open spaces between the dark iron railing bars contain printed white background rather than transparent alpha; requires interior alpha cleanup.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 956112,
+      "partial_alpha_pixels": 616404,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        81,
+        214,
+        62,
+        163
+      ],
+      "review_edge": false,
+      "sha256": "59c872a12d46c488d6f3f1bc3427a8867d4a60e91560da30de9288aeeeae30ff",
+      "bytes": 979474
     },
     {
       "id": "canal-lock-gate",
@@ -10903,8 +11722,29 @@
         "canal-town"
       ],
       "source": "masters/canal-lock-gate.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 865338,
+      "partial_alpha_pixels": 707178,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        58,
+        213,
+        56,
+        197
+      ],
+      "review_edge": false,
+      "sha256": "164b4d0fb409e487d29f8db89e3fcf6095108bea82329bf77c8cdc5cabbdec78",
+      "bytes": 1085230
     },
     {
       "id": "canal-bicycle",
@@ -10913,8 +11753,29 @@
         "canal-town"
       ],
       "source": "masters/canal-bicycle.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "Wheel interiors and frame openings retain printed white background and dark flecks; preserve two-tulip basket while cleaning interior alpha.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 781266,
+      "partial_alpha_pixels": 790639,
+      "opaque_pixels": 611,
+      "padding_nonzero_alpha": [
+        31,
+        74,
+        23,
+        87
+      ],
+      "review_edge": true,
+      "sha256": "87d70e893a7689adf982f2ec9313d3b8841be0e1b7dc6cecd3b1eef3c2f28090",
+      "bytes": 1350371
     },
     {
       "id": "canal-quayside-lamp",
@@ -10923,8 +11784,29 @@
         "canal-town"
       ],
       "source": "masters/canal-quayside-lamp.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "The opening beneath the curved lamp arm retains printed white/dark flecks and exterior fringe; the automated exterior cleaner could not identify painted foreground, so review and clean alpha manually.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1228464,
+      "partial_alpha_pixels": 343114,
+      "opaque_pixels": 938,
+      "padding_nonzero_alpha": [
+        57,
+        64,
+        62,
+        24
+      ],
+      "review_edge": true,
+      "sha256": "459073321ee2775d7da070bc3b46d21261e9c1f2bc5cbeb3947f6178e55fe910",
+      "bytes": 607156
     },
     {
       "id": "canal-flower-box",
@@ -10933,8 +11815,29 @@
         "canal-town"
       ],
       "source": "masters/canal-flower-box.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 799583,
+      "partial_alpha_pixels": 772933,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        48,
+        155,
+        46,
+        144
+      ],
+      "review_edge": false,
+      "sha256": "17a2147b966bc5963e5bbf3365deaef890101c5002bbcff2e638e04d49c0e699",
+      "bytes": 1292469
     },
     {
       "id": "canal-rowboat",
@@ -10943,8 +11846,29 @@
         "canal-town"
       ],
       "source": "masters/canal-rowboat.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 940759,
+      "partial_alpha_pixels": 631757,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        85,
+        187,
+        70,
+        180
+      ],
+      "review_edge": false,
+      "sha256": "d9d9f375465f29806f88eb6cf107bd9c0ed9111cc640e2677c9de6c31664cbef",
+      "bytes": 982495
     },
     {
       "id": "access-manual-wheelchair",
@@ -10953,8 +11877,29 @@
         "accessible-everyday"
       ],
       "source": "masters/access-manual-wheelchair.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "Printed white background fills the large rear wheel between spokes and several open frame gaps; lower frame gap also has dark flecks. Needs careful interior alpha cleanup and dark-background QA.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 770240,
+      "partial_alpha_pixels": 802276,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        69,
+        73,
+        65,
+        91
+      ],
+      "review_edge": false,
+      "sha256": "ca5d73d37156c7eacb4117e2c0d6f9823062dfb6034665894ab6303f2100bf46",
+      "bytes": 1307659
     },
     {
       "id": "access-white-cane",
@@ -10963,8 +11908,29 @@
         "accessible-everyday"
       ],
       "source": "masters/access-white-cane.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "Black wrist-loop opening and adjacent narrow cane gap contain printed white background and dark flecks; requires interior alpha cleanup.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1323028,
+      "partial_alpha_pixels": 249484,
+      "opaque_pixels": 4,
+      "padding_nonzero_alpha": [
+        214,
+        92,
+        177,
+        124
+      ],
+      "review_edge": false,
+      "sha256": "1066f267a1f183a180387700e1ff73f10ea7139ddf00772967c7b8a89ca495d4",
+      "bytes": 511776
     },
     {
       "id": "access-hearing-aid",
@@ -10973,8 +11939,29 @@
         "accessible-everyday"
       ],
       "source": "masters/access-hearing-aid.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1004307,
+      "partial_alpha_pixels": 567038,
+      "opaque_pixels": 1171,
+      "padding_nonzero_alpha": [
+        55,
+        102,
+        131,
+        0
+      ],
+      "review_edge": true,
+      "sha256": "55fc2fa3e8faa86d8274068969e5c68f0de42436ba9f4b5dc0daba0005c7971b",
+      "bytes": 861274
     },
     {
       "id": "access-braille-slate",
@@ -10983,8 +11970,29 @@
         "accessible-everyday"
       ],
       "source": "masters/access-braille-slate.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "The open gap between the blue slate and its stylus contains printed white background and dark speckles; requires interior alpha cleanup.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 984124,
+      "partial_alpha_pixels": 588003,
+      "opaque_pixels": 389,
+      "padding_nonzero_alpha": [
+        63,
+        207,
+        88,
+        274
+      ],
+      "review_edge": false,
+      "sha256": "21c8a0111171d4dae3b0ce9d69aa10cbbcab980287d048384e3e29f014a6990f",
+      "bytes": 1072402
     },
     {
       "id": "access-forearm-crutch",
@@ -10993,8 +12001,29 @@
         "accessible-everyday"
       ],
       "source": "masters/access-forearm-crutch.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "The U-shaped forearm cuff opening retains printed white fill instead of true transparency; requires interior alpha cleanup.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1378941,
+      "partial_alpha_pixels": 193575,
+      "opaque_pixels": 0,
+      "padding_nonzero_alpha": [
+        413,
+        47,
+        367,
+        45
+      ],
+      "review_edge": false,
+      "sha256": "5411d254d24b7d3f23432538bb96b37e48d3175ad70e96eb1f01c839752a4927",
+      "bytes": 384171
     },
     {
       "id": "access-walker",
@@ -11003,8 +12032,29 @@
         "accessible-everyday"
       ],
       "source": "masters/access-walker.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "Selected v2 improves the four-leg frame openings, but white fringe and speckled false background remain in most openings; requires multi-region interior alpha cleanup and dark-background QA.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1110705,
+      "partial_alpha_pixels": 460142,
+      "opaque_pixels": 1669,
+      "padding_nonzero_alpha": [
+        139,
+        72,
+        138,
+        77
+      ],
+      "review_edge": false,
+      "sha256": "04849cc7f0c80710c926faf2dcddff05b8771a0d50bc075192177935f759037f",
+      "bytes": 890886
     },
     {
       "id": "access-reaching-aid",
@@ -11013,8 +12063,29 @@
         "accessible-everyday"
       ],
       "source": "masters/access-reaching-aid.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "The trigger opening near the blue grip retains a printed white wedge and dark flecks; requires interior alpha cleanup.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1333189,
+      "partial_alpha_pixels": 239241,
+      "opaque_pixels": 86,
+      "padding_nonzero_alpha": [
+        65,
+        69,
+        57,
+        75
+      ],
+      "review_edge": false,
+      "sha256": "9a3801d5dcb5c2a42e76b949e3a6d68d4cd400f7ba2af111ba6c2cd14a592efd",
+      "bytes": 486829
     },
     {
       "id": "access-portable-ramp",
@@ -11023,8 +12094,773 @@
         "accessible-everyday"
       ],
       "source": "masters/access-portable-ramp.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 989702,
+      "partial_alpha_pixels": 582616,
+      "opaque_pixels": 198,
+      "padding_nonzero_alpha": [
+        0,
+        154,
+        16,
+        0
+      ],
+      "review_edge": true,
+      "sha256": "31b6cb22c2786a35732be342dbde223b17b9eb7c7a66cfe6c82d9a3a664a57cf",
+      "bytes": 846645
+    },
+    {
+      "id": "fish-clownfish",
+      "subject": "A single orange clownfish with three cream white bands edged softly in dark brown, rounded fins and a natural fish eye",
+      "topic_slugs": [
+        "fish-collection"
+      ],
+      "source": "masters/fish-clownfish.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 917506,
+      "partial_alpha_pixels": 653782,
+      "opaque_pixels": 1228,
+      "padding_nonzero_alpha": [
+        25,
+        193,
+        0,
+        177
+      ],
+      "review_edge": true,
+      "sha256": "dff331503a898eebe6f73fef7eee9c8cc1a85ce8a778b10c8553050af19e648d",
+      "bytes": 988790
+    },
+    {
+      "id": "fish-blue-tang",
+      "subject": "A single royal blue tang with a clear black curved flank marking and a warm yellow tail",
+      "topic_slugs": [
+        "fish-collection"
+      ],
+      "source": "masters/fish-blue-tang.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 865524,
+      "partial_alpha_pixels": 706062,
+      "opaque_pixels": 930,
+      "padding_nonzero_alpha": [
+        0,
+        87,
+        0,
+        89
+      ],
+      "review_edge": true,
+      "sha256": "514158f3dd31a8b29b63b22ca2c24aef031c3746973fc0feda41662b3107311f",
+      "bytes": 1098424
+    },
+    {
+      "id": "fish-koi",
+      "subject": "A single graceful cream koi carp with a few vermilion patches, a slender flowing tail and two short mouth barbels",
+      "topic_slugs": [
+        "fish-collection"
+      ],
+      "source": "masters/fish-koi.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 866988,
+      "partial_alpha_pixels": 702860,
+      "opaque_pixels": 2668,
+      "padding_nonzero_alpha": [
+        0,
+        9,
+        0,
+        79
+      ],
+      "review_edge": true,
+      "sha256": "e5e39ff95901105ec40c9de2db1f25b53d4aa7f537c9c36a5d3a011f5f1a96c1",
+      "bytes": 1114855
+    },
+    {
+      "id": "fish-betta",
+      "subject": "A single teal and muted violet betta fish with broad flowing fins and a small natural fish eye",
+      "topic_slugs": [
+        "fish-collection"
+      ],
+      "source": "masters/fish-betta.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 705046,
+      "partial_alpha_pixels": 866349,
+      "opaque_pixels": 1121,
+      "padding_nonzero_alpha": [
+        0,
+        97,
+        14,
+        88
+      ],
+      "review_edge": true,
+      "sha256": "3c2d56efb8918248966a7d7ad25fadfb2f1a2d96c0aab20ef5ef5194c33fdd98",
+      "bytes": 1529200
+    },
+    {
+      "id": "fish-pufferfish",
+      "subject": "A single round pale yellow pufferfish with small short spines, tiny fins and a gently curved tail, not inflated into a perfect ball",
+      "topic_slugs": [
+        "fish-collection"
+      ],
+      "source": "masters/fish-pufferfish.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 825580,
+      "partial_alpha_pixels": 745413,
+      "opaque_pixels": 1523,
+      "padding_nonzero_alpha": [
+        31,
+        171,
+        3,
+        19
+      ],
+      "review_edge": true,
+      "sha256": "d359f25b14c7951cbc37df8c35d7a871e138003eef05925ebc9a716c8a7ea72f",
+      "bytes": 1086763
+    },
+    {
+      "id": "fish-lionfish",
+      "subject": "A single reddish brown and cream lionfish with broad fanlike pectoral fins and a modest number of distinct dorsal spines",
+      "topic_slugs": [
+        "fish-collection"
+      ],
+      "source": "masters/fish-lionfish.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 712076,
+      "partial_alpha_pixels": 857881,
+      "opaque_pixels": 2559,
+      "padding_nonzero_alpha": [
+        0,
+        2,
+        0,
+        41
+      ],
+      "review_edge": true,
+      "sha256": "4d7d7cb98f1bae922aa5a75c75fe06f530dce0292ff95343ecc093bba255f558",
+      "bytes": 1522561
+    },
+    {
+      "id": "fish-seahorse",
+      "subject": "A single warm coral orange seahorse with a curled tail, small crown-like crest and recognizable long snout",
+      "topic_slugs": [
+        "fish-collection"
+      ],
+      "source": "masters/fish-seahorse.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1029045,
+      "partial_alpha_pixels": 542596,
+      "opaque_pixels": 875,
+      "padding_nonzero_alpha": [
+        0,
+        5,
+        52,
+        24
+      ],
+      "review_edge": true,
+      "sha256": "06f2d8458a0fb4a6d80741c18e18cf695af9f4f89e99c596f7b5716c3695b28c",
+      "bytes": 878422
+    },
+    {
+      "id": "fish-manta-ray",
+      "subject": "A single blue gray manta ray with wide triangular wings, two small cephalic fins near its mouth and a slender tail",
+      "topic_slugs": [
+        "fish-collection"
+      ],
+      "source": "masters/fish-manta-ray.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 963068,
+      "partial_alpha_pixels": 607313,
+      "opaque_pixels": 2135,
+      "padding_nonzero_alpha": [
+        0,
+        52,
+        20,
+        129
+      ],
+      "review_edge": true,
+      "sha256": "9925ad2c320bffa9d16f201e049a426f7c867642085489f2b09eb186476f0675",
+      "bytes": 894993
+    },
+    {
+      "id": "cat-gray-tabby",
+      "subject": "A single small gray tabby cat sitting upright with soft charcoal stripes, alert ears and its tail wrapped around its paws",
+      "topic_slugs": [
+        "cat-collection"
+      ],
+      "source": "masters/cat-gray-tabby.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 883718,
+      "partial_alpha_pixels": 687118,
+      "opaque_pixels": 1680,
+      "padding_nonzero_alpha": [
+        220,
+        47,
+        16,
+        0
+      ],
+      "review_edge": true,
+      "sha256": "0f620a41040eeed705f30c0d689e3007b1ef083eac40b5a714777e1f2abe3990",
+      "bytes": 989185
+    },
+    {
+      "id": "cat-black",
+      "subject": "A single sleek black cat in a relaxed walking pose with amber eyes and its tail gently raised",
+      "topic_slugs": [
+        "cat-collection"
+      ],
+      "source": "masters/cat-black.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 792400,
+      "partial_alpha_pixels": 778006,
+      "opaque_pixels": 2110,
+      "padding_nonzero_alpha": [
+        31,
+        40,
+        32,
+        22
+      ],
+      "review_edge": true,
+      "sha256": "a2420e079e3cbc31b230a5271f2e7ca42c651c2de0284d515c0415a05d061abf",
+      "bytes": 988393
+    },
+    {
+      "id": "cat-tuxedo",
+      "subject": "A single black and white tuxedo cat resting in a compact loaf pose with a white chest and white front paws",
+      "topic_slugs": [
+        "cat-collection"
+      ],
+      "source": "masters/cat-tuxedo.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 766843,
+      "partial_alpha_pixels": 804560,
+      "opaque_pixels": 1113,
+      "padding_nonzero_alpha": [
+        0,
+        53,
+        62,
+        66
+      ],
+      "review_edge": true,
+      "sha256": "5c4a00308c15cbd112544240760671582e23e4ad5e7e08f4856711c3176f0986",
+      "bytes": 1086536
+    },
+    {
+      "id": "cat-calico",
+      "subject": "A single calico cat standing in three quarter view with clear cream, muted orange and charcoal coat patches and a gently raised tail",
+      "topic_slugs": [
+        "cat-collection"
+      ],
+      "source": "masters/cat-calico.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 778286,
+      "partial_alpha_pixels": 792410,
+      "opaque_pixels": 1820,
+      "padding_nonzero_alpha": [
+        0,
+        4,
+        62,
+        26
+      ],
+      "review_edge": true,
+      "sha256": "ae82145937d453c4fc88054fe33b36a882d46070a9cbd6b53df0ad83bbe11bf1",
+      "bytes": 1096595
+    },
+    {
+      "id": "cat-siamese",
+      "subject": "A single seated Siamese cat with a cream coat, warm brown face, ears, paws and tail, and pale blue eyes",
+      "topic_slugs": [
+        "cat-collection"
+      ],
+      "source": "masters/cat-siamese.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 864792,
+      "partial_alpha_pixels": 706042,
+      "opaque_pixels": 1682,
+      "padding_nonzero_alpha": [
+        49,
+        64,
+        36,
+        40
+      ],
+      "review_edge": false,
+      "sha256": "9d2e2530e0b8008f309309055553e7ee49d8bc56f3064426570a5038d8e7508f",
+      "bytes": 1023995
+    },
+    {
+      "id": "cat-white-longhair",
+      "subject": "A single fluffy white long haired cat curled up resting with pale pink inner ears and subtle warm cream shadow patches",
+      "topic_slugs": [
+        "cat-collection"
+      ],
+      "source": "masters/cat-white-longhair.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 752746,
+      "partial_alpha_pixels": 818277,
+      "opaque_pixels": 1493,
+      "padding_nonzero_alpha": [
+        49,
+        53,
+        1,
+        112
+      ],
+      "review_edge": true,
+      "sha256": "13215fc7b469827a26b54fd7d7096c295184b02a34624e8dfb6959ba493d72c8",
+      "bytes": 1044054
+    },
+    {
+      "id": "cat-orange-kitten",
+      "subject": "A single playful orange tabby kitten crouching low with one forepaw lifted, soft stripes and wide natural eyes",
+      "topic_slugs": [
+        "cat-collection"
+      ],
+      "source": "masters/cat-orange-kitten.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 788713,
+      "partial_alpha_pixels": 782195,
+      "opaque_pixels": 1608,
+      "padding_nonzero_alpha": [
+        63,
+        80,
+        24,
+        22
+      ],
+      "review_edge": true,
+      "sha256": "080f329195029a64073b70053ca9e3b5bd50c2c97b303a22f00a3d14a279698b",
+      "bytes": 1277847
+    },
+    {
+      "id": "cat-blue-shorthair",
+      "subject": "A single round blue gray British Shorthair cat standing calmly with short plush fur, a thick tail and copper eyes",
+      "topic_slugs": [
+        "cat-collection"
+      ],
+      "source": "masters/cat-blue-shorthair.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 731991,
+      "partial_alpha_pixels": 839083,
+      "opaque_pixels": 1442,
+      "padding_nonzero_alpha": [
+        0,
+        3,
+        16,
+        24
+      ],
+      "review_edge": true,
+      "sha256": "70dc336c761a4a103b0ac14d569000af98b568497b41b0353160a04c7f121a00",
+      "bytes": 1223243
+    },
+    {
+      "id": "book-blue-hardcover",
+      "subject": "One closed blue clothbound hardcover book in three-quarter view, with a thick cream page block, a narrow ochre ribbon bookmark and a tiny simple embossed sun on its otherwise plain cover, no letters",
+      "topic_slugs": [
+        "book-collection"
+      ],
+      "source": "masters/book-blue-hardcover.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 736707,
+      "partial_alpha_pixels": 834738,
+      "opaque_pixels": 1071,
+      "padding_nonzero_alpha": [
+        0,
+        49,
+        60,
+        44
+      ],
+      "review_edge": true,
+      "sha256": "2dcd97fb2a99e36d51bf6dada5446c58f72a39d40ffdff0d5a3254d0a22a0eb4",
+      "bytes": 1361456
+    },
+    {
+      "id": "book-open-storybook",
+      "subject": "One open illustrated storybook with gently curved cream pages and a small simple landscape picture on each page, no writing",
+      "topic_slugs": [
+        "book-collection"
+      ],
+      "source": "masters/book-open-storybook.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 826418,
+      "partial_alpha_pixels": 744403,
+      "opaque_pixels": 1695,
+      "padding_nonzero_alpha": [
+        0,
+        205,
+        3,
+        16
+      ],
+      "review_edge": true,
+      "sha256": "0555775aaa642c7df4154c167af70679b47dd2027f9d3a2c5567a15536adcb2e",
+      "bytes": 1106256
+    },
+    {
+      "id": "book-three-volume-stack",
+      "subject": "A tidy stack of three closed books in muted coral, sage and ochre cloth covers with visible cream page edges, no writing",
+      "topic_slugs": [
+        "book-collection"
+      ],
+      "source": "masters/book-three-volume-stack.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 718359,
+      "partial_alpha_pixels": 852290,
+      "opaque_pixels": 1867,
+      "padding_nonzero_alpha": [
+        49,
+        128,
+        62,
+        78
+      ],
+      "review_edge": false,
+      "sha256": "1cabbee6fa362ff0c216e2e9ec623424592775be2909f3319c09765183bac1d3",
+      "bytes": 1285692
+    },
+    {
+      "id": "book-pocket-paperback",
+      "subject": "One slim sage green pocket paperback with gently fanned cream pages and a simple leaf emblem on the cover, no writing",
+      "topic_slugs": [
+        "book-collection"
+      ],
+      "source": "masters/book-pocket-paperback.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1000748,
+      "partial_alpha_pixels": 570742,
+      "opaque_pixels": 1026,
+      "padding_nonzero_alpha": [
+        103,
+        104,
+        39,
+        72
+      ],
+      "review_edge": false,
+      "sha256": "6cfa932c54b6f05e1f9c407ea843a7150be9433612c6b5eda541779b6c78133b",
+      "bytes": 763735
+    },
+    {
+      "id": "book-accordion-picture-book",
+      "subject": "One short accordion-fold picture book partly unfolded to show three sturdy illustrated panels with simple flowers and birds, no writing",
+      "topic_slugs": [
+        "book-collection"
+      ],
+      "source": "masters/book-accordion-picture-book.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 953384,
+      "partial_alpha_pixels": 616978,
+      "opaque_pixels": 2154,
+      "padding_nonzero_alpha": [
+        0,
+        54,
+        6,
+        286
+      ],
+      "review_edge": true,
+      "sha256": "6148c630d7a4a8e606b00abfa0a4c6217fc657b85ecbe60053710a3b98c540fc",
+      "bytes": 868222
+    },
+    {
+      "id": "book-pop-up-castle",
+      "subject": "One open pop-up book with a small folded paper castle rising clearly from the center crease, no writing",
+      "topic_slugs": [
+        "book-collection"
+      ],
+      "source": "masters/book-pop-up-castle.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 919860,
+      "partial_alpha_pixels": 651755,
+      "opaque_pixels": 901,
+      "padding_nonzero_alpha": [
+        49,
+        48,
+        51,
+        106
+      ],
+      "review_edge": false,
+      "sha256": "536c106f01912a1e74a822004cdf29c5c40eadbbb4fb25b37f7200800e6609e5",
+      "bytes": 1014934
+    },
+    {
+      "id": "book-leather-tome",
+      "subject": "One thick warm brown leatherbound old book with simple brass corner pieces and a plain clasp, no writing",
+      "topic_slugs": [
+        "book-collection"
+      ],
+      "source": "masters/book-leather-tome.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 772513,
+      "partial_alpha_pixels": 798973,
+      "opaque_pixels": 1030,
+      "padding_nonzero_alpha": [
+        0,
+        91,
+        68,
+        48
+      ],
+      "review_edge": true,
+      "sha256": "511b7f0f124deb3b36642dc0d7ec4ca39ba31225033e7bc094c72c4d15370dc6",
+      "bytes": 1261658
+    },
+    {
+      "id": "book-small-diary",
+      "subject": "One small dark plum travel diary with a supple rounded cover, thin cream page edge, an elastic band around its middle and a tiny crescent moon emblem, no ribbon, flowers or writing",
+      "topic_slugs": [
+        "book-collection"
+      ],
+      "source": "masters/book-small-diary.png",
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 925394,
+      "partial_alpha_pixels": 646243,
+      "opaque_pixels": 879,
+      "padding_nonzero_alpha": [
+        121,
+        142,
+        125,
+        146
+      ],
+      "review_edge": false,
+      "sha256": "19a262810394b42a1e17a7b4c88d59ae4981f3c4350522ce4312788a7dc66a99",
+      "bytes": 870748
     }
   ],
   "topics": [
@@ -11289,43 +13125,61 @@
     {
       "slug": "shipwreck-diving",
       "name_vi": "Khám phá tàu đắm",
-      "generated": 4,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "desert-caravan",
       "name_vi": "Đoàn lữ hành sa mạc",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "arctic-research",
       "name_vi": "Trạm nghiên cứu Bắc Cực",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "fairy-garden",
       "name_vi": "Khu vườn tiên",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "herbal-apothecary",
       "name_vi": "Tiệm thảo dược cổ tích",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "canal-town",
       "name_vi": "Thị trấn bên kênh",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "accessible-everyday",
       "name_vi": "Đồ dùng hỗ trợ tiếp cận",
-      "generated": 0,
+      "generated": 8,
+      "target": 8
+    },
+    {
+      "slug": "fish-collection",
+      "name_vi": "Các loài cá",
+      "generated": 8,
+      "target": 8
+    },
+    {
+      "slug": "cat-collection",
+      "name_vi": "Mèo",
+      "generated": 8,
+      "target": 8
+    },
+    {
+      "slug": "book-collection",
+      "name_vi": "Book",
+      "generated": 8,
       "target": 8
     }
   ],
@@ -13352,7 +15206,7 @@
       "id": "railway-signal",
       "file": "delivery/stickers/railway-station/railway-signal.png",
       "status": "alpha_corners_clear",
-      "sha256": "c03a05cc5da282ad70522d07543c4f13b25c0edc6d216b475228224ab009b317",
+      "sha256": "734b01cb75eb082ff171236667a1d5802f280e9b963f8d3b760707626ee22cf0",
       "review_note": ""
     },
     {
@@ -14466,468 +16320,684 @@
       "topic": "shipwreck-diving",
       "name_vi": "Khám phá tàu đắm",
       "id": "shipwreck-treasure-chest",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/shipwreck-diving/shipwreck-treasure-chest.png",
+      "status": "alpha_corners_clear",
+      "sha256": "79ff2a0292b769dc61a9b6ff7ffb3f978999eef5542baaff0db533b4b9bf27d8",
       "review_note": ""
     },
     {
       "topic": "shipwreck-diving",
       "name_vi": "Khám phá tàu đắm",
       "id": "shipwreck-ship-bell",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/shipwreck-diving/shipwreck-ship-bell.png",
+      "status": "alpha_corners_clear",
+      "sha256": "38c94c4e7dd35a350b36a20de3d6598deabffe7768cf32d0ec70e5ef22d23883",
       "review_note": ""
     },
     {
       "topic": "shipwreck-diving",
       "name_vi": "Khám phá tàu đắm",
       "id": "shipwreck-diving-torch",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/shipwreck-diving/shipwreck-diving-torch.png",
+      "status": "alpha_corners_clear",
+      "sha256": "4aafda285451504690a317f5b7bc362517c216122997d4eee1a717f4158f2d51",
       "review_note": ""
     },
     {
       "topic": "shipwreck-diving",
       "name_vi": "Khám phá tàu đắm",
       "id": "shipwreck-ceramic-bottle",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/shipwreck-diving/shipwreck-ceramic-bottle.png",
+      "status": "alpha_corners_clear",
+      "sha256": "017b444e060578a32d2832dce1ded4e2ee781eaa3cf04163b4c9091aaebb4cb3",
       "review_note": ""
     },
     {
       "topic": "desert-caravan",
       "name_vi": "Đoàn lữ hành sa mạc",
       "id": "desert-dromedary",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/desert-caravan/desert-dromedary.png",
+      "status": "alpha_corners_clear",
+      "sha256": "d5fb892dda515535aa176295529b8383baa60f72185b6ec3af49c30960d6e1a3",
       "review_note": ""
     },
     {
       "topic": "desert-caravan",
       "name_vi": "Đoàn lữ hành sa mạc",
       "id": "desert-caravan-tent",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/desert-caravan/desert-caravan-tent.png",
+      "status": "alpha_corners_clear",
+      "sha256": "759af32b995691e8f07ebe358b126cc785302ec33e05d7b0546dc14c8c1edbbe",
       "review_note": ""
     },
     {
       "topic": "desert-caravan",
       "name_vi": "Đoàn lữ hành sa mạc",
       "id": "desert-water-skin",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/desert-caravan/desert-water-skin.png",
+      "status": "alpha_corners_clear",
+      "sha256": "42602849198d1f5ece82440453ebbc9324600c147a229e4c31c318846d18a723",
+      "review_note": "Printed white and dark alpha flecks remain along the enclosed opening between flask and braided strap after the selected edit and alpha-only exterior trim; requires precise interior alpha cleanup and dark-background QA."
     },
     {
       "topic": "desert-caravan",
       "name_vi": "Đoàn lữ hành sa mạc",
       "id": "desert-brass-coffee-pot",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/desert-caravan/desert-brass-coffee-pot.png",
+      "status": "alpha_corners_clear",
+      "sha256": "31bf5b9efe6a99ca2cb23b027a3da90b681f0d622c05f9b183037fb77d53069d",
       "review_note": ""
     },
     {
       "topic": "desert-caravan",
       "name_vi": "Đoàn lữ hành sa mạc",
       "id": "desert-date-bunch",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/desert-caravan/desert-date-bunch.png",
+      "status": "alpha_corners_clear",
+      "sha256": "f6c7d94a081eb2e84a4f16bbf25c0ede829c08f4fc340da9444e396277c347b0",
       "review_note": ""
     },
     {
       "topic": "desert-caravan",
       "name_vi": "Đoàn lữ hành sa mạc",
       "id": "desert-woven-saddlebag",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/desert-caravan/desert-woven-saddlebag.png",
+      "status": "alpha_corners_clear",
+      "sha256": "8610a31d0a9a1fc7ace96e4dfebc47da0f22332c8741502f5749ae1cd617e3e3",
+      "review_note": "Printed white background and dark flecks remain in the opening between the two saddlebags beneath the bridge; requires interior alpha cleanup and dark-background QA."
     },
     {
       "topic": "desert-caravan",
       "name_vi": "Đoàn lữ hành sa mạc",
       "id": "desert-sand-rose",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/desert-caravan/desert-sand-rose.png",
+      "status": "alpha_corners_clear",
+      "sha256": "fbed8985e15a1475ddbdc3a3942ca96ce262f8400c232cbf2100bd023daa9f5a",
       "review_note": ""
     },
     {
       "topic": "desert-caravan",
       "name_vi": "Đoàn lữ hành sa mạc",
       "id": "desert-navigation-compass",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/desert-caravan/desert-navigation-compass.png",
+      "status": "alpha_corners_clear",
+      "sha256": "723488a5829bca9c32fe90dd04164167ff9eab1f2cb1c1fda0d9a174bb5ac8bf",
+      "review_note": "The small hanging ring hole retains printed white background and dark flecks; requires precise interior alpha cleanup and dark-background QA."
     },
     {
       "topic": "arctic-research",
       "name_vi": "Trạm nghiên cứu Bắc Cực",
       "id": "arctic-research-hut",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/arctic-research/arctic-research-hut.png",
+      "status": "alpha_corners_clear",
+      "sha256": "c6074ed4de0252d022244f258313d93e232db43d47a72cfeb0588e894f7eb693",
+      "review_note": "Printed white/dark background remains in the open space beneath the raised cabin and staircase; requires interior alpha cleanup and dark-background QA."
     },
     {
       "topic": "arctic-research",
       "name_vi": "Trạm nghiên cứu Bắc Cực",
       "id": "arctic-ice-auger",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/arctic-research/arctic-ice-auger.png",
+      "status": "alpha_corners_clear",
+      "sha256": "b30f4b1ed40880eb726f05c71192df030f5f2d03ececa1c67f87741500065ad9",
+      "review_note": "Dark and white background flecks remain inside the openings around the auger shaft and blade; requires interior alpha cleanup and dark-background QA."
     },
     {
       "topic": "arctic-research",
       "name_vi": "Trạm nghiên cứu Bắc Cực",
       "id": "arctic-core-sample",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/arctic-research/arctic-core-sample.png",
+      "status": "alpha_corners_clear",
+      "sha256": "6946e83116ad99729f15d8c83f326c47856eb2151ff44d094533ae9fa6c6fff9",
       "review_note": ""
     },
     {
       "topic": "arctic-research",
       "name_vi": "Trạm nghiên cứu Bắc Cực",
       "id": "arctic-snowmobile",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/arctic-research/arctic-snowmobile.png",
+      "status": "alpha_corners_clear",
+      "sha256": "57f15638994b3678e2a943e5789b081f8a12850d661d53bc34f35348ddf20150",
+      "review_note": "Printed dark/white alpha flecks remain in the open gaps between handlebars, body and front ski assemblies; requires interior alpha cleanup and dark-background QA."
     },
     {
       "topic": "arctic-research",
       "name_vi": "Trạm nghiên cứu Bắc Cực",
       "id": "arctic-sample-case",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/arctic-research/arctic-sample-case.png",
+      "status": "alpha_corners_clear",
+      "sha256": "94ea73754d856ead0b29a84ba3f38cdace16722eb5750893e8032538c17c7112",
+      "review_note": "Printed white background remains in the opening beneath the case handle, including a gray diagonal mark; requires interior alpha cleanup and dark-background QA."
     },
     {
       "topic": "arctic-research",
       "name_vi": "Trạm nghiên cứu Bắc Cực",
       "id": "arctic-expedition-parka",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/arctic-research/arctic-expedition-parka.png",
+      "status": "alpha_corners_clear",
+      "sha256": "f9da9356476dce9ae512a254bd86ab86fa1067e98203fa1c5463711fb5b47c9d",
       "review_note": ""
     },
     {
       "topic": "arctic-research",
       "name_vi": "Trạm nghiên cứu Bắc Cực",
       "id": "arctic-satellite-phone",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/arctic-research/arctic-satellite-phone.png",
+      "status": "alpha_corners_clear",
+      "sha256": "4abf2a32145132579de793cb729bff7e4613ab6dc557f1b28a738cbead5e36d6",
       "review_note": ""
     },
     {
       "topic": "arctic-research",
       "name_vi": "Trạm nghiên cứu Bắc Cực",
       "id": "arctic-snow-goggles",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/arctic-research/arctic-snow-goggles.png",
+      "status": "alpha_corners_clear",
+      "sha256": "ebe2b807a6f4adee0b6e97276f39696ad3296b47aa6433f784df852839f5a611",
+      "review_note": "Printed white/dark background remains in the loop between slit-goggle body and brown cord; requires interior alpha cleanup and dark-background QA."
     },
     {
       "topic": "fairy-garden",
       "name_vi": "Khu vườn tiên",
       "id": "fairy-acorn-house",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fairy-garden/fairy-acorn-house.png",
+      "status": "alpha_corners_clear",
+      "sha256": "8d1586e41a3b4e10cb8e46fcbb64354e63c78dc630c8e911e5c024ac641d92c8",
       "review_note": ""
     },
     {
       "topic": "fairy-garden",
       "name_vi": "Khu vườn tiên",
       "id": "fairy-petal-chair",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fairy-garden/fairy-petal-chair.png",
+      "status": "alpha_corners_clear",
+      "sha256": "53465c7a3307427441e894c8d4906d1042b9651077da6b3a85cff2d4fa7fdb87",
       "review_note": ""
     },
     {
       "topic": "fairy-garden",
       "name_vi": "Khu vườn tiên",
       "id": "fairy-thimble-bucket",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/fairy-garden/fairy-thimble-bucket.png",
+      "status": "alpha_corners_clear",
+      "sha256": "6eb4d1ceb5982a2e43f2c6909a1b84fe73a3eb5db8de1550211fc639caa0d8f2",
+      "review_note": "Dark/white false-background flecks remain in the opening beneath the curved twig handle; requires interior alpha cleanup and dark-background QA."
     },
     {
       "topic": "fairy-garden",
       "name_vi": "Khu vườn tiên",
       "id": "fairy-leaf-boat",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/fairy-garden/fairy-leaf-boat.png",
+      "status": "alpha_corners_clear",
+      "sha256": "698f9f56fbe5e168ca9cefdc84941139e986697260c4da5aa9062ca92f2c5b98",
+      "review_note": "Dark/white false-background flecks remain in the triangular opening between petal sail and curled leaf bow; requires interior alpha cleanup and dark-background QA."
     },
     {
       "topic": "fairy-garden",
       "name_vi": "Khu vườn tiên",
       "id": "fairy-seed-lantern",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/fairy-garden/fairy-seed-lantern.png",
+      "status": "alpha_corners_clear",
+      "sha256": "26b8a3ca69317e040d6a56e7db5dd88ae07f97a7ae6d6ef5238ff8488ed64b2c",
+      "review_note": "The hanging ring's central opening retains printed white background; requires interior alpha cleanup and dark-background QA."
     },
     {
       "topic": "fairy-garden",
       "name_vi": "Khu vườn tiên",
       "id": "fairy-dewdrop-watering-can",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/fairy-garden/fairy-dewdrop-watering-can.png",
+      "status": "alpha_corners_clear",
+      "sha256": "dc4ee98e68c45e50186ba553053204348241c397a5e0eae425fc00414077937e",
+      "review_note": "Dark/white false-background flecks remain in the loop of the curled green stem handle; preserve the translucent can while cleaning interior alpha."
     },
     {
       "topic": "fairy-garden",
       "name_vi": "Khu vườn tiên",
       "id": "fairy-pebble-bridge",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fairy-garden/fairy-pebble-bridge.png",
+      "status": "alpha_corners_clear",
+      "sha256": "3c6c2dba7e630b791dc36dc0c92de9b164570e6e8828372799b28db93f1cab76",
       "review_note": ""
     },
     {
       "topic": "fairy-garden",
       "name_vi": "Khu vườn tiên",
       "id": "fairy-winged-snail",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/fairy-garden/fairy-winged-snail.png",
+      "status": "alpha_corners_clear",
+      "sha256": "6def811b111721cb559e123c4b8eb176111d5ad04f03a8552d5c392cef5eadb7",
+      "review_note": "Printed white and dark flecks remain between the two eye stalks; requires precise interior alpha cleanup and dark-background QA."
     },
     {
       "topic": "herbal-apothecary",
       "name_vi": "Tiệm thảo dược cổ tích",
       "id": "apothecary-mortar-pestle",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/herbal-apothecary/apothecary-mortar-pestle.png",
+      "status": "alpha_corners_clear",
+      "sha256": "bfc1ce04d5898b43f02f7b466d965e0b165d84b276ab139ff29be15727f87978",
       "review_note": ""
     },
     {
       "topic": "herbal-apothecary",
       "name_vi": "Tiệm thảo dược cổ tích",
       "id": "apothecary-herb-bundle",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/herbal-apothecary/apothecary-herb-bundle.png",
+      "status": "alpha_corners_clear",
+      "sha256": "f4aa7858c6d3ba3d4d4d30c1b9dcc40fb8f48cb5931b721e45d9b6fa8804a454",
+      "review_note": "The top twine hanging loop retains printed white background inside its opening; requires interior alpha cleanup and dark-background QA."
     },
     {
       "topic": "herbal-apothecary",
       "name_vi": "Tiệm thảo dược cổ tích",
       "id": "apothecary-drawer-chest",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/herbal-apothecary/apothecary-drawer-chest.png",
+      "status": "alpha_corners_clear",
+      "sha256": "07e4fff6a1163539a4991e01736a71ebe4091be435f50c6be6a1093fd296ddd3",
       "review_note": ""
     },
     {
       "topic": "herbal-apothecary",
       "name_vi": "Tiệm thảo dược cổ tích",
       "id": "apothecary-potion-bottle",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/herbal-apothecary/apothecary-potion-bottle.png",
+      "status": "alpha_corners_clear",
+      "sha256": "98d8f8222c81906bbfc278f0fde44109b6840884b2afee60b538fb0d5a29f842",
       "review_note": ""
     },
     {
       "topic": "herbal-apothecary",
       "name_vi": "Tiệm thảo dược cổ tích",
       "id": "apothecary-drying-rack",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/herbal-apothecary/apothecary-drying-rack.png",
+      "status": "alpha_corners_clear",
+      "sha256": "a97b31f9bb53846cae7c7912e7d10253211c07d7c2a6e484ce2e1d2b5bcf46a2",
+      "review_note": "Multiple gaps between the circular rack, suspension cords and three plant bundles retain printed white/dark background flecks; requires careful interior alpha cleanup."
     },
     {
       "topic": "herbal-apothecary",
       "name_vi": "Tiệm thảo dược cổ tích",
       "id": "apothecary-balance-scale",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/herbal-apothecary/apothecary-balance-scale.png",
+      "status": "alpha_corners_clear",
+      "sha256": "1f325a67f1b4f264c322279f47284d0bd01f126be13361a2e097e1f317bc409a",
+      "review_note": "Open regions between the two suspended pans, chains and central post retain printed white/dark background flecks; requires interior alpha cleanup."
     },
     {
       "topic": "herbal-apothecary",
       "name_vi": "Tiệm thảo dược cổ tích",
       "id": "apothecary-crescent-vial",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/herbal-apothecary/apothecary-crescent-vial.png",
+      "status": "alpha_corners_clear",
+      "sha256": "c2e7292263e319d97d2ff8078cfaa1dfdd06b95d2b53aa3d944f98783178844d",
       "review_note": ""
     },
     {
       "topic": "herbal-apothecary",
       "name_vi": "Tiệm thảo dược cổ tích",
       "id": "apothecary-herbal-salve",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/herbal-apothecary/apothecary-herbal-salve.png",
+      "status": "alpha_corners_clear",
+      "sha256": "3861489f84048327d6d71908ef9f3df8f217529ae3d608768b42c081217c3c8c",
       "review_note": ""
     },
     {
       "topic": "canal-town",
       "name_vi": "Thị trấn bên kênh",
       "id": "canal-gabled-house",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/canal-town/canal-gabled-house.png",
+      "status": "alpha_corners_clear",
+      "sha256": "4c7ea5b9da6f70fcdab90f45befc44e0eb7970c49f50f668348ff1c736d6a449",
       "review_note": ""
     },
     {
       "topic": "canal-town",
       "name_vi": "Thị trấn bên kênh",
       "id": "canal-houseboat",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/canal-town/canal-houseboat.png",
+      "status": "alpha_corners_clear",
+      "sha256": "6e86d0f1766f282b90feb031403b433d8424b785cf057fae4377d3e5dfd650bf",
       "review_note": ""
     },
     {
       "topic": "canal-town",
       "name_vi": "Thị trấn bên kênh",
       "id": "canal-stone-bridge",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/canal-town/canal-stone-bridge.png",
+      "status": "alpha_corners_clear",
+      "sha256": "59c872a12d46c488d6f3f1bc3427a8867d4a60e91560da30de9288aeeeae30ff",
+      "review_note": "Open spaces between the dark iron railing bars contain printed white background rather than transparent alpha; requires interior alpha cleanup."
     },
     {
       "topic": "canal-town",
       "name_vi": "Thị trấn bên kênh",
       "id": "canal-lock-gate",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/canal-town/canal-lock-gate.png",
+      "status": "alpha_corners_clear",
+      "sha256": "164b4d0fb409e487d29f8db89e3fcf6095108bea82329bf77c8cdc5cabbdec78",
       "review_note": ""
     },
     {
       "topic": "canal-town",
       "name_vi": "Thị trấn bên kênh",
       "id": "canal-bicycle",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/canal-town/canal-bicycle.png",
+      "status": "alpha_corners_clear",
+      "sha256": "87d70e893a7689adf982f2ec9313d3b8841be0e1b7dc6cecd3b1eef3c2f28090",
+      "review_note": "Wheel interiors and frame openings retain printed white background and dark flecks; preserve two-tulip basket while cleaning interior alpha."
     },
     {
       "topic": "canal-town",
       "name_vi": "Thị trấn bên kênh",
       "id": "canal-quayside-lamp",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/canal-town/canal-quayside-lamp.png",
+      "status": "alpha_corners_clear",
+      "sha256": "459073321ee2775d7da070bc3b46d21261e9c1f2bc5cbeb3947f6178e55fe910",
+      "review_note": "The opening beneath the curved lamp arm retains printed white/dark flecks and exterior fringe; the automated exterior cleaner could not identify painted foreground, so review and clean alpha manually."
     },
     {
       "topic": "canal-town",
       "name_vi": "Thị trấn bên kênh",
       "id": "canal-flower-box",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/canal-town/canal-flower-box.png",
+      "status": "alpha_corners_clear",
+      "sha256": "17a2147b966bc5963e5bbf3365deaef890101c5002bbcff2e638e04d49c0e699",
       "review_note": ""
     },
     {
       "topic": "canal-town",
       "name_vi": "Thị trấn bên kênh",
       "id": "canal-rowboat",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/canal-town/canal-rowboat.png",
+      "status": "alpha_corners_clear",
+      "sha256": "d9d9f375465f29806f88eb6cf107bd9c0ed9111cc640e2677c9de6c31664cbef",
       "review_note": ""
     },
     {
       "topic": "accessible-everyday",
       "name_vi": "Đồ dùng hỗ trợ tiếp cận",
       "id": "access-manual-wheelchair",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/accessible-everyday/access-manual-wheelchair.png",
+      "status": "alpha_corners_clear",
+      "sha256": "ca5d73d37156c7eacb4117e2c0d6f9823062dfb6034665894ab6303f2100bf46",
+      "review_note": "Printed white background fills the large rear wheel between spokes and several open frame gaps; lower frame gap also has dark flecks. Needs careful interior alpha cleanup and dark-background QA."
     },
     {
       "topic": "accessible-everyday",
       "name_vi": "Đồ dùng hỗ trợ tiếp cận",
       "id": "access-white-cane",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/accessible-everyday/access-white-cane.png",
+      "status": "alpha_corners_clear",
+      "sha256": "1066f267a1f183a180387700e1ff73f10ea7139ddf00772967c7b8a89ca495d4",
+      "review_note": "Black wrist-loop opening and adjacent narrow cane gap contain printed white background and dark flecks; requires interior alpha cleanup."
     },
     {
       "topic": "accessible-everyday",
       "name_vi": "Đồ dùng hỗ trợ tiếp cận",
       "id": "access-hearing-aid",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/accessible-everyday/access-hearing-aid.png",
+      "status": "alpha_corners_clear",
+      "sha256": "55fc2fa3e8faa86d8274068969e5c68f0de42436ba9f4b5dc0daba0005c7971b",
       "review_note": ""
     },
     {
       "topic": "accessible-everyday",
       "name_vi": "Đồ dùng hỗ trợ tiếp cận",
       "id": "access-braille-slate",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/accessible-everyday/access-braille-slate.png",
+      "status": "alpha_corners_clear",
+      "sha256": "21c8a0111171d4dae3b0ce9d69aa10cbbcab980287d048384e3e29f014a6990f",
+      "review_note": "The open gap between the blue slate and its stylus contains printed white background and dark speckles; requires interior alpha cleanup."
     },
     {
       "topic": "accessible-everyday",
       "name_vi": "Đồ dùng hỗ trợ tiếp cận",
       "id": "access-forearm-crutch",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/accessible-everyday/access-forearm-crutch.png",
+      "status": "alpha_corners_clear",
+      "sha256": "5411d254d24b7d3f23432538bb96b37e48d3175ad70e96eb1f01c839752a4927",
+      "review_note": "The U-shaped forearm cuff opening retains printed white fill instead of true transparency; requires interior alpha cleanup."
     },
     {
       "topic": "accessible-everyday",
       "name_vi": "Đồ dùng hỗ trợ tiếp cận",
       "id": "access-walker",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/accessible-everyday/access-walker.png",
+      "status": "alpha_corners_clear",
+      "sha256": "04849cc7f0c80710c926faf2dcddff05b8771a0d50bc075192177935f759037f",
+      "review_note": "Selected v2 improves the four-leg frame openings, but white fringe and speckled false background remain in most openings; requires multi-region interior alpha cleanup and dark-background QA."
     },
     {
       "topic": "accessible-everyday",
       "name_vi": "Đồ dùng hỗ trợ tiếp cận",
       "id": "access-reaching-aid",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
-      "review_note": ""
+      "file": "delivery/stickers/accessible-everyday/access-reaching-aid.png",
+      "status": "alpha_corners_clear",
+      "sha256": "9a3801d5dcb5c2a42e76b949e3a6d68d4cd400f7ba2af111ba6c2cd14a592efd",
+      "review_note": "The trigger opening near the blue grip retains a printed white wedge and dark flecks; requires interior alpha cleanup."
     },
     {
       "topic": "accessible-everyday",
       "name_vi": "Đồ dùng hỗ trợ tiếp cận",
       "id": "access-portable-ramp",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/accessible-everyday/access-portable-ramp.png",
+      "status": "alpha_corners_clear",
+      "sha256": "31b6cb22c2786a35732be342dbde223b17b9eb7c7a66cfe6c82d9a3a664a57cf",
+      "review_note": ""
+    },
+    {
+      "topic": "fish-collection",
+      "name_vi": "Các loài cá",
+      "id": "fish-clownfish",
+      "file": "delivery/stickers/fish-collection/fish-clownfish.png",
+      "status": "alpha_corners_clear",
+      "sha256": "dff331503a898eebe6f73fef7eee9c8cc1a85ce8a778b10c8553050af19e648d",
+      "review_note": ""
+    },
+    {
+      "topic": "fish-collection",
+      "name_vi": "Các loài cá",
+      "id": "fish-blue-tang",
+      "file": "delivery/stickers/fish-collection/fish-blue-tang.png",
+      "status": "alpha_corners_clear",
+      "sha256": "514158f3dd31a8b29b63b22ca2c24aef031c3746973fc0feda41662b3107311f",
+      "review_note": ""
+    },
+    {
+      "topic": "fish-collection",
+      "name_vi": "Các loài cá",
+      "id": "fish-koi",
+      "file": "delivery/stickers/fish-collection/fish-koi.png",
+      "status": "alpha_corners_clear",
+      "sha256": "e5e39ff95901105ec40c9de2db1f25b53d4aa7f537c9c36a5d3a011f5f1a96c1",
+      "review_note": ""
+    },
+    {
+      "topic": "fish-collection",
+      "name_vi": "Các loài cá",
+      "id": "fish-betta",
+      "file": "delivery/stickers/fish-collection/fish-betta.png",
+      "status": "alpha_corners_clear",
+      "sha256": "3c2d56efb8918248966a7d7ad25fadfb2f1a2d96c0aab20ef5ef5194c33fdd98",
+      "review_note": ""
+    },
+    {
+      "topic": "fish-collection",
+      "name_vi": "Các loài cá",
+      "id": "fish-pufferfish",
+      "file": "delivery/stickers/fish-collection/fish-pufferfish.png",
+      "status": "alpha_corners_clear",
+      "sha256": "d359f25b14c7951cbc37df8c35d7a871e138003eef05925ebc9a716c8a7ea72f",
+      "review_note": ""
+    },
+    {
+      "topic": "fish-collection",
+      "name_vi": "Các loài cá",
+      "id": "fish-lionfish",
+      "file": "delivery/stickers/fish-collection/fish-lionfish.png",
+      "status": "alpha_corners_clear",
+      "sha256": "4d7d7cb98f1bae922aa5a75c75fe06f530dce0292ff95343ecc093bba255f558",
+      "review_note": ""
+    },
+    {
+      "topic": "fish-collection",
+      "name_vi": "Các loài cá",
+      "id": "fish-seahorse",
+      "file": "delivery/stickers/fish-collection/fish-seahorse.png",
+      "status": "alpha_corners_clear",
+      "sha256": "06f2d8458a0fb4a6d80741c18e18cf695af9f4f89e99c596f7b5716c3695b28c",
+      "review_note": ""
+    },
+    {
+      "topic": "fish-collection",
+      "name_vi": "Các loài cá",
+      "id": "fish-manta-ray",
+      "file": "delivery/stickers/fish-collection/fish-manta-ray.png",
+      "status": "alpha_corners_clear",
+      "sha256": "9925ad2c320bffa9d16f201e049a426f7c867642085489f2b09eb186476f0675",
+      "review_note": ""
+    },
+    {
+      "topic": "cat-collection",
+      "name_vi": "Mèo",
+      "id": "cat-gray-tabby",
+      "file": "delivery/stickers/cat-collection/cat-gray-tabby.png",
+      "status": "alpha_corners_clear",
+      "sha256": "0f620a41040eeed705f30c0d689e3007b1ef083eac40b5a714777e1f2abe3990",
+      "review_note": ""
+    },
+    {
+      "topic": "cat-collection",
+      "name_vi": "Mèo",
+      "id": "cat-black",
+      "file": "delivery/stickers/cat-collection/cat-black.png",
+      "status": "alpha_corners_clear",
+      "sha256": "a2420e079e3cbc31b230a5271f2e7ca42c651c2de0284d515c0415a05d061abf",
+      "review_note": ""
+    },
+    {
+      "topic": "cat-collection",
+      "name_vi": "Mèo",
+      "id": "cat-tuxedo",
+      "file": "delivery/stickers/cat-collection/cat-tuxedo.png",
+      "status": "alpha_corners_clear",
+      "sha256": "5c4a00308c15cbd112544240760671582e23e4ad5e7e08f4856711c3176f0986",
+      "review_note": ""
+    },
+    {
+      "topic": "cat-collection",
+      "name_vi": "Mèo",
+      "id": "cat-calico",
+      "file": "delivery/stickers/cat-collection/cat-calico.png",
+      "status": "alpha_corners_clear",
+      "sha256": "ae82145937d453c4fc88054fe33b36a882d46070a9cbd6b53df0ad83bbe11bf1",
+      "review_note": ""
+    },
+    {
+      "topic": "cat-collection",
+      "name_vi": "Mèo",
+      "id": "cat-siamese",
+      "file": "delivery/stickers/cat-collection/cat-siamese.png",
+      "status": "alpha_corners_clear",
+      "sha256": "9d2e2530e0b8008f309309055553e7ee49d8bc56f3064426570a5038d8e7508f",
+      "review_note": ""
+    },
+    {
+      "topic": "cat-collection",
+      "name_vi": "Mèo",
+      "id": "cat-white-longhair",
+      "file": "delivery/stickers/cat-collection/cat-white-longhair.png",
+      "status": "alpha_corners_clear",
+      "sha256": "13215fc7b469827a26b54fd7d7096c295184b02a34624e8dfb6959ba493d72c8",
+      "review_note": ""
+    },
+    {
+      "topic": "cat-collection",
+      "name_vi": "Mèo",
+      "id": "cat-orange-kitten",
+      "file": "delivery/stickers/cat-collection/cat-orange-kitten.png",
+      "status": "alpha_corners_clear",
+      "sha256": "080f329195029a64073b70053ca9e3b5bd50c2c97b303a22f00a3d14a279698b",
+      "review_note": ""
+    },
+    {
+      "topic": "cat-collection",
+      "name_vi": "Mèo",
+      "id": "cat-blue-shorthair",
+      "file": "delivery/stickers/cat-collection/cat-blue-shorthair.png",
+      "status": "alpha_corners_clear",
+      "sha256": "70dc336c761a4a103b0ac14d569000af98b568497b41b0353160a04c7f121a00",
+      "review_note": ""
+    },
+    {
+      "topic": "book-collection",
+      "name_vi": "Book",
+      "id": "book-blue-hardcover",
+      "file": "delivery/stickers/book-collection/book-blue-hardcover.png",
+      "status": "alpha_corners_clear",
+      "sha256": "2dcd97fb2a99e36d51bf6dada5446c58f72a39d40ffdff0d5a3254d0a22a0eb4",
+      "review_note": ""
+    },
+    {
+      "topic": "book-collection",
+      "name_vi": "Book",
+      "id": "book-open-storybook",
+      "file": "delivery/stickers/book-collection/book-open-storybook.png",
+      "status": "alpha_corners_clear",
+      "sha256": "0555775aaa642c7df4154c167af70679b47dd2027f9d3a2c5567a15536adcb2e",
+      "review_note": ""
+    },
+    {
+      "topic": "book-collection",
+      "name_vi": "Book",
+      "id": "book-three-volume-stack",
+      "file": "delivery/stickers/book-collection/book-three-volume-stack.png",
+      "status": "alpha_corners_clear",
+      "sha256": "1cabbee6fa362ff0c216e2e9ec623424592775be2909f3319c09765183bac1d3",
+      "review_note": ""
+    },
+    {
+      "topic": "book-collection",
+      "name_vi": "Book",
+      "id": "book-pocket-paperback",
+      "file": "delivery/stickers/book-collection/book-pocket-paperback.png",
+      "status": "alpha_corners_clear",
+      "sha256": "6cfa932c54b6f05e1f9c407ea843a7150be9433612c6b5eda541779b6c78133b",
+      "review_note": ""
+    },
+    {
+      "topic": "book-collection",
+      "name_vi": "Book",
+      "id": "book-accordion-picture-book",
+      "file": "delivery/stickers/book-collection/book-accordion-picture-book.png",
+      "status": "alpha_corners_clear",
+      "sha256": "6148c630d7a4a8e606b00abfa0a4c6217fc657b85ecbe60053710a3b98c540fc",
+      "review_note": ""
+    },
+    {
+      "topic": "book-collection",
+      "name_vi": "Book",
+      "id": "book-pop-up-castle",
+      "file": "delivery/stickers/book-collection/book-pop-up-castle.png",
+      "status": "alpha_corners_clear",
+      "sha256": "536c106f01912a1e74a822004cdf29c5c40eadbbb4fb25b37f7200800e6609e5",
+      "review_note": ""
+    },
+    {
+      "topic": "book-collection",
+      "name_vi": "Book",
+      "id": "book-leather-tome",
+      "file": "delivery/stickers/book-collection/book-leather-tome.png",
+      "status": "alpha_corners_clear",
+      "sha256": "511b7f0f124deb3b36642dc0d7ec4ca39ba31225033e7bc094c72c4d15370dc6",
+      "review_note": ""
+    },
+    {
+      "topic": "book-collection",
+      "name_vi": "Book",
+      "id": "book-small-diary",
+      "file": "delivery/stickers/book-collection/book-small-diary.png",
+      "status": "alpha_corners_clear",
+      "sha256": "19a262810394b42a1e17a7b4c88d59ae4981f3c4350522ce4312788a7dc66a99",
       "review_note": ""
     }
   ],

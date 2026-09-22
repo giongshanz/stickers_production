@@ -217,10 +217,18 @@
   "no_script_resize": true,
   "opening_new_topics": true,
   "authorization": "User selected Cho phép script sửa alpha on 2026-09-15, then asked to continue removing backgrounds.",
-  "latest_user_instruction": "2026-09-18: Complete every remaining planned topic and sticker, continuing from the approved rock-pool pilot.",
-  "active_batch_ids": [],
-  "last_completed_batch": "state/batch-20260917-mineral-fossil.json",
-  "next_action": "After the built-in ImageGen quota resets, generate glassblowing-pipe first and continue all missing IDs in state/generation-queue.json order. Save, review, refresh, verify each batch.",
+  "latest_user_instruction": "2026-09-22: User accepted the Book pilot direction and requested all eight stickers in the Book topic. Generate the seven remaining IDs in plan order; prior 25 visual rework notes remain open.",
+  "active_batch_ids": [
+    "book-open-storybook",
+    "book-three-volume-stack",
+    "book-pocket-paperback",
+    "book-accordion-picture-book",
+    "book-pop-up-castle",
+    "book-leather-tome",
+    "book-small-diary"
+  ],
+  "last_completed_batch": "qa/cat-collection-20260922/REPORT.vi.md",
+  "next_action": "Generate and visually review the seven remaining Book stickers in plan order, then finish Book batch QA and verify. Prior 25 visual rework candidates and game-scale QA remain open.",
   "alpha_pilot_pending_review": {
     "id": "tet-lucky-envelope",
     "candidate": "revisions/border-pilot-20260917/tet-lucky-envelope-geometry-alpha.png",
@@ -229,9 +237,8 @@
     "master_unchanged": true
   },
   "quota_status": {
-    "state": "paused_on_built_in_imagegen_limit",
-    "checkpoint": "state/imagegen-quota-20260918-second.json",
-    "reset_at_vietnam": "2026-09-18T18:56:38+07:00",
-    "next_id": "glassblowing-pipe"
+    "state": "unknown_until_next_request",
+    "last_success_date": "2026-09-22",
+    "note": "All eight cat stickers were generated successfully with the built-in tool. Check the next live tool response before assuming future availability."
   }
 }

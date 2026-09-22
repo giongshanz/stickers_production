@@ -1,0 +1,18 @@
+{
+  "id": "canal-gabled-house",
+  "subject": "A narrow terracotta canal house with a stepped gable and three tall cream windows",
+  "topic_slugs": ["canal-town"],
+  "profile": "objects",
+  "prompt": "Edit the supplied narrow terracotta stepped-gable canal-house sticker. Keep its proportions, warm restrained hand-painted 2D style, stepped roof, green door, cream trim, potted shrub and narrow white sticker-cut margin. The finished facade must have exactly THREE tall cream-framed windows: one centered upper window and the two side-by-side windows on the middle level. REMOVE the fourth tall window at the ground-floor right and replace that entire window with matching plain terracotta brick wall, continuing the subtle brick marks. Do not add another window elsewhere. Keep the small door transom as part of the door. No text, scene, floor shadow, brand or watermark. The two original desktop stickers are style references only. Deliver a PNG with real transparent alpha beyond the cut margin; square canvas, target 512 x 512, complete subject comfortably inside the canvas.",
+  "referenced_image_paths": [
+    "revisions/generation-20260922-canal-town/canal-gabled-house-v1.png",
+    "references/Stickers/8-Gardening/8-Gardening_1.png",
+    "references/Stickers/2. Home appliance/68-Home Appliance_2.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Exact edit prompt and references sent to imagegen."
+}

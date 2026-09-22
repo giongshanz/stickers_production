@@ -3,10 +3,10 @@
   "style_reference": "references/Stickers",
   "excluded_style_reference": "Any Unity project sticker collection; never an active style input",
   "target": {
-    "topics": 50,
+    "topics": 53,
     "slots_per_topic": 8,
-    "total_topic_slots": 400,
-    "unique_assets": 390,
+    "total_topic_slots": 424,
+    "unique_assets": 414,
     "shared_assets": 10
   },
   "production_note": "Use original external reference artwork now bundled at references/Stickers. The glossy beehive pilot is rejected; the current beehive-skep master already uses the softer replacement. Preserve existing IDs, subjects and shared mappings. Apply the current separate style prompt. No logos, licensed characters or readable text.",
@@ -1570,6 +1570,102 @@
     {
       "id": "access-portable-ramp",
       "subject": "A small folded out silver portable access ramp with raised side edges"
+    },
+    {
+      "id": "fish-clownfish",
+      "subject": "A single orange clownfish with three cream white bands edged softly in dark brown, rounded fins and a natural fish eye"
+    },
+    {
+      "id": "fish-blue-tang",
+      "subject": "A single royal blue tang with a clear black curved flank marking and a warm yellow tail"
+    },
+    {
+      "id": "fish-koi",
+      "subject": "A single graceful cream koi carp with a few vermilion patches, a slender flowing tail and two short mouth barbels"
+    },
+    {
+      "id": "fish-betta",
+      "subject": "A single teal and muted violet betta fish with broad flowing fins and a small natural fish eye"
+    },
+    {
+      "id": "fish-pufferfish",
+      "subject": "A single round pale yellow pufferfish with small short spines, tiny fins and a gently curved tail, not inflated into a perfect ball"
+    },
+    {
+      "id": "fish-lionfish",
+      "subject": "A single reddish brown and cream lionfish with broad fanlike pectoral fins and a modest number of distinct dorsal spines"
+    },
+    {
+      "id": "fish-seahorse",
+      "subject": "A single warm coral orange seahorse with a curled tail, small crown-like crest and recognizable long snout"
+    },
+    {
+      "id": "fish-manta-ray",
+      "subject": "A single blue gray manta ray with wide triangular wings, two small cephalic fins near its mouth and a slender tail"
+    },
+    {
+      "id": "cat-gray-tabby",
+      "subject": "A single small gray tabby cat sitting upright with soft charcoal stripes, alert ears and its tail wrapped around its paws"
+    },
+    {
+      "id": "cat-black",
+      "subject": "A single sleek black cat in a relaxed walking pose with amber eyes and its tail gently raised"
+    },
+    {
+      "id": "cat-tuxedo",
+      "subject": "A single black and white tuxedo cat resting in a compact loaf pose with a white chest and white front paws"
+    },
+    {
+      "id": "cat-calico",
+      "subject": "A single calico cat standing in three quarter view with clear cream, muted orange and charcoal coat patches and a gently raised tail"
+    },
+    {
+      "id": "cat-siamese",
+      "subject": "A single seated Siamese cat with a cream coat, warm brown face, ears, paws and tail, and pale blue eyes"
+    },
+    {
+      "id": "cat-white-longhair",
+      "subject": "A single fluffy white long haired cat curled up resting with pale pink inner ears and subtle warm cream shadow patches"
+    },
+    {
+      "id": "cat-orange-kitten",
+      "subject": "A single playful orange tabby kitten crouching low with one forepaw lifted, soft stripes and wide natural eyes"
+    },
+    {
+      "id": "cat-blue-shorthair",
+      "subject": "A single round blue gray British Shorthair cat standing calmly with short plush fur, a thick tail and copper eyes"
+    },
+    {
+      "id": "book-blue-hardcover",
+      "subject": "One closed blue clothbound hardcover book in three-quarter view, with a thick cream page block, a narrow ochre ribbon bookmark and a tiny simple embossed sun on its otherwise plain cover, no letters"
+    },
+    {
+      "id": "book-open-storybook",
+      "subject": "One open illustrated storybook with gently curved cream pages and a small simple landscape picture on each page, no writing"
+    },
+    {
+      "id": "book-three-volume-stack",
+      "subject": "A tidy stack of three closed books in muted coral, sage and ochre cloth covers with visible cream page edges, no writing"
+    },
+    {
+      "id": "book-pocket-paperback",
+      "subject": "One slim sage green pocket paperback with gently fanned cream pages and a simple leaf emblem on the cover, no writing"
+    },
+    {
+      "id": "book-accordion-picture-book",
+      "subject": "One short accordion-fold picture book partly unfolded to show three sturdy illustrated panels with simple flowers and birds, no writing"
+    },
+    {
+      "id": "book-pop-up-castle",
+      "subject": "One open pop-up book with a small folded paper castle rising clearly from the center crease, no writing"
+    },
+    {
+      "id": "book-leather-tome",
+      "subject": "One thick warm brown leatherbound old book with simple brass corner pieces and a plain clasp, no writing"
+    },
+    {
+      "id": "book-small-diary",
+      "subject": "One small dark plum travel diary with a supple rounded cover, thin cream page edge, an elastic band around its middle and a tiny crescent moon emblem, no ribbon, flowers or writing"
     }
   ],
   "topics": [
@@ -2272,6 +2368,48 @@
         "access-reaching-aid",
         "access-portable-ramp"
       ]
+    },
+    {
+      "slug": "fish-collection",
+      "name_vi": "Các loài cá",
+      "asset_ids": [
+        "fish-clownfish",
+        "fish-blue-tang",
+        "fish-koi",
+        "fish-betta",
+        "fish-pufferfish",
+        "fish-lionfish",
+        "fish-seahorse",
+        "fish-manta-ray"
+      ]
+    },
+    {
+      "slug": "cat-collection",
+      "name_vi": "Mèo",
+      "asset_ids": [
+        "cat-gray-tabby",
+        "cat-black",
+        "cat-tuxedo",
+        "cat-calico",
+        "cat-siamese",
+        "cat-white-longhair",
+        "cat-orange-kitten",
+        "cat-blue-shorthair"
+      ]
+    },
+    {
+      "slug": "book-collection",
+      "name_vi": "Book",
+      "asset_ids": [
+        "book-blue-hardcover",
+        "book-open-storybook",
+        "book-three-volume-stack",
+        "book-pocket-paperback",
+        "book-accordion-picture-book",
+        "book-pop-up-castle",
+        "book-leather-tome",
+        "book-small-diary"
+      ]
     }
   ],
   "shared_assets": [
@@ -2347,9 +2485,9 @@
     }
   ],
   "qa": {
-    "topic_count": 50,
-    "total_topic_slots": 400,
-    "unique_assets": 390,
+    "topic_count": 53,
+    "total_topic_slots": 424,
+    "unique_assets": 414,
     "shared_assets": 10,
     "all_topics_have_eight": true,
     "shared_membership_exactly_two": true

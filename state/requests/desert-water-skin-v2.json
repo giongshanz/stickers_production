@@ -1,0 +1,18 @@
+{
+  "id": "desert-water-skin",
+  "subject": "A tan leather desert water skin with a cork and braided shoulder strap",
+  "topic_slugs": ["desert-caravan"],
+  "profile": "objects",
+  "prompt": "Edit the supplied desert water-skin sticker. Preserve the tan leather flask, cork, stitches, braided shoulder strap, composition, colors, hand-painted 2D style and narrow white cut margin. The open space between the right-hand braided strap and the leather flask must be a real, completely transparent PNG hole. Remove all printed white background, checker texture and black flecks from that opening; retain only a narrow clean white sticker-cut margin immediately beside the leather and strap contours. Do not change the object anatomy or add details. Use the other two original desktop stickers only as style references. No scene, floor shadow, text, brand or watermark. Square PNG with real alpha transparency outside and through the strap opening, target 512 x 512, complete sticker comfortably inside the canvas.",
+  "referenced_image_paths": [
+    "revisions/generation-20260922-desert-caravan/desert-water-skin-v1.png",
+    "references/Stickers/8-Gardening/8-Gardening_1.png",
+    "references/Stickers/2. Home appliance/68-Home Appliance_2.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [512, 512],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "Edit source plus original style references viewed before request. Exact prompt and reference list sent to imagegen."
+}

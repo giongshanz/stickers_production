@@ -63,15 +63,17 @@ def copy_exact(source, destination):
 def plan():
     p = read("plan/sticker-plan.json")
     assets = {a["id"]: a for a in p["assets"]}
-    assert len(assets) == len(p["assets"]) == 390, "Expected 390 distinct asset IDs"
-    assert len(p["topics"]) == 50
-    assert len({t["slug"] for t in p["topics"]}) == 50
+    target = p["target"]
+    assert len(assets) == len(p["assets"]) == target["unique_assets"], "Distinct asset count differs from plan"
+    assert len(p["topics"]) == target["topics"]
+    assert len({t["slug"] for t in p["topics"]}) == target["topics"]
+    assert target["total_topic_slots"] == target["topics"] * target["slots_per_topic"]
     uses = collections.defaultdict(list)
     for a in assets:
         assert SAFE_ID.fullmatch(a), f"Unsafe asset ID: {a}"
     for t in p["topics"]:
         assert SAFE_ID.fullmatch(t["slug"])
-        assert len(t["asset_ids"]) == len(set(t["asset_ids"])) == 8
+        assert len(t["asset_ids"]) == len(set(t["asset_ids"])) == target["slots_per_topic"]
         for a in t["asset_ids"]:
             assert a in assets
             uses[a].append(t["slug"])
@@ -79,7 +81,7 @@ def plan():
     assert all(len(u) in (1, 2) for u in uses.values())
     actual = {a: sorted(u) for a, u in uses.items() if len(u) == 2}
     declared = {a["id"]: sorted(a["topic_slugs"]) for a in p["shared_assets"]}
-    assert len(actual) == len(p["shared_assets"]) == 10 and actual == declared
+    assert len(actual) == len(p["shared_assets"]) == target["shared_assets"] and actual == declared
     spec = p["output_spec"]
     assert spec["target_width"] == spec["target_height"] == 512
     assert spec["prompt_target_only"] and not spec["scripted_resizing"]
@@ -127,13 +129,16 @@ def inventory():
     topic_rows = []
     for t in p["topics"]:
         present = sum(by_id[a]["status"] != "missing" for a in t["asset_ids"])
-        topic_rows.append(dict(slug=t["slug"], name_vi=t["name_vi"], generated=present, target=8))
+        topic_rows.append(dict(slug=t["slug"], name_vi=t["name_vi"], generated=present,
+                               target=p["target"]["slots_per_topic"]))
     counts = collections.Counter(r["status"] for r in rows)
-    summary = dict(target_topics=50, target_slots=400, target_unique=390,
-                   generated_unique=390-counts["missing"], missing_unique=counts["missing"],
+    target = p["target"]
+    summary = dict(target_topics=target["topics"], target_slots=target["total_topic_slots"],
+                   target_unique=target["unique_assets"],
+                   generated_unique=target["unique_assets"]-counts["missing"], missing_unique=counts["missing"],
                    alpha_corners_clear_unique=counts["alpha_corners_clear"],
                    needs_alpha_unique=counts["needs_alpha"],
-                   topics_with_all_images=sum(t["generated"] == 8 for t in topic_rows),
+                   topics_with_all_images=sum(t["generated"] == t["target"] for t in topic_rows),
                    generated_topic_slots=sum(t["generated"] for t in topic_rows),
                    visual_rework_unique=len(rework), complete=False)
     return p, rows, topic_rows, summary
@@ -208,9 +213,9 @@ def refresh():
     write_json("state/generation-queue.json", dict(updated_utc=stamp, asset_ids=queue,
                rule="Missing masters in topic order, restricted by state/work-order.json when opening_new_topics is false. Shared IDs listed once."))
     write_json("state/resume.json", dict(updated_utc=stamp, workspace_root=".", **summary,
-               next_asset_ids=queue[:16], next_action=("Continue with the first in-scope missing ID when generation is requested." if queue else "All started topics have their images. Continue pending alpha and visual QA per state/work-order.json; remaining missing IDs belong to topics outside the current scope."),
-               quota_note="Imagegen succeeded for the 2026-09-16 batch. No generation is running at the saved batch checkpoint; recheck fresh tool responses on continuation.",
-               quality_work="Fix RGB backgrounds and qa/visual-qa.json candidates; game integration is not approved by corner-alpha checks."))
+               next_asset_ids=queue[:16], next_action=("Continue with the first missing ID in state/generation-queue.json when generation is requested." if queue else "No missing masters in the current plan. Continue the open visual rework and game-scale QA in qa/visual-qa.json."),
+               quota_note="Built-in image generation availability must be checked from a fresh tool response on continuation.",
+               quality_work="Review qa/visual-qa.json candidates and game-scale silhouettes; clear alpha corners alone do not approve game integration."))
     write_json("qa/alpha-padding-audit.json", dict(updated_utc=stamp,
                padding_definition="Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",
                assets=[dict(id=r["id"], **{k:r[k] for k in ("width","height","corner_alpha","padding_nonzero_alpha","review_edge","transparent_pixels","partial_alpha_pixels","opaque_pixels")}) for r in rows if r["status"] != "missing"]))
@@ -238,12 +243,15 @@ def render_gallery(p, rows, slots, summary):
             cards.append(f'<figure data-status="{r["status"]}">{graphic}<figcaption>{esc(aid)}<small>{status}</small><small>{dim}</small>{note}</figcaption></figure>')
         count=sum(by_id[a]["status"] != "missing" for a in t["asset_ids"])
         search=esc(t["slug"]+' '+t["name_vi"]+' '+' '.join(t["asset_ids"]))
-        sections.append(f'<section data-search="{search}"><h2>{esc(t["name_vi"])} <small>{count}/8 hình</small></h2><div class="grid">{"".join(cards)}</div></section>')
+        sections.append(f'<section data-search="{search}"><h2>{esc(t["name_vi"])} <small>{count}/{p["target"]["slots_per_topic"]} hình</small></h2><div class="grid">{"".join(cards)}</div></section>')
     profiles=read("prompts/reference-profiles.json")
     refs=profiles["gallery_references"]
     reference_cards=''.join(f'<figure><img loading="lazy" src="{quote(r)}" alt="Mẫu phong cách gốc"><figcaption>{esc(Path(r).name)}</figcaption></figure>' for r in refs)
     template=local("scripts/gallery-template.html").read_text(encoding="utf-8")
     replacements={"TITLE":"stickers_production", "PRESENT":str(summary["generated_unique"]),
+                  "TARGET_UNIQUE":str(summary["target_unique"]), "TARGET_TOPICS":str(summary["target_topics"]),
+                  "SLOTS_PER_TOPIC":str(p["target"]["slots_per_topic"]),
+                  "SHARED_COUNT":str(p["target"]["shared_assets"]),
                   "TOPICS":str(summary["topics_with_all_images"]), "ALPHA":str(summary["alpha_corners_clear_unique"]),
                   "OPAQUE":str(summary["needs_alpha_unique"]), "CARDS":''.join(sections), "REFERENCES":reference_cards}
     for key,value in replacements.items():

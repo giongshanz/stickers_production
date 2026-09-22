@@ -1,0 +1,23 @@
+{
+  "id": "access-walker",
+  "subject": "A compact silver walking frame with two front wheels and teal hand grips",
+  "topic_slugs": [
+    "accessible-everyday"
+  ],
+  "profile": "objects",
+  "prompt": "Generate ONE new individual sticker in the exact illustrative style of the supplied original desktop sticker references. References are style only, not subjects to copy.\nArt direction: hand-painted 2D casual-game illustration with restrained local contrast, warm mid-light colors, thin warm locally colored outlines, simple matte painted volumes, just two or three quiet same-hue shadow patches. Modest detail and small broad paint marks. Soft illustrative volume matching the reference artwork. No shiny 3D toy appearance, deep dark crevices, harsh light, or dense surface texture. Do not anthropomorphize objects.\nEntire subject centered and fully visible with clear padding on all sides; a narrow clean white sticker-cut margin follows the silhouette. No scene, floor shadow, text, letters, brand or watermark.\nDeliver a PNG with a TRANSPARENT BACKGROUND: empty canvas outside the sticker, actual alpha transparency.\nSquare canvas, target 512 x 512. Entire sticker visible with clear padding.\nSUBJECT: A compact silver walking frame with two front wheels and teal hand grips. Clear simple silhouette, modest hand-painted detail; follow the references' quiet local shading. Keep the complete sticker-cut margin comfortably inside the canvas.\nEDIT TARGET: the first supplied image is the walker to correct. Keep its exact silver four-leg frame, two front wheels, teal grips, proportions, palette, and hand-painted outline. Change only background/alpha: EVERY open space between tubes and under the frame must be genuinely transparent, including all upper, center, and lower rectangular openings. Remove all printed white fill, black speckles, and debris in these gaps; retain a narrow clean white cut margin only around the painted tubes and wheels. Do not add or remove structural parts.",
+  "referenced_image_paths": [
+    "revisions/generation-20260922-accessible-everyday/access-walker-v1.png",
+    "references/Stickers/8-Gardening/8-Gardening_1.png",
+    "references/Stickers/2. Home appliance/68-Home Appliance_2.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "First image is edit target; two original desktop references are style only. Exact prompt and reference order sent to built-in ImageGen."
+}

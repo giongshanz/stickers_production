@@ -18,12 +18,12 @@ Folder chứa dữ liệu sản xuất, không chứa tài khoản, hạn mức,
 
 | Vị trí | Nội dung |
 |---|---|
-| `index.html` | Catalogue 50 chủ đề; tìm kiếm, lọc ảnh thiếu/cần sửa, đổi nền xem ảnh |
+| `index.html` | Catalogue các chủ đề hiện có; tìm kiếm, lọc ảnh thiếu/cần sửa, đổi nền xem ảnh |
 | `masters/` | Một PNG được chọn cho mỗi ID; nguồn chính để đóng gói |
 | `references/Stickers/` | Toàn bộ 1.708 file từ bộ mẫu ngoài project |
 | `delivery/stickers/` | Bản sao theo topic của ảnh có alpha ở bốn góc; vẫn cần kiểm tra viền |
 | `delivery/_needs-alpha/` | Bản sao theo topic của ảnh còn cần sửa nền |
-| `plan/` | Kế hoạch 50 chủ đề, chủ thể và 10 ID dùng chung |
+| `plan/` | Kế hoạch chủ đề hiện hành, chủ thể và 10 ID dùng chung |
 | `prompts/` | Hướng mỹ thuật, prompt hiện hành và nhóm ảnh tham chiếu |
 | `state/` | Tiến độ, vị trí tiếp tục, hàng đợi, yêu cầu tạo ảnh và checksum |
 | `qa/` | Nhận xét mỹ thuật và kiểm tra alpha/lề bằng cách đọc PNG |
@@ -37,6 +37,10 @@ Folder chứa dữ liệu sản xuất, không chứa tài khoản, hạn mức,
 173/390 ảnh master, 183/400 vị trí theo topic, 22/50 topic đã có đủ 8 hình. Trong đó 96 ảnh có alpha ở bốn góc, 77 ảnh cần sửa nền, và 25 ID có ghi chú cần chỉnh mỹ thuật/viền. Còn thiếu 217 ảnh. Số mới nhất luôn nằm trong `state/progress.json`.
 
 Cập nhật 16/09/2026: đã tạo thêm 17 sticker, tổng 190/390 master và 200/400 vị trí theo topic; 25/50 topic có đủ 8 hình. Cả 17 hình mới đã chọn bản RGBA sau kiểm tra nền, viền và RGB. Còn 77 master cũ cần sửa nền, 25 ghi chú cần chỉnh và 75 bản alpha cũ chưa được chọn. Xem `state/batch-20260916.json` và `qa/batch-20260916/`.
+
+Cập nhật 22/09/2026: sau khi hoàn tất 50 chủ đề gốc, người dùng yêu cầu thêm chủ đề “Các loài cá” gồm 8 sticker. Mục tiêu hiện tại là 51 chủ đề, 408 vị trí và 398 master duy nhất. Số đã tạo và QA còn mở xem `state/progress.json`; các mốc cũ bên trên chỉ là lịch sử.
+
+Cập nhật sau đó: người dùng yêu cầu thêm chủ đề “Mèo” gồm 8 sticker. Mục tiêu mới là 52 chủ đề, 416 vị trí và 406 master duy nhất. Xem `state/progress.json` để biết số thực tế đã tạo; các mốc trước là lịch sử.
 
 ## Các lệnh quản lý
 

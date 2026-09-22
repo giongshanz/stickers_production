@@ -42,6 +42,34 @@
       ],
       "suffix": "Clear recognizable silhouette, modest hand-painted detail; follow the references' quiet local shading. The entire sticker including its narrow white cut margin occupies about 80 percent of the canvas in its longest dimension, with comfortable transparent padding on every side. Keep natural anatomical features recognizable. Decorative patterns only if inherent to this subject."
     },
+    "fish": {
+      "references": [
+        "references/Stickers/Fish/46-fish_2.png",
+        "references/Stickers/19_MarineLife/marine_life_1.png"
+      ],
+      "suffix": "Draw exactly one whole fish of the named species, with a natural eye and species-specific fins. The fish references are style only; do not copy their species or pose. Use a readable silhouette at game-sticker size, restrained painted detail and quiet local shading. The complete sticker including its narrow white cut margin occupies about 80 percent of the canvas in its longest dimension, with transparent padding on every side."
+    },
+    "cats": {
+      "references": [
+        "references/Stickers/Cat/2-cat_2.png",
+        "references/Stickers/Cat/9_cat_10.png"
+      ],
+      "suffix": "Draw exactly one whole cat with natural feline ears, eyes, muzzle, four plausible limbs and one tail. The original cat images are style references only; do not duplicate their coat pattern, pose or face. Give the cat naturally open eyes and a relaxed closed mouth, except when the subject is resting with eyes closed. No clothing or props. Use a readable silhouette at game-sticker size, restrained warm hand-painted detail and quiet local shading. The complete sticker including its narrow white cut margin occupies about 80 percent of the canvas in its longest dimension, with transparent padding on every side."
+    },
+    "books": {
+      "references": [
+        "references/Stickers/12_SchoolSupplies/school supplies_2.png",
+        "references/Stickers/Reading/25-reading_2.png"
+      ],
+      "suffix": "Draw only the named book or connected set of books, not the readers or other objects in the references. Keep covers and page edges plainly constructed, with a clean readable silhouette and restrained hand-painted detail. No readable text, labels, logos or decorative clutter. The complete sticker including its narrow white cut margin occupies about 80 percent of the canvas in its longest dimension, with transparent padding on every side."
+    },
+    "diaries": {
+      "references": [
+        "references/Stickers/Reading/25-reading_2.png",
+        "references/Stickers/8-Gardening/8-Gardening_1.png"
+      ],
+      "suffix": "Draw only the named compact diary, not the people, flowers or other objects in the references. Make it clearly different from a rigid hardcover book: a soft flexible cover and slim page block. The moon is a small simple emblem, not a decorative scene. No readable text, labels or logos. Keep a readable silhouette, warm restrained painted detail and a narrow white cut margin fully inside the transparent canvas."
+    },
     "food": {
       "references": [
         "references/Stickers/1-Bakery & Coffee Cafe/Bakery-&-Coffee-Cafe_1.png",
@@ -62,6 +90,9 @@
     "reptile-habitat": "reptile-objects",
     "freshwater-wetland": "plants",
     "rock-pool": "marine",
+    "fish-collection": "fish",
+    "cat-collection": "cats",
+    "book-collection": "books",
     "forest-fungi": "plants",
     "woodland-foraging": "plants",
     "succulent-collection": "plants",
@@ -72,6 +103,7 @@
     "herbal-apothecary": "plants"
   },
   "asset_profiles": {
+    "book-small-diary": "diaries",
     "wetland-kingfisher": "birds",
     "wetland-heron": "birds",
     "wetland-otter": "mammals",

@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-21T08:06:29.613810+00:00",
+  "updated_utc": "2026-09-22T10:45:29.355859+00:00",
   "padding_definition": "Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",
   "assets": [
     {
@@ -4507,15 +4507,15 @@
         0
       ],
       "padding_nonzero_alpha": [
-        247,
-        103,
-        496,
-        383
+        57,
+        102,
+        24,
+        26
       ],
-      "review_edge": false,
-      "transparent_pixels": 1536473,
-      "partial_alpha_pixels": 35656,
-      "opaque_pixels": 387
+      "review_edge": true,
+      "transparent_pixels": 1249797,
+      "partial_alpha_pixels": 321747,
+      "opaque_pixels": 972
     },
     {
       "id": "railway-locomotive",
@@ -7099,6 +7099,1602 @@
       "transparent_pixels": 701874,
       "partial_alpha_pixels": 870187,
       "opaque_pixels": 455
+    },
+    {
+      "id": "shipwreck-treasure-chest",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        164,
+        131,
+        146,
+        120
+      ],
+      "review_edge": false,
+      "transparent_pixels": 832872,
+      "partial_alpha_pixels": 739644,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "shipwreck-ship-bell",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        265,
+        100,
+        246,
+        100
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1140124,
+      "partial_alpha_pixels": 432392,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "shipwreck-diving-torch",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        80,
+        243,
+        58,
+        201
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1007758,
+      "partial_alpha_pixels": 564758,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "shipwreck-ceramic-bottle",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        308,
+        59,
+        306,
+        86
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1054930,
+      "partial_alpha_pixels": 517586,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "desert-dromedary",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        61,
+        55,
+        58,
+        67
+      ],
+      "review_edge": false,
+      "transparent_pixels": 950804,
+      "partial_alpha_pixels": 621711,
+      "opaque_pixels": 1
+    },
+    {
+      "id": "desert-caravan-tent",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        51,
+        212,
+        34,
+        231
+      ],
+      "review_edge": false,
+      "transparent_pixels": 997592,
+      "partial_alpha_pixels": 574760,
+      "opaque_pixels": 164
+    },
+    {
+      "id": "desert-water-skin",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        150,
+        60,
+        102,
+        54
+      ],
+      "review_edge": false,
+      "transparent_pixels": 864115,
+      "partial_alpha_pixels": 707072,
+      "opaque_pixels": 1329
+    },
+    {
+      "id": "desert-brass-coffee-pot",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        179,
+        73,
+        175,
+        73
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1096029,
+      "partial_alpha_pixels": 476487,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "desert-date-bunch",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        309,
+        112,
+        195,
+        86
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1101517,
+      "partial_alpha_pixels": 470998,
+      "opaque_pixels": 1
+    },
+    {
+      "id": "desert-woven-saddlebag",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        29,
+        210,
+        29,
+        212
+      ],
+      "review_edge": false,
+      "transparent_pixels": 847958,
+      "partial_alpha_pixels": 724377,
+      "opaque_pixels": 181
+    },
+    {
+      "id": "desert-sand-rose",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        122,
+        132,
+        121,
+        127
+      ],
+      "review_edge": false,
+      "transparent_pixels": 819392,
+      "partial_alpha_pixels": 753124,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "desert-navigation-compass",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        171,
+        71,
+        160,
+        87
+      ],
+      "review_edge": false,
+      "transparent_pixels": 948801,
+      "partial_alpha_pixels": 623715,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "arctic-research-hut",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        123,
+        100,
+        106,
+        109
+      ],
+      "review_edge": false,
+      "transparent_pixels": 811526,
+      "partial_alpha_pixels": 760990,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "arctic-ice-auger",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        220,
+        85,
+        185,
+        87
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1257101,
+      "partial_alpha_pixels": 314675,
+      "opaque_pixels": 740
+    },
+    {
+      "id": "arctic-core-sample",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        62,
+        241,
+        48,
+        223
+      ],
+      "review_edge": false,
+      "transparent_pixels": 991447,
+      "partial_alpha_pixels": 581069,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "arctic-snowmobile",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        43,
+        189,
+        28,
+        182
+      ],
+      "review_edge": false,
+      "transparent_pixels": 999050,
+      "partial_alpha_pixels": 572997,
+      "opaque_pixels": 469
+    },
+    {
+      "id": "arctic-sample-case",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        152,
+        102,
+        149,
+        92
+      ],
+      "review_edge": false,
+      "transparent_pixels": 758228,
+      "partial_alpha_pixels": 814288,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "arctic-expedition-parka",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        100,
+        35,
+        88,
+        71
+      ],
+      "review_edge": false,
+      "transparent_pixels": 688285,
+      "partial_alpha_pixels": 883604,
+      "opaque_pixels": 627
+    },
+    {
+      "id": "arctic-satellite-phone",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        333,
+        58,
+        321,
+        80
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1110494,
+      "partial_alpha_pixels": 462022,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "arctic-snow-goggles",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        36,
+        281,
+        27,
+        291
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1060352,
+      "partial_alpha_pixels": 512164,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "fairy-acorn-house",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        205,
+        69,
+        195,
+        89
+      ],
+      "review_edge": false,
+      "transparent_pixels": 845835,
+      "partial_alpha_pixels": 726681,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "fairy-petal-chair",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        218,
+        93,
+        180,
+        87
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1035608,
+      "partial_alpha_pixels": 536903,
+      "opaque_pixels": 5
+    },
+    {
+      "id": "fairy-thimble-bucket",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        291,
+        110,
+        301,
+        120
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1193784,
+      "partial_alpha_pixels": 378732,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "fairy-leaf-boat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        104,
+        90,
+        84,
+        106
+      ],
+      "review_edge": false,
+      "transparent_pixels": 980006,
+      "partial_alpha_pixels": 592510,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "fairy-seed-lantern",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        299,
+        36,
+        298,
+        36
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1191520,
+      "partial_alpha_pixels": 380996,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "fairy-dewdrop-watering-can",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        43,
+        156,
+        44,
+        150
+      ],
+      "review_edge": false,
+      "transparent_pixels": 974855,
+      "partial_alpha_pixels": 597661,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "fairy-pebble-bridge",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        56,
+        288,
+        49,
+        265
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1051295,
+      "partial_alpha_pixels": 521209,
+      "opaque_pixels": 12
+    },
+    {
+      "id": "fairy-winged-snail",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        172,
+        89,
+        86,
+        83
+      ],
+      "review_edge": false,
+      "transparent_pixels": 825538,
+      "partial_alpha_pixels": 746978,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "apothecary-mortar-pestle",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        177,
+        111,
+        143,
+        92
+      ],
+      "review_edge": false,
+      "transparent_pixels": 923915,
+      "partial_alpha_pixels": 648601,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "apothecary-herb-bundle",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        262,
+        48,
+        261,
+        50
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1119318,
+      "partial_alpha_pixels": 452758,
+      "opaque_pixels": 440
+    },
+    {
+      "id": "apothecary-drawer-chest",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        168,
+        168,
+        168,
+        102
+      ],
+      "review_edge": false,
+      "transparent_pixels": 811524,
+      "partial_alpha_pixels": 760992,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "apothecary-potion-bottle",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        236,
+        91,
+        235,
+        93
+      ],
+      "review_edge": false,
+      "transparent_pixels": 990086,
+      "partial_alpha_pixels": 582430,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "apothecary-drying-rack",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        183,
+        72,
+        185,
+        73
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1037639,
+      "partial_alpha_pixels": 534490,
+      "opaque_pixels": 387
+    },
+    {
+      "id": "apothecary-balance-scale",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        65,
+        108,
+        64,
+        113
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1074926,
+      "partial_alpha_pixels": 497541,
+      "opaque_pixels": 49
+    },
+    {
+      "id": "apothecary-crescent-vial",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        304,
+        97,
+        191,
+        144
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1151540,
+      "partial_alpha_pixels": 420976,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "apothecary-herbal-salve",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        118,
+        224,
+        88,
+        228
+      ],
+      "review_edge": false,
+      "transparent_pixels": 906729,
+      "partial_alpha_pixels": 665787,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "canal-gabled-house",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        390,
+        68,
+        369,
+        83
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1129132,
+      "partial_alpha_pixels": 443384,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "canal-houseboat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        104,
+        160,
+        59,
+        188
+      ],
+      "review_edge": false,
+      "transparent_pixels": 847209,
+      "partial_alpha_pixels": 725306,
+      "opaque_pixels": 1
+    },
+    {
+      "id": "canal-stone-bridge",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        81,
+        214,
+        62,
+        163
+      ],
+      "review_edge": false,
+      "transparent_pixels": 956112,
+      "partial_alpha_pixels": 616404,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "canal-lock-gate",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        58,
+        213,
+        56,
+        197
+      ],
+      "review_edge": false,
+      "transparent_pixels": 865338,
+      "partial_alpha_pixels": 707178,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "canal-bicycle",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        31,
+        74,
+        23,
+        87
+      ],
+      "review_edge": true,
+      "transparent_pixels": 781266,
+      "partial_alpha_pixels": 790639,
+      "opaque_pixels": 611
+    },
+    {
+      "id": "canal-quayside-lamp",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        57,
+        64,
+        62,
+        24
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1228464,
+      "partial_alpha_pixels": 343114,
+      "opaque_pixels": 938
+    },
+    {
+      "id": "canal-flower-box",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        48,
+        155,
+        46,
+        144
+      ],
+      "review_edge": false,
+      "transparent_pixels": 799583,
+      "partial_alpha_pixels": 772933,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "canal-rowboat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        85,
+        187,
+        70,
+        180
+      ],
+      "review_edge": false,
+      "transparent_pixels": 940759,
+      "partial_alpha_pixels": 631757,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "access-manual-wheelchair",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        69,
+        73,
+        65,
+        91
+      ],
+      "review_edge": false,
+      "transparent_pixels": 770240,
+      "partial_alpha_pixels": 802276,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "access-white-cane",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        214,
+        92,
+        177,
+        124
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1323028,
+      "partial_alpha_pixels": 249484,
+      "opaque_pixels": 4
+    },
+    {
+      "id": "access-hearing-aid",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        55,
+        102,
+        131,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1004307,
+      "partial_alpha_pixels": 567038,
+      "opaque_pixels": 1171
+    },
+    {
+      "id": "access-braille-slate",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        63,
+        207,
+        88,
+        274
+      ],
+      "review_edge": false,
+      "transparent_pixels": 984124,
+      "partial_alpha_pixels": 588003,
+      "opaque_pixels": 389
+    },
+    {
+      "id": "access-forearm-crutch",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        413,
+        47,
+        367,
+        45
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1378941,
+      "partial_alpha_pixels": 193575,
+      "opaque_pixels": 0
+    },
+    {
+      "id": "access-walker",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        139,
+        72,
+        138,
+        77
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1110705,
+      "partial_alpha_pixels": 460142,
+      "opaque_pixels": 1669
+    },
+    {
+      "id": "access-reaching-aid",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        65,
+        69,
+        57,
+        75
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1333189,
+      "partial_alpha_pixels": 239241,
+      "opaque_pixels": 86
+    },
+    {
+      "id": "access-portable-ramp",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        154,
+        16,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 989702,
+      "partial_alpha_pixels": 582616,
+      "opaque_pixels": 198
+    },
+    {
+      "id": "fish-clownfish",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        25,
+        193,
+        0,
+        177
+      ],
+      "review_edge": true,
+      "transparent_pixels": 917506,
+      "partial_alpha_pixels": 653782,
+      "opaque_pixels": 1228
+    },
+    {
+      "id": "fish-blue-tang",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        87,
+        0,
+        89
+      ],
+      "review_edge": true,
+      "transparent_pixels": 865524,
+      "partial_alpha_pixels": 706062,
+      "opaque_pixels": 930
+    },
+    {
+      "id": "fish-koi",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        9,
+        0,
+        79
+      ],
+      "review_edge": true,
+      "transparent_pixels": 866988,
+      "partial_alpha_pixels": 702860,
+      "opaque_pixels": 2668
+    },
+    {
+      "id": "fish-betta",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        97,
+        14,
+        88
+      ],
+      "review_edge": true,
+      "transparent_pixels": 705046,
+      "partial_alpha_pixels": 866349,
+      "opaque_pixels": 1121
+    },
+    {
+      "id": "fish-pufferfish",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        31,
+        171,
+        3,
+        19
+      ],
+      "review_edge": true,
+      "transparent_pixels": 825580,
+      "partial_alpha_pixels": 745413,
+      "opaque_pixels": 1523
+    },
+    {
+      "id": "fish-lionfish",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        2,
+        0,
+        41
+      ],
+      "review_edge": true,
+      "transparent_pixels": 712076,
+      "partial_alpha_pixels": 857881,
+      "opaque_pixels": 2559
+    },
+    {
+      "id": "fish-seahorse",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        5,
+        52,
+        24
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1029045,
+      "partial_alpha_pixels": 542596,
+      "opaque_pixels": 875
+    },
+    {
+      "id": "fish-manta-ray",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        52,
+        20,
+        129
+      ],
+      "review_edge": true,
+      "transparent_pixels": 963068,
+      "partial_alpha_pixels": 607313,
+      "opaque_pixels": 2135
+    },
+    {
+      "id": "cat-gray-tabby",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        220,
+        47,
+        16,
+        0
+      ],
+      "review_edge": true,
+      "transparent_pixels": 883718,
+      "partial_alpha_pixels": 687118,
+      "opaque_pixels": 1680
+    },
+    {
+      "id": "cat-black",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        31,
+        40,
+        32,
+        22
+      ],
+      "review_edge": true,
+      "transparent_pixels": 792400,
+      "partial_alpha_pixels": 778006,
+      "opaque_pixels": 2110
+    },
+    {
+      "id": "cat-tuxedo",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        53,
+        62,
+        66
+      ],
+      "review_edge": true,
+      "transparent_pixels": 766843,
+      "partial_alpha_pixels": 804560,
+      "opaque_pixels": 1113
+    },
+    {
+      "id": "cat-calico",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        4,
+        62,
+        26
+      ],
+      "review_edge": true,
+      "transparent_pixels": 778286,
+      "partial_alpha_pixels": 792410,
+      "opaque_pixels": 1820
+    },
+    {
+      "id": "cat-siamese",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        49,
+        64,
+        36,
+        40
+      ],
+      "review_edge": false,
+      "transparent_pixels": 864792,
+      "partial_alpha_pixels": 706042,
+      "opaque_pixels": 1682
+    },
+    {
+      "id": "cat-white-longhair",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        49,
+        53,
+        1,
+        112
+      ],
+      "review_edge": true,
+      "transparent_pixels": 752746,
+      "partial_alpha_pixels": 818277,
+      "opaque_pixels": 1493
+    },
+    {
+      "id": "cat-orange-kitten",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        63,
+        80,
+        24,
+        22
+      ],
+      "review_edge": true,
+      "transparent_pixels": 788713,
+      "partial_alpha_pixels": 782195,
+      "opaque_pixels": 1608
+    },
+    {
+      "id": "cat-blue-shorthair",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        3,
+        16,
+        24
+      ],
+      "review_edge": true,
+      "transparent_pixels": 731991,
+      "partial_alpha_pixels": 839083,
+      "opaque_pixels": 1442
+    },
+    {
+      "id": "book-blue-hardcover",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        49,
+        60,
+        44
+      ],
+      "review_edge": true,
+      "transparent_pixels": 736707,
+      "partial_alpha_pixels": 834738,
+      "opaque_pixels": 1071
+    },
+    {
+      "id": "book-open-storybook",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        205,
+        3,
+        16
+      ],
+      "review_edge": true,
+      "transparent_pixels": 826418,
+      "partial_alpha_pixels": 744403,
+      "opaque_pixels": 1695
+    },
+    {
+      "id": "book-three-volume-stack",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        49,
+        128,
+        62,
+        78
+      ],
+      "review_edge": false,
+      "transparent_pixels": 718359,
+      "partial_alpha_pixels": 852290,
+      "opaque_pixels": 1867
+    },
+    {
+      "id": "book-pocket-paperback",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        103,
+        104,
+        39,
+        72
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1000748,
+      "partial_alpha_pixels": 570742,
+      "opaque_pixels": 1026
+    },
+    {
+      "id": "book-accordion-picture-book",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        54,
+        6,
+        286
+      ],
+      "review_edge": true,
+      "transparent_pixels": 953384,
+      "partial_alpha_pixels": 616978,
+      "opaque_pixels": 2154
+    },
+    {
+      "id": "book-pop-up-castle",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        49,
+        48,
+        51,
+        106
+      ],
+      "review_edge": false,
+      "transparent_pixels": 919860,
+      "partial_alpha_pixels": 651755,
+      "opaque_pixels": 901
+    },
+    {
+      "id": "book-leather-tome",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        91,
+        68,
+        48
+      ],
+      "review_edge": true,
+      "transparent_pixels": 772513,
+      "partial_alpha_pixels": 798973,
+      "opaque_pixels": 1030
+    },
+    {
+      "id": "book-small-diary",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        121,
+        142,
+        125,
+        146
+      ],
+      "review_edge": false,
+      "transparent_pixels": 925394,
+      "partial_alpha_pixels": 646243,
+      "opaque_pixels": 879
     }
   ]
 }

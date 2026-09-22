@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-21T08:06:33.377743+00:00",
+  "updated_utc": "2026-09-22T10:45:32.699532+00:00",
   "files": [
     {
       "path": ".gitattributes",
@@ -18,13 +18,53 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 6319,
-      "sha256": "d8ed16ed64c9485b475a315ac5d8505d7bc406f63f8e360115e878bdc49a3838"
+      "bytes": 6416,
+      "sha256": "d3c97c741e93b51799b82a167259b045994d56cf75ae3863b2085d3f04ef3c46"
     },
     {
       "path": "delivery/README.vi.md",
       "bytes": 315,
       "sha256": "79cd052362f5999098af1cff07c78939d118f2b0e448c748f061c6eda255ab1b"
+    },
+    {
+      "path": "delivery/stickers/accessible-everyday/access-braille-slate.png",
+      "bytes": 1072402,
+      "sha256": "21c8a0111171d4dae3b0ce9d69aa10cbbcab980287d048384e3e29f014a6990f"
+    },
+    {
+      "path": "delivery/stickers/accessible-everyday/access-forearm-crutch.png",
+      "bytes": 384171,
+      "sha256": "5411d254d24b7d3f23432538bb96b37e48d3175ad70e96eb1f01c839752a4927"
+    },
+    {
+      "path": "delivery/stickers/accessible-everyday/access-hearing-aid.png",
+      "bytes": 861274,
+      "sha256": "55fc2fa3e8faa86d8274068969e5c68f0de42436ba9f4b5dc0daba0005c7971b"
+    },
+    {
+      "path": "delivery/stickers/accessible-everyday/access-manual-wheelchair.png",
+      "bytes": 1307659,
+      "sha256": "ca5d73d37156c7eacb4117e2c0d6f9823062dfb6034665894ab6303f2100bf46"
+    },
+    {
+      "path": "delivery/stickers/accessible-everyday/access-portable-ramp.png",
+      "bytes": 846645,
+      "sha256": "31b6cb22c2786a35732be342dbde223b17b9eb7c7a66cfe6c82d9a3a664a57cf"
+    },
+    {
+      "path": "delivery/stickers/accessible-everyday/access-reaching-aid.png",
+      "bytes": 486829,
+      "sha256": "9a3801d5dcb5c2a42e76b949e3a6d68d4cd400f7ba2af111ba6c2cd14a592efd"
+    },
+    {
+      "path": "delivery/stickers/accessible-everyday/access-walker.png",
+      "bytes": 890886,
+      "sha256": "04849cc7f0c80710c926faf2dcddff05b8771a0d50bc075192177935f759037f"
+    },
+    {
+      "path": "delivery/stickers/accessible-everyday/access-white-cane.png",
+      "bytes": 511776,
+      "sha256": "1066f267a1f183a180387700e1ff73f10ea7139ddf00772967c7b8a89ca495d4"
     },
     {
       "path": "delivery/stickers/archaeology/amphitheatre-model.png",
@@ -67,6 +107,46 @@
       "sha256": "851d6cc995dc7ae58041ec79b014dba2d10ad7ab384f82fa9fe74e2abdd2bee7"
     },
     {
+      "path": "delivery/stickers/arctic-research/arctic-core-sample.png",
+      "bytes": 932013,
+      "sha256": "6946e83116ad99729f15d8c83f326c47856eb2151ff44d094533ae9fa6c6fff9"
+    },
+    {
+      "path": "delivery/stickers/arctic-research/arctic-expedition-parka.png",
+      "bytes": 1165387,
+      "sha256": "f9da9356476dce9ae512a254bd86ab86fa1067e98203fa1c5463711fb5b47c9d"
+    },
+    {
+      "path": "delivery/stickers/arctic-research/arctic-ice-auger.png",
+      "bytes": 631431,
+      "sha256": "b30f4b1ed40880eb726f05c71192df030f5f2d03ececa1c67f87741500065ad9"
+    },
+    {
+      "path": "delivery/stickers/arctic-research/arctic-research-hut.png",
+      "bytes": 1103647,
+      "sha256": "c6074ed4de0252d022244f258313d93e232db43d47a72cfeb0588e894f7eb693"
+    },
+    {
+      "path": "delivery/stickers/arctic-research/arctic-sample-case.png",
+      "bytes": 1119789,
+      "sha256": "94ea73754d856ead0b29a84ba3f38cdace16722eb5750893e8032538c17c7112"
+    },
+    {
+      "path": "delivery/stickers/arctic-research/arctic-satellite-phone.png",
+      "bytes": 811114,
+      "sha256": "4abf2a32145132579de793cb729bff7e4613ab6dc557f1b28a738cbead5e36d6"
+    },
+    {
+      "path": "delivery/stickers/arctic-research/arctic-snow-goggles.png",
+      "bytes": 827241,
+      "sha256": "ebe2b807a6f4adee0b6e97276f39696ad3296b47aa6433f784df852839f5a611"
+    },
+    {
+      "path": "delivery/stickers/arctic-research/arctic-snowmobile.png",
+      "bytes": 954219,
+      "sha256": "57f15638994b3678e2a943e5789b081f8a12850d661d53bc34f35348ddf20150"
+    },
+    {
       "path": "delivery/stickers/beekeeping/bee-feeding-jar.png",
       "bytes": 927517,
       "sha256": "2a08d47dfc225572f0e6955e10dc213ba1863025a6552d3b64ad22786e5ad554"
@@ -105,6 +185,46 @@
       "path": "delivery/stickers/beekeeping/honeycomb-frame.png",
       "bytes": 1256286,
       "sha256": "8a42c8f6972c22efbd864b220d267044b32efaa366ae148266dda4db0959e0c1"
+    },
+    {
+      "path": "delivery/stickers/book-collection/book-accordion-picture-book.png",
+      "bytes": 868222,
+      "sha256": "6148c630d7a4a8e606b00abfa0a4c6217fc657b85ecbe60053710a3b98c540fc"
+    },
+    {
+      "path": "delivery/stickers/book-collection/book-blue-hardcover.png",
+      "bytes": 1361456,
+      "sha256": "2dcd97fb2a99e36d51bf6dada5446c58f72a39d40ffdff0d5a3254d0a22a0eb4"
+    },
+    {
+      "path": "delivery/stickers/book-collection/book-leather-tome.png",
+      "bytes": 1261658,
+      "sha256": "511b7f0f124deb3b36642dc0d7ec4ca39ba31225033e7bc094c72c4d15370dc6"
+    },
+    {
+      "path": "delivery/stickers/book-collection/book-open-storybook.png",
+      "bytes": 1106256,
+      "sha256": "0555775aaa642c7df4154c167af70679b47dd2027f9d3a2c5567a15536adcb2e"
+    },
+    {
+      "path": "delivery/stickers/book-collection/book-pocket-paperback.png",
+      "bytes": 763735,
+      "sha256": "6cfa932c54b6f05e1f9c407ea843a7150be9433612c6b5eda541779b6c78133b"
+    },
+    {
+      "path": "delivery/stickers/book-collection/book-pop-up-castle.png",
+      "bytes": 1014934,
+      "sha256": "536c106f01912a1e74a822004cdf29c5c40eadbbb4fb25b37f7200800e6609e5"
+    },
+    {
+      "path": "delivery/stickers/book-collection/book-small-diary.png",
+      "bytes": 870748,
+      "sha256": "19a262810394b42a1e17a7b4c88d59ae4981f3c4350522ce4312788a7dc66a99"
+    },
+    {
+      "path": "delivery/stickers/book-collection/book-three-volume-stack.png",
+      "bytes": 1285692,
+      "sha256": "1cabbee6fa362ff0c216e2e9ec623424592775be2909f3319c09765183bac1d3"
     },
     {
       "path": "delivery/stickers/bookbinding/bookbinding-bone-folder.png",
@@ -185,6 +305,86 @@
       "path": "delivery/stickers/calligraphy-desk/wax-seal-stamp.png",
       "bytes": 773100,
       "sha256": "67326be25dc0b1f1b3233119ba9c289607340925e11d28e19e0103d1de32663c"
+    },
+    {
+      "path": "delivery/stickers/canal-town/canal-bicycle.png",
+      "bytes": 1350371,
+      "sha256": "87d70e893a7689adf982f2ec9313d3b8841be0e1b7dc6cecd3b1eef3c2f28090"
+    },
+    {
+      "path": "delivery/stickers/canal-town/canal-flower-box.png",
+      "bytes": 1292469,
+      "sha256": "17a2147b966bc5963e5bbf3365deaef890101c5002bbcff2e638e04d49c0e699"
+    },
+    {
+      "path": "delivery/stickers/canal-town/canal-gabled-house.png",
+      "bytes": 598537,
+      "sha256": "4c7ea5b9da6f70fcdab90f45befc44e0eb7970c49f50f668348ff1c736d6a449"
+    },
+    {
+      "path": "delivery/stickers/canal-town/canal-houseboat.png",
+      "bytes": 997385,
+      "sha256": "6e86d0f1766f282b90feb031403b433d8424b785cf057fae4377d3e5dfd650bf"
+    },
+    {
+      "path": "delivery/stickers/canal-town/canal-lock-gate.png",
+      "bytes": 1085230,
+      "sha256": "164b4d0fb409e487d29f8db89e3fcf6095108bea82329bf77c8cdc5cabbdec78"
+    },
+    {
+      "path": "delivery/stickers/canal-town/canal-quayside-lamp.png",
+      "bytes": 607156,
+      "sha256": "459073321ee2775d7da070bc3b46d21261e9c1f2bc5cbeb3947f6178e55fe910"
+    },
+    {
+      "path": "delivery/stickers/canal-town/canal-rowboat.png",
+      "bytes": 982495,
+      "sha256": "d9d9f375465f29806f88eb6cf107bd9c0ed9111cc640e2677c9de6c31664cbef"
+    },
+    {
+      "path": "delivery/stickers/canal-town/canal-stone-bridge.png",
+      "bytes": 979474,
+      "sha256": "59c872a12d46c488d6f3f1bc3427a8867d4a60e91560da30de9288aeeeae30ff"
+    },
+    {
+      "path": "delivery/stickers/cat-collection/cat-black.png",
+      "bytes": 988393,
+      "sha256": "a2420e079e3cbc31b230a5271f2e7ca42c651c2de0284d515c0415a05d061abf"
+    },
+    {
+      "path": "delivery/stickers/cat-collection/cat-blue-shorthair.png",
+      "bytes": 1223243,
+      "sha256": "70dc336c761a4a103b0ac14d569000af98b568497b41b0353160a04c7f121a00"
+    },
+    {
+      "path": "delivery/stickers/cat-collection/cat-calico.png",
+      "bytes": 1096595,
+      "sha256": "ae82145937d453c4fc88054fe33b36a882d46070a9cbd6b53df0ad83bbe11bf1"
+    },
+    {
+      "path": "delivery/stickers/cat-collection/cat-gray-tabby.png",
+      "bytes": 989185,
+      "sha256": "0f620a41040eeed705f30c0d689e3007b1ef083eac40b5a714777e1f2abe3990"
+    },
+    {
+      "path": "delivery/stickers/cat-collection/cat-orange-kitten.png",
+      "bytes": 1277847,
+      "sha256": "080f329195029a64073b70053ca9e3b5bd50c2c97b303a22f00a3d14a279698b"
+    },
+    {
+      "path": "delivery/stickers/cat-collection/cat-siamese.png",
+      "bytes": 1023995,
+      "sha256": "9d2e2530e0b8008f309309055553e7ee49d8bc56f3064426570a5038d8e7508f"
+    },
+    {
+      "path": "delivery/stickers/cat-collection/cat-tuxedo.png",
+      "bytes": 1086536,
+      "sha256": "5c4a00308c15cbd112544240760671582e23e4ad5e7e08f4856711c3176f0986"
+    },
+    {
+      "path": "delivery/stickers/cat-collection/cat-white-longhair.png",
+      "bytes": 1044054,
+      "sha256": "13215fc7b469827a26b54fd7d7096c295184b02a34624e8dfb6959ba493d72c8"
     },
     {
       "path": "delivery/stickers/cave-exploration/caving-ascender.png",
@@ -307,6 +507,46 @@
       "sha256": "f5e50abf8c242e1eea8e1f9688f360596d4045dfc1f8e16a4b67b09a048338ad"
     },
     {
+      "path": "delivery/stickers/desert-caravan/desert-brass-coffee-pot.png",
+      "bytes": 855228,
+      "sha256": "31bf5b9efe6a99ca2cb23b027a3da90b681f0d622c05f9b183037fb77d53069d"
+    },
+    {
+      "path": "delivery/stickers/desert-caravan/desert-caravan-tent.png",
+      "bytes": 909252,
+      "sha256": "759af32b995691e8f07ebe358b126cc785302ec33e05d7b0546dc14c8c1edbbe"
+    },
+    {
+      "path": "delivery/stickers/desert-caravan/desert-date-bunch.png",
+      "bytes": 868376,
+      "sha256": "f6c7d94a081eb2e84a4f16bbf25c0ede829c08f4fc340da9444e396277c347b0"
+    },
+    {
+      "path": "delivery/stickers/desert-caravan/desert-dromedary.png",
+      "bytes": 1059221,
+      "sha256": "d5fb892dda515535aa176295529b8383baa60f72185b6ec3af49c30960d6e1a3"
+    },
+    {
+      "path": "delivery/stickers/desert-caravan/desert-navigation-compass.png",
+      "bytes": 1035704,
+      "sha256": "723488a5829bca9c32fe90dd04164167ff9eab1f2cb1c1fda0d9a174bb5ac8bf"
+    },
+    {
+      "path": "delivery/stickers/desert-caravan/desert-sand-rose.png",
+      "bytes": 1320956,
+      "sha256": "fbed8985e15a1475ddbdc3a3942ca96ce262f8400c232cbf2100bd023daa9f5a"
+    },
+    {
+      "path": "delivery/stickers/desert-caravan/desert-water-skin.png",
+      "bytes": 1116325,
+      "sha256": "42602849198d1f5ece82440453ebbc9324600c147a229e4c31c318846d18a723"
+    },
+    {
+      "path": "delivery/stickers/desert-caravan/desert-woven-saddlebag.png",
+      "bytes": 1334673,
+      "sha256": "8610a31d0a9a1fc7ace96e4dfebc47da0f22332c8741502f5749ae1cd617e3e3"
+    },
+    {
       "path": "delivery/stickers/detective-desk/detective-evidence-envelope.png",
       "bytes": 928741,
       "sha256": "6273d1b94367ec5bc3349b1646ebe4ddf328bc76c9ef7615e0648230a869c90f"
@@ -385,6 +625,86 @@
       "path": "delivery/stickers/dumpling-table/dumpling-siu-mai.png",
       "bytes": 1024486,
       "sha256": "5d8a18da4add34914a321e610b09216913195199f049fbdae14cbce8112a7c9d"
+    },
+    {
+      "path": "delivery/stickers/fairy-garden/fairy-acorn-house.png",
+      "bytes": 1198519,
+      "sha256": "8d1586e41a3b4e10cb8e46fcbb64354e63c78dc630c8e911e5c024ac641d92c8"
+    },
+    {
+      "path": "delivery/stickers/fairy-garden/fairy-dewdrop-watering-can.png",
+      "bytes": 986901,
+      "sha256": "dc4ee98e68c45e50186ba553053204348241c397a5e0eae425fc00414077937e"
+    },
+    {
+      "path": "delivery/stickers/fairy-garden/fairy-leaf-boat.png",
+      "bytes": 868409,
+      "sha256": "698f9f56fbe5e168ca9cefdc84941139e986697260c4da5aa9062ca92f2c5b98"
+    },
+    {
+      "path": "delivery/stickers/fairy-garden/fairy-pebble-bridge.png",
+      "bytes": 909271,
+      "sha256": "3c6c2dba7e630b791dc36dc0c92de9b164570e6e8828372799b28db93f1cab76"
+    },
+    {
+      "path": "delivery/stickers/fairy-garden/fairy-petal-chair.png",
+      "bytes": 943326,
+      "sha256": "53465c7a3307427441e894c8d4906d1042b9651077da6b3a85cff2d4fa7fdb87"
+    },
+    {
+      "path": "delivery/stickers/fairy-garden/fairy-seed-lantern.png",
+      "bytes": 753774,
+      "sha256": "26b8a3ca69317e040d6a56e7db5dd88ae07f97a7ae6d6ef5238ff8488ed64b2c"
+    },
+    {
+      "path": "delivery/stickers/fairy-garden/fairy-thimble-bucket.png",
+      "bytes": 828817,
+      "sha256": "6eb4d1ceb5982a2e43f2c6909a1b84fe73a3eb5db8de1550211fc639caa0d8f2"
+    },
+    {
+      "path": "delivery/stickers/fairy-garden/fairy-winged-snail.png",
+      "bytes": 1024779,
+      "sha256": "6def811b111721cb559e123c4b8eb176111d5ad04f03a8552d5c392cef5eadb7"
+    },
+    {
+      "path": "delivery/stickers/fish-collection/fish-betta.png",
+      "bytes": 1529200,
+      "sha256": "3c2d56efb8918248966a7d7ad25fadfb2f1a2d96c0aab20ef5ef5194c33fdd98"
+    },
+    {
+      "path": "delivery/stickers/fish-collection/fish-blue-tang.png",
+      "bytes": 1098424,
+      "sha256": "514158f3dd31a8b29b63b22ca2c24aef031c3746973fc0feda41662b3107311f"
+    },
+    {
+      "path": "delivery/stickers/fish-collection/fish-clownfish.png",
+      "bytes": 988790,
+      "sha256": "dff331503a898eebe6f73fef7eee9c8cc1a85ce8a778b10c8553050af19e648d"
+    },
+    {
+      "path": "delivery/stickers/fish-collection/fish-koi.png",
+      "bytes": 1114855,
+      "sha256": "e5e39ff95901105ec40c9de2db1f25b53d4aa7f537c9c36a5d3a011f5f1a96c1"
+    },
+    {
+      "path": "delivery/stickers/fish-collection/fish-lionfish.png",
+      "bytes": 1522561,
+      "sha256": "4d7d7cb98f1bae922aa5a75c75fe06f530dce0292ff95343ecc093bba255f558"
+    },
+    {
+      "path": "delivery/stickers/fish-collection/fish-manta-ray.png",
+      "bytes": 894993,
+      "sha256": "9925ad2c320bffa9d16f201e049a426f7c867642085489f2b09eb186476f0675"
+    },
+    {
+      "path": "delivery/stickers/fish-collection/fish-pufferfish.png",
+      "bytes": 1086763,
+      "sha256": "d359f25b14c7951cbc37df8c35d7a871e138003eef05925ebc9a716c8a7ea72f"
+    },
+    {
+      "path": "delivery/stickers/fish-collection/fish-seahorse.png",
+      "bytes": 878422,
+      "sha256": "06f2d8458a0fb4a6d80741c18e18cf695af9f4f89e99c596f7b5716c3695b28c"
     },
     {
       "path": "delivery/stickers/forest-fungi/chanterelle.png",
@@ -625,6 +945,46 @@
       "path": "delivery/stickers/harbor-life/harbor-tugboat.png",
       "bytes": 1038802,
       "sha256": "cdc743ffbe0fbc9addf1b295c8811466c2aef213ea6c6468b9085983230acb33"
+    },
+    {
+      "path": "delivery/stickers/herbal-apothecary/apothecary-balance-scale.png",
+      "bytes": 1020742,
+      "sha256": "1f325a67f1b4f264c322279f47284d0bd01f126be13361a2e097e1f317bc409a"
+    },
+    {
+      "path": "delivery/stickers/herbal-apothecary/apothecary-crescent-vial.png",
+      "bytes": 859891,
+      "sha256": "c2e7292263e319d97d2ff8078cfaa1dfdd06b95d2b53aa3d944f98783178844d"
+    },
+    {
+      "path": "delivery/stickers/herbal-apothecary/apothecary-drawer-chest.png",
+      "bytes": 1217173,
+      "sha256": "07e4fff6a1163539a4991e01736a71ebe4091be435f50c6be6a1093fd296ddd3"
+    },
+    {
+      "path": "delivery/stickers/herbal-apothecary/apothecary-drying-rack.png",
+      "bytes": 1056294,
+      "sha256": "a97b31f9bb53846cae7c7912e7d10253211c07d7c2a6e484ce2e1d2b5bcf46a2"
+    },
+    {
+      "path": "delivery/stickers/herbal-apothecary/apothecary-herb-bundle.png",
+      "bytes": 981202,
+      "sha256": "f4aa7858c6d3ba3d4d4d30c1b9dcc40fb8f48cb5931b721e45d9b6fa8804a454"
+    },
+    {
+      "path": "delivery/stickers/herbal-apothecary/apothecary-herbal-salve.png",
+      "bytes": 1041864,
+      "sha256": "3861489f84048327d6d71908ef9f3df8f217529ae3d608768b42c081217c3c8c"
+    },
+    {
+      "path": "delivery/stickers/herbal-apothecary/apothecary-mortar-pestle.png",
+      "bytes": 1123245,
+      "sha256": "bfc1ce04d5898b43f02f7b466d965e0b165d84b276ab139ff29be15727f87978"
+    },
+    {
+      "path": "delivery/stickers/herbal-apothecary/apothecary-potion-bottle.png",
+      "bytes": 909643,
+      "sha256": "98d8f8222c81906bbfc278f0fde44109b6840884b2afee60b538fb0d5a29f842"
     },
     {
       "path": "delivery/stickers/honey-breakfast/honey-butter-dish.png",
@@ -1138,8 +1498,8 @@
     },
     {
       "path": "delivery/stickers/railway-station/railway-signal.png",
-      "bytes": 556381,
-      "sha256": "c03a05cc5da282ad70522d07543c4f13b25c0edc6d216b475228224ab009b317"
+      "bytes": 580406,
+      "sha256": "734b01cb75eb082ff171236667a1d5802f280e9b963f8d3b760707626ee22cf0"
     },
     {
       "path": "delivery/stickers/railway-station/railway-ticket-punch.png",
@@ -1312,9 +1672,19 @@
       "sha256": "efd3ec8e8b0af9e8a0b291f31a6d9d2223de577c0f90079f11ce5fda88de9199"
     },
     {
+      "path": "delivery/stickers/shipwreck-diving/shipwreck-ceramic-bottle.png",
+      "bytes": 878517,
+      "sha256": "017b444e060578a32d2832dce1ded4e2ee781eaa3cf04163b4c9091aaebb4cb3"
+    },
+    {
       "path": "delivery/stickers/shipwreck-diving/shipwreck-diving-helmet.png",
       "bytes": 1337787,
       "sha256": "ac380307e0d72c98bc93f19389809c14209583aacf18a2743768acf42a984f61"
+    },
+    {
+      "path": "delivery/stickers/shipwreck-diving/shipwreck-diving-torch.png",
+      "bytes": 959165,
+      "sha256": "4aafda285451504690a317f5b7bc362517c216122997d4eee1a717f4158f2d51"
     },
     {
       "path": "delivery/stickers/shipwreck-diving/shipwreck-porthole.png",
@@ -1325,6 +1695,16 @@
       "path": "delivery/stickers/shipwreck-diving/shipwreck-rusted-anchor.png",
       "bytes": 1232525,
       "sha256": "33fc2dd8f62ca39b3690144cab1b8cbacabc0b0883aaa30cfc07aad38b262b7e"
+    },
+    {
+      "path": "delivery/stickers/shipwreck-diving/shipwreck-ship-bell.png",
+      "bytes": 876862,
+      "sha256": "38c94c4e7dd35a350b36a20de3d6598deabffe7768cf32d0ec70e5ef22d23883"
+    },
+    {
+      "path": "delivery/stickers/shipwreck-diving/shipwreck-treasure-chest.png",
+      "bytes": 1161520,
+      "sha256": "79ff2a0292b769dc61a9b6ff7ffb3f978999eef5542baaff0db533b4b9bf27d8"
     },
     {
       "path": "delivery/stickers/snorkeling/dive-rashguard.png",
@@ -1768,8 +2148,8 @@
     },
     {
       "path": "delivery/topic-map.csv",
-      "bytes": 71258,
-      "sha256": "ccc0ae1a414398b72a3e46590281cfc0929d5807c6fdb17d9b0fe9257b1c6b1a"
+      "bytes": 86367,
+      "sha256": "2de7d506f470b2cd03a1016c5253fa211398c255fbf7320c54406374555b2be5"
     },
     {
       "path": "history/delivery/.gitattributes",
@@ -2153,8 +2533,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 172022,
-      "sha256": "e85ff80b73c718e80d7564d4c9493b248885565e552eeaed1fd6e97bbd895b09"
+      "bytes": 201685,
+      "sha256": "603eafe8a77c3b4978cec2b8535f6843986a3999f789a253a533001968d9e74b"
     },
     {
       "path": "logs/alpha-pilot-20260917.jsonl",
@@ -2178,8 +2558,8 @@
     },
     {
       "path": "logs/generation.jsonl",
-      "bytes": 92801,
-      "sha256": "bfbbbc5bd137b12881c470c2c9257bae30c9631815f5efac845abb063274512f"
+      "bytes": 135076,
+      "sha256": "7a9c2c230360f4c9b4444fc0963213c4a2fcfb96a47299a3e5f5eef98c4cb5ec"
     },
     {
       "path": "logs/README.vi.md",
@@ -2190,6 +2570,46 @@
       "path": "logs/visual-qa-20260917.json",
       "bytes": 581,
       "sha256": "f201b2d3e21c33f842b42b2a53c736ef27e5ac91c74b3c0d0b972cd8489cc400"
+    },
+    {
+      "path": "masters/access-braille-slate.png",
+      "bytes": 1072402,
+      "sha256": "21c8a0111171d4dae3b0ce9d69aa10cbbcab980287d048384e3e29f014a6990f"
+    },
+    {
+      "path": "masters/access-forearm-crutch.png",
+      "bytes": 384171,
+      "sha256": "5411d254d24b7d3f23432538bb96b37e48d3175ad70e96eb1f01c839752a4927"
+    },
+    {
+      "path": "masters/access-hearing-aid.png",
+      "bytes": 861274,
+      "sha256": "55fc2fa3e8faa86d8274068969e5c68f0de42436ba9f4b5dc0daba0005c7971b"
+    },
+    {
+      "path": "masters/access-manual-wheelchair.png",
+      "bytes": 1307659,
+      "sha256": "ca5d73d37156c7eacb4117e2c0d6f9823062dfb6034665894ab6303f2100bf46"
+    },
+    {
+      "path": "masters/access-portable-ramp.png",
+      "bytes": 846645,
+      "sha256": "31b6cb22c2786a35732be342dbde223b17b9eb7c7a66cfe6c82d9a3a664a57cf"
+    },
+    {
+      "path": "masters/access-reaching-aid.png",
+      "bytes": 486829,
+      "sha256": "9a3801d5dcb5c2a42e76b949e3a6d68d4cd400f7ba2af111ba6c2cd14a592efd"
+    },
+    {
+      "path": "masters/access-walker.png",
+      "bytes": 890886,
+      "sha256": "04849cc7f0c80710c926faf2dcddff05b8771a0d50bc075192177935f759037f"
+    },
+    {
+      "path": "masters/access-white-cane.png",
+      "bytes": 511776,
+      "sha256": "1066f267a1f183a180387700e1ff73f10ea7139ddf00772967c7b8a89ca495d4"
     },
     {
       "path": "masters/aeonium-pot.png",
@@ -2207,9 +2627,89 @@
       "sha256": "59ef36410f8218b63e175d5bb2bc2eb6379556839eeef63c6b8f82004bbe695f"
     },
     {
+      "path": "masters/apothecary-balance-scale.png",
+      "bytes": 1020742,
+      "sha256": "1f325a67f1b4f264c322279f47284d0bd01f126be13361a2e097e1f317bc409a"
+    },
+    {
+      "path": "masters/apothecary-crescent-vial.png",
+      "bytes": 859891,
+      "sha256": "c2e7292263e319d97d2ff8078cfaa1dfdd06b95d2b53aa3d944f98783178844d"
+    },
+    {
+      "path": "masters/apothecary-drawer-chest.png",
+      "bytes": 1217173,
+      "sha256": "07e4fff6a1163539a4991e01736a71ebe4091be435f50c6be6a1093fd296ddd3"
+    },
+    {
+      "path": "masters/apothecary-drying-rack.png",
+      "bytes": 1056294,
+      "sha256": "a97b31f9bb53846cae7c7912e7d10253211c07d7c2a6e484ce2e1d2b5bcf46a2"
+    },
+    {
+      "path": "masters/apothecary-herb-bundle.png",
+      "bytes": 981202,
+      "sha256": "f4aa7858c6d3ba3d4d4d30c1b9dcc40fb8f48cb5931b721e45d9b6fa8804a454"
+    },
+    {
+      "path": "masters/apothecary-herbal-salve.png",
+      "bytes": 1041864,
+      "sha256": "3861489f84048327d6d71908ef9f3df8f217529ae3d608768b42c081217c3c8c"
+    },
+    {
+      "path": "masters/apothecary-mortar-pestle.png",
+      "bytes": 1123245,
+      "sha256": "bfc1ce04d5898b43f02f7b466d965e0b165d84b276ab139ff29be15727f87978"
+    },
+    {
+      "path": "masters/apothecary-potion-bottle.png",
+      "bytes": 909643,
+      "sha256": "98d8f8222c81906bbfc278f0fde44109b6840884b2afee60b538fb0d5a29f842"
+    },
+    {
       "path": "masters/archaeology-sieve.png",
       "bytes": 1166895,
       "sha256": "1cc354e99a2edfef3aab7a5d93f3326c8edafa38b67f0c39d4996ea184af8265"
+    },
+    {
+      "path": "masters/arctic-core-sample.png",
+      "bytes": 932013,
+      "sha256": "6946e83116ad99729f15d8c83f326c47856eb2151ff44d094533ae9fa6c6fff9"
+    },
+    {
+      "path": "masters/arctic-expedition-parka.png",
+      "bytes": 1165387,
+      "sha256": "f9da9356476dce9ae512a254bd86ab86fa1067e98203fa1c5463711fb5b47c9d"
+    },
+    {
+      "path": "masters/arctic-ice-auger.png",
+      "bytes": 631431,
+      "sha256": "b30f4b1ed40880eb726f05c71192df030f5f2d03ececa1c67f87741500065ad9"
+    },
+    {
+      "path": "masters/arctic-research-hut.png",
+      "bytes": 1103647,
+      "sha256": "c6074ed4de0252d022244f258313d93e232db43d47a72cfeb0588e894f7eb693"
+    },
+    {
+      "path": "masters/arctic-sample-case.png",
+      "bytes": 1119789,
+      "sha256": "94ea73754d856ead0b29a84ba3f38cdace16722eb5750893e8032538c17c7112"
+    },
+    {
+      "path": "masters/arctic-satellite-phone.png",
+      "bytes": 811114,
+      "sha256": "4abf2a32145132579de793cb729bff7e4613ab6dc557f1b28a738cbead5e36d6"
+    },
+    {
+      "path": "masters/arctic-snow-goggles.png",
+      "bytes": 827241,
+      "sha256": "ebe2b807a6f4adee0b6e97276f39696ad3296b47aa6433f784df852839f5a611"
+    },
+    {
+      "path": "masters/arctic-snowmobile.png",
+      "bytes": 954219,
+      "sha256": "57f15638994b3678e2a943e5789b081f8a12850d661d53bc34f35348ddf20150"
     },
     {
       "path": "masters/artifact-brush.png",
@@ -2270,6 +2770,46 @@
       "path": "masters/bongos.png",
       "bytes": 555840,
       "sha256": "70a94ee315057291185d89635fa76b6585b195336b3e09b445414a3698846dfe"
+    },
+    {
+      "path": "masters/book-accordion-picture-book.png",
+      "bytes": 868222,
+      "sha256": "6148c630d7a4a8e606b00abfa0a4c6217fc657b85ecbe60053710a3b98c540fc"
+    },
+    {
+      "path": "masters/book-blue-hardcover.png",
+      "bytes": 1361456,
+      "sha256": "2dcd97fb2a99e36d51bf6dada5446c58f72a39d40ffdff0d5a3254d0a22a0eb4"
+    },
+    {
+      "path": "masters/book-leather-tome.png",
+      "bytes": 1261658,
+      "sha256": "511b7f0f124deb3b36642dc0d7ec4ca39ba31225033e7bc094c72c4d15370dc6"
+    },
+    {
+      "path": "masters/book-open-storybook.png",
+      "bytes": 1106256,
+      "sha256": "0555775aaa642c7df4154c167af70679b47dd2027f9d3a2c5567a15536adcb2e"
+    },
+    {
+      "path": "masters/book-pocket-paperback.png",
+      "bytes": 763735,
+      "sha256": "6cfa932c54b6f05e1f9c407ea843a7150be9433612c6b5eda541779b6c78133b"
+    },
+    {
+      "path": "masters/book-pop-up-castle.png",
+      "bytes": 1014934,
+      "sha256": "536c106f01912a1e74a822004cdf29c5c40eadbbb4fb25b37f7200800e6609e5"
+    },
+    {
+      "path": "masters/book-small-diary.png",
+      "bytes": 870748,
+      "sha256": "19a262810394b42a1e17a7b4c88d59ae4981f3c4350522ce4312788a7dc66a99"
+    },
+    {
+      "path": "masters/book-three-volume-stack.png",
+      "bytes": 1285692,
+      "sha256": "1cabbee6fa362ff0c216e2e9ec623424592775be2909f3319c09765183bac1d3"
     },
     {
       "path": "masters/bookbinding-bone-folder.png",
@@ -2360,6 +2900,86 @@
       "path": "masters/calligraphy-pen-rest.png",
       "bytes": 1974754,
       "sha256": "057730a4ed60bd98fc87676802d36cabe6adcdfabc06f1c9e9f75bd3b389f828"
+    },
+    {
+      "path": "masters/canal-bicycle.png",
+      "bytes": 1350371,
+      "sha256": "87d70e893a7689adf982f2ec9313d3b8841be0e1b7dc6cecd3b1eef3c2f28090"
+    },
+    {
+      "path": "masters/canal-flower-box.png",
+      "bytes": 1292469,
+      "sha256": "17a2147b966bc5963e5bbf3365deaef890101c5002bbcff2e638e04d49c0e699"
+    },
+    {
+      "path": "masters/canal-gabled-house.png",
+      "bytes": 598537,
+      "sha256": "4c7ea5b9da6f70fcdab90f45befc44e0eb7970c49f50f668348ff1c736d6a449"
+    },
+    {
+      "path": "masters/canal-houseboat.png",
+      "bytes": 997385,
+      "sha256": "6e86d0f1766f282b90feb031403b433d8424b785cf057fae4377d3e5dfd650bf"
+    },
+    {
+      "path": "masters/canal-lock-gate.png",
+      "bytes": 1085230,
+      "sha256": "164b4d0fb409e487d29f8db89e3fcf6095108bea82329bf77c8cdc5cabbdec78"
+    },
+    {
+      "path": "masters/canal-quayside-lamp.png",
+      "bytes": 607156,
+      "sha256": "459073321ee2775d7da070bc3b46d21261e9c1f2bc5cbeb3947f6178e55fe910"
+    },
+    {
+      "path": "masters/canal-rowboat.png",
+      "bytes": 982495,
+      "sha256": "d9d9f375465f29806f88eb6cf107bd9c0ed9111cc640e2677c9de6c31664cbef"
+    },
+    {
+      "path": "masters/canal-stone-bridge.png",
+      "bytes": 979474,
+      "sha256": "59c872a12d46c488d6f3f1bc3427a8867d4a60e91560da30de9288aeeeae30ff"
+    },
+    {
+      "path": "masters/cat-black.png",
+      "bytes": 988393,
+      "sha256": "a2420e079e3cbc31b230a5271f2e7ca42c651c2de0284d515c0415a05d061abf"
+    },
+    {
+      "path": "masters/cat-blue-shorthair.png",
+      "bytes": 1223243,
+      "sha256": "70dc336c761a4a103b0ac14d569000af98b568497b41b0353160a04c7f121a00"
+    },
+    {
+      "path": "masters/cat-calico.png",
+      "bytes": 1096595,
+      "sha256": "ae82145937d453c4fc88054fe33b36a882d46070a9cbd6b53df0ad83bbe11bf1"
+    },
+    {
+      "path": "masters/cat-gray-tabby.png",
+      "bytes": 989185,
+      "sha256": "0f620a41040eeed705f30c0d689e3007b1ef083eac40b5a714777e1f2abe3990"
+    },
+    {
+      "path": "masters/cat-orange-kitten.png",
+      "bytes": 1277847,
+      "sha256": "080f329195029a64073b70053ca9e3b5bd50c2c97b303a22f00a3d14a279698b"
+    },
+    {
+      "path": "masters/cat-siamese.png",
+      "bytes": 1023995,
+      "sha256": "9d2e2530e0b8008f309309055553e7ee49d8bc56f3064426570a5038d8e7508f"
+    },
+    {
+      "path": "masters/cat-tuxedo.png",
+      "bytes": 1086536,
+      "sha256": "5c4a00308c15cbd112544240760671582e23e4ad5e7e08f4856711c3176f0986"
+    },
+    {
+      "path": "masters/cat-white-longhair.png",
+      "bytes": 1044054,
+      "sha256": "13215fc7b469827a26b54fd7d7096c295184b02a34624e8dfb6959ba493d72c8"
     },
     {
       "path": "masters/caving-ascender.png",
@@ -2497,6 +3117,46 @@
       "sha256": "b97bdb3e145e75c6fd86189ad20620445e3719ebcca51130abd2ed3045bf54e1"
     },
     {
+      "path": "masters/desert-brass-coffee-pot.png",
+      "bytes": 855228,
+      "sha256": "31bf5b9efe6a99ca2cb23b027a3da90b681f0d622c05f9b183037fb77d53069d"
+    },
+    {
+      "path": "masters/desert-caravan-tent.png",
+      "bytes": 909252,
+      "sha256": "759af32b995691e8f07ebe358b126cc785302ec33e05d7b0546dc14c8c1edbbe"
+    },
+    {
+      "path": "masters/desert-date-bunch.png",
+      "bytes": 868376,
+      "sha256": "f6c7d94a081eb2e84a4f16bbf25c0ede829c08f4fc340da9444e396277c347b0"
+    },
+    {
+      "path": "masters/desert-dromedary.png",
+      "bytes": 1059221,
+      "sha256": "d5fb892dda515535aa176295529b8383baa60f72185b6ec3af49c30960d6e1a3"
+    },
+    {
+      "path": "masters/desert-navigation-compass.png",
+      "bytes": 1035704,
+      "sha256": "723488a5829bca9c32fe90dd04164167ff9eab1f2cb1c1fda0d9a174bb5ac8bf"
+    },
+    {
+      "path": "masters/desert-sand-rose.png",
+      "bytes": 1320956,
+      "sha256": "fbed8985e15a1475ddbdc3a3942ca96ce262f8400c232cbf2100bd023daa9f5a"
+    },
+    {
+      "path": "masters/desert-water-skin.png",
+      "bytes": 1116325,
+      "sha256": "42602849198d1f5ece82440453ebbc9324600c147a229e4c31c318846d18a723"
+    },
+    {
+      "path": "masters/desert-woven-saddlebag.png",
+      "bytes": 1334673,
+      "sha256": "8610a31d0a9a1fc7ace96e4dfebc47da0f22332c8741502f5749ae1cd617e3e3"
+    },
+    {
       "path": "masters/detective-evidence-envelope.png",
       "bytes": 928741,
       "sha256": "6273d1b94367ec5bc3349b1646ebe4ddf328bc76c9ef7615e0648230a869c90f"
@@ -2612,9 +3272,89 @@
       "sha256": "064ff5565cd420191842c5e1781e81b30456bb424468b025371267f698e24f8a"
     },
     {
+      "path": "masters/fairy-acorn-house.png",
+      "bytes": 1198519,
+      "sha256": "8d1586e41a3b4e10cb8e46fcbb64354e63c78dc630c8e911e5c024ac641d92c8"
+    },
+    {
+      "path": "masters/fairy-dewdrop-watering-can.png",
+      "bytes": 986901,
+      "sha256": "dc4ee98e68c45e50186ba553053204348241c397a5e0eae425fc00414077937e"
+    },
+    {
+      "path": "masters/fairy-leaf-boat.png",
+      "bytes": 868409,
+      "sha256": "698f9f56fbe5e168ca9cefdc84941139e986697260c4da5aa9062ca92f2c5b98"
+    },
+    {
+      "path": "masters/fairy-pebble-bridge.png",
+      "bytes": 909271,
+      "sha256": "3c6c2dba7e630b791dc36dc0c92de9b164570e6e8828372799b28db93f1cab76"
+    },
+    {
+      "path": "masters/fairy-petal-chair.png",
+      "bytes": 943326,
+      "sha256": "53465c7a3307427441e894c8d4906d1042b9651077da6b3a85cff2d4fa7fdb87"
+    },
+    {
+      "path": "masters/fairy-seed-lantern.png",
+      "bytes": 753774,
+      "sha256": "26b8a3ca69317e040d6a56e7db5dd88ae07f97a7ae6d6ef5238ff8488ed64b2c"
+    },
+    {
+      "path": "masters/fairy-thimble-bucket.png",
+      "bytes": 828817,
+      "sha256": "6eb4d1ceb5982a2e43f2c6909a1b84fe73a3eb5db8de1550211fc639caa0d8f2"
+    },
+    {
+      "path": "masters/fairy-winged-snail.png",
+      "bytes": 1024779,
+      "sha256": "6def811b111721cb559e123c4b8eb176111d5ad04f03a8552d5c392cef5eadb7"
+    },
+    {
       "path": "masters/fiddlehead-ferns.png",
       "bytes": 2102696,
       "sha256": "07d9f12ce21274010fd59f44a3bc63d6d2d371c954bf7d8cd916b75e7d6c0a84"
+    },
+    {
+      "path": "masters/fish-betta.png",
+      "bytes": 1529200,
+      "sha256": "3c2d56efb8918248966a7d7ad25fadfb2f1a2d96c0aab20ef5ef5194c33fdd98"
+    },
+    {
+      "path": "masters/fish-blue-tang.png",
+      "bytes": 1098424,
+      "sha256": "514158f3dd31a8b29b63b22ca2c24aef031c3746973fc0feda41662b3107311f"
+    },
+    {
+      "path": "masters/fish-clownfish.png",
+      "bytes": 988790,
+      "sha256": "dff331503a898eebe6f73fef7eee9c8cc1a85ce8a778b10c8553050af19e648d"
+    },
+    {
+      "path": "masters/fish-koi.png",
+      "bytes": 1114855,
+      "sha256": "e5e39ff95901105ec40c9de2db1f25b53d4aa7f537c9c36a5d3a011f5f1a96c1"
+    },
+    {
+      "path": "masters/fish-lionfish.png",
+      "bytes": 1522561,
+      "sha256": "4d7d7cb98f1bae922aa5a75c75fe06f530dce0292ff95343ecc093bba255f558"
+    },
+    {
+      "path": "masters/fish-manta-ray.png",
+      "bytes": 894993,
+      "sha256": "9925ad2c320bffa9d16f201e049a426f7c867642085489f2b09eb186476f0675"
+    },
+    {
+      "path": "masters/fish-pufferfish.png",
+      "bytes": 1086763,
+      "sha256": "d359f25b14c7951cbc37df8c35d7a871e138003eef05925ebc9a716c8a7ea72f"
+    },
+    {
+      "path": "masters/fish-seahorse.png",
+      "bytes": 878422,
+      "sha256": "06f2d8458a0fb4a6d80741c18e18cf695af9f4f89e99c596f7b5716c3695b28c"
     },
     {
       "path": "masters/fly-agaric.png",
@@ -3338,8 +4078,8 @@
     },
     {
       "path": "masters/railway-signal.png",
-      "bytes": 556381,
-      "sha256": "c03a05cc5da282ad70522d07543c4f13b25c0edc6d216b475228224ab009b317"
+      "bytes": 580406,
+      "sha256": "734b01cb75eb082ff171236667a1d5802f280e9b963f8d3b760707626ee22cf0"
     },
     {
       "path": "masters/railway-ticket-punch.png",
@@ -3422,9 +4162,19 @@
       "sha256": "efd3ec8e8b0af9e8a0b291f31a6d9d2223de577c0f90079f11ce5fda88de9199"
     },
     {
+      "path": "masters/shipwreck-ceramic-bottle.png",
+      "bytes": 878517,
+      "sha256": "017b444e060578a32d2832dce1ded4e2ee781eaa3cf04163b4c9091aaebb4cb3"
+    },
+    {
       "path": "masters/shipwreck-diving-helmet.png",
       "bytes": 1337787,
       "sha256": "ac380307e0d72c98bc93f19389809c14209583aacf18a2743768acf42a984f61"
+    },
+    {
+      "path": "masters/shipwreck-diving-torch.png",
+      "bytes": 959165,
+      "sha256": "4aafda285451504690a317f5b7bc362517c216122997d4eee1a717f4158f2d51"
     },
     {
       "path": "masters/shipwreck-porthole.png",
@@ -3435,6 +4185,16 @@
       "path": "masters/shipwreck-rusted-anchor.png",
       "bytes": 1232525,
       "sha256": "33fc2dd8f62ca39b3690144cab1b8cbacabc0b0883aaa30cfc07aad38b262b7e"
+    },
+    {
+      "path": "masters/shipwreck-ship-bell.png",
+      "bytes": 876862,
+      "sha256": "38c94c4e7dd35a350b36a20de3d6598deabffe7768cf32d0ec70e5ef22d23883"
+    },
+    {
+      "path": "masters/shipwreck-treasure-chest.png",
+      "bytes": 1161520,
+      "sha256": "79ff2a0292b769dc61a9b6ff7ffb3f978999eef5542baaff0db533b4b9bf27d8"
     },
     {
       "path": "masters/snare-drum.png",
@@ -3883,8 +4643,8 @@
     },
     {
       "path": "plan/sticker-plan.json",
-      "bytes": 73040,
-      "sha256": "55057c99f205582891d59fd53764e333a7b588ad8a00251dba9c1dc42cf8b2b4"
+      "bytes": 78405,
+      "sha256": "6361b5c89a880bc5f5a4c3265b33012d7b539fd8c74f6bc52e14a79072564ed5"
     },
     {
       "path": "plan/topic-rationale.vi.md",
@@ -3898,8 +4658,8 @@
     },
     {
       "path": "prompts/reference-profiles.json",
-      "bytes": 5414,
-      "sha256": "5edfa4ae5d2b91b7f903cdc63500c5c2ed69e4703a5122fbbc0b1c8b6e07c00f"
+      "bytes": 8173,
+      "sha256": "aa661a608ede4a63931e4bb963d834a357fcb0a863204084f622ce542b026c2d"
     },
     {
       "path": "prompts/style-prompt-compact.txt",
@@ -5928,8 +6688,8 @@
     },
     {
       "path": "qa/alpha-padding-audit.json",
-      "bytes": 130218,
-      "sha256": "50bee76709e356ea8c7376f17c3792b0f1fd31a871803516b16b03b23c52697c"
+      "bytes": 159458,
+      "sha256": "82b83522f7f85c133eb98f5ed2d79ac19965a95f9815137ce379c28e4dc2b0b5"
     },
     {
       "path": "qa/alpha-pilot-20260917/before-dark.png",
@@ -7522,6 +8282,126 @@
       "sha256": "99f4f72fea222c8eb71b8019397e6aec06a6943a3e8f094374de69fd4113ba74"
     },
     {
+      "path": "qa/cat-collection-20260922/cat-black-dark.png",
+      "bytes": 841778,
+      "sha256": "e4e4a843d8b35559a65ea3a59ec42f47294cd8f427d2db435407ae2371515857"
+    },
+    {
+      "path": "qa/cat-collection-20260922/cat-black-light.png",
+      "bytes": 809405,
+      "sha256": "511728003bd7515966c27d451c0d1b79ec316621e46a3bf1eaac3a3d04f34450"
+    },
+    {
+      "path": "qa/cat-collection-20260922/cat-blue-shorthair-dark.png",
+      "bytes": 1068875,
+      "sha256": "c6597fe2515551045c5e447492f7aee453891a26eabd814e502af4eb8731de4f"
+    },
+    {
+      "path": "qa/cat-collection-20260922/cat-blue-shorthair-light.png",
+      "bytes": 1046089,
+      "sha256": "a8e42aace8df8459e49ada14c0e398a1c48ba408661aedc40364b07973f569bf"
+    },
+    {
+      "path": "qa/cat-collection-20260922/cat-calico-dark.png",
+      "bytes": 951657,
+      "sha256": "e61fc2a426de41e866eebcb5c0de8e80c9735e919cd498fdb25f385132ead7d8"
+    },
+    {
+      "path": "qa/cat-collection-20260922/cat-calico-light.png",
+      "bytes": 924868,
+      "sha256": "6433b4de3c6add90373bab744022fcf5ab81f172d6adc171285018049e959604"
+    },
+    {
+      "path": "qa/cat-collection-20260922/cat-gray-tabby-dark.png",
+      "bytes": 856045,
+      "sha256": "61c734b370ee1397c7e41fe7464262e8c4df19f697a14268fd4d9f487a0ef971"
+    },
+    {
+      "path": "qa/cat-collection-20260922/cat-gray-tabby-light.png",
+      "bytes": 837672,
+      "sha256": "3bd90d0397d781cbd15a10948b5bada00a6c86f8d887e3d61eaab7685319b6dc"
+    },
+    {
+      "path": "qa/cat-collection-20260922/cat-orange-kitten-dark.png",
+      "bytes": 1128777,
+      "sha256": "42f782d0b81d74966582f0e4e9b4b178a022c8534152f68bbb2cd21e472763f5"
+    },
+    {
+      "path": "qa/cat-collection-20260922/cat-orange-kitten-light.png",
+      "bytes": 1104118,
+      "sha256": "b04890b1365ec3912019a0ab0bf9f2964f54dbf8cb22ad14f0e9f145b585befd"
+    },
+    {
+      "path": "qa/cat-collection-20260922/cat-siamese-dark.png",
+      "bytes": 890135,
+      "sha256": "87d28ab209cde0e81d4aef4ea10fd4e45ed6760ea8dd3c6bf6c6af16d0a328f8"
+    },
+    {
+      "path": "qa/cat-collection-20260922/cat-siamese-light.png",
+      "bytes": 872506,
+      "sha256": "01f2b4cfaef74da8673dc7cd5185fc5e86088c8ca149a5b41fab310bfd77295e"
+    },
+    {
+      "path": "qa/cat-collection-20260922/cat-tuxedo-dark.png",
+      "bytes": 938372,
+      "sha256": "5e89ee2b392510d85b1bd59f3ce79ad995d4c5c53dd5dded614b9c247a1f7263"
+    },
+    {
+      "path": "qa/cat-collection-20260922/cat-tuxedo-light.png",
+      "bytes": 915946,
+      "sha256": "d901ace6cfcbeede667a9d4dfea290a7d81815dfb15bf021b24d0e48f1a2f857"
+    },
+    {
+      "path": "qa/cat-collection-20260922/cat-white-longhair-dark.png",
+      "bytes": 899036,
+      "sha256": "b5db8a8d3ce64d441777ffc2117798ae6ab85c31716ef5fe26bc9e5b3d7ff714"
+    },
+    {
+      "path": "qa/cat-collection-20260922/cat-white-longhair-light.png",
+      "bytes": 880467,
+      "sha256": "5bd8d511c759077226e52ada5bcb6e7b9a8298e2d16f04a7f53e25a5295d6c7a"
+    },
+    {
+      "path": "qa/cat-collection-20260922/dark-sheet.png",
+      "bytes": 638115,
+      "sha256": "2631f0c06c747a660ed3b8bc2f0fa2844b681bac84ccd77f059eb47f9342692e"
+    },
+    {
+      "path": "qa/cat-collection-20260922/light-sheet.png",
+      "bytes": 604288,
+      "sha256": "42648e2c8e001095fc271d6089441ec69130ba3c53d4dba423c9e59442627dfd"
+    },
+    {
+      "path": "qa/cat-collection-20260922/machine-audit.json",
+      "bytes": 5120,
+      "sha256": "ffdf194411547d56032e4cd3bb371d282670a3eeada143128be7ba6169bffd0b"
+    },
+    {
+      "path": "qa/cat-collection-20260922/REPORT.vi.md",
+      "bytes": 1421,
+      "sha256": "bb46b7e25c64472db33abf5355edfff5a8e6bf4d89b68d7ce0bb1a23968a05d9"
+    },
+    {
+      "path": "qa/catalogue-alpha-fix-20260922/access-hearing-aid-dark.png",
+      "bytes": 79407,
+      "sha256": "9fade12da65375f0a992cf641cdae5b00c9126034cd84ab8b24c27537982b320"
+    },
+    {
+      "path": "qa/catalogue-alpha-fix-20260922/access-hearing-aid-light.png",
+      "bytes": 77268,
+      "sha256": "997c313157e601eac8fab0e49253b45dd0561fd73f4baa5baa4e99ee12c59381"
+    },
+    {
+      "path": "qa/catalogue-alpha-fix-20260922/railway-signal-dark.png",
+      "bytes": 55270,
+      "sha256": "9a6355bff7b8d301273d624e07654774eb53a424462a7a263f0f2407082bb588"
+    },
+    {
+      "path": "qa/catalogue-alpha-fix-20260922/railway-signal-light.png",
+      "bytes": 53360,
+      "sha256": "19bb70e673d56024d30867ebf9a6983466adaa4822c1291372cd9822562f4607"
+    },
+    {
       "path": "qa/clockmaking-first4-dark.png",
       "bytes": 571054,
       "sha256": "c46b36fafa75964d75b5d335989ffdeebf869d88690d4d9ec7e49caa3d5b329c"
@@ -7545,6 +8425,106 @@
       "path": "qa/detective-last4-dark.png",
       "bytes": 380543,
       "sha256": "70e082be23f15090e974afa51730359eaa31ed7e522f8b847cf02ec38da15102"
+    },
+    {
+      "path": "qa/fish-collection-20260922/dark-sheet.png",
+      "bytes": 698750,
+      "sha256": "6de47e37410ee2142a9265f97f8386545d4bc95db7f7f500286e539348ce0be9"
+    },
+    {
+      "path": "qa/fish-collection-20260922/fish-betta-dark.png",
+      "bytes": 1322962,
+      "sha256": "176331278be97cab394cf15952dd267452179a8a65037ffde162b77385f6e981"
+    },
+    {
+      "path": "qa/fish-collection-20260922/fish-betta-light.png",
+      "bytes": 1301807,
+      "sha256": "9dc97daf437502549d0c48b6070ba689fce21e9632cb2cd0a6e94aaa5f394e5d"
+    },
+    {
+      "path": "qa/fish-collection-20260922/fish-blue-tang-dark.png",
+      "bytes": 931701,
+      "sha256": "c972cd4b837135df484cc50a9a2c26017455d9a2c91a663a81c12cf7b9809acb"
+    },
+    {
+      "path": "qa/fish-collection-20260922/fish-blue-tang-light.png",
+      "bytes": 906895,
+      "sha256": "041c2ae4522d33072a98696fedcf961bc219080e81fd6d2376cb766244446e1c"
+    },
+    {
+      "path": "qa/fish-collection-20260922/fish-clownfish-dark.png",
+      "bytes": 856593,
+      "sha256": "c33b975b6025942e131f0b57b7a9c740e6b81df01d1b11fe25d1821792698e84"
+    },
+    {
+      "path": "qa/fish-collection-20260922/fish-clownfish-light.png",
+      "bytes": 835779,
+      "sha256": "c41da7edf9ba4f1b75130e5245c8dd0ec45c8c51f148292bbc05d02c991e9c75"
+    },
+    {
+      "path": "qa/fish-collection-20260922/fish-koi-dark.png",
+      "bytes": 978883,
+      "sha256": "8161129672aaabd7ccd86c41588ea5580ad91b1c7eda1ca107e09408fe38f3f4"
+    },
+    {
+      "path": "qa/fish-collection-20260922/fish-koi-light.png",
+      "bytes": 946615,
+      "sha256": "d9fdf8be62a3c9a67e8c1c22dec04c493bc09e817453ce9ac281c508e6391894"
+    },
+    {
+      "path": "qa/fish-collection-20260922/fish-lionfish-dark.png",
+      "bytes": 1339836,
+      "sha256": "7918d01edf0f569c86c9c1a47232b55bb85e9426bb61b8d76d4e5c48f11d2a3d"
+    },
+    {
+      "path": "qa/fish-collection-20260922/fish-lionfish-light.png",
+      "bytes": 1308938,
+      "sha256": "4914f6c862723019cceda74fc53e85118a70d7dbf5555cd5fed9438fd16530e2"
+    },
+    {
+      "path": "qa/fish-collection-20260922/fish-manta-ray-dark.png",
+      "bytes": 774199,
+      "sha256": "782daf14f7f87b692d2c2abb810a440ef16a04ddb7f85f3bbc79aee882a42c8e"
+    },
+    {
+      "path": "qa/fish-collection-20260922/fish-manta-ray-light.png",
+      "bytes": 744968,
+      "sha256": "d07af8e5fb8f4c9c5992fa001ef8099e6339563d5479be05c950ff036e314e52"
+    },
+    {
+      "path": "qa/fish-collection-20260922/fish-pufferfish-dark.png",
+      "bytes": 925188,
+      "sha256": "ae707cf72ba21b6052c4533651d81fc95557988bf119458c4d30de025579514a"
+    },
+    {
+      "path": "qa/fish-collection-20260922/fish-pufferfish-light.png",
+      "bytes": 899017,
+      "sha256": "361932722e9faf7232ac0cc3ea3ac0a8d8981e91d06d34ccfd8b2fd09a6362ba"
+    },
+    {
+      "path": "qa/fish-collection-20260922/fish-seahorse-dark.png",
+      "bytes": 748614,
+      "sha256": "57b8e43ba47fa887fa7eacdc6acc8491ea6c0ebcf3181bc6c10a84f44cad846c"
+    },
+    {
+      "path": "qa/fish-collection-20260922/fish-seahorse-light.png",
+      "bytes": 725100,
+      "sha256": "25aaa86bce84bf05ea0afba524d750018bec56931e841a768626111cc077540d"
+    },
+    {
+      "path": "qa/fish-collection-20260922/light-sheet.png",
+      "bytes": 665088,
+      "sha256": "0f957ee46894dd544dfc3325f98f8dd388242b17abb4481c3571b06b0cea7e3e"
+    },
+    {
+      "path": "qa/fish-collection-20260922/machine-audit.json",
+      "bytes": 5110,
+      "sha256": "22797ba234df13c6c5f96793285b14d599492915c98ac41add112345b5ccc559"
+    },
+    {
+      "path": "qa/fish-collection-20260922/REPORT.vi.md",
+      "bytes": 1337,
+      "sha256": "7f57f897787856155ba2af9a8a476dcceca9ad70af96e9472a71e0b16efbb556"
     },
     {
       "path": "qa/printmaking-first4-dark.png",
@@ -7692,6 +8672,296 @@
       "sha256": "95b4c01cb150217364be3352cfa8da4039cd8d6f0377fe5f461d922a2f86e71d"
     },
     {
+      "path": "qa/rework-audit-20260922/access-braille-slate-dark.png",
+      "bytes": 792219,
+      "sha256": "2dba8c121fa738e428a1ed2fda1144e323d3a9a6bb76eee5b1bd9d72111f72e7"
+    },
+    {
+      "path": "qa/rework-audit-20260922/access-braille-slate-light.png",
+      "bytes": 787747,
+      "sha256": "53c13cb9747ce5a7af82079909f4f3224e5d8c0e479cff8c57fbf27ff3c41f3e"
+    },
+    {
+      "path": "qa/rework-audit-20260922/access-forearm-crutch-dark.png",
+      "bytes": 296832,
+      "sha256": "5874d86f8e38e3eef38773d04749ffb0aec600b626ed52b8dadf19c3e1199d34"
+    },
+    {
+      "path": "qa/rework-audit-20260922/access-forearm-crutch-light.png",
+      "bytes": 294988,
+      "sha256": "b3b681351598312426c3e251143f1ddc3a54058ac84ac27be6001bb15a3c19b7"
+    },
+    {
+      "path": "qa/rework-audit-20260922/access-manual-wheelchair-dark.png",
+      "bytes": 1064941,
+      "sha256": "c627fdc7f4ee87f7cf2bb2b8568392825e83e2762c1708de85b52d26d5f8ba04"
+    },
+    {
+      "path": "qa/rework-audit-20260922/access-manual-wheelchair-light.png",
+      "bytes": 1061466,
+      "sha256": "f80733b6771041b6d75ce976e60426fb9209edc55cd323e842f18b0e9e954a9c"
+    },
+    {
+      "path": "qa/rework-audit-20260922/access-reaching-aid-dark.png",
+      "bytes": 353251,
+      "sha256": "2feceacce623f5d1ddc4a7353c3eafb4fd022ec728b9721b216dd8cb19bc7456"
+    },
+    {
+      "path": "qa/rework-audit-20260922/access-reaching-aid-light.png",
+      "bytes": 349022,
+      "sha256": "7bbc6b0d0c4e05b69b7c67639e116df104c00fd6c0c75d1a9aa6d5d2c9f6b498"
+    },
+    {
+      "path": "qa/rework-audit-20260922/access-walker-dark.png",
+      "bytes": 694525,
+      "sha256": "8686b8d472f9e05035f1d371d3732a79c6c494cf0683bbb0a85afae2955cc4b9"
+    },
+    {
+      "path": "qa/rework-audit-20260922/access-walker-light.png",
+      "bytes": 667166,
+      "sha256": "16705fc2a775110ac6a49648c4724beac013931fdd0ce86d383e30acabc32238"
+    },
+    {
+      "path": "qa/rework-audit-20260922/access-white-cane-dark.png",
+      "bytes": 397071,
+      "sha256": "623e633ad66ecf8dba04568889ab8320d86532a07a98da0789643e16279e9505"
+    },
+    {
+      "path": "qa/rework-audit-20260922/access-white-cane-light.png",
+      "bytes": 393175,
+      "sha256": "70b8b13d1d22f668bfee9b58797b9fcd771f9b8289d8b43c2f5acb9009537890"
+    },
+    {
+      "path": "qa/rework-audit-20260922/apothecary-balance-scale-dark.png",
+      "bytes": 733488,
+      "sha256": "bd5a013497c1c9ebde3eee99a115411eb1937e92ea94abc5cd6841c0da5fb074"
+    },
+    {
+      "path": "qa/rework-audit-20260922/apothecary-balance-scale-light.png",
+      "bytes": 725920,
+      "sha256": "91dd60686aaade8f3fa8bef51d4dbc00e43bbb838a373ecf2f4a11e042115b31"
+    },
+    {
+      "path": "qa/rework-audit-20260922/apothecary-drying-rack-dark.png",
+      "bytes": 868567,
+      "sha256": "fa3dc6441a76e86b35eb83f401a91827133ebcfd1db38b1cc1bad540b783d4bf"
+    },
+    {
+      "path": "qa/rework-audit-20260922/apothecary-drying-rack-light.png",
+      "bytes": 859166,
+      "sha256": "2b4528ea74634446ba6b1e5558b9c90292977960b48c506fab2803a26e63c857"
+    },
+    {
+      "path": "qa/rework-audit-20260922/apothecary-herb-bundle-dark.png",
+      "bytes": 824301,
+      "sha256": "25a364868c576aecdf29af182016a1d26c8adc8db125885c17b2400bdfa3dd51"
+    },
+    {
+      "path": "qa/rework-audit-20260922/apothecary-herb-bundle-light.png",
+      "bytes": 817481,
+      "sha256": "4e46d139571ae7559a47431b990b90e2d50278d4bd06415aed40775c7b81830f"
+    },
+    {
+      "path": "qa/rework-audit-20260922/arctic-ice-auger-dark.png",
+      "bytes": 510599,
+      "sha256": "509f55032e4fa6b98df2535b3526e24360122a1cd551d801b81da4ce9b0ef394"
+    },
+    {
+      "path": "qa/rework-audit-20260922/arctic-ice-auger-light.png",
+      "bytes": 501562,
+      "sha256": "d2f28b726ae4e4079cb2a572a9a5ed424f36b15a8278e84c24230471ce0a8269"
+    },
+    {
+      "path": "qa/rework-audit-20260922/arctic-research-hut-dark.png",
+      "bytes": 866621,
+      "sha256": "dcfb4cdf1df97f5fc6b538c77df8cb3179533771ce5c7964c3e5025674272451"
+    },
+    {
+      "path": "qa/rework-audit-20260922/arctic-research-hut-light.png",
+      "bytes": 863971,
+      "sha256": "ffdfdb0bfec2cfe96dacd53db5ffae30d7a4261f89c8a56c943f587febb8ed47"
+    },
+    {
+      "path": "qa/rework-audit-20260922/arctic-sample-case-dark.png",
+      "bytes": 897269,
+      "sha256": "55ead3272da6765ade007044721de548766b61422c593d59b956e4e2349bd61e"
+    },
+    {
+      "path": "qa/rework-audit-20260922/arctic-sample-case-light.png",
+      "bytes": 897922,
+      "sha256": "ee7a877a3767c55ce9d9b58d485da8119af2f1be217d47d6148fd656e021822b"
+    },
+    {
+      "path": "qa/rework-audit-20260922/arctic-snow-goggles-dark.png",
+      "bytes": 649042,
+      "sha256": "db2c161b3db0ba8c4fb8c7743f5f190832895ff7dc6ea55dcf65d1d1144c82cc"
+    },
+    {
+      "path": "qa/rework-audit-20260922/arctic-snow-goggles-light.png",
+      "bytes": 645818,
+      "sha256": "48cbff28aa82d4053d675861466070f45efcacd58ac0c84120737ea199f9bf8d"
+    },
+    {
+      "path": "qa/rework-audit-20260922/arctic-snowmobile-dark.png",
+      "bytes": 768173,
+      "sha256": "172b2d56f1db8a230e120cba44219525a28ad2b2bfc0a34665a9092057a38d59"
+    },
+    {
+      "path": "qa/rework-audit-20260922/arctic-snowmobile-light.png",
+      "bytes": 762744,
+      "sha256": "1c52dae0f864738a52921cf37a1515332cf81cf7da77be81ceb3f58af5906910"
+    },
+    {
+      "path": "qa/rework-audit-20260922/canal-bicycle-dark.png",
+      "bytes": 1147802,
+      "sha256": "fa8c7fd2e2a938da9d26c939b121ece2f8a4aef2f1bed1ff6d3565f611fbd8fb"
+    },
+    {
+      "path": "qa/rework-audit-20260922/canal-bicycle-light.png",
+      "bytes": 1139971,
+      "sha256": "8fdb6296811a249f082ae3ba8ab5acf2cbcf26a08fcef87f6fabbb7ccb70c166"
+    },
+    {
+      "path": "qa/rework-audit-20260922/canal-quayside-lamp-dark.png",
+      "bytes": 504984,
+      "sha256": "7f301e3e479e3f6ad88f69c6cd27a8ffd892ccf00f6eebd745f5946284610dd2"
+    },
+    {
+      "path": "qa/rework-audit-20260922/canal-quayside-lamp-light.png",
+      "bytes": 491214,
+      "sha256": "17f595d2ca2deb53e28ce253265aca8188b4a08425ad936c7bf2be9af3f07c68"
+    },
+    {
+      "path": "qa/rework-audit-20260922/canal-stone-bridge-dark.png",
+      "bytes": 821658,
+      "sha256": "37de7261a7ceb5b05a2a7f41cf89176a15bdea394e6610d87e21dfefc55ab7cd"
+    },
+    {
+      "path": "qa/rework-audit-20260922/canal-stone-bridge-light.png",
+      "bytes": 819587,
+      "sha256": "858c4f0f5bfd360f59e3cf5d8f944990c2b3586484fab6fd399692a0a9cd24d7"
+    },
+    {
+      "path": "qa/rework-audit-20260922/dark-sheet-1.png",
+      "bytes": 779392,
+      "sha256": "70b936e63851290a0a9d29eb81966e03594bcc185c0e4cfd970a1673c1fff44e"
+    },
+    {
+      "path": "qa/rework-audit-20260922/dark-sheet-2.png",
+      "bytes": 832418,
+      "sha256": "589448172370c4835cf751340e08f9698b05fe9a9c14d689226ddd9667ef4366"
+    },
+    {
+      "path": "qa/rework-audit-20260922/dark-sheet-3.png",
+      "bytes": 486913,
+      "sha256": "cb69cdef52b97ee0719be9556e14cf8d276e28bdb257379ec24f9c4da1081ee5"
+    },
+    {
+      "path": "qa/rework-audit-20260922/desert-navigation-compass-dark.png",
+      "bytes": 827559,
+      "sha256": "0c9e4e2a3db66bc89354fe0ecad5629cc4652865b95fd62ecb56a871e4c37204"
+    },
+    {
+      "path": "qa/rework-audit-20260922/desert-navigation-compass-light.png",
+      "bytes": 825292,
+      "sha256": "d78f142a25671a742fba5f374b50f1eb2128db9bbcfd07638aa65c1997c567e7"
+    },
+    {
+      "path": "qa/rework-audit-20260922/desert-water-skin-dark.png",
+      "bytes": 952650,
+      "sha256": "4da28513efb592cc515bed8a1b670718b4faac2747ac99092d4d496031cf95a4"
+    },
+    {
+      "path": "qa/rework-audit-20260922/desert-water-skin-light.png",
+      "bytes": 933937,
+      "sha256": "131f9838ef2ff890c36aa5dee948e9454986376c7dea50c840b2c5f2c6ab8add"
+    },
+    {
+      "path": "qa/rework-audit-20260922/desert-woven-saddlebag-dark.png",
+      "bytes": 1133466,
+      "sha256": "76f296cf1f17ba841548f285932fdad6543238d47fd44eff703fcfcea8627782"
+    },
+    {
+      "path": "qa/rework-audit-20260922/desert-woven-saddlebag-light.png",
+      "bytes": 1129429,
+      "sha256": "a369adf1e158eabdada4af637de7193d76983e01b2f8fb5fa437ed067e7c883c"
+    },
+    {
+      "path": "qa/rework-audit-20260922/fairy-dewdrop-watering-can-dark.png",
+      "bytes": 812128,
+      "sha256": "04cb05aec7c08a65f88b22d3b12c383a32ad2a277af767a333483bd6044892d6"
+    },
+    {
+      "path": "qa/rework-audit-20260922/fairy-dewdrop-watering-can-light.png",
+      "bytes": 808448,
+      "sha256": "61e93c05cbc96119e1c8af837e506dbb054ae2802bb729de9ad99ce6024dbc62"
+    },
+    {
+      "path": "qa/rework-audit-20260922/fairy-leaf-boat-dark.png",
+      "bytes": 678268,
+      "sha256": "45f96a86c60ae2c6a80520645e35a564cb59d37698f2f8c25fbfae41692ff26e"
+    },
+    {
+      "path": "qa/rework-audit-20260922/fairy-leaf-boat-light.png",
+      "bytes": 676248,
+      "sha256": "27639c8cc29a4b8e0c8abde15cb403f5bce661262b84808cd903ec356998d5e7"
+    },
+    {
+      "path": "qa/rework-audit-20260922/fairy-seed-lantern-dark.png",
+      "bytes": 601246,
+      "sha256": "da670be005fa336a090ea494342b8e2990a63153dff38b942cea8c110e09b17d"
+    },
+    {
+      "path": "qa/rework-audit-20260922/fairy-seed-lantern-light.png",
+      "bytes": 598854,
+      "sha256": "5dba59b1ee6e515b3a96a4e4096cd2fb73ba8d948e7bb67fd66e988a2d3b9cc3"
+    },
+    {
+      "path": "qa/rework-audit-20260922/fairy-thimble-bucket-dark.png",
+      "bytes": 550845,
+      "sha256": "c5d42bc2dfd16e2cae3230ac96181b6e3964c3e74ea590398ecf5e441bc8befc"
+    },
+    {
+      "path": "qa/rework-audit-20260922/fairy-thimble-bucket-light.png",
+      "bytes": 547199,
+      "sha256": "ec37d0a466b055036b912e9ad40a5bcb782f5bb492aae1cac075d09aae0c17e7"
+    },
+    {
+      "path": "qa/rework-audit-20260922/fairy-winged-snail-dark.png",
+      "bytes": 851243,
+      "sha256": "210d6a6928507b5dd3f9ed3df99d7f6d72d48bb8747b071aef7e8f4992cc0516"
+    },
+    {
+      "path": "qa/rework-audit-20260922/fairy-winged-snail-light.png",
+      "bytes": 848590,
+      "sha256": "21ee6d5b36dc94e23a8293bc91d86525ca05d352d7b83339d425203a5ea50f1e"
+    },
+    {
+      "path": "qa/rework-audit-20260922/light-sheet-1.png",
+      "bytes": 741241,
+      "sha256": "931bb786738db90e9fbfc2c59b270ba81bcbc71a86e48232804c6b07fecf4641"
+    },
+    {
+      "path": "qa/rework-audit-20260922/light-sheet-2.png",
+      "bytes": 791323,
+      "sha256": "71a31bd53129ba6bd40a1cd22718b5b4b0f652b3e48dc5bf96237d7abb2b628d"
+    },
+    {
+      "path": "qa/rework-audit-20260922/light-sheet-3.png",
+      "bytes": 456581,
+      "sha256": "a4d820cf514a03b2c7fd48a1eed9b0400504b72305d8eec142a824f836260c26"
+    },
+    {
+      "path": "qa/rework-audit-20260922/machine-audit.json",
+      "bytes": 24977,
+      "sha256": "ea19bc238d72c05e04d177d5a1f14cf55e66c06291174843e3f90fc7cfa26902"
+    },
+    {
+      "path": "qa/rework-audit-20260922/REPORT.vi.md",
+      "bytes": 6739,
+      "sha256": "ef4b13805fc30042b799265bd83e131b753d343f632a3e4664559f84eeebec1e"
+    },
+    {
       "path": "qa/rock-pool-pilot-20260918/report.json",
       "bytes": 1014,
       "sha256": "fe001db89c67755e28676f5477fc21422bd1be293b9c1ef961d8ef61d4bfef10"
@@ -7708,8 +8978,8 @@
     },
     {
       "path": "qa/visual-qa.json",
-      "bytes": 22764,
-      "sha256": "03ecfe75491cbebc60f20e6274534823fa2cb98e96ccf15d4072a957c8b0e177"
+      "bytes": 39687,
+      "sha256": "125c79cc46eabf9d9afaab8c490029468f5f864d80a47537a621a260ce299b34"
     },
     {
       "path": "qa/weaving-beater-comb-v2-alpha-dark.png",
@@ -17257,6 +18527,16 @@
       "sha256": "32339bea1c37d06f7fafb34c654208644aa4b88648ef9cc6dde2aa540610e0d3"
     },
     {
+      "path": "revisions/alpha-hole-trial-20260922/access-walker.png",
+      "bytes": 888041,
+      "sha256": "fe804f9bb542db0d716879f66e0a7b9f2b9c1d05fae6547cd4fc55ef182ac00a"
+    },
+    {
+      "path": "revisions/alpha-hole-trial-20260922/fairy-seed-lantern.png",
+      "bytes": 753717,
+      "sha256": "fd65c011ce3386a5cc731f04497b7f7f3425a4d0ac9be05d4208c9a66d02a7d8"
+    },
+    {
       "path": "revisions/alpha-islands-20260917/fossil-amber-insect/delivery-before.png",
       "bytes": 891706,
       "sha256": "43323deb70c445366e46a8dab32194d6ff71a8545d32485feb7b229cd5757305"
@@ -19382,6 +20662,21 @@
       "sha256": "3caa505863d80bd6c0d301d6c2da9a4c08dff4a485b14d4319886857f76f5e54"
     },
     {
+      "path": "revisions/book-collection-20260922/book-pocket-paperback-v1.png",
+      "bytes": 975231,
+      "sha256": "ce83fff3a5b559cdc00e42a3bde30950972601da6cf920c30ec0cdfff2490bba"
+    },
+    {
+      "path": "revisions/book-collection-20260922/book-small-diary-rejected-v1-request.json",
+      "bytes": 2287,
+      "sha256": "067b6db8684ee63f364d73e52981a95306d4e6f0fe4422a6cd1314ab1277ce14"
+    },
+    {
+      "path": "revisions/book-collection-20260922/book-small-diary-rejected-v1.png",
+      "bytes": 1151185,
+      "sha256": "6eb7135dda71244c83bc6552b9416bb2b1b4dafd8f06940c961d881cf356e4ac"
+    },
+    {
       "path": "revisions/border-alpha-20260917/aeonium-pot.png",
       "bytes": 2160169,
       "sha256": "8e105ff8b19e8fbbc158b3c5f8383986fe5c71bb9992fb7ce46f9b00796083b5"
@@ -20647,6 +21942,31 @@
       "sha256": "87b6223169750769c80cb9f0c2193fc3d2490abfad0f6fd189f064b75c4555f2"
     },
     {
+      "path": "revisions/catalogue-alpha-fix-20260922/previous/delivery/stickers/accessible-everyday/access-hearing-aid.png",
+      "bytes": 818971,
+      "sha256": "2ced182d295a720a83f9189a2728103d91158aeb3fa34f493f282694570d4bca"
+    },
+    {
+      "path": "revisions/catalogue-alpha-fix-20260922/previous/delivery/stickers/railway-station/railway-signal.png",
+      "bytes": 556381,
+      "sha256": "c03a05cc5da282ad70522d07543c4f13b25c0edc6d216b475228224ab009b317"
+    },
+    {
+      "path": "revisions/catalogue-alpha-fix-20260922/previous/masters/access-hearing-aid.png",
+      "bytes": 818971,
+      "sha256": "2ced182d295a720a83f9189a2728103d91158aeb3fa34f493f282694570d4bca"
+    },
+    {
+      "path": "revisions/catalogue-alpha-fix-20260922/previous/masters/railway-signal.png",
+      "bytes": 556381,
+      "sha256": "c03a05cc5da282ad70522d07543c4f13b25c0edc6d216b475228224ab009b317"
+    },
+    {
+      "path": "revisions/catalogue-alpha-fix-20260922/selection.json",
+      "bytes": 1974,
+      "sha256": "f28a529ddaead105428566fb967eee1ac9cd7d9077158e04109c77650ebe4c42"
+    },
+    {
       "path": "revisions/ceramic-kiln-brick.png",
       "bytes": 1725833,
       "sha256": "faf2d2721f74bd99281a8d10c68bf7aec2dd7a48c184d8c0bb5d7554c8358e14"
@@ -21677,6 +22997,541 @@
       "sha256": "52bbbfc3579bf997c9207fc15abb97ff05b260fbb33b87d9ac367a11602927c6"
     },
     {
+      "path": "revisions/generation-20260922-accessible-everyday/access-braille-slate-clean.png",
+      "bytes": 1072402,
+      "sha256": "21c8a0111171d4dae3b0ce9d69aa10cbbcab980287d048384e3e29f014a6990f"
+    },
+    {
+      "path": "revisions/generation-20260922-accessible-everyday/access-braille-slate-v1.png",
+      "bytes": 1112097,
+      "sha256": "83f360ef7656e0e5227f630d86c858d77a6b958c5c690020acbfe47ba1c6c4d8"
+    },
+    {
+      "path": "revisions/generation-20260922-accessible-everyday/access-forearm-crutch-clean.png",
+      "bytes": 384171,
+      "sha256": "5411d254d24b7d3f23432538bb96b37e48d3175ad70e96eb1f01c839752a4927"
+    },
+    {
+      "path": "revisions/generation-20260922-accessible-everyday/access-forearm-crutch-v1.png",
+      "bytes": 413140,
+      "sha256": "49eda927a1f5b0211bbde45e254cfe787c51e11306392592423c88dc219b4d37"
+    },
+    {
+      "path": "revisions/generation-20260922-accessible-everyday/access-hearing-aid-clean.png",
+      "bytes": 818971,
+      "sha256": "2ced182d295a720a83f9189a2728103d91158aeb3fa34f493f282694570d4bca"
+    },
+    {
+      "path": "revisions/generation-20260922-accessible-everyday/access-hearing-aid-v1.png",
+      "bytes": 861274,
+      "sha256": "55fc2fa3e8faa86d8274068969e5c68f0de42436ba9f4b5dc0daba0005c7971b"
+    },
+    {
+      "path": "revisions/generation-20260922-accessible-everyday/access-manual-wheelchair-clean.png",
+      "bytes": 1307659,
+      "sha256": "ca5d73d37156c7eacb4117e2c0d6f9823062dfb6034665894ab6303f2100bf46"
+    },
+    {
+      "path": "revisions/generation-20260922-accessible-everyday/access-manual-wheelchair-v1.png",
+      "bytes": 1352839,
+      "sha256": "c6850c7f59b7d6691144b2df89d183b449075d9608a0b8f473a20ee3e1a184e6"
+    },
+    {
+      "path": "revisions/generation-20260922-accessible-everyday/access-portable-ramp-v1.png",
+      "bytes": 846645,
+      "sha256": "31b6cb22c2786a35732be342dbde223b17b9eb7c7a66cfe6c82d9a3a664a57cf"
+    },
+    {
+      "path": "revisions/generation-20260922-accessible-everyday/access-reaching-aid-clean.png",
+      "bytes": 486829,
+      "sha256": "9a3801d5dcb5c2a42e76b949e3a6d68d4cd400f7ba2af111ba6c2cd14a592efd"
+    },
+    {
+      "path": "revisions/generation-20260922-accessible-everyday/access-reaching-aid-v1.png",
+      "bytes": 523615,
+      "sha256": "df8fbf8c5c7964e0996320827c946eedbd9a2af5718831ce739d15dd24f2e745"
+    },
+    {
+      "path": "revisions/generation-20260922-accessible-everyday/access-walker-v1.png",
+      "bytes": 841080,
+      "sha256": "86f29ed48752127744bf11ebcb9dcaf083e4d5a9ff0f3f6e1452117077231b74"
+    },
+    {
+      "path": "revisions/generation-20260922-accessible-everyday/access-walker-v2-clean.png",
+      "bytes": 890886,
+      "sha256": "04849cc7f0c80710c926faf2dcddff05b8771a0d50bc075192177935f759037f"
+    },
+    {
+      "path": "revisions/generation-20260922-accessible-everyday/access-walker-v2.png",
+      "bytes": 904790,
+      "sha256": "3b0a62e28952c753afc6aa832498d632682b901262f6639de95bc85f7b3dc316"
+    },
+    {
+      "path": "revisions/generation-20260922-accessible-everyday/access-white-cane-clean.png",
+      "bytes": 511776,
+      "sha256": "1066f267a1f183a180387700e1ff73f10ea7139ddf00772967c7b8a89ca495d4"
+    },
+    {
+      "path": "revisions/generation-20260922-accessible-everyday/access-white-cane-v1.png",
+      "bytes": 545139,
+      "sha256": "5be075d6304cfa9cfe15598014bd3618b10cf242d0140c00c7e7bed594c1db3a"
+    },
+    {
+      "path": "revisions/generation-20260922-arctic-research/arctic-core-sample-clean.png",
+      "bytes": 932013,
+      "sha256": "6946e83116ad99729f15d8c83f326c47856eb2151ff44d094533ae9fa6c6fff9"
+    },
+    {
+      "path": "revisions/generation-20260922-arctic-research/arctic-core-sample-v1.png",
+      "bytes": 964242,
+      "sha256": "06b96e6113e8a0926776472abc6925629e741f27c89c1998602ee4a3fe4eeae9"
+    },
+    {
+      "path": "revisions/generation-20260922-arctic-research/arctic-expedition-parka-clean.png",
+      "bytes": 1165387,
+      "sha256": "f9da9356476dce9ae512a254bd86ab86fa1067e98203fa1c5463711fb5b47c9d"
+    },
+    {
+      "path": "revisions/generation-20260922-arctic-research/arctic-expedition-parka-v1.png",
+      "bytes": 1184490,
+      "sha256": "21b796e074c4757bb2b61231208c1176a9d5ac8a5bef23ced2a49af036f4213d"
+    },
+    {
+      "path": "revisions/generation-20260922-arctic-research/arctic-ice-auger-clean.png",
+      "bytes": 631431,
+      "sha256": "b30f4b1ed40880eb726f05c71192df030f5f2d03ececa1c67f87741500065ad9"
+    },
+    {
+      "path": "revisions/generation-20260922-arctic-research/arctic-ice-auger-v1.png",
+      "bytes": 658662,
+      "sha256": "fa1a1f6816b4c1454c34d044a6949377d816a57a1561ec431e32e88e89b865f3"
+    },
+    {
+      "path": "revisions/generation-20260922-arctic-research/arctic-research-hut-v1.png",
+      "bytes": 1051155,
+      "sha256": "25ec841e90801a18eb2b9c84e013eede50140e304863d057054dda076545e438"
+    },
+    {
+      "path": "revisions/generation-20260922-arctic-research/arctic-research-hut-v2-clean.png",
+      "bytes": 1103647,
+      "sha256": "c6074ed4de0252d022244f258313d93e232db43d47a72cfeb0588e894f7eb693"
+    },
+    {
+      "path": "revisions/generation-20260922-arctic-research/arctic-research-hut-v2.png",
+      "bytes": 1138876,
+      "sha256": "eea90a8ad4e92478b3a1fd9c99fe804892c915ccbadf414fa71f3d5703166f30"
+    },
+    {
+      "path": "revisions/generation-20260922-arctic-research/arctic-sample-case-clean.png",
+      "bytes": 1119789,
+      "sha256": "94ea73754d856ead0b29a84ba3f38cdace16722eb5750893e8032538c17c7112"
+    },
+    {
+      "path": "revisions/generation-20260922-arctic-research/arctic-sample-case-v1.png",
+      "bytes": 1159621,
+      "sha256": "778ff8481125eff4ea901da1de2857cba33d88ea4782b29800d49adbe1535601"
+    },
+    {
+      "path": "revisions/generation-20260922-arctic-research/arctic-satellite-phone-clean.png",
+      "bytes": 811114,
+      "sha256": "4abf2a32145132579de793cb729bff7e4613ab6dc557f1b28a738cbead5e36d6"
+    },
+    {
+      "path": "revisions/generation-20260922-arctic-research/arctic-satellite-phone-v1.png",
+      "bytes": 828567,
+      "sha256": "6cc290db1ad009cb18651242b89c0bd9a222beeabc1ac8d43ab3a4d8eed6208f"
+    },
+    {
+      "path": "revisions/generation-20260922-arctic-research/arctic-snow-goggles-clean.png",
+      "bytes": 827241,
+      "sha256": "ebe2b807a6f4adee0b6e97276f39696ad3296b47aa6433f784df852839f5a611"
+    },
+    {
+      "path": "revisions/generation-20260922-arctic-research/arctic-snow-goggles-v1.png",
+      "bytes": 870661,
+      "sha256": "838e936f8086da53f370bdf9923205833c31413335744c86a7fc19152be8cc41"
+    },
+    {
+      "path": "revisions/generation-20260922-arctic-research/arctic-snowmobile-clean.png",
+      "bytes": 954219,
+      "sha256": "57f15638994b3678e2a943e5789b081f8a12850d661d53bc34f35348ddf20150"
+    },
+    {
+      "path": "revisions/generation-20260922-arctic-research/arctic-snowmobile-v1.png",
+      "bytes": 999970,
+      "sha256": "c9f7e10ffe56a34ce8613c295e9cedfe59aefb4ffd797fc173ba793bfa28df5f"
+    },
+    {
+      "path": "revisions/generation-20260922-canal-town/canal-bicycle-clean.png",
+      "bytes": 1350371,
+      "sha256": "87d70e893a7689adf982f2ec9313d3b8841be0e1b7dc6cecd3b1eef3c2f28090"
+    },
+    {
+      "path": "revisions/generation-20260922-canal-town/canal-bicycle-v1.png",
+      "bytes": 1394938,
+      "sha256": "7543584dd86e671dd993da7467ce6f7d025956ec6cd8468f674e90fa9b4601f5"
+    },
+    {
+      "path": "revisions/generation-20260922-canal-town/canal-flower-box-clean.png",
+      "bytes": 1292469,
+      "sha256": "17a2147b966bc5963e5bbf3365deaef890101c5002bbcff2e638e04d49c0e699"
+    },
+    {
+      "path": "revisions/generation-20260922-canal-town/canal-flower-box-v1.png",
+      "bytes": 1315153,
+      "sha256": "fa7b7cccdcf4caeac72d5f4d446872176f69c1bbad7be8a11282d5edbdec13b8"
+    },
+    {
+      "path": "revisions/generation-20260922-canal-town/canal-gabled-house-clean.png",
+      "bytes": 598537,
+      "sha256": "4c7ea5b9da6f70fcdab90f45befc44e0eb7970c49f50f668348ff1c736d6a449"
+    },
+    {
+      "path": "revisions/generation-20260922-canal-town/canal-gabled-house-v1.png",
+      "bytes": 636175,
+      "sha256": "923429d883f5ef53605482cf63f4b39a11db69aa55c817784a7ce9b48b9444f7"
+    },
+    {
+      "path": "revisions/generation-20260922-canal-town/canal-gabled-house-v2.png",
+      "bytes": 617187,
+      "sha256": "8c3f1e6cef55193e271e26c54171310972d86d5de331ecfae5375c2d1d410a32"
+    },
+    {
+      "path": "revisions/generation-20260922-canal-town/canal-houseboat-clean.png",
+      "bytes": 997385,
+      "sha256": "6e86d0f1766f282b90feb031403b433d8424b785cf057fae4377d3e5dfd650bf"
+    },
+    {
+      "path": "revisions/generation-20260922-canal-town/canal-houseboat-v1.png",
+      "bytes": 1031189,
+      "sha256": "20d57a421a90b1fff3dc664164230067fe5edcb2ccb69ebab1983ec2d83ddca5"
+    },
+    {
+      "path": "revisions/generation-20260922-canal-town/canal-lock-gate-clean.png",
+      "bytes": 1085230,
+      "sha256": "164b4d0fb409e487d29f8db89e3fcf6095108bea82329bf77c8cdc5cabbdec78"
+    },
+    {
+      "path": "revisions/generation-20260922-canal-town/canal-lock-gate-v1.png",
+      "bytes": 1123509,
+      "sha256": "62b1feebcf38b7454767f057c0543e89641733342e990ac0ff74af4aa57d5c97"
+    },
+    {
+      "path": "revisions/generation-20260922-canal-town/canal-quayside-lamp-v1.png",
+      "bytes": 607156,
+      "sha256": "459073321ee2775d7da070bc3b46d21261e9c1f2bc5cbeb3947f6178e55fe910"
+    },
+    {
+      "path": "revisions/generation-20260922-canal-town/canal-rowboat-clean.png",
+      "bytes": 982495,
+      "sha256": "d9d9f375465f29806f88eb6cf107bd9c0ed9111cc640e2677c9de6c31664cbef"
+    },
+    {
+      "path": "revisions/generation-20260922-canal-town/canal-rowboat-v1.png",
+      "bytes": 1023072,
+      "sha256": "dc20d79fd2939d8246b0989ba5b2e878393b40b9385fe0c52e01fffb1418b51e"
+    },
+    {
+      "path": "revisions/generation-20260922-canal-town/canal-stone-bridge-clean.png",
+      "bytes": 979474,
+      "sha256": "59c872a12d46c488d6f3f1bc3427a8867d4a60e91560da30de9288aeeeae30ff"
+    },
+    {
+      "path": "revisions/generation-20260922-canal-town/canal-stone-bridge-v1.png",
+      "bytes": 1017526,
+      "sha256": "8a68118a2d81db61b5e97975320ddbff65013203cb76ad002b0119a418549f9c"
+    },
+    {
+      "path": "revisions/generation-20260922-desert-caravan/desert-brass-coffee-pot-clean.png",
+      "bytes": 855228,
+      "sha256": "31bf5b9efe6a99ca2cb23b027a3da90b681f0d622c05f9b183037fb77d53069d"
+    },
+    {
+      "path": "revisions/generation-20260922-desert-caravan/desert-brass-coffee-pot-v1.png",
+      "bytes": 881723,
+      "sha256": "107775b870dff79571a14620e575402ed4ba93c399feef0c04ee3aacec024241"
+    },
+    {
+      "path": "revisions/generation-20260922-desert-caravan/desert-caravan-tent-clean.png",
+      "bytes": 909252,
+      "sha256": "759af32b995691e8f07ebe358b126cc785302ec33e05d7b0546dc14c8c1edbbe"
+    },
+    {
+      "path": "revisions/generation-20260922-desert-caravan/desert-caravan-tent-v1.png",
+      "bytes": 939734,
+      "sha256": "eba43bbe3c028e045543850ba6f550d308d43aa419858f28e5095699989ec529"
+    },
+    {
+      "path": "revisions/generation-20260922-desert-caravan/desert-date-bunch-clean.png",
+      "bytes": 868376,
+      "sha256": "f6c7d94a081eb2e84a4f16bbf25c0ede829c08f4fc340da9444e396277c347b0"
+    },
+    {
+      "path": "revisions/generation-20260922-desert-caravan/desert-date-bunch-v1.png",
+      "bytes": 885561,
+      "sha256": "c41c6d535744f8c9c2bcb7e818f9a8ce534bf84ca74fe62f7aab44a2233b51e7"
+    },
+    {
+      "path": "revisions/generation-20260922-desert-caravan/desert-dromedary-clean.png",
+      "bytes": 1059221,
+      "sha256": "d5fb892dda515535aa176295529b8383baa60f72185b6ec3af49c30960d6e1a3"
+    },
+    {
+      "path": "revisions/generation-20260922-desert-caravan/desert-dromedary-v1.png",
+      "bytes": 1097601,
+      "sha256": "dddbbcee8462e524afd888fd18a99c0b9a53d476eb02c6fa830ff36d6018836f"
+    },
+    {
+      "path": "revisions/generation-20260922-desert-caravan/desert-navigation-compass-clean.png",
+      "bytes": 1035704,
+      "sha256": "723488a5829bca9c32fe90dd04164167ff9eab1f2cb1c1fda0d9a174bb5ac8bf"
+    },
+    {
+      "path": "revisions/generation-20260922-desert-caravan/desert-navigation-compass-v1.png",
+      "bytes": 1071235,
+      "sha256": "70134ca44fa33101201a446c53b9bf24d082337fc0ee8d9a3f152b43f3fea6f6"
+    },
+    {
+      "path": "revisions/generation-20260922-desert-caravan/desert-sand-rose-clean.png",
+      "bytes": 1320956,
+      "sha256": "fbed8985e15a1475ddbdc3a3942ca96ce262f8400c232cbf2100bd023daa9f5a"
+    },
+    {
+      "path": "revisions/generation-20260922-desert-caravan/desert-sand-rose-v1.png",
+      "bytes": 1340471,
+      "sha256": "2a2ffd5b6c9d040169c4a6d65ace75ef57c7f513246aa1489527745a488166ca"
+    },
+    {
+      "path": "revisions/generation-20260922-desert-caravan/desert-water-skin-v1.png",
+      "bytes": 1158698,
+      "sha256": "f8b1d1bf1ab2334c38e6032ba7326d9493e61c4d1dbdf192e9bb1afbafb96552"
+    },
+    {
+      "path": "revisions/generation-20260922-desert-caravan/desert-water-skin-v2-clean.png",
+      "bytes": 1116325,
+      "sha256": "42602849198d1f5ece82440453ebbc9324600c147a229e4c31c318846d18a723"
+    },
+    {
+      "path": "revisions/generation-20260922-desert-caravan/desert-water-skin-v2-clean5.png",
+      "bytes": 1095202,
+      "sha256": "b88015eb829cad18cdeddab479b72e280b74aefc3c62da71ff6b712f82667049"
+    },
+    {
+      "path": "revisions/generation-20260922-desert-caravan/desert-water-skin-v2.png",
+      "bytes": 1126706,
+      "sha256": "5bcd94fa2f944285d9e63d03b7c085dd414c24126953aa637b130e443a9c56e5"
+    },
+    {
+      "path": "revisions/generation-20260922-desert-caravan/desert-woven-saddlebag-clean.png",
+      "bytes": 1334673,
+      "sha256": "8610a31d0a9a1fc7ace96e4dfebc47da0f22332c8741502f5749ae1cd617e3e3"
+    },
+    {
+      "path": "revisions/generation-20260922-desert-caravan/desert-woven-saddlebag-v1.png",
+      "bytes": 1348355,
+      "sha256": "3b8e4e66bb426b79a58a1c7c4eb1bb56ae301e344d2d6af603ec6b87aeebe951"
+    },
+    {
+      "path": "revisions/generation-20260922-fairy-garden/fairy-acorn-house-clean.png",
+      "bytes": 1198519,
+      "sha256": "8d1586e41a3b4e10cb8e46fcbb64354e63c78dc630c8e911e5c024ac641d92c8"
+    },
+    {
+      "path": "revisions/generation-20260922-fairy-garden/fairy-acorn-house-v1.png",
+      "bytes": 1229152,
+      "sha256": "2a01ce27aa15cb1b4aaf06a4d989195b9f569f7a8be5fcbd2d08a701bd4b0ebc"
+    },
+    {
+      "path": "revisions/generation-20260922-fairy-garden/fairy-dewdrop-watering-can-clean.png",
+      "bytes": 986901,
+      "sha256": "dc4ee98e68c45e50186ba553053204348241c397a5e0eae425fc00414077937e"
+    },
+    {
+      "path": "revisions/generation-20260922-fairy-garden/fairy-dewdrop-watering-can-v1.png",
+      "bytes": 1022644,
+      "sha256": "4a93fb3b8ebca12b488a62166962b784df3e0a50cd387434fb27e37994577647"
+    },
+    {
+      "path": "revisions/generation-20260922-fairy-garden/fairy-leaf-boat-clean.png",
+      "bytes": 868409,
+      "sha256": "698f9f56fbe5e168ca9cefdc84941139e986697260c4da5aa9062ca92f2c5b98"
+    },
+    {
+      "path": "revisions/generation-20260922-fairy-garden/fairy-leaf-boat-v1.png",
+      "bytes": 902055,
+      "sha256": "5d04ace500d2d355e584c572cca6a00a451f33606fee86ff75acc3c216ab9b05"
+    },
+    {
+      "path": "revisions/generation-20260922-fairy-garden/fairy-pebble-bridge-clean.png",
+      "bytes": 909271,
+      "sha256": "3c6c2dba7e630b791dc36dc0c92de9b164570e6e8828372799b28db93f1cab76"
+    },
+    {
+      "path": "revisions/generation-20260922-fairy-garden/fairy-pebble-bridge-v1.png",
+      "bytes": 943719,
+      "sha256": "c6262b8b67891af4eeadd962b053eff7919c6b37d2eecd95787099d93d47ce27"
+    },
+    {
+      "path": "revisions/generation-20260922-fairy-garden/fairy-petal-chair-clean.png",
+      "bytes": 943326,
+      "sha256": "53465c7a3307427441e894c8d4906d1042b9651077da6b3a85cff2d4fa7fdb87"
+    },
+    {
+      "path": "revisions/generation-20260922-fairy-garden/fairy-petal-chair-v1.png",
+      "bytes": 965797,
+      "sha256": "a851ad4ea7b36ddeeac33717def1e7c5932623246ca74d9edb0324aff8f9c38a"
+    },
+    {
+      "path": "revisions/generation-20260922-fairy-garden/fairy-seed-lantern-clean.png",
+      "bytes": 753774,
+      "sha256": "26b8a3ca69317e040d6a56e7db5dd88ae07f97a7ae6d6ef5238ff8488ed64b2c"
+    },
+    {
+      "path": "revisions/generation-20260922-fairy-garden/fairy-seed-lantern-v1.png",
+      "bytes": 773519,
+      "sha256": "1ede88baa64620cbbda77826132364fa1928b7bdc7d2834a6ce792b892159f56"
+    },
+    {
+      "path": "revisions/generation-20260922-fairy-garden/fairy-thimble-bucket-clean.png",
+      "bytes": 828817,
+      "sha256": "6eb4d1ceb5982a2e43f2c6909a1b84fe73a3eb5db8de1550211fc639caa0d8f2"
+    },
+    {
+      "path": "revisions/generation-20260922-fairy-garden/fairy-thimble-bucket-v1.png",
+      "bytes": 869378,
+      "sha256": "80917165bdce8226265c3c09aa7dd5dfd38a5b390a134a5168375c762574c79e"
+    },
+    {
+      "path": "revisions/generation-20260922-fairy-garden/fairy-winged-snail-clean.png",
+      "bytes": 1024779,
+      "sha256": "6def811b111721cb559e123c4b8eb176111d5ad04f03a8552d5c392cef5eadb7"
+    },
+    {
+      "path": "revisions/generation-20260922-fairy-garden/fairy-winged-snail-v1.png",
+      "bytes": 1067193,
+      "sha256": "481ed74d9ab6972e78462311afdaf845bf6eea168635ce822af1f5a761917476"
+    },
+    {
+      "path": "revisions/generation-20260922-herbal-apothecary/apothecary-balance-scale-clean.png",
+      "bytes": 1020742,
+      "sha256": "1f325a67f1b4f264c322279f47284d0bd01f126be13361a2e097e1f317bc409a"
+    },
+    {
+      "path": "revisions/generation-20260922-herbal-apothecary/apothecary-balance-scale-v1.png",
+      "bytes": 1076940,
+      "sha256": "dde9c9482b3a5570c28316a8117637dfa24710914e390e6a0c539b41884abefe"
+    },
+    {
+      "path": "revisions/generation-20260922-herbal-apothecary/apothecary-crescent-vial-clean.png",
+      "bytes": 859891,
+      "sha256": "c2e7292263e319d97d2ff8078cfaa1dfdd06b95d2b53aa3d944f98783178844d"
+    },
+    {
+      "path": "revisions/generation-20260922-herbal-apothecary/apothecary-crescent-vial-v1.png",
+      "bytes": 877894,
+      "sha256": "cd92af8893cefb41abdc8837fff824ecb76825dbca84152c25724f08659b8337"
+    },
+    {
+      "path": "revisions/generation-20260922-herbal-apothecary/apothecary-drawer-chest-clean.png",
+      "bytes": 1217173,
+      "sha256": "07e4fff6a1163539a4991e01736a71ebe4091be435f50c6be6a1093fd296ddd3"
+    },
+    {
+      "path": "revisions/generation-20260922-herbal-apothecary/apothecary-drawer-chest-v1.png",
+      "bytes": 1234829,
+      "sha256": "26578885a82de94ec7556fe00975844d3216f631038f681e8d08a3db2d627d6b"
+    },
+    {
+      "path": "revisions/generation-20260922-herbal-apothecary/apothecary-drying-rack-clean.png",
+      "bytes": 1056294,
+      "sha256": "a97b31f9bb53846cae7c7912e7d10253211c07d7c2a6e484ce2e1d2b5bcf46a2"
+    },
+    {
+      "path": "revisions/generation-20260922-herbal-apothecary/apothecary-drying-rack-v1.png",
+      "bytes": 1094667,
+      "sha256": "423608b64a2c46a7d7bbb3240949e98218262556d1c60e977c38dd916c0abd85"
+    },
+    {
+      "path": "revisions/generation-20260922-herbal-apothecary/apothecary-herb-bundle-clean.png",
+      "bytes": 981202,
+      "sha256": "f4aa7858c6d3ba3d4d4d30c1b9dcc40fb8f48cb5931b721e45d9b6fa8804a454"
+    },
+    {
+      "path": "revisions/generation-20260922-herbal-apothecary/apothecary-herb-bundle-v1.png",
+      "bytes": 1000377,
+      "sha256": "82d5f9aa254c07dedbdc7d177be46594c1dcf22cd330c6cfca283338575c3096"
+    },
+    {
+      "path": "revisions/generation-20260922-herbal-apothecary/apothecary-herbal-salve-clean.png",
+      "bytes": 1041864,
+      "sha256": "3861489f84048327d6d71908ef9f3df8f217529ae3d608768b42c081217c3c8c"
+    },
+    {
+      "path": "revisions/generation-20260922-herbal-apothecary/apothecary-herbal-salve-v1.png",
+      "bytes": 1066801,
+      "sha256": "d08a027887f6d13d1da8b7706049885637e03e2c035243b77b22f8a563e00662"
+    },
+    {
+      "path": "revisions/generation-20260922-herbal-apothecary/apothecary-mortar-pestle-clean.png",
+      "bytes": 1123245,
+      "sha256": "bfc1ce04d5898b43f02f7b466d965e0b165d84b276ab139ff29be15727f87978"
+    },
+    {
+      "path": "revisions/generation-20260922-herbal-apothecary/apothecary-mortar-pestle-v1.png",
+      "bytes": 1145725,
+      "sha256": "ad49b13898f766f65338990c8accf510ef878423ce3ef47035d1c2480ff4bab1"
+    },
+    {
+      "path": "revisions/generation-20260922-herbal-apothecary/apothecary-potion-bottle-clean.png",
+      "bytes": 909643,
+      "sha256": "98d8f8222c81906bbfc278f0fde44109b6840884b2afee60b538fb0d5a29f842"
+    },
+    {
+      "path": "revisions/generation-20260922-herbal-apothecary/apothecary-potion-bottle-v1.png",
+      "bytes": 939116,
+      "sha256": "beb12471a2a3b0cb87398474d838600cb529ca711b677105f4fcd6c33a1eb3e4"
+    },
+    {
+      "path": "revisions/generation-20260922-shipwreck-diving/shipwreck-ceramic-bottle-clean.png",
+      "bytes": 878517,
+      "sha256": "017b444e060578a32d2832dce1ded4e2ee781eaa3cf04163b4c9091aaebb4cb3"
+    },
+    {
+      "path": "revisions/generation-20260922-shipwreck-diving/shipwreck-ceramic-bottle-v1.png",
+      "bytes": 897814,
+      "sha256": "4db1f028ae34747a2689a5693a6546eacf2a05f61a2034de1cc8ee9af918f8ae"
+    },
+    {
+      "path": "revisions/generation-20260922-shipwreck-diving/shipwreck-diving-torch-clean.png",
+      "bytes": 959165,
+      "sha256": "4aafda285451504690a317f5b7bc362517c216122997d4eee1a717f4158f2d51"
+    },
+    {
+      "path": "revisions/generation-20260922-shipwreck-diving/shipwreck-diving-torch-v1.png",
+      "bytes": 1006213,
+      "sha256": "e6613d67294726829e1b316a8778d73087f0b9922eb8a7f91f2a4d9f0c5e3d4c"
+    },
+    {
+      "path": "revisions/generation-20260922-shipwreck-diving/shipwreck-ship-bell-clean.png",
+      "bytes": 876862,
+      "sha256": "38c94c4e7dd35a350b36a20de3d6598deabffe7768cf32d0ec70e5ef22d23883"
+    },
+    {
+      "path": "revisions/generation-20260922-shipwreck-diving/shipwreck-ship-bell-v1.png",
+      "bytes": 887194,
+      "sha256": "352514d08c902aa375c9b986079e9949cb7883e0201221e2f6cbfe5c53cf13a4"
+    },
+    {
+      "path": "revisions/generation-20260922-shipwreck-diving/shipwreck-treasure-chest-clean.png",
+      "bytes": 1161520,
+      "sha256": "79ff2a0292b769dc61a9b6ff7ffb3f978999eef5542baaff0db533b4b9bf27d8"
+    },
+    {
+      "path": "revisions/generation-20260922-shipwreck-diving/shipwreck-treasure-chest-v1.png",
+      "bytes": 1189159,
+      "sha256": "5aeb69f7a03963dd61d6b0078015972daea793c9997a0bb047b8028dddc336ed"
+    },
+    {
       "path": "revisions/marching-trumpet-padding-20260915.png",
       "bytes": 1903292,
       "sha256": "08ff04f380698ca6d519a4e13d56c1d061b42ecacaadd7012664459c76cf7d6f"
@@ -21978,8 +23833,13 @@
     },
     {
       "path": "scripts/gallery-template.html",
-      "bytes": 5287,
-      "sha256": "751a3614ca243531be3db2a20138b98437315bb1676d87d7230cb97801b8bb54"
+      "bytes": 5361,
+      "sha256": "f3cc850dbaa136f69f25081921a7b03ca1ce721732aece3036c8046f6f7d59e1"
+    },
+    {
+      "path": "scripts/guided_alpha_hole.py",
+      "bytes": 3156,
+      "sha256": "183fbe27e9d9c120f08b9999e00d1496593d52bd0869b0630315b7f125fd408b"
     },
     {
       "path": "scripts/promote_border_alpha_20260917.py",
@@ -21992,14 +23852,34 @@
       "sha256": "96bac6c12966c9bc72c6feccf95c12a083ee749808d02262176e183dad920dc3"
     },
     {
+      "path": "scripts/qa_cat_topic_20260922.py",
+      "bytes": 3442,
+      "sha256": "7639124014e54f1d6d19e217342c7d4dd0c75d78c37ca75a6eb0b57b6182519a"
+    },
+    {
+      "path": "scripts/qa_fish_topic_20260922.py",
+      "bytes": 3444,
+      "sha256": "29411527ec10321ab9c202d3c5f0ef659181b65cefe77a0a7c0bb2e5c760aea0"
+    },
+    {
+      "path": "scripts/qa_rework_25_20260922.py",
+      "bytes": 4031,
+      "sha256": "8f0b152a57991105b7cba0f1575fcbc2fc2d23be6f6283cd3b928df96f58c447"
+    },
+    {
+      "path": "scripts/repair_erased_catalogue_alpha_20260922.py",
+      "bytes": 6606,
+      "sha256": "42104b5c8af5614b63814503e13071757646146c6307d41e104bc01ca68e4df6"
+    },
+    {
       "path": "scripts/workspace.py",
-      "bytes": 18105,
-      "sha256": "27357e14f9eadc174cbfb458f189b32b67fbeb64832b81ea77b361de4576e514"
+      "bytes": 18704,
+      "sha256": "fa89d61520c6e65b75d731f3814216538dea7073be0f3b54905288f0e1473586"
     },
     {
       "path": "START_HERE.vi.md",
-      "bytes": 6763,
-      "sha256": "fa3d8f1642d86f07e0ff0fa5dc49f2837696874dd58d50625372f55277d9f0d0"
+      "bytes": 7408,
+      "sha256": "a47054757ce48693bc15a39a7a2017715a15f5afc6ce9549d941e23ba1d5ea88"
     },
     {
       "path": "state/batch-20260916.json",
@@ -22013,8 +23893,8 @@
     },
     {
       "path": "state/generation-queue.json",
-      "bytes": 1643,
-      "sha256": "67a3aec93a1593e585e238e82a727ca0d9aced5ad29e9069b9662501b64c0808"
+      "bytes": 214,
+      "sha256": "1cfbcbc97a9db492ff60f93ce91470de7b871fe7c4df2c09ef57087da2903062"
     },
     {
       "path": "state/imagegen-quota-20260918-second.json",
@@ -22037,14 +23917,189 @@
       "sha256": "b59267bd19282bd7e883ba6129585c5c96937abede267eeb46e7ac4ff8ce2b2d"
     },
     {
+      "path": "state/imagegen-quota-20260922.json",
+      "bytes": 1038,
+      "sha256": "8f6265e4dd44bab84fb94dd7ac85464592775fd1f078eaac97fcbafe60772b90"
+    },
+    {
       "path": "state/progress.json",
-      "bytes": 413426,
-      "sha256": "62a4b767c3d66970fb683531fb343430f8b5ec7bc0cdf9a332fdd5c07246c0d8"
+      "bytes": 480572,
+      "sha256": "68d6fa028e5428f1a06e354ab055c74e8eb51b11c0210a3a950d06c491d8f4e7"
     },
     {
       "path": "state/relocation-verification.json",
       "bytes": 1390,
       "sha256": "bf1bac14e7185b00e703b6f945e119e361ba867ddf7534f60befcbb05b42fcae"
+    },
+    {
+      "path": "state/requests/access-braille-slate.json",
+      "bytes": 1938,
+      "sha256": "722f2f1cf6010cbc14b5d385a9cd37735dc20fc03dcfc0f8cc82603cdfb3a3f3"
+    },
+    {
+      "path": "state/requests/access-forearm-crutch.json",
+      "bytes": 1903,
+      "sha256": "f239df93aa10cdf937e5bd5b6a7d9010dac9ca05b7d4b97ce2117fbc9c48d923"
+    },
+    {
+      "path": "state/requests/access-hearing-aid.json",
+      "bytes": 1916,
+      "sha256": "69133e8626c14bb351349b9f5f286f6063b3a5f8814be06d26b20ce7154bd841"
+    },
+    {
+      "path": "state/requests/access-manual-wheelchair.json",
+      "bytes": 1934,
+      "sha256": "175c18789334a2dce9501c3d2cb848c7a2d022421ecf205e156748e538bb33bb"
+    },
+    {
+      "path": "state/requests/access-portable-ramp.json",
+      "bytes": 1918,
+      "sha256": "a22df16f37b7ab3589cfe52a4efd4a39a1e647dd77d703d67704505ae1c4a697"
+    },
+    {
+      "path": "state/requests/access-reaching-aid.json",
+      "bytes": 1937,
+      "sha256": "ceae50dfa7240bbe5f5a60d895b53ed40552c5e963fea88d97c6346e473ee46f"
+    },
+    {
+      "path": "state/requests/access-walker-v2.json",
+      "bytes": 2561,
+      "sha256": "b14931ade11f8453108197bb3ef6c7c9089eeb69c1f34322a4bcd42b8e84088a"
+    },
+    {
+      "path": "state/requests/access-walker.json",
+      "bytes": 1917,
+      "sha256": "5c378df45583d3b7cc3144fc14bc6461b7c66de97811ffa9674deaa4da6b1b84"
+    },
+    {
+      "path": "state/requests/access-white-cane.json",
+      "bytes": 1931,
+      "sha256": "ba31475bb7791e7cd6d1f521db2498ba0af3348bee161ed49a30f94b1ab6afaa"
+    },
+    {
+      "path": "state/requests/apothecary-balance-scale.json",
+      "bytes": 2094,
+      "sha256": "c61914fcbf630e54d2edb2782d11da21caf18ee873d3032c2b9daf03137aa04f"
+    },
+    {
+      "path": "state/requests/apothecary-crescent-vial.json",
+      "bytes": 2112,
+      "sha256": "357ed7d6fb771d824cc58fde977992c3af838c0469bc7e907eca1e947195eb35"
+    },
+    {
+      "path": "state/requests/apothecary-drawer-chest.json",
+      "bytes": 2145,
+      "sha256": "775a7c970b918d35082ac6506cd789e00c43566b3d7203b0a63359ab397c300e"
+    },
+    {
+      "path": "state/requests/apothecary-drying-rack.json",
+      "bytes": 2120,
+      "sha256": "3f8ab6367e7208b34d0baf7fad7d48d03db99dc0b7ad34ecec80d23594c55744"
+    },
+    {
+      "path": "state/requests/apothecary-herb-bundle.json",
+      "bytes": 2096,
+      "sha256": "639461f4e3090b6a4881e64d5b7b81dd41706ea8552e4bd5a56bb99044a8490f"
+    },
+    {
+      "path": "state/requests/apothecary-herbal-salve.json",
+      "bytes": 2125,
+      "sha256": "121d9092b622a0ee268223f9bbea520b7f6e29d07885e9c2dcf76b338e7a1898"
+    },
+    {
+      "path": "state/requests/apothecary-mortar-pestle.json",
+      "bytes": 2124,
+      "sha256": "f052655d8955f8534d04058983c4f7065284b6d2c24b9b704dc52e40214c8706"
+    },
+    {
+      "path": "state/requests/apothecary-potion-bottle.json",
+      "bytes": 2144,
+      "sha256": "cf104ffa481304fc3a050df6ab859d6200ce662d91135bf8e719bdc54488e441"
+    },
+    {
+      "path": "state/requests/arctic-core-sample.json",
+      "bytes": 1934,
+      "sha256": "39a1013fc5b76dfba50b97d59c750c293c12b00b637f282b5d9ee438b150fd06"
+    },
+    {
+      "path": "state/requests/arctic-expedition-parka.json",
+      "bytes": 1907,
+      "sha256": "63bb4df8db27f969bfbe817708b843a430590b9c8843108717c63501886fca0c"
+    },
+    {
+      "path": "state/requests/arctic-ice-auger.json",
+      "bytes": 1910,
+      "sha256": "faaaf16d1b1a44e3136650ecd2b43f4711364ebddc4642c71b082b3374b39d84"
+    },
+    {
+      "path": "state/requests/arctic-research-hut-v2.json",
+      "bytes": 1463,
+      "sha256": "a3207463ec380874c3b059e8fb21e179c3fa689d79fa9c3d19917eeb8f9d0ebb"
+    },
+    {
+      "path": "state/requests/arctic-research-hut.json",
+      "bytes": 1937,
+      "sha256": "326df375883f25e701935688e8e6e79739b40d3b59d7f802b1ec6f4dce7a6f26"
+    },
+    {
+      "path": "state/requests/arctic-sample-case.json",
+      "bytes": 1916,
+      "sha256": "3aadc1699ef923e67d669ec32dab05b487690c3bd34395fb0bbf5bc7f2e4e08c"
+    },
+    {
+      "path": "state/requests/arctic-satellite-phone.json",
+      "bytes": 1926,
+      "sha256": "e2093815b37dd1f3e4bad6d5e3f902e3ad9315e6b8b7beebf237aea463f86da7"
+    },
+    {
+      "path": "state/requests/arctic-snow-goggles.json",
+      "bytes": 1915,
+      "sha256": "d358c21ed3f3aed32a2a5e501f9bc244ac614e73dedfe182d2c1ae63493632b3"
+    },
+    {
+      "path": "state/requests/arctic-snowmobile.json",
+      "bytes": 1923,
+      "sha256": "7d5cfcb3b9b33ee993efd0dae67d8ea22136d1071702d43790df8e26216e0145"
+    },
+    {
+      "path": "state/requests/book-accordion-picture-book.json",
+      "bytes": 2320,
+      "sha256": "6a4f34b75489c5f53efb922ff49bbdc38b7e47d49317914aadad529ecc15c489"
+    },
+    {
+      "path": "state/requests/book-blue-hardcover.json",
+      "bytes": 2438,
+      "sha256": "dcfae9cefa287d192b88369282710416e8c4d0896a8200581f9d787dc1e57cdb"
+    },
+    {
+      "path": "state/requests/book-leather-tome.json",
+      "bytes": 2248,
+      "sha256": "d648e4e5b98477777fe0270c9332e1eea9b7ec78a63e49b9013306dbca58f52a"
+    },
+    {
+      "path": "state/requests/book-open-storybook.json",
+      "bytes": 2288,
+      "sha256": "3ba46a60677ec4e3cf48b2909c192be324a5b9956e05faa074d708ba5ee1eb6d"
+    },
+    {
+      "path": "state/requests/book-pocket-paperback.json",
+      "bytes": 2976,
+      "sha256": "115a90f2eb10f66cab3b7ddbede21d6d40fc7d9799b873b5f7d9f558c666f48f"
+    },
+    {
+      "path": "state/requests/book-pop-up-castle.json",
+      "bytes": 2247,
+      "sha256": "f66a44385b503c41efccbb09d38ade5232d9bf3058447ad69fa59af241599e09"
+    },
+    {
+      "path": "state/requests/book-small-diary.json",
+      "bytes": 2363,
+      "sha256": "47a55faf50c6ee3f3590a685d2b88bac1ff4b61c67183f67e0953e0e1838f559"
+    },
+    {
+      "path": "state/requests/book-three-volume-stack.json",
+      "bytes": 2286,
+      "sha256": "98f0809f0aa31e3638b1071e9b719d66d68e3b705fe159a26195d1e6f7aee778"
     },
     {
       "path": "state/requests/bookbinding-bone-folder-v1.json",
@@ -22125,6 +24180,91 @@
       "path": "state/requests/bookbinding-signatures.json",
       "bytes": 1930,
       "sha256": "4a4f0c69ca0895de8b1d25cbc9922d89a017e9b96977caa501fb5e692ca5e828"
+    },
+    {
+      "path": "state/requests/canal-bicycle.json",
+      "bytes": 1910,
+      "sha256": "82cd9ab4bfb687b3f8dc9ac30d9904c86f0f55b013c8c3b6083a54518df76f34"
+    },
+    {
+      "path": "state/requests/canal-flower-box.json",
+      "bytes": 1889,
+      "sha256": "c3fb36d4b8e2ea66d48b2f0eccef3c1a92145fe6be557430954acdbca778cb97"
+    },
+    {
+      "path": "state/requests/canal-gabled-house-v2.json",
+      "bytes": 1540,
+      "sha256": "aced3afd4d1b2c11d898549a11c7f572436bfcf4eab994610553fd8bee4b7016"
+    },
+    {
+      "path": "state/requests/canal-gabled-house.json",
+      "bytes": 1931,
+      "sha256": "a875c0e3862c826157f8ae6f309028ce010bf3ff8f2bb54c22fb4cf1f4871bb7"
+    },
+    {
+      "path": "state/requests/canal-houseboat.json",
+      "bytes": 1906,
+      "sha256": "843a2ee35e94524aa058e12fad2117bdbd5fc27d5e7a1612a20b6f6b95e265f8"
+    },
+    {
+      "path": "state/requests/canal-lock-gate.json",
+      "bytes": 1926,
+      "sha256": "cec94091eb9fe8c0cf790a289564e2820d4ad7a30cbc46197d1bc55026f76919"
+    },
+    {
+      "path": "state/requests/canal-quayside-lamp.json",
+      "bytes": 1910,
+      "sha256": "7a85ff316ca223d5744f66e8e68d73c580b8068074a051b221c395091b75edf6"
+    },
+    {
+      "path": "state/requests/canal-rowboat.json",
+      "bytes": 1910,
+      "sha256": "0cf5c3004ae78c164f73c8c1a714ff4a94a503ca38dabe33e3b42fa441e4f4e7"
+    },
+    {
+      "path": "state/requests/canal-stone-bridge.json",
+      "bytes": 1903,
+      "sha256": "dba94eeda63e211d94747bf50ec25953e7d8ea8ce9d025a30cec9a53c8559d1c"
+    },
+    {
+      "path": "state/requests/cat-black.json",
+      "bytes": 2289,
+      "sha256": "d54cc338b99853624e58943a273c23b2373c47a06373e924cb501d10bc0fb55d"
+    },
+    {
+      "path": "state/requests/cat-blue-shorthair.json",
+      "bytes": 2406,
+      "sha256": "5a875082831e5aa61c9aac81a7df73fe8568a6d492b713a910297d99dbe40024"
+    },
+    {
+      "path": "state/requests/cat-calico.json",
+      "bytes": 2368,
+      "sha256": "decad59ff435002f90e8dd316bf865d8f8f16b3ac8eda092a7f7ab75621c430d"
+    },
+    {
+      "path": "state/requests/cat-gray-tabby.json",
+      "bytes": 2350,
+      "sha256": "88d0b9177aa2e550f454c7580760a4cc1847c331af5612282a877124b01b613d"
+    },
+    {
+      "path": "state/requests/cat-orange-kitten.json",
+      "bytes": 2399,
+      "sha256": "d245640462c295628c3d6b3abe50ae88b77012004cdfd60d9f877d1a8b9ebf20"
+    },
+    {
+      "path": "state/requests/cat-siamese.json",
+      "bytes": 2379,
+      "sha256": "46a4236866fc729f59e063c71fa41abb1f2140b6680d7bda0b7b60e80262972e"
+    },
+    {
+      "path": "state/requests/cat-tuxedo.json",
+      "bytes": 2316,
+      "sha256": "91dabb2268a193f0a1a1dbb199b0c8704e41f61ce8703a914839319fdf48d344"
+    },
+    {
+      "path": "state/requests/cat-white-longhair.json",
+      "bytes": 2416,
+      "sha256": "27dff42b2c6d0beaf106770189df19d0387a8d151439eca3ed74861482ab8428"
     },
     {
       "path": "state/requests/caving-ascender-v2.json",
@@ -22262,6 +24402,51 @@
       "sha256": "6d1bf4b310392afe2d288b01bd3b02ddfa0cfbf41ffb74c5c435d30ffd12f9d0"
     },
     {
+      "path": "state/requests/desert-brass-coffee-pot.json",
+      "bytes": 1912,
+      "sha256": "09cbd6f9dfb5a72ceaa04f1a8338a97c51ef1bfaadf2113b82c4f8f16ba36747"
+    },
+    {
+      "path": "state/requests/desert-caravan-tent.json",
+      "bytes": 1918,
+      "sha256": "3b11d0baa62aa17a37c0a73e53df848992cf9da18335cf3083ca5fdf2bebac4c"
+    },
+    {
+      "path": "state/requests/desert-date-bunch.json",
+      "bytes": 1894,
+      "sha256": "08a935fd449b48b3a628950efacb1c775071546d3e48a818a146526b6ab7ac6a"
+    },
+    {
+      "path": "state/requests/desert-dromedary.json",
+      "bytes": 1927,
+      "sha256": "521910e58f483da234cb861ef65da83237eed936e973aa88149102510563318a"
+    },
+    {
+      "path": "state/requests/desert-navigation-compass.json",
+      "bytes": 1926,
+      "sha256": "5209b4d3bfc1c2b9a8de9ed003b09327893f7b7c18beb96481c639da02a1c2e0"
+    },
+    {
+      "path": "state/requests/desert-sand-rose.json",
+      "bytes": 1931,
+      "sha256": "3414a0ef79f7d25a7c728639464b2d67d311906dc859286a72659078f245b9a2"
+    },
+    {
+      "path": "state/requests/desert-water-skin-v2.json",
+      "bytes": 1539,
+      "sha256": "20dd9754127dea2f38e6f33ef7cbefe77163aca7a864fe52b32985d5a060b0c8"
+    },
+    {
+      "path": "state/requests/desert-water-skin.json",
+      "bytes": 1900,
+      "sha256": "824bdcaf6c3f835d766e105bd3cdbc7face79bc9683af68079ced9969d7c7e60"
+    },
+    {
+      "path": "state/requests/desert-woven-saddlebag.json",
+      "bytes": 1935,
+      "sha256": "4a07d4c630e1c7b8c9763129bc10f329bc3ff8d4bb642a53f6c0efa83f0e5631"
+    },
+    {
       "path": "state/requests/detective-evidence-envelope-v2.json",
       "bytes": 1469,
       "sha256": "b08815406d2633accc4982eb8ac8de10ad1fbaa1ffd0b645b8d65427b0327c5b"
@@ -22380,6 +24565,86 @@
       "path": "state/requests/dumpling-siu-mai.json",
       "bytes": 1912,
       "sha256": "f334ff86d67b49ff4aab6695f971d2fd778d1ad823c39edbadb6d8b7b08c8e97"
+    },
+    {
+      "path": "state/requests/fairy-acorn-house.json",
+      "bytes": 1920,
+      "sha256": "6ce3317bf9b3ed5440bbaee86c56e2a82b208e4841630930ce3cea41c9b25bd8"
+    },
+    {
+      "path": "state/requests/fairy-dewdrop-watering-can.json",
+      "bytes": 1945,
+      "sha256": "ee82fb7ccfb8372b0cf4e64e173a1268206cd40d8098cf7a10095a977122ce67"
+    },
+    {
+      "path": "state/requests/fairy-leaf-boat.json",
+      "bytes": 1874,
+      "sha256": "e4a303bffdb51fc0d4327e340b92ce81876a878ba56fa7e71f016202d8d1df08"
+    },
+    {
+      "path": "state/requests/fairy-pebble-bridge.json",
+      "bytes": 1906,
+      "sha256": "6cffc4e1bf0d70446d465eaac00a8f6a7e185939bc75aea89e5e363b93f6ca8f"
+    },
+    {
+      "path": "state/requests/fairy-petal-chair.json",
+      "bytes": 1924,
+      "sha256": "c11857dec50c2b0ca72f164ba4f4e59ee64a5adda34fd45a8fa1d59db602340d"
+    },
+    {
+      "path": "state/requests/fairy-seed-lantern.json",
+      "bytes": 1917,
+      "sha256": "b03d20761c433b3d7e933b6182ecf1bc31c8b8b26ca0f4d1a1b7c8c66568c5a2"
+    },
+    {
+      "path": "state/requests/fairy-thimble-bucket.json",
+      "bytes": 1913,
+      "sha256": "57fae8082574205b8eee6ac06db777304246885ffdc317780f7e7d8def2d9539"
+    },
+    {
+      "path": "state/requests/fairy-winged-snail.json",
+      "bytes": 1929,
+      "sha256": "a28c690800aa95d3bf443fc4ce9f5e6e54f1b496eeb4339a3bdf1f52df97cbc2"
+    },
+    {
+      "path": "state/requests/fish-betta.json",
+      "bytes": 2196,
+      "sha256": "860a132b4c635f944aa9b9ee7fedd58f6b995bd2f1aab899e8e7f7cc4ec11718"
+    },
+    {
+      "path": "state/requests/fish-blue-tang.json",
+      "bytes": 2186,
+      "sha256": "3b326486d2cb8b1b229a3c36e356190c31393acd1b96c15911ef4ad2594c1f73"
+    },
+    {
+      "path": "state/requests/fish-clownfish.json",
+      "bytes": 2248,
+      "sha256": "e19ca99884f8ffc492753ea6b4e0748c05978ce382f851b08fc9a048ed4de94f"
+    },
+    {
+      "path": "state/requests/fish-koi.json",
+      "bytes": 2232,
+      "sha256": "9ca2b26a11fece7a941cd3d71d1c8049b168d6cb235f220d5cd1e2535a79762b"
+    },
+    {
+      "path": "state/requests/fish-lionfish.json",
+      "bytes": 2251,
+      "sha256": "69411f56a16d069a06450a0a2e678e1e5032fb76c7bdcb220bee354bfbda7fd1"
+    },
+    {
+      "path": "state/requests/fish-manta-ray.json",
+      "bytes": 2240,
+      "sha256": "e5d23de131c4b44a6305ff9d9cd988c93dfc804c4a9d9da197588735a18e6d04"
+    },
+    {
+      "path": "state/requests/fish-pufferfish.json",
+      "bytes": 2275,
+      "sha256": "07a9a928373853b88721a2128c3a782aee6f7d5f6f04974c06125ad97edc427c"
+    },
+    {
+      "path": "state/requests/fish-seahorse.json",
+      "bytes": 2223,
+      "sha256": "0c888e904c2478e9d71163317de1840009360754007dc5abd0ce45715ef23e18"
     },
     {
       "path": "state/requests/fossil-amber-insect.json",
@@ -23268,13 +25533,13 @@
     },
     {
       "path": "state/resume.json",
-      "bytes": 1240,
-      "sha256": "d1a4970f325c100d396f1439a405c6a4aa29d40a0ad73fa1a9a4fa0637a70e9a"
+      "bytes": 798,
+      "sha256": "9617b00605bfbcdb9af545a2cbb05a33f2885d87f840980fd8fb87aaf6288ccc"
     },
     {
       "path": "state/work-order.json",
-      "bytes": 6345,
-      "sha256": "555c26e73ed1ab76dd37bee59c4f95eb34513600ef85266d6ad962af168b1efa"
+      "bytes": 6653,
+      "sha256": "47d7094152a3b104df9fd0bb01f833d3261ae0c428525cc4ae7a95a9831b4324"
     },
     {
       "path": "workspace.json",

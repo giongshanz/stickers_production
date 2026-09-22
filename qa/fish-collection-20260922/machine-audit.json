@@ -1,0 +1,250 @@
+[
+  {
+    "id": "fish-clownfish",
+    "master": "masters/fish-clownfish.png",
+    "delivery": "delivery/stickers/fish-collection/fish-clownfish.png",
+    "sha256": "dff331503a898eebe6f73fef7eee9c8cc1a85ce8a778b10c8553050af19e648d",
+    "delivery_matches": true,
+    "catalogue_link_present": true,
+    "actual_size": [
+      1254,
+      1254
+    ],
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "visible_bbox_alpha_gt_8": [
+      36,
+      195,
+      1234,
+      1066
+    ],
+    "padding_ltrb": [
+      36,
+      195,
+      20,
+      188
+    ],
+    "visible_pixels_alpha_ge_128": 640058
+  },
+  {
+    "id": "fish-blue-tang",
+    "master": "masters/fish-blue-tang.png",
+    "delivery": "delivery/stickers/fish-collection/fish-blue-tang.png",
+    "sha256": "514158f3dd31a8b29b63b22ca2c24aef031c3746973fc0feda41662b3107311f",
+    "delivery_matches": true,
+    "catalogue_link_present": true,
+    "actual_size": [
+      1254,
+      1254
+    ],
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "visible_bbox_alpha_gt_8": [
+      30,
+      185,
+      1231,
+      1072
+    ],
+    "padding_ltrb": [
+      30,
+      185,
+      23,
+      182
+    ],
+    "visible_pixels_alpha_ge_128": 678944
+  },
+  {
+    "id": "fish-koi",
+    "master": "masters/fish-koi.png",
+    "delivery": "delivery/stickers/fish-collection/fish-koi.png",
+    "sha256": "e5e39ff95901105ec40c9de2db1f25b53d4aa7f537c9c36a5d3a011f5f1a96c1",
+    "delivery_matches": true,
+    "catalogue_link_present": true,
+    "actual_size": [
+      1254,
+      1254
+    ],
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "visible_bbox_alpha_gt_8": [
+      42,
+      64,
+      1241,
+      1169
+    ],
+    "padding_ltrb": [
+      42,
+      64,
+      13,
+      85
+    ],
+    "visible_pixels_alpha_ge_128": 681456
+  },
+  {
+    "id": "fish-betta",
+    "master": "masters/fish-betta.png",
+    "delivery": "delivery/stickers/fish-collection/fish-betta.png",
+    "sha256": "3c2d56efb8918248966a7d7ad25fadfb2f1a2d96c0aab20ef5ef5194c33fdd98",
+    "delivery_matches": true,
+    "catalogue_link_present": true,
+    "actual_size": [
+      1254,
+      1254
+    ],
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "visible_bbox_alpha_gt_8": [
+      30,
+      101,
+      1233,
+      1154
+    ],
+    "padding_ltrb": [
+      30,
+      101,
+      21,
+      100
+    ],
+    "visible_pixels_alpha_ge_128": 842364
+  },
+  {
+    "id": "fish-pufferfish",
+    "master": "masters/fish-pufferfish.png",
+    "delivery": "delivery/stickers/fish-collection/fish-pufferfish.png",
+    "sha256": "d359f25b14c7951cbc37df8c35d7a871e138003eef05925ebc9a716c8a7ea72f",
+    "delivery_matches": true,
+    "catalogue_link_present": true,
+    "actual_size": [
+      1254,
+      1254
+    ],
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "visible_bbox_alpha_gt_8": [
+      38,
+      175,
+      1220,
+      1084
+    ],
+    "padding_ltrb": [
+      38,
+      175,
+      34,
+      170
+    ],
+    "visible_pixels_alpha_ge_128": 714114
+  },
+  {
+    "id": "fish-lionfish",
+    "master": "masters/fish-lionfish.png",
+    "delivery": "delivery/stickers/fish-collection/fish-lionfish.png",
+    "sha256": "4d7d7cb98f1bae922aa5a75c75fe06f530dce0292ff95343ecc093bba255f558",
+    "delivery_matches": true,
+    "catalogue_link_present": true,
+    "actual_size": [
+      1254,
+      1254
+    ],
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "visible_bbox_alpha_gt_8": [
+      17,
+      72,
+      1237,
+      1180
+    ],
+    "padding_ltrb": [
+      17,
+      72,
+      17,
+      74
+    ],
+    "visible_pixels_alpha_ge_128": 838145
+  },
+  {
+    "id": "fish-seahorse",
+    "master": "masters/fish-seahorse.png",
+    "delivery": "delivery/stickers/fish-collection/fish-seahorse.png",
+    "sha256": "06f2d8458a0fb4a6d80741c18e18cf695af9f4f89e99c596f7b5716c3695b28c",
+    "delivery_matches": true,
+    "catalogue_link_present": true,
+    "actual_size": [
+      1254,
+      1254
+    ],
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "visible_bbox_alpha_gt_8": [
+      228,
+      37,
+      1005,
+      1217
+    ],
+    "padding_ltrb": [
+      228,
+      37,
+      249,
+      37
+    ],
+    "visible_pixels_alpha_ge_128": 512046
+  },
+  {
+    "id": "fish-manta-ray",
+    "master": "masters/fish-manta-ray.png",
+    "delivery": "delivery/stickers/fish-collection/fish-manta-ray.png",
+    "sha256": "9925ad2c320bffa9d16f201e049a426f7c867642085489f2b09eb186476f0675",
+    "delivery_matches": true,
+    "catalogue_link_present": true,
+    "actual_size": [
+      1254,
+      1254
+    ],
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "visible_bbox_alpha_gt_8": [
+      49,
+      117,
+      1213,
+      1037
+    ],
+    "padding_ltrb": [
+      49,
+      117,
+      41,
+      217
+    ],
+    "visible_pixels_alpha_ge_128": 574489
+  }
+]

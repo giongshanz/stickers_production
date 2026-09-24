@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-24T10:31:52.851724+00:00",
+  "updated_utc": "2026-09-24T10:41:34.608894+00:00",
   "files": [
     {
       "path": ".gitattributes",
@@ -1627,6 +1627,21 @@
       "sha256": "acf3e91c396e154b65b0f5b3665a91a146e3690c3c06f543edda7b3eb71fc7ef"
     },
     {
+      "path": "delivery/stickers/lakeside-camping/lakeside-campfire.png",
+      "bytes": 777984,
+      "sha256": "278b113055a817875ff899d2b74ffe3736b997f3904690110f6c05e7e2b8c50c"
+    },
+    {
+      "path": "delivery/stickers/lakeside-camping/lakeside-tent.png",
+      "bytes": 1063610,
+      "sha256": "c62671117cc145c8158c0061ae9fc01d9075179bfc1fd510103324447449ff43"
+    },
+    {
+      "path": "delivery/stickers/lakeside-camping/raccoon-lakeside-fishing.png",
+      "bytes": 1006104,
+      "sha256": "27fc104b88a2fef3fd7e35b408cef4da89559cd0a8e4838d124f96ebc4b61b90"
+    },
+    {
       "path": "delivery/stickers/leathercraft/leathercraft-awl.png",
       "bytes": 423772,
       "sha256": "9694c4a64eb88ef6115cf1be0c310bbaa752cde83366bc61b331ecb80f497b93"
@@ -2508,33 +2523,43 @@
     },
     {
       "path": "delivery/stickers/raccoon-activities/raccoon-apple.png",
-      "bytes": 1149967,
-      "sha256": "2b6091acc5a02ed40eb13acaa74b8291bf468a73442c06e1a54b96de43ebae86"
+      "bytes": 1128166,
+      "sha256": "a0a430c5402b77943dfb16c693ef9491fcb0d235e82aee5bd8b64a9f180acae2"
     },
     {
       "path": "delivery/stickers/raccoon-activities/raccoon-binoculars.png",
-      "bytes": 1140586,
-      "sha256": "c58f5727810710ec6a493d7f24955e6fd2b015a6a2f69641721b03484d07c6ca"
+      "bytes": 1118332,
+      "sha256": "7cf3556337116cc2c676fcda3123d49550983343d16fded54c52894f90f4bc87"
     },
     {
       "path": "delivery/stickers/raccoon-activities/raccoon-hiking.png",
-      "bytes": 1090142,
-      "sha256": "38612233170c0e5f5cf0fc7a1602ce534d971a6aa6ebe21fd78687ede16b0782"
+      "bytes": 1072387,
+      "sha256": "24e07aed105b6108dc962914ff989bcab1e5f75224fdaeca68012b14edc22e87"
+    },
+    {
+      "path": "delivery/stickers/raccoon-activities/raccoon-lakeside-fishing.png",
+      "bytes": 1006104,
+      "sha256": "27fc104b88a2fef3fd7e35b408cef4da89559cd0a8e4838d124f96ebc4b61b90"
     },
     {
       "path": "delivery/stickers/raccoon-activities/raccoon-marshmallow.png",
-      "bytes": 1178114,
-      "sha256": "40d25f40ef4fb6a650956975112d6f6083253147488eb46b4ea7fc2b225d7b82"
+      "bytes": 1155812,
+      "sha256": "eedfa0ccd3d5bb9c5320c42986f40189ec048a08db161bab5a32fdb572c9538f"
     },
     {
       "path": "delivery/stickers/raccoon-activities/raccoon-reading.png",
-      "bytes": 1100454,
-      "sha256": "68365c2eb91835c845b66b27bb45b3c537bb716a5d1a53c107bffe5720581628"
+      "bytes": 1078190,
+      "sha256": "25d2065145986c2fe8cb1cb2f7099910dcc27e50ff141f4ef8b500dbf4d66a42"
+    },
+    {
+      "path": "delivery/stickers/raccoon-activities/raccoon-sleeping.png",
+      "bytes": 1045990,
+      "sha256": "a883799703a73e32c0879b042e385d8d2252e4bf63d94414252068c48345d0b0"
     },
     {
       "path": "delivery/stickers/raccoon-activities/raccoon-umbrella.png",
-      "bytes": 1235116,
-      "sha256": "94b5d8244f5467c398184f95d018130d9c9f123395c965c59d52df938bcf4933"
+      "bytes": 1216760,
+      "sha256": "6d2377b1a7b11b1e07b68244b9f3748afb31de849087681b428f792089cb84b1"
     },
     {
       "path": "delivery/stickers/railway-station/railway-buffer-stop.png",
@@ -3498,8 +3523,8 @@
     },
     {
       "path": "delivery/topic-map.csv",
-      "bytes": 146546,
-      "sha256": "0d0da251fd1e1a49834c4e1d33ba272ce0471c1a32c97ad23460d22cb1dc25c9"
+      "bytes": 147219,
+      "sha256": "34cfcc4f04aa7860fb825919e6d19e2ce1a2b9710a33728bee7b3bf275a217a4"
     },
     {
       "path": "history/delivery/.gitattributes",
@@ -3883,8 +3908,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 392239,
-      "sha256": "393ad47da65d0b8506847bdb97ddecb7c6244dae37353e2a476775cbec35d66e"
+      "bytes": 394008,
+      "sha256": "c6c3cd35375ef88d4d9777fed154d9797277d8795c0dcf90ddc5108b28a11e6e"
     },
     {
       "path": "logs/alpha-pilot-20260917.jsonl",
@@ -3908,8 +3933,8 @@
     },
     {
       "path": "logs/generation.jsonl",
-      "bytes": 283020,
-      "sha256": "f73a0d4c18da378088d854247cdf66e3b154c1292cf7c8b81af171921da3ca23"
+      "bytes": 285233,
+      "sha256": "b1384e694c1ff3d7bceb596a761c4be8c6dce09fab7213114d24d29086f61fa9"
     },
     {
       "path": "logs/README.vi.md",
@@ -5732,6 +5757,16 @@
       "sha256": "4b13a0845e90e01a34b906c7a2f29e1d7c9429a4b6076f1ed1a0b538113604f2"
     },
     {
+      "path": "masters/lakeside-campfire.png",
+      "bytes": 777984,
+      "sha256": "278b113055a817875ff899d2b74ffe3736b997f3904690110f6c05e7e2b8c50c"
+    },
+    {
+      "path": "masters/lakeside-tent.png",
+      "bytes": 1063610,
+      "sha256": "c62671117cc145c8158c0061ae9fc01d9075179bfc1fd510103324447449ff43"
+    },
+    {
       "path": "masters/leaf-insect.png",
       "bytes": 978284,
       "sha256": "4b089681ecc6196c79f4617ab0c725f56a44355c9880a93b7f509f53111448ac"
@@ -6468,33 +6503,43 @@
     },
     {
       "path": "masters/raccoon-apple.png",
-      "bytes": 1149967,
-      "sha256": "2b6091acc5a02ed40eb13acaa74b8291bf468a73442c06e1a54b96de43ebae86"
+      "bytes": 1128166,
+      "sha256": "a0a430c5402b77943dfb16c693ef9491fcb0d235e82aee5bd8b64a9f180acae2"
     },
     {
       "path": "masters/raccoon-binoculars.png",
-      "bytes": 1140586,
-      "sha256": "c58f5727810710ec6a493d7f24955e6fd2b015a6a2f69641721b03484d07c6ca"
+      "bytes": 1118332,
+      "sha256": "7cf3556337116cc2c676fcda3123d49550983343d16fded54c52894f90f4bc87"
     },
     {
       "path": "masters/raccoon-hiking.png",
-      "bytes": 1090142,
-      "sha256": "38612233170c0e5f5cf0fc7a1602ce534d971a6aa6ebe21fd78687ede16b0782"
+      "bytes": 1072387,
+      "sha256": "24e07aed105b6108dc962914ff989bcab1e5f75224fdaeca68012b14edc22e87"
+    },
+    {
+      "path": "masters/raccoon-lakeside-fishing.png",
+      "bytes": 1006104,
+      "sha256": "27fc104b88a2fef3fd7e35b408cef4da89559cd0a8e4838d124f96ebc4b61b90"
     },
     {
       "path": "masters/raccoon-marshmallow.png",
-      "bytes": 1178114,
-      "sha256": "40d25f40ef4fb6a650956975112d6f6083253147488eb46b4ea7fc2b225d7b82"
+      "bytes": 1155812,
+      "sha256": "eedfa0ccd3d5bb9c5320c42986f40189ec048a08db161bab5a32fdb572c9538f"
     },
     {
       "path": "masters/raccoon-reading.png",
-      "bytes": 1100454,
-      "sha256": "68365c2eb91835c845b66b27bb45b3c537bb716a5d1a53c107bffe5720581628"
+      "bytes": 1078190,
+      "sha256": "25d2065145986c2fe8cb1cb2f7099910dcc27e50ff141f4ef8b500dbf4d66a42"
+    },
+    {
+      "path": "masters/raccoon-sleeping.png",
+      "bytes": 1045990,
+      "sha256": "a883799703a73e32c0879b042e385d8d2252e4bf63d94414252068c48345d0b0"
     },
     {
       "path": "masters/raccoon-umbrella.png",
-      "bytes": 1235116,
-      "sha256": "94b5d8244f5467c398184f95d018130d9c9f123395c965c59d52df938bcf4933"
+      "bytes": 1216760,
+      "sha256": "6d2377b1a7b11b1e07b68244b9f3748afb31de849087681b428f792089cb84b1"
     },
     {
       "path": "masters/railway-buffer-stop.png",
@@ -9378,8 +9423,8 @@
     },
     {
       "path": "qa/alpha-padding-audit.json",
-      "bytes": 262768,
-      "sha256": "c7fc14901d5a4de7267c8d1f9352d35048c3d39c537c2e8d1cd3a002597f45a3"
+      "bytes": 264329,
+      "sha256": "ca39380b6b0b10b17186a376f15492c530cde0914a5922d07a33222f77c65a53"
     },
     {
       "path": "qa/alpha-pilot-20260917/before-dark.png",
@@ -12883,8 +12928,13 @@
     },
     {
       "path": "qa/twenty-pairs-20260924/alpha-cleanup.json",
-      "bytes": 19847,
-      "sha256": "5fb9b2b0400259d0a93d27e517fb632671a4914b98ecb143ca74adc53ef2c1e9"
+      "bytes": 26488,
+      "sha256": "f5a4891973d9ea9d3c925b2aeb4e853148620d406ae659206e467e3fa13dd12f"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/CHECKPOINT.vi.md",
+      "bytes": 887,
+      "sha256": "d7f22d022da3bcc2d90dbee81cfeea4507e0d0cc0c83a8f47c898f682f42f327"
     },
     {
       "path": "qa/twenty-pairs-20260924/chestnut-season-dark.png",
@@ -12907,6 +12957,16 @@
       "sha256": "5b9e70ba57ddbf5640378719c15b0e49b02d72bdee3fdc34893996f62bab500a"
     },
     {
+      "path": "qa/twenty-pairs-20260924/lakeside-camping-dark.png",
+      "bytes": 211744,
+      "sha256": "c0b235c61c3400a8ecbb7cd888d6a28ed1030c198e7153a94465c80b338b05f2"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/lakeside-camping-light.png",
+      "bytes": 200841,
+      "sha256": "99c3b76239e9a72f1103e91ee3a60aeda3da20628076098e90687e0e59e8d9a1"
+    },
+    {
       "path": "qa/twenty-pairs-20260924/pumpkin-season-dark.png",
       "bytes": 607645,
       "sha256": "66bf6a5b64904dac180878de845e782e69541ee7f23a0ed9d9761175212a4607"
@@ -12915,6 +12975,16 @@
       "path": "qa/twenty-pairs-20260924/pumpkin-season-light.png",
       "bytes": 580571,
       "sha256": "f0f7bbb16ff62d8297646761e7eeea3610ac8e27682375d592bfc170e38fe538"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/raccoon-activities-dark.png",
+      "bytes": 631712,
+      "sha256": "1da6c402b6c4f8e44f28823cf46b44be5b6f0e8321bda990490b4d084cbd1433"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/raccoon-activities-light.png",
+      "bytes": 609149,
+      "sha256": "aae5181d0e16ceeb2e75974d3f984ca241cd283c9a4c95baafef11f2def96469"
     },
     {
       "path": "qa/twenty-pairs-20260924/squirrel-forest-dark.png",
@@ -12928,8 +12998,8 @@
     },
     {
       "path": "qa/visual-qa.json",
-      "bytes": 55795,
-      "sha256": "9ea1b52733bfc19579e1bd82fd29eb4f5b00f1e85c1c06b6eed7f282ac5425a3"
+      "bytes": 57356,
+      "sha256": "4c7dd7389565eee076c11a6fa5ac08b756a62d63d27cc8fd361b198b8a3b483c"
     },
     {
       "path": "qa/weaving-beater-comb-v2-alpha-dark.png",
@@ -30397,6 +30467,21 @@
       "sha256": "0e668f87d7ad16a5238237326953c2aa6f0ff632a2019c8c3a14bb8b607a8270"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lakeside-camping/lakeside-campfire.png",
+      "bytes": 791347,
+      "sha256": "452195a5c095f1f19bda4f5da8407e646d3759cf17b15e0476b6d542121816ba"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lakeside-camping/lakeside-tent.png",
+      "bytes": 1083775,
+      "sha256": "36833a612c45adff8eb067afa359c3eb37d516fc5756dfff58e932da6ef72498"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lakeside-camping/raccoon-lakeside-fishing.png",
+      "bytes": 1029182,
+      "sha256": "82ad1aa2661609b3fa0726437e6ccd9e532469354850916d974535364013dc4d"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/pumpkin-season/hedgehog-pumpkin-hug.png",
       "bytes": 1114349,
       "sha256": "1c8f9e595798cc96235c156769b1ce714bd03d99ad3f875a89e3e7159e6b831b"
@@ -30435,6 +30520,46 @@
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/pumpkin-season/pumpkin-wicker-basket.png",
       "bytes": 1103138,
       "sha256": "a4cf1cd99276b61e78057ee09560c9cb6438320724ed7d717c7af51932bf6ed0"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/raccoon-activities/raccoon-apple.png",
+      "bytes": 1149967,
+      "sha256": "2b6091acc5a02ed40eb13acaa74b8291bf468a73442c06e1a54b96de43ebae86"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/raccoon-activities/raccoon-binoculars.png",
+      "bytes": 1140586,
+      "sha256": "c58f5727810710ec6a493d7f24955e6fd2b015a6a2f69641721b03484d07c6ca"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/raccoon-activities/raccoon-hiking.png",
+      "bytes": 1090142,
+      "sha256": "38612233170c0e5f5cf0fc7a1602ce534d971a6aa6ebe21fd78687ede16b0782"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/raccoon-activities/raccoon-lakeside-fishing.png",
+      "bytes": 1029182,
+      "sha256": "82ad1aa2661609b3fa0726437e6ccd9e532469354850916d974535364013dc4d"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/raccoon-activities/raccoon-marshmallow.png",
+      "bytes": 1178114,
+      "sha256": "40d25f40ef4fb6a650956975112d6f6083253147488eb46b4ea7fc2b225d7b82"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/raccoon-activities/raccoon-reading.png",
+      "bytes": 1100454,
+      "sha256": "68365c2eb91835c845b66b27bb45b3c537bb716a5d1a53c107bffe5720581628"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/raccoon-activities/raccoon-sleeping.png",
+      "bytes": 1067307,
+      "sha256": "cea4d7c1fafd9faa79b6451540bb4540f1e35cfa02811c6297324255680a5fbd"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/raccoon-activities/raccoon-umbrella.png",
+      "bytes": 1235116,
+      "sha256": "94b5d8244f5467c398184f95d018130d9c9f123395c965c59d52df938bcf4933"
     },
     {
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/squirrel-forest/squirrel-acorn.png",
@@ -30552,6 +30677,16 @@
       "sha256": "0e668f87d7ad16a5238237326953c2aa6f0ff632a2019c8c3a14bb8b607a8270"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/lakeside-campfire.png",
+      "bytes": 791347,
+      "sha256": "452195a5c095f1f19bda4f5da8407e646d3759cf17b15e0476b6d542121816ba"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/lakeside-tent.png",
+      "bytes": 1083775,
+      "sha256": "36833a612c45adff8eb067afa359c3eb37d516fc5756dfff58e932da6ef72498"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/masters/pumpkin-harvest.png",
       "bytes": 1158820,
       "sha256": "648a8dbe4566dcfdacbc1fda2ff874564c7af4a22f100cf6f91037602e1045c4"
@@ -30585,6 +30720,46 @@
       "path": "revisions/twenty-pairs-20260924/alpha-before/masters/pumpkin-wicker-basket.png",
       "bytes": 1103138,
       "sha256": "a4cf1cd99276b61e78057ee09560c9cb6438320724ed7d717c7af51932bf6ed0"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/raccoon-apple.png",
+      "bytes": 1149967,
+      "sha256": "2b6091acc5a02ed40eb13acaa74b8291bf468a73442c06e1a54b96de43ebae86"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/raccoon-binoculars.png",
+      "bytes": 1140586,
+      "sha256": "c58f5727810710ec6a493d7f24955e6fd2b015a6a2f69641721b03484d07c6ca"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/raccoon-hiking.png",
+      "bytes": 1090142,
+      "sha256": "38612233170c0e5f5cf0fc7a1602ce534d971a6aa6ebe21fd78687ede16b0782"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/raccoon-lakeside-fishing.png",
+      "bytes": 1029182,
+      "sha256": "82ad1aa2661609b3fa0726437e6ccd9e532469354850916d974535364013dc4d"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/raccoon-marshmallow.png",
+      "bytes": 1178114,
+      "sha256": "40d25f40ef4fb6a650956975112d6f6083253147488eb46b4ea7fc2b225d7b82"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/raccoon-reading.png",
+      "bytes": 1100454,
+      "sha256": "68365c2eb91835c845b66b27bb45b3c537bb716a5d1a53c107bffe5720581628"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/raccoon-sleeping.png",
+      "bytes": 1067307,
+      "sha256": "cea4d7c1fafd9faa79b6451540bb4540f1e35cfa02811c6297324255680a5fbd"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/raccoon-umbrella.png",
+      "bytes": 1235116,
+      "sha256": "94b5d8244f5467c398184f95d018130d9c9f123395c965c59d52df938bcf4933"
     },
     {
       "path": "revisions/twenty-pairs-20260924/alpha-before/masters/squirrel-acorn.png",
@@ -30692,6 +30867,11 @@
       "sha256": "1951ea7d0eac045141d8c23ac13ed3375b682b038724ecedb9a95ea50f181f0e"
     },
     {
+      "path": "scripts/checkpoint_twenty_pairs.py",
+      "bytes": 4735,
+      "sha256": "cec54c3fa840ad8f2216b76dba01d7180264bc14b5afb00f36636f4b28b757d2"
+    },
+    {
       "path": "scripts/clean_generated_white_margin.py",
       "bytes": 1902,
       "sha256": "02d9ae129a76a685e5754612db2901f7206ca59af1b9c91376aea3e0286e3250"
@@ -30758,8 +30938,8 @@
     },
     {
       "path": "START_HERE.vi.md",
-      "bytes": 12096,
-      "sha256": "adcb117e5a620ed8f53a93e76e8e2413b620dd76421260d08b3fd182c4f612c7"
+      "bytes": 12374,
+      "sha256": "35afa0db018680e848275ec4f1f24926b2646fb2301a199ee0e4949b8c42d0d1"
     },
     {
       "path": "state/batch-20260916.json",
@@ -30773,8 +30953,8 @@
     },
     {
       "path": "state/generation-queue.json",
-      "bytes": 2900,
-      "sha256": "d6befe9218e7f0bcb5c31b9688f16d344b379ee0bf583b75c5ab6ddb95883a11"
+      "bytes": 2798,
+      "sha256": "5bc95a569b2eaffc80bfc2b533bd63873e2db66231b8649b7b348ab9f1ffe6b2"
     },
     {
       "path": "state/imagegen-quota-20260918-second.json",
@@ -30803,8 +30983,8 @@
     },
     {
       "path": "state/progress.json",
-      "bytes": 898992,
-      "sha256": "182481cb9f8fe641dc17a4788ce0df1ffce5ce8af34fba0bbab4ff2cd47d40b8"
+      "bytes": 901591,
+      "sha256": "e490570305e44567962fd663be0a2dbcd428e59a5c119a7199689db48a5e3aa2"
     },
     {
       "path": "state/quota-eight-topics-20260924.json",
@@ -34353,8 +34533,8 @@
     },
     {
       "path": "state/resume.json",
-      "bytes": 1171,
-      "sha256": "7280a07f08c635bc86dbf501c6f10d559370804bf847cb07b196fe119cf4f515"
+      "bytes": 1180,
+      "sha256": "a263dbf79758940977135c6f55c178015e901c5b4b3c5c44ffbf49885af6b83f"
     },
     {
       "path": "state/twenty-pairs-20260924.json",
@@ -34363,8 +34543,8 @@
     },
     {
       "path": "state/work-order.json",
-      "bytes": 10077,
-      "sha256": "2d1a6cf164577487fb81e478a2215d040b9036f3b8f3b67b12825914139976e9"
+      "bytes": 10030,
+      "sha256": "fd0a3aa2819c42771e18e47dd98c9bb4ed6ee4155f6d3ac7418b0a39e5634a40"
     },
     {
       "path": "workspace.json",

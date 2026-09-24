@@ -479,8 +479,169 @@
       "rgb_unchanged": true,
       "dimensions_unchanged": true,
       "alpha_1_to_15_cleared": 20898
+    },
+    {
+      "id": "raccoon-apple",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/raccoon-apple.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/raccoon-activities/raccoon-apple.png"
+      ],
+      "before_sha256": "2b6091acc5a02ed40eb13acaa74b8291bf468a73442c06e1a54b96de43ebae86",
+      "after_sha256": "a0a430c5402b77943dfb16c693ef9491fcb0d235e82aee5bd8b64a9f180acae2",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 16536
+    },
+    {
+      "id": "raccoon-reading",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/raccoon-reading.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/raccoon-activities/raccoon-reading.png"
+      ],
+      "before_sha256": "68365c2eb91835c845b66b27bb45b3c537bb716a5d1a53c107bffe5720581628",
+      "after_sha256": "25d2065145986c2fe8cb1cb2f7099910dcc27e50ff141f4ef8b500dbf4d66a42",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 20358
+    },
+    {
+      "id": "raccoon-umbrella",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/raccoon-umbrella.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/raccoon-activities/raccoon-umbrella.png"
+      ],
+      "before_sha256": "94b5d8244f5467c398184f95d018130d9c9f123395c965c59d52df938bcf4933",
+      "after_sha256": "6d2377b1a7b11b1e07b68244b9f3748afb31de849087681b428f792089cb84b1",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 13332
+    },
+    {
+      "id": "raccoon-hiking",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/raccoon-hiking.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/raccoon-activities/raccoon-hiking.png"
+      ],
+      "before_sha256": "38612233170c0e5f5cf0fc7a1602ce534d971a6aa6ebe21fd78687ede16b0782",
+      "after_sha256": "24e07aed105b6108dc962914ff989bcab1e5f75224fdaeca68012b14edc22e87",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 13511
+    },
+    {
+      "id": "raccoon-binoculars",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/raccoon-binoculars.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/raccoon-activities/raccoon-binoculars.png"
+      ],
+      "before_sha256": "c58f5727810710ec6a493d7f24955e6fd2b015a6a2f69641721b03484d07c6ca",
+      "after_sha256": "7cf3556337116cc2c676fcda3123d49550983343d16fded54c52894f90f4bc87",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 14582
+    },
+    {
+      "id": "raccoon-marshmallow",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/raccoon-marshmallow.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/raccoon-activities/raccoon-marshmallow.png"
+      ],
+      "before_sha256": "40d25f40ef4fb6a650956975112d6f6083253147488eb46b4ea7fc2b225d7b82",
+      "after_sha256": "eedfa0ccd3d5bb9c5320c42986f40189ec048a08db161bab5a32fdb572c9538f",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 30993
+    },
+    {
+      "id": "raccoon-sleeping",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/raccoon-sleeping.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/raccoon-activities/raccoon-sleeping.png"
+      ],
+      "before_sha256": "cea4d7c1fafd9faa79b6451540bb4540f1e35cfa02811c6297324255680a5fbd",
+      "after_sha256": "a883799703a73e32c0879b042e385d8d2252e4bf63d94414252068c48345d0b0",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 10393
+    },
+    {
+      "id": "raccoon-lakeside-fishing",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/raccoon-lakeside-fishing.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lakeside-camping/raccoon-lakeside-fishing.png",
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/raccoon-activities/raccoon-lakeside-fishing.png"
+      ],
+      "before_sha256": "82ad1aa2661609b3fa0726437e6ccd9e532469354850916d974535364013dc4d",
+      "after_sha256": "27fc104b88a2fef3fd7e35b408cef4da89559cd0a8e4838d124f96ebc4b61b90",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 21138
+    },
+    {
+      "id": "lakeside-tent",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lakeside-tent.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lakeside-camping/lakeside-tent.png"
+      ],
+      "before_sha256": "36833a612c45adff8eb067afa359c3eb37d516fc5756dfff58e932da6ef72498",
+      "after_sha256": "c62671117cc145c8158c0061ae9fc01d9075179bfc1fd510103324447449ff43",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 8422
+    },
+    {
+      "id": "lakeside-campfire",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lakeside-campfire.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lakeside-camping/lakeside-campfire.png"
+      ],
+      "before_sha256": "452195a5c095f1f19bda4f5da8407e646d3759cf17b15e0476b6d542121816ba",
+      "after_sha256": "278b113055a817875ff899d2b74ffe3736b997f3904690110f6c05e7e2b8c50c",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 19944
     }
   ],
-  "updated_utc": "2026-09-24T10:23:30.604227+00:00",
+  "updated_utc": "2026-09-24T10:39:29.715343+00:00",
   "operation": "Set alpha 1..15 to zero only, preserving RGB and dimensions."
 }

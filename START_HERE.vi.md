@@ -131,3 +131,9 @@ Cập nhật 23/09/2026: người dùng thêm topic Crocodile gồm tám sticker
 - Đã có đủ 82/82 topic, 646/646 master duy nhất và 656/656 topic slot.
 - 25 visual rework candidate và game-scale QA vẫn còn mở.
 - QA batch: `qa/eight-topics-20260924/REPORT.vi.md`.
+
+
+## Đang triển khai 20 topic theo 10 cặp — 24/09/2026
+
+- Mục tiêu mới: 102 topic, 816 slot, 796 master duy nhất; 20 ID dùng chung.
+- Xem checkpoint mới nhất tại `qa/twenty-pairs-20260924/CHECKPOINT.vi.md` và trạng thái trong `state/resume.json`.

@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-24T10:31:48.119717+00:00",
+  "updated_utc": "2026-09-24T10:41:30.203448+00:00",
   "padding_definition": "Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",
   "assets": [
     {
@@ -14209,14 +14209,14 @@
         0
       ],
       "padding_nonzero_alpha": [
-        41,
-        29,
-        53,
-        56
+        160,
+        90,
+        63,
+        88
       ],
       "review_edge": false,
-      "transparent_pixels": 734929,
-      "partial_alpha_pixels": 836347,
+      "transparent_pixels": 751465,
+      "partial_alpha_pixels": 819811,
       "opaque_pixels": 1240
     },
     {
@@ -14230,14 +14230,14 @@
         0
       ],
       "padding_nonzero_alpha": [
-        32,
-        37,
-        62,
-        116
+        82,
+        157,
+        111,
+        145
       ],
       "review_edge": false,
-      "transparent_pixels": 777016,
-      "partial_alpha_pixels": 794530,
+      "transparent_pixels": 797374,
+      "partial_alpha_pixels": 774172,
       "opaque_pixels": 970
     },
     {
@@ -14251,14 +14251,14 @@
         0
       ],
       "padding_nonzero_alpha": [
-        0,
-        0,
-        30,
-        52
+        117,
+        56,
+        135,
+        76
       ],
-      "review_edge": true,
-      "transparent_pixels": 668859,
-      "partial_alpha_pixels": 902500,
+      "review_edge": false,
+      "transparent_pixels": 682191,
+      "partial_alpha_pixels": 889168,
       "opaque_pixels": 1157
     },
     {
@@ -14272,14 +14272,14 @@
         0
       ],
       "padding_nonzero_alpha": [
-        2,
-        51,
-        12,
-        48
+        79,
+        97,
+        93,
+        90
       ],
-      "review_edge": true,
-      "transparent_pixels": 762631,
-      "partial_alpha_pixels": 808113,
+      "review_edge": false,
+      "transparent_pixels": 776142,
+      "partial_alpha_pixels": 794602,
       "opaque_pixels": 1772
     },
     {
@@ -14293,14 +14293,14 @@
         0
       ],
       "padding_nonzero_alpha": [
-        39,
-        53,
-        32,
-        54
+        89,
+        97,
+        66,
+        102
       ],
       "review_edge": false,
-      "transparent_pixels": 739780,
-      "partial_alpha_pixels": 831216,
+      "transparent_pixels": 754362,
+      "partial_alpha_pixels": 816634,
       "opaque_pixels": 1520
     },
     {
@@ -14314,15 +14314,99 @@
         0
       ],
       "padding_nonzero_alpha": [
-        49,
-        51,
-        16,
-        55
+        88,
+        101,
+        70,
+        105
+      ],
+      "review_edge": false,
+      "transparent_pixels": 737779,
+      "partial_alpha_pixels": 833490,
+      "opaque_pixels": 1247
+    },
+    {
+      "id": "raccoon-sleeping",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        90,
+        130,
+        60,
+        137
+      ],
+      "review_edge": false,
+      "transparent_pixels": 768030,
+      "partial_alpha_pixels": 803112,
+      "opaque_pixels": 1374
+    },
+    {
+      "id": "raccoon-lakeside-fishing",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        55,
+        199,
+        55,
+        208
+      ],
+      "review_edge": false,
+      "transparent_pixels": 864763,
+      "partial_alpha_pixels": 706164,
+      "opaque_pixels": 1589
+    },
+    {
+      "id": "lakeside-tent",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        23,
+        139,
+        13,
+        134
       ],
       "review_edge": true,
-      "transparent_pixels": 706786,
-      "partial_alpha_pixels": 864483,
-      "opaque_pixels": 1247
+      "transparent_pixels": 868840,
+      "partial_alpha_pixels": 702251,
+      "opaque_pixels": 1425
+    },
+    {
+      "id": "lakeside-campfire",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        186,
+        123,
+        183,
+        108
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1051536,
+      "partial_alpha_pixels": 519984,
+      "opaque_pixels": 996
     }
   ]
 }

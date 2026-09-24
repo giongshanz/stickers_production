@@ -371,7 +371,7 @@
     "balloon-star"
   ],
   "last_completed_batch": "qa/eight-topics-20260924/REPORT.vi.md",
-  "next_action": "Generate squirrel-acorn next, then continue all 150 requested unique IDs in order.",
+  "next_action": "Continue twenty-pair batch from lakeside-canteen; 110 unique masters remain.",
   "alpha_pilot_pending_review": {
     "id": "tet-lucky-envelope",
     "candidate": "revisions/border-pilot-20260917/tet-lucky-envelope-geometry-alpha.png",
@@ -382,6 +382,6 @@
   "quota_status": {
     "state": "available_at_last_request",
     "last_success_date": "2026-09-24",
-    "note": "ImageGen hit a temporary usage limit after 41/64 images, then recovered on the user's continuation request; all 64 requests succeeded."
+    "note": "40 of 150 new masters generated so far; availability must be checked from next tool response."
   }
 }

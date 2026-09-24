@@ -1,14 +1,14 @@
 {
-  "updated_utc": "2026-09-24T10:33:08.120504+00:00",
+  "updated_utc": "2026-09-24T10:41:30.203448+00:00",
   "target_topics": 102,
   "target_slots": 816,
   "target_unique": 796,
-  "generated_unique": 683,
-  "missing_unique": 113,
-  "alpha_corners_clear_unique": 683,
+  "generated_unique": 686,
+  "missing_unique": 110,
+  "alpha_corners_clear_unique": 686,
   "needs_alpha_unique": 0,
-  "topics_with_all_images": 86,
-  "generated_topic_slots": 695,
+  "topics_with_all_images": 87,
+  "generated_topic_slots": 699,
   "visual_rework_unique": 25,
   "complete": false,
   "prompt_target_dimensions": [
@@ -21004,18 +21004,18 @@
         0,
         0
       ],
-      "transparent_pixels": 734929,
-      "partial_alpha_pixels": 836347,
+      "transparent_pixels": 751465,
+      "partial_alpha_pixels": 819811,
       "opaque_pixels": 1240,
       "padding_nonzero_alpha": [
-        41,
-        29,
-        53,
-        56
+        160,
+        90,
+        63,
+        88
       ],
       "review_edge": false,
-      "sha256": "2b6091acc5a02ed40eb13acaa74b8291bf468a73442c06e1a54b96de43ebae86",
-      "bytes": 1149967
+      "sha256": "a0a430c5402b77943dfb16c693ef9491fcb0d235e82aee5bd8b64a9f180acae2",
+      "bytes": 1128166
     },
     {
       "id": "raccoon-reading",
@@ -21035,18 +21035,18 @@
         0,
         0
       ],
-      "transparent_pixels": 777016,
-      "partial_alpha_pixels": 794530,
+      "transparent_pixels": 797374,
+      "partial_alpha_pixels": 774172,
       "opaque_pixels": 970,
       "padding_nonzero_alpha": [
-        32,
-        37,
-        62,
-        116
+        82,
+        157,
+        111,
+        145
       ],
       "review_edge": false,
-      "sha256": "68365c2eb91835c845b66b27bb45b3c537bb716a5d1a53c107bffe5720581628",
-      "bytes": 1100454
+      "sha256": "25d2065145986c2fe8cb1cb2f7099910dcc27e50ff141f4ef8b500dbf4d66a42",
+      "bytes": 1078190
     },
     {
       "id": "raccoon-umbrella",
@@ -21066,18 +21066,18 @@
         0,
         0
       ],
-      "transparent_pixels": 668859,
-      "partial_alpha_pixels": 902500,
+      "transparent_pixels": 682191,
+      "partial_alpha_pixels": 889168,
       "opaque_pixels": 1157,
       "padding_nonzero_alpha": [
-        0,
-        0,
-        30,
-        52
+        117,
+        56,
+        135,
+        76
       ],
-      "review_edge": true,
-      "sha256": "94b5d8244f5467c398184f95d018130d9c9f123395c965c59d52df938bcf4933",
-      "bytes": 1235116
+      "review_edge": false,
+      "sha256": "6d2377b1a7b11b1e07b68244b9f3748afb31de849087681b428f792089cb84b1",
+      "bytes": 1216760
     },
     {
       "id": "raccoon-hiking",
@@ -21097,18 +21097,18 @@
         0,
         0
       ],
-      "transparent_pixels": 762631,
-      "partial_alpha_pixels": 808113,
+      "transparent_pixels": 776142,
+      "partial_alpha_pixels": 794602,
       "opaque_pixels": 1772,
       "padding_nonzero_alpha": [
-        2,
-        51,
-        12,
-        48
+        79,
+        97,
+        93,
+        90
       ],
-      "review_edge": true,
-      "sha256": "38612233170c0e5f5cf0fc7a1602ce534d971a6aa6ebe21fd78687ede16b0782",
-      "bytes": 1090142
+      "review_edge": false,
+      "sha256": "24e07aed105b6108dc962914ff989bcab1e5f75224fdaeca68012b14edc22e87",
+      "bytes": 1072387
     },
     {
       "id": "raccoon-binoculars",
@@ -21128,18 +21128,18 @@
         0,
         0
       ],
-      "transparent_pixels": 739780,
-      "partial_alpha_pixels": 831216,
+      "transparent_pixels": 754362,
+      "partial_alpha_pixels": 816634,
       "opaque_pixels": 1520,
       "padding_nonzero_alpha": [
-        39,
-        53,
-        32,
-        54
+        89,
+        97,
+        66,
+        102
       ],
       "review_edge": false,
-      "sha256": "c58f5727810710ec6a493d7f24955e6fd2b015a6a2f69641721b03484d07c6ca",
-      "bytes": 1140586
+      "sha256": "7cf3556337116cc2c676fcda3123d49550983343d16fded54c52894f90f4bc87",
+      "bytes": 1118332
     },
     {
       "id": "raccoon-marshmallow",
@@ -21159,18 +21159,18 @@
         0,
         0
       ],
-      "transparent_pixels": 706786,
-      "partial_alpha_pixels": 864483,
+      "transparent_pixels": 737779,
+      "partial_alpha_pixels": 833490,
       "opaque_pixels": 1247,
       "padding_nonzero_alpha": [
-        49,
-        51,
-        16,
-        55
+        88,
+        101,
+        70,
+        105
       ],
-      "review_edge": true,
-      "sha256": "40d25f40ef4fb6a650956975112d6f6083253147488eb46b4ea7fc2b225d7b82",
-      "bytes": 1178114
+      "review_edge": false,
+      "sha256": "eedfa0ccd3d5bb9c5320c42986f40189ec048a08db161bab5a32fdb572c9538f",
+      "bytes": 1155812
     },
     {
       "id": "raccoon-sleeping",
@@ -21190,18 +21190,18 @@
         0,
         0
       ],
-      "transparent_pixels": 757637,
-      "partial_alpha_pixels": 813505,
+      "transparent_pixels": 768030,
+      "partial_alpha_pixels": 803112,
       "opaque_pixels": 1374,
       "padding_nonzero_alpha": [
-        0,
-        51,
-        56,
-        56
+        90,
+        130,
+        60,
+        137
       ],
-      "review_edge": true,
-      "sha256": "cea4d7c1fafd9faa79b6451540bb4540f1e35cfa02811c6297324255680a5fbd",
-      "bytes": 1067307
+      "review_edge": false,
+      "sha256": "a883799703a73e32c0879b042e385d8d2252e4bf63d94414252068c48345d0b0",
+      "bytes": 1045990
     },
     {
       "id": "raccoon-lakeside-fishing",
@@ -21211,8 +21211,29 @@
         "lakeside-camping"
       ],
       "source": "masters/raccoon-lakeside-fishing.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 864763,
+      "partial_alpha_pixels": 706164,
+      "opaque_pixels": 1589,
+      "padding_nonzero_alpha": [
+        55,
+        199,
+        55,
+        208
+      ],
+      "review_edge": false,
+      "sha256": "27fc104b88a2fef3fd7e35b408cef4da89559cd0a8e4838d124f96ebc4b61b90",
+      "bytes": 1006104
     },
     {
       "id": "lakeside-tent",
@@ -21221,8 +21242,29 @@
         "lakeside-camping"
       ],
       "source": "masters/lakeside-tent.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 868840,
+      "partial_alpha_pixels": 702251,
+      "opaque_pixels": 1425,
+      "padding_nonzero_alpha": [
+        23,
+        139,
+        13,
+        134
+      ],
+      "review_edge": true,
+      "sha256": "c62671117cc145c8158c0061ae9fc01d9075179bfc1fd510103324447449ff43",
+      "bytes": 1063610
     },
     {
       "id": "lakeside-campfire",
@@ -21231,8 +21273,29 @@
         "lakeside-camping"
       ],
       "source": "masters/lakeside-campfire.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1051536,
+      "partial_alpha_pixels": 519984,
+      "opaque_pixels": 996,
+      "padding_nonzero_alpha": [
+        186,
+        123,
+        183,
+        108
+      ],
+      "review_edge": false,
+      "sha256": "278b113055a817875ff899d2b74ffe3736b997f3904690110f6c05e7e2b8c50c",
+      "bytes": 777984
     },
     {
       "id": "lakeside-canteen",
@@ -22862,13 +22925,13 @@
     {
       "slug": "raccoon-activities",
       "name_vi": "Gấu mèo",
-      "generated": 7,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "lakeside-camping",
       "name_vi": "Cắm trại ven hồ",
-      "generated": 0,
+      "generated": 3,
       "target": 8
     },
     {
@@ -29155,7 +29218,7 @@
       "id": "raccoon-apple",
       "file": "delivery/stickers/raccoon-activities/raccoon-apple.png",
       "status": "alpha_corners_clear",
-      "sha256": "2b6091acc5a02ed40eb13acaa74b8291bf468a73442c06e1a54b96de43ebae86",
+      "sha256": "a0a430c5402b77943dfb16c693ef9491fcb0d235e82aee5bd8b64a9f180acae2",
       "review_note": ""
     },
     {
@@ -29164,7 +29227,7 @@
       "id": "raccoon-reading",
       "file": "delivery/stickers/raccoon-activities/raccoon-reading.png",
       "status": "alpha_corners_clear",
-      "sha256": "68365c2eb91835c845b66b27bb45b3c537bb716a5d1a53c107bffe5720581628",
+      "sha256": "25d2065145986c2fe8cb1cb2f7099910dcc27e50ff141f4ef8b500dbf4d66a42",
       "review_note": ""
     },
     {
@@ -29173,7 +29236,7 @@
       "id": "raccoon-umbrella",
       "file": "delivery/stickers/raccoon-activities/raccoon-umbrella.png",
       "status": "alpha_corners_clear",
-      "sha256": "94b5d8244f5467c398184f95d018130d9c9f123395c965c59d52df938bcf4933",
+      "sha256": "6d2377b1a7b11b1e07b68244b9f3748afb31de849087681b428f792089cb84b1",
       "review_note": ""
     },
     {
@@ -29182,7 +29245,7 @@
       "id": "raccoon-hiking",
       "file": "delivery/stickers/raccoon-activities/raccoon-hiking.png",
       "status": "alpha_corners_clear",
-      "sha256": "38612233170c0e5f5cf0fc7a1602ce534d971a6aa6ebe21fd78687ede16b0782",
+      "sha256": "24e07aed105b6108dc962914ff989bcab1e5f75224fdaeca68012b14edc22e87",
       "review_note": ""
     },
     {
@@ -29191,7 +29254,7 @@
       "id": "raccoon-binoculars",
       "file": "delivery/stickers/raccoon-activities/raccoon-binoculars.png",
       "status": "alpha_corners_clear",
-      "sha256": "c58f5727810710ec6a493d7f24955e6fd2b015a6a2f69641721b03484d07c6ca",
+      "sha256": "7cf3556337116cc2c676fcda3123d49550983343d16fded54c52894f90f4bc87",
       "review_note": ""
     },
     {
@@ -29200,7 +29263,7 @@
       "id": "raccoon-marshmallow",
       "file": "delivery/stickers/raccoon-activities/raccoon-marshmallow.png",
       "status": "alpha_corners_clear",
-      "sha256": "40d25f40ef4fb6a650956975112d6f6083253147488eb46b4ea7fc2b225d7b82",
+      "sha256": "eedfa0ccd3d5bb9c5320c42986f40189ec048a08db161bab5a32fdb572c9538f",
       "review_note": ""
     },
     {
@@ -29209,43 +29272,43 @@
       "id": "raccoon-sleeping",
       "file": "delivery/stickers/raccoon-activities/raccoon-sleeping.png",
       "status": "alpha_corners_clear",
-      "sha256": "cea4d7c1fafd9faa79b6451540bb4540f1e35cfa02811c6297324255680a5fbd",
+      "sha256": "a883799703a73e32c0879b042e385d8d2252e4bf63d94414252068c48345d0b0",
       "review_note": ""
     },
     {
       "topic": "raccoon-activities",
       "name_vi": "Gấu mèo",
       "id": "raccoon-lakeside-fishing",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/raccoon-activities/raccoon-lakeside-fishing.png",
+      "status": "alpha_corners_clear",
+      "sha256": "27fc104b88a2fef3fd7e35b408cef4da89559cd0a8e4838d124f96ebc4b61b90",
       "review_note": ""
     },
     {
       "topic": "lakeside-camping",
       "name_vi": "Cắm trại ven hồ",
       "id": "raccoon-lakeside-fishing",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/lakeside-camping/raccoon-lakeside-fishing.png",
+      "status": "alpha_corners_clear",
+      "sha256": "27fc104b88a2fef3fd7e35b408cef4da89559cd0a8e4838d124f96ebc4b61b90",
       "review_note": ""
     },
     {
       "topic": "lakeside-camping",
       "name_vi": "Cắm trại ven hồ",
       "id": "lakeside-tent",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/lakeside-camping/lakeside-tent.png",
+      "status": "alpha_corners_clear",
+      "sha256": "c62671117cc145c8158c0061ae9fc01d9075179bfc1fd510103324447449ff43",
       "review_note": ""
     },
     {
       "topic": "lakeside-camping",
       "name_vi": "Cắm trại ven hồ",
       "id": "lakeside-campfire",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/lakeside-camping/lakeside-campfire.png",
+      "status": "alpha_corners_clear",
+      "sha256": "278b113055a817875ff899d2b74ffe3736b997f3904690110f6c05e7e2b8c50c",
       "review_note": ""
     },
     {

@@ -1,14 +1,14 @@
 {
-  "updated_utc": "2026-09-24T11:50:18.621760+00:00",
+  "updated_utc": "2026-09-24T12:03:46.959092+00:00",
   "target_topics": 102,
   "target_slots": 816,
   "target_unique": 796,
-  "generated_unique": 706,
-  "missing_unique": 90,
-  "alpha_corners_clear_unique": 706,
+  "generated_unique": 713,
+  "missing_unique": 83,
+  "alpha_corners_clear_unique": 713,
   "needs_alpha_unique": 0,
   "topics_with_all_images": 90,
-  "generated_topic_slots": 720,
+  "generated_topic_slots": 727,
   "visual_rework_unique": 25,
   "complete": false,
   "prompt_target_dimensions": [
@@ -21925,8 +21925,29 @@
         "winter-lamb"
       ],
       "source": "masters/lamb-winter-hat.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 878022,
+      "partial_alpha_pixels": 694250,
+      "opaque_pixels": 244,
+      "padding_nonzero_alpha": [
+        152,
+        47,
+        136,
+        66
+      ],
+      "review_edge": false,
+      "sha256": "fc7fa8c8ba306a994d0ff58e840707a934d4d66bc6e836e461702ce67362ed3b",
+      "bytes": 1065352
     },
     {
       "id": "lamb-snowflake",
@@ -21935,8 +21956,29 @@
         "winter-lamb"
       ],
       "source": "masters/lamb-snowflake.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 956101,
+      "partial_alpha_pixels": 615639,
+      "opaque_pixels": 776,
+      "padding_nonzero_alpha": [
+        108,
+        31,
+        135,
+        58
+      ],
+      "review_edge": false,
+      "sha256": "4ae22224f0296b2beb393f9dfe587ccb7e94e81a4ecb4c2104908146981c4b24",
+      "bytes": 927683
     },
     {
       "id": "lamb-sled",
@@ -21945,8 +21987,29 @@
         "winter-lamb"
       ],
       "source": "masters/lamb-sled.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 862766,
+      "partial_alpha_pixels": 708632,
+      "opaque_pixels": 1118,
+      "padding_nonzero_alpha": [
+        168,
+        76,
+        148,
+        57
+      ],
+      "review_edge": false,
+      "sha256": "60181e0c3ec54cc9b6ee96cac0178a139ad99d87ad80c8e089ba9402f521f602",
+      "bytes": 1016944
     },
     {
       "id": "lamb-snowball",
@@ -21955,8 +22018,29 @@
         "winter-lamb"
       ],
       "source": "masters/lamb-snowball.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 790009,
+      "partial_alpha_pixels": 780951,
+      "opaque_pixels": 1556,
+      "padding_nonzero_alpha": [
+        150,
+        35,
+        119,
+        25
+      ],
+      "review_edge": true,
+      "sha256": "3105bb81a6d207ead34ba08948fd0c4e7663024cc51f11cf8d631caee9bee8e0",
+      "bytes": 1088057
     },
     {
       "id": "lamb-cocoa",
@@ -21965,8 +22049,29 @@
         "winter-lamb"
       ],
       "source": "masters/lamb-cocoa.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 892118,
+      "partial_alpha_pixels": 678879,
+      "opaque_pixels": 1519,
+      "padding_nonzero_alpha": [
+        199,
+        77,
+        195,
+        81
+      ],
+      "review_edge": false,
+      "sha256": "0e59151752074d967a4e8819d4ad42c0fa7f2b313e894ad5a4462d11b3848f8d",
+      "bytes": 1003996
     },
     {
       "id": "lamb-mittens",
@@ -21975,8 +22080,29 @@
         "winter-lamb"
       ],
       "source": "masters/lamb-mittens.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 830260,
+      "partial_alpha_pixels": 741667,
+      "opaque_pixels": 589,
+      "padding_nonzero_alpha": [
+        86,
+        91,
+        91,
+        66
+      ],
+      "review_edge": false,
+      "sha256": "18d539ac36ad4547ca7d7cdcf65ff16474aa4edbb4e788620f8faff7fdc0c000",
+      "bytes": 1017473
     },
     {
       "id": "lamb-sleeping-blanket",
@@ -21985,8 +22111,29 @@
         "winter-lamb"
       ],
       "source": "masters/lamb-sleeping-blanket.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 841207,
+      "partial_alpha_pixels": 730060,
+      "opaque_pixels": 1249,
+      "padding_nonzero_alpha": [
+        17,
+        214,
+        14,
+        241
+      ],
+      "review_edge": true,
+      "sha256": "67b68f44a5e9b9953f94490b16ba1604c50131279d08555d4d30725c020f5936",
+      "bytes": 1038664
     },
     {
       "id": "lamb-red-scarf",
@@ -23369,7 +23516,7 @@
     {
       "slug": "winter-lamb",
       "name_vi": "Cừu mùa đông",
-      "generated": 0,
+      "generated": 7,
       "target": 8
     },
     {
@@ -29924,63 +30071,63 @@
       "topic": "winter-lamb",
       "name_vi": "Cừu mùa đông",
       "id": "lamb-winter-hat",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/winter-lamb/lamb-winter-hat.png",
+      "status": "alpha_corners_clear",
+      "sha256": "fc7fa8c8ba306a994d0ff58e840707a934d4d66bc6e836e461702ce67362ed3b",
       "review_note": ""
     },
     {
       "topic": "winter-lamb",
       "name_vi": "Cừu mùa đông",
       "id": "lamb-snowflake",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/winter-lamb/lamb-snowflake.png",
+      "status": "alpha_corners_clear",
+      "sha256": "4ae22224f0296b2beb393f9dfe587ccb7e94e81a4ecb4c2104908146981c4b24",
       "review_note": ""
     },
     {
       "topic": "winter-lamb",
       "name_vi": "Cừu mùa đông",
       "id": "lamb-sled",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/winter-lamb/lamb-sled.png",
+      "status": "alpha_corners_clear",
+      "sha256": "60181e0c3ec54cc9b6ee96cac0178a139ad99d87ad80c8e089ba9402f521f602",
       "review_note": ""
     },
     {
       "topic": "winter-lamb",
       "name_vi": "Cừu mùa đông",
       "id": "lamb-snowball",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/winter-lamb/lamb-snowball.png",
+      "status": "alpha_corners_clear",
+      "sha256": "3105bb81a6d207ead34ba08948fd0c4e7663024cc51f11cf8d631caee9bee8e0",
       "review_note": ""
     },
     {
       "topic": "winter-lamb",
       "name_vi": "Cừu mùa đông",
       "id": "lamb-cocoa",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/winter-lamb/lamb-cocoa.png",
+      "status": "alpha_corners_clear",
+      "sha256": "0e59151752074d967a4e8819d4ad42c0fa7f2b313e894ad5a4462d11b3848f8d",
       "review_note": ""
     },
     {
       "topic": "winter-lamb",
       "name_vi": "Cừu mùa đông",
       "id": "lamb-mittens",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/winter-lamb/lamb-mittens.png",
+      "status": "alpha_corners_clear",
+      "sha256": "18d539ac36ad4547ca7d7cdcf65ff16474aa4edbb4e788620f8faff7fdc0c000",
       "review_note": ""
     },
     {
       "topic": "winter-lamb",
       "name_vi": "Cừu mùa đông",
       "id": "lamb-sleeping-blanket",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/winter-lamb/lamb-sleeping-blanket.png",
+      "status": "alpha_corners_clear",
+      "sha256": "67b68f44a5e9b9953f94490b16ba1604c50131279d08555d4d30725c020f5936",
       "review_note": ""
     },
     {

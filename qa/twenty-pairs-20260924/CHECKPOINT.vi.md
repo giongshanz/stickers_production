@@ -1,10 +1,11 @@
 # Checkpoint 20 topic — 24/09/2026
 
 - Mục tiêu: 20 topic, 160 slot, 150 master mới, 10 sticker dùng chung.
-- Đã có: 60/150 master mới; còn 90. Topic đủ ảnh: 8/20.
+- Đã có: 67/150 master mới; còn 83. Topic đủ ảnh: 8/20.
 - Các topic đủ ảnh: Sóc rừng, Mùa hạt dẻ, Nhím vui vẻ, Mùa bí ngô, Gấu mèo, Cắm trại ven hồ, Chuột học trò, Góc mỹ thuật.
 - Topic đã xem sheet sáng/tối trong lượt checkpoint này: Sóc rừng, Mùa hạt dẻ, Nhím vui vẻ, Mùa bí ngô, Gấu mèo, Cắm trại ven hồ, Chuột học trò, Góc mỹ thuật.
-- ID tiếp theo: `lamb-winter-hat`.
+- ID tiếp theo: `lamb-red-scarf`.
 - `chestnut-leaf-cluster` đã thay bản vì bản đầu có lá và quả giống sồi; bản cũ, delivery cũ và hash được lưu trong `revisions/twenty-pairs-20260924/chestnut-leaf-cluster-before/`.
 - Alpha-only cleanup chỉ đặt alpha 1..15 về 0, giữ nguyên RGB và kích thước. Xem `qa/twenty-pairs-20260924/alpha-cleanup.json`.
 - 25 rework cũ và QA ở kích thước game vẫn đang mở.
+- Imagegen báo HTTP 429 `usage_limit_reached` ở `lamb-red-scarf`. Dự kiến reset 20:11:35 ngày 24/09/2026 giờ Việt Nam; dừng tạo ảnh cho tới khi quota khả dụng.

@@ -961,8 +961,120 @@
       "rgb_unchanged": true,
       "dimensions_unchanged": true,
       "alpha_1_to_15_cleared": 8183
+    },
+    {
+      "id": "lamb-winter-hat",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lamb-winter-hat.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/winter-lamb/lamb-winter-hat.png"
+      ],
+      "before_sha256": "d941afb7dc8c0baa0e70bffef95857e8cc9a63d343c2d71dc8f1bf489a4d4fd7",
+      "after_sha256": "fc7fa8c8ba306a994d0ff58e840707a934d4d66bc6e836e461702ce67362ed3b",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 18475
+    },
+    {
+      "id": "lamb-snowflake",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lamb-snowflake.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/winter-lamb/lamb-snowflake.png"
+      ],
+      "before_sha256": "e13accd458295de2f3d118ecffa35bc8fdf8643e81fc6f3d9ffb2159d0785e28",
+      "after_sha256": "4ae22224f0296b2beb393f9dfe587ccb7e94e81a4ecb4c2104908146981c4b24",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 15157
+    },
+    {
+      "id": "lamb-sled",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lamb-sled.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/winter-lamb/lamb-sled.png"
+      ],
+      "before_sha256": "cd88326b8c3f44c251550812c54fe445a329f172f44c974fb9a0eefa698642b1",
+      "after_sha256": "60181e0c3ec54cc9b6ee96cac0178a139ad99d87ad80c8e089ba9402f521f602",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 14867
+    },
+    {
+      "id": "lamb-snowball",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lamb-snowball.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/winter-lamb/lamb-snowball.png"
+      ],
+      "before_sha256": "731802ab21b326bb6096a1f003449cfcb0e2728d4d00f14aa5fb42ba0797c6e6",
+      "after_sha256": "3105bb81a6d207ead34ba08948fd0c4e7663024cc51f11cf8d631caee9bee8e0",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 17841
+    },
+    {
+      "id": "lamb-cocoa",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lamb-cocoa.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/winter-lamb/lamb-cocoa.png"
+      ],
+      "before_sha256": "0bb13a30a0ce68007897f417c6bb48096033eaf1cf2bcf591b6540023e2ee0d7",
+      "after_sha256": "0e59151752074d967a4e8819d4ad42c0fa7f2b313e894ad5a4462d11b3848f8d",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 16450
+    },
+    {
+      "id": "lamb-mittens",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lamb-mittens.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/winter-lamb/lamb-mittens.png"
+      ],
+      "before_sha256": "1b6f07ef8d14fcf46b74a54cfde9cb6ef10b0e9fd10cb178be1f24ebfea2da89",
+      "after_sha256": "18d539ac36ad4547ca7d7cdcf65ff16474aa4edbb4e788620f8faff7fdc0c000",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 15366
+    },
+    {
+      "id": "lamb-sleeping-blanket",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lamb-sleeping-blanket.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/winter-lamb/lamb-sleeping-blanket.png"
+      ],
+      "before_sha256": "7a53d8a363c0e3a9856623b3f846bfa640272769d2006417d330277fcbe516a1",
+      "after_sha256": "67b68f44a5e9b9953f94490b16ba1604c50131279d08555d4d30725c020f5936",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 14191
     }
   ],
-  "updated_utc": "2026-09-24T11:49:20.201123+00:00",
+  "updated_utc": "2026-09-24T12:02:47.405570+00:00",
   "operation": "Set alpha 1..15 to zero only, preserving RGB and dimensions."
 }

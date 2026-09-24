@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-24T11:50:18.621760+00:00",
+  "updated_utc": "2026-09-24T12:03:46.959092+00:00",
   "padding_definition": "Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",
   "assets": [
     {
@@ -14827,6 +14827,153 @@
       "transparent_pixels": 836974,
       "partial_alpha_pixels": 734000,
       "opaque_pixels": 1542
+    },
+    {
+      "id": "lamb-winter-hat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        152,
+        47,
+        136,
+        66
+      ],
+      "review_edge": false,
+      "transparent_pixels": 878022,
+      "partial_alpha_pixels": 694250,
+      "opaque_pixels": 244
+    },
+    {
+      "id": "lamb-snowflake",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        108,
+        31,
+        135,
+        58
+      ],
+      "review_edge": false,
+      "transparent_pixels": 956101,
+      "partial_alpha_pixels": 615639,
+      "opaque_pixels": 776
+    },
+    {
+      "id": "lamb-sled",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        168,
+        76,
+        148,
+        57
+      ],
+      "review_edge": false,
+      "transparent_pixels": 862766,
+      "partial_alpha_pixels": 708632,
+      "opaque_pixels": 1118
+    },
+    {
+      "id": "lamb-snowball",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        150,
+        35,
+        119,
+        25
+      ],
+      "review_edge": true,
+      "transparent_pixels": 790009,
+      "partial_alpha_pixels": 780951,
+      "opaque_pixels": 1556
+    },
+    {
+      "id": "lamb-cocoa",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        199,
+        77,
+        195,
+        81
+      ],
+      "review_edge": false,
+      "transparent_pixels": 892118,
+      "partial_alpha_pixels": 678879,
+      "opaque_pixels": 1519
+    },
+    {
+      "id": "lamb-mittens",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        86,
+        91,
+        91,
+        66
+      ],
+      "review_edge": false,
+      "transparent_pixels": 830260,
+      "partial_alpha_pixels": 741667,
+      "opaque_pixels": 589
+    },
+    {
+      "id": "lamb-sleeping-blanket",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        17,
+        214,
+        14,
+        241
+      ],
+      "review_edge": true,
+      "transparent_pixels": 841207,
+      "partial_alpha_pixels": 730060,
+      "opaque_pixels": 1249
     }
   ]
 }

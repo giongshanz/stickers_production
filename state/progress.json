@@ -1,14 +1,14 @@
 {
-  "updated_utc": "2026-09-24T11:38:35.107468+00:00",
+  "updated_utc": "2026-09-24T11:50:18.621760+00:00",
   "target_topics": 102,
   "target_slots": 816,
   "target_unique": 796,
-  "generated_unique": 699,
-  "missing_unique": 97,
-  "alpha_corners_clear_unique": 699,
+  "generated_unique": 706,
+  "missing_unique": 90,
+  "alpha_corners_clear_unique": 706,
   "needs_alpha_unique": 0,
-  "topics_with_all_images": 89,
-  "generated_topic_slots": 713,
+  "topics_with_all_images": 90,
+  "generated_topic_slots": 720,
   "visual_rework_unique": 25,
   "complete": false,
   "prompt_target_dimensions": [
@@ -21708,8 +21708,29 @@
         "art-corner"
       ],
       "source": "masters/art-colored-pencils.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 844883,
+      "partial_alpha_pixels": 726149,
+      "opaque_pixels": 1484,
+      "padding_nonzero_alpha": [
+        203,
+        74,
+        125,
+        74
+      ],
+      "review_edge": false,
+      "sha256": "1c2c758398db1173057e9623b296f4fabb1e024bc7186222a8db9872bae549cb",
+      "bytes": 1067641
     },
     {
       "id": "art-watercolor-palette",
@@ -21718,8 +21739,29 @@
         "art-corner"
       ],
       "source": "masters/art-watercolor-palette.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 766255,
+      "partial_alpha_pixels": 805007,
+      "opaque_pixels": 1254,
+      "padding_nonzero_alpha": [
+        61,
+        183,
+        40,
+        176
+      ],
+      "review_edge": false,
+      "sha256": "06dac490889b46155ec554d4afe1ae1bf3f0c052b34401bbc0225b2d1aaf7574",
+      "bytes": 1279680
     },
     {
       "id": "art-paintbrushes",
@@ -21728,8 +21770,29 @@
         "art-corner"
       ],
       "source": "masters/art-paintbrushes.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1086733,
+      "partial_alpha_pixels": 484725,
+      "opaque_pixels": 1058,
+      "padding_nonzero_alpha": [
+        309,
+        68,
+        255,
+        69
+      ],
+      "review_edge": false,
+      "sha256": "b1ebae24a2af720a834e521586350b7af2b0a0a6c7f9daf751d5173fead2b4ed",
+      "bytes": 830954
     },
     {
       "id": "art-sketchbook",
@@ -21738,8 +21801,29 @@
         "art-corner"
       ],
       "source": "masters/art-sketchbook.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 820292,
+      "partial_alpha_pixels": 750804,
+      "opaque_pixels": 1420,
+      "padding_nonzero_alpha": [
+        39,
+        166,
+        23,
+        183
+      ],
+      "review_edge": true,
+      "sha256": "1f8981c0f24eb0ac23a3ca6f9f1f52290cecaef0a3ce30eb1c4ade2f58a90209",
+      "bytes": 1061035
     },
     {
       "id": "art-small-easel",
@@ -21748,8 +21832,29 @@
         "art-corner"
       ],
       "source": "masters/art-small-easel.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 945200,
+      "partial_alpha_pixels": 626014,
+      "opaque_pixels": 1302,
+      "padding_nonzero_alpha": [
+        195,
+        77,
+        169,
+        71
+      ],
+      "review_edge": false,
+      "sha256": "ecf052bc30efee50bd57fb7930cb3d40deb8a5b47afd89783be0ae35ca1f90c1",
+      "bytes": 924267
     },
     {
       "id": "art-clay-pot",
@@ -21758,8 +21863,29 @@
         "art-corner"
       ],
       "source": "masters/art-clay-pot.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 955573,
+      "partial_alpha_pixels": 615493,
+      "opaque_pixels": 1450,
+      "padding_nonzero_alpha": [
+        114,
+        237,
+        91,
+        184
+      ],
+      "review_edge": false,
+      "sha256": "eb3fb1a4888381e2dad256ffa160135bb45fca127834c3b76c2cdda149e141be",
+      "bytes": 816432
     },
     {
       "id": "art-paper-collage",
@@ -21768,8 +21894,29 @@
         "art-corner"
       ],
       "source": "masters/art-paper-collage.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 836974,
+      "partial_alpha_pixels": 734000,
+      "opaque_pixels": 1542,
+      "padding_nonzero_alpha": [
+        152,
+        100,
+        144,
+        97
+      ],
+      "review_edge": false,
+      "sha256": "72e8e586caae76bc567afce4fad0c97a09429cc78d4b43b49588a220325217b3",
+      "bytes": 1317691
     },
     {
       "id": "lamb-winter-hat",
@@ -23216,7 +23363,7 @@
     {
       "slug": "art-corner",
       "name_vi": "Góc mỹ thuật",
-      "generated": 1,
+      "generated": 8,
       "target": 8
     },
     {
@@ -29714,63 +29861,63 @@
       "topic": "art-corner",
       "name_vi": "Góc mỹ thuật",
       "id": "art-colored-pencils",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/art-corner/art-colored-pencils.png",
+      "status": "alpha_corners_clear",
+      "sha256": "1c2c758398db1173057e9623b296f4fabb1e024bc7186222a8db9872bae549cb",
       "review_note": ""
     },
     {
       "topic": "art-corner",
       "name_vi": "Góc mỹ thuật",
       "id": "art-watercolor-palette",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/art-corner/art-watercolor-palette.png",
+      "status": "alpha_corners_clear",
+      "sha256": "06dac490889b46155ec554d4afe1ae1bf3f0c052b34401bbc0225b2d1aaf7574",
       "review_note": ""
     },
     {
       "topic": "art-corner",
       "name_vi": "Góc mỹ thuật",
       "id": "art-paintbrushes",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/art-corner/art-paintbrushes.png",
+      "status": "alpha_corners_clear",
+      "sha256": "b1ebae24a2af720a834e521586350b7af2b0a0a6c7f9daf751d5173fead2b4ed",
       "review_note": ""
     },
     {
       "topic": "art-corner",
       "name_vi": "Góc mỹ thuật",
       "id": "art-sketchbook",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/art-corner/art-sketchbook.png",
+      "status": "alpha_corners_clear",
+      "sha256": "1f8981c0f24eb0ac23a3ca6f9f1f52290cecaef0a3ce30eb1c4ade2f58a90209",
       "review_note": ""
     },
     {
       "topic": "art-corner",
       "name_vi": "Góc mỹ thuật",
       "id": "art-small-easel",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/art-corner/art-small-easel.png",
+      "status": "alpha_corners_clear",
+      "sha256": "ecf052bc30efee50bd57fb7930cb3d40deb8a5b47afd89783be0ae35ca1f90c1",
       "review_note": ""
     },
     {
       "topic": "art-corner",
       "name_vi": "Góc mỹ thuật",
       "id": "art-clay-pot",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/art-corner/art-clay-pot.png",
+      "status": "alpha_corners_clear",
+      "sha256": "eb3fb1a4888381e2dad256ffa160135bb45fca127834c3b76c2cdda149e141be",
       "review_note": ""
     },
     {
       "topic": "art-corner",
       "name_vi": "Góc mỹ thuật",
       "id": "art-paper-collage",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/art-corner/art-paper-collage.png",
+      "status": "alpha_corners_clear",
+      "sha256": "72e8e586caae76bc567afce4fad0c97a09429cc78d4b43b49588a220325217b3",
       "review_note": ""
     },
     {

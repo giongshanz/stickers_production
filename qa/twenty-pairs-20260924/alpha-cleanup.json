@@ -849,8 +849,120 @@
       "rgb_unchanged": true,
       "dimensions_unchanged": true,
       "alpha_1_to_15_cleared": 28272
+    },
+    {
+      "id": "art-colored-pencils",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/art-colored-pencils.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/art-corner/art-colored-pencils.png"
+      ],
+      "before_sha256": "a029d281593cff0c95989f46fe00efeb28dcb24b3d946f6e47311bf8991ec70f",
+      "after_sha256": "1c2c758398db1173057e9623b296f4fabb1e024bc7186222a8db9872bae549cb",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 17854
+    },
+    {
+      "id": "art-watercolor-palette",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/art-watercolor-palette.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/art-corner/art-watercolor-palette.png"
+      ],
+      "before_sha256": "c210822ef4440454bc798d5fce4d932dc9aa9d26b93b1d6f78853dd5786ae7db",
+      "after_sha256": "06dac490889b46155ec554d4afe1ae1bf3f0c052b34401bbc0225b2d1aaf7574",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 8760
+    },
+    {
+      "id": "art-paintbrushes",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/art-paintbrushes.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/art-corner/art-paintbrushes.png"
+      ],
+      "before_sha256": "8c8aa44a038eeed778a57a2937afa91ce91538a355de185b8b3a5de0fa4d898f",
+      "after_sha256": "b1ebae24a2af720a834e521586350b7af2b0a0a6c7f9daf751d5173fead2b4ed",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 17070
+    },
+    {
+      "id": "art-sketchbook",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/art-sketchbook.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/art-corner/art-sketchbook.png"
+      ],
+      "before_sha256": "919a3afa9f5f4131274e6ec5615364d6c58d9e2ba56811d836086c1f0c4c4174",
+      "after_sha256": "1f8981c0f24eb0ac23a3ca6f9f1f52290cecaef0a3ce30eb1c4ade2f58a90209",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 10787
+    },
+    {
+      "id": "art-small-easel",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/art-small-easel.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/art-corner/art-small-easel.png"
+      ],
+      "before_sha256": "fc4f5b7afb7412bd168a92829ad9edf3c8faaa33a322f5a210e1745d1cbd768b",
+      "after_sha256": "ecf052bc30efee50bd57fb7930cb3d40deb8a5b47afd89783be0ae35ca1f90c1",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 18823
+    },
+    {
+      "id": "art-clay-pot",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/art-clay-pot.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/art-corner/art-clay-pot.png"
+      ],
+      "before_sha256": "84a3df4607c10d63e08890b4fa535ec4683ae8c12179bb8a8e52f034ce8260ca",
+      "after_sha256": "eb3fb1a4888381e2dad256ffa160135bb45fca127834c3b76c2cdda149e141be",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 10707
+    },
+    {
+      "id": "art-paper-collage",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/art-paper-collage.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/art-corner/art-paper-collage.png"
+      ],
+      "before_sha256": "8887ff3aa4379a8ca14883adfd2bb4a75a7e59cefcb82a47d8883cb960350726",
+      "after_sha256": "72e8e586caae76bc567afce4fad0c97a09429cc78d4b43b49588a220325217b3",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 8183
     }
   ],
-  "updated_utc": "2026-09-24T11:37:37.919829+00:00",
+  "updated_utc": "2026-09-24T11:49:20.201123+00:00",
   "operation": "Set alpha 1..15 to zero only, preserving RGB and dimensions."
 }

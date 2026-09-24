@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-24T11:38:35.107468+00:00",
+  "updated_utc": "2026-09-24T11:50:18.621760+00:00",
   "padding_definition": "Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",
   "assets": [
     {
@@ -14680,6 +14680,153 @@
       "transparent_pixels": 774553,
       "partial_alpha_pixels": 796245,
       "opaque_pixels": 1718
+    },
+    {
+      "id": "art-colored-pencils",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        203,
+        74,
+        125,
+        74
+      ],
+      "review_edge": false,
+      "transparent_pixels": 844883,
+      "partial_alpha_pixels": 726149,
+      "opaque_pixels": 1484
+    },
+    {
+      "id": "art-watercolor-palette",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        61,
+        183,
+        40,
+        176
+      ],
+      "review_edge": false,
+      "transparent_pixels": 766255,
+      "partial_alpha_pixels": 805007,
+      "opaque_pixels": 1254
+    },
+    {
+      "id": "art-paintbrushes",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        309,
+        68,
+        255,
+        69
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1086733,
+      "partial_alpha_pixels": 484725,
+      "opaque_pixels": 1058
+    },
+    {
+      "id": "art-sketchbook",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        39,
+        166,
+        23,
+        183
+      ],
+      "review_edge": true,
+      "transparent_pixels": 820292,
+      "partial_alpha_pixels": 750804,
+      "opaque_pixels": 1420
+    },
+    {
+      "id": "art-small-easel",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        195,
+        77,
+        169,
+        71
+      ],
+      "review_edge": false,
+      "transparent_pixels": 945200,
+      "partial_alpha_pixels": 626014,
+      "opaque_pixels": 1302
+    },
+    {
+      "id": "art-clay-pot",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        114,
+        237,
+        91,
+        184
+      ],
+      "review_edge": false,
+      "transparent_pixels": 955573,
+      "partial_alpha_pixels": 615493,
+      "opaque_pixels": 1450
+    },
+    {
+      "id": "art-paper-collage",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        152,
+        100,
+        144,
+        97
+      ],
+      "review_edge": false,
+      "transparent_pixels": 836974,
+      "partial_alpha_pixels": 734000,
+      "opaque_pixels": 1542
     }
   ]
 }

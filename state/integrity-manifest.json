@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-24T11:38:40.403973+00:00",
+  "updated_utc": "2026-09-24T11:50:24.024638+00:00",
   "files": [
     {
       "path": ".gitattributes",
@@ -145,6 +145,41 @@
       "path": "delivery/stickers/arctic-research/arctic-snowmobile.png",
       "bytes": 954219,
       "sha256": "57f15638994b3678e2a943e5789b081f8a12850d661d53bc34f35348ddf20150"
+    },
+    {
+      "path": "delivery/stickers/art-corner/art-clay-pot.png",
+      "bytes": 816432,
+      "sha256": "eb3fb1a4888381e2dad256ffa160135bb45fca127834c3b76c2cdda149e141be"
+    },
+    {
+      "path": "delivery/stickers/art-corner/art-colored-pencils.png",
+      "bytes": 1067641,
+      "sha256": "1c2c758398db1173057e9623b296f4fabb1e024bc7186222a8db9872bae549cb"
+    },
+    {
+      "path": "delivery/stickers/art-corner/art-paintbrushes.png",
+      "bytes": 830954,
+      "sha256": "b1ebae24a2af720a834e521586350b7af2b0a0a6c7f9daf751d5173fead2b4ed"
+    },
+    {
+      "path": "delivery/stickers/art-corner/art-paper-collage.png",
+      "bytes": 1317691,
+      "sha256": "72e8e586caae76bc567afce4fad0c97a09429cc78d4b43b49588a220325217b3"
+    },
+    {
+      "path": "delivery/stickers/art-corner/art-sketchbook.png",
+      "bytes": 1061035,
+      "sha256": "1f8981c0f24eb0ac23a3ca6f9f1f52290cecaef0a3ce30eb1c4ade2f58a90209"
+    },
+    {
+      "path": "delivery/stickers/art-corner/art-small-easel.png",
+      "bytes": 924267,
+      "sha256": "ecf052bc30efee50bd57fb7930cb3d40deb8a5b47afd89783be0ae35ca1f90c1"
+    },
+    {
+      "path": "delivery/stickers/art-corner/art-watercolor-palette.png",
+      "bytes": 1279680,
+      "sha256": "06dac490889b46155ec554d4afe1ae1bf3f0c052b34401bbc0225b2d1aaf7574"
     },
     {
       "path": "delivery/stickers/art-corner/mouse-color-pencil-box.png",
@@ -3593,8 +3628,8 @@
     },
     {
       "path": "delivery/topic-map.csv",
-      "bytes": 149021,
-      "sha256": "2271e4cf3651af10f346d0f1ce17e0a939af0c732533a177fc58d24bdd9ee1fe"
+      "bytes": 149899,
+      "sha256": "ec9568a275e7d54dd48057351803b746d4f04085bd2c65128f2dd8077bf817f6"
     },
     {
       "path": "history/delivery/.gitattributes",
@@ -3978,8 +4013,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 398935,
-      "sha256": "8c15653ecf66776f6e10ecf59fcee5d24000899defcaf3b940e3e1136015e83b"
+      "bytes": 400534,
+      "sha256": "4603641dd357a83520d745a3536d5b464cf455c19baa42b0e97f9dcdd7bb1c85"
     },
     {
       "path": "logs/alpha-pilot-20260917.jsonl",
@@ -4003,8 +4038,8 @@
     },
     {
       "path": "logs/generation.jsonl",
-      "bytes": 292358,
-      "sha256": "23d434d9d921f77e4d1f47db0a0f276af18dd38f9f68964e256ecdf689d331ee"
+      "bytes": 296218,
+      "sha256": "38464c872c4278fc828e359e76d3e8c2c3a089ea0e81c9bac25fbfa7f03ab687"
     },
     {
       "path": "logs/README.vi.md",
@@ -4155,6 +4190,41 @@
       "path": "masters/arctic-snowmobile.png",
       "bytes": 954219,
       "sha256": "57f15638994b3678e2a943e5789b081f8a12850d661d53bc34f35348ddf20150"
+    },
+    {
+      "path": "masters/art-clay-pot.png",
+      "bytes": 816432,
+      "sha256": "eb3fb1a4888381e2dad256ffa160135bb45fca127834c3b76c2cdda149e141be"
+    },
+    {
+      "path": "masters/art-colored-pencils.png",
+      "bytes": 1067641,
+      "sha256": "1c2c758398db1173057e9623b296f4fabb1e024bc7186222a8db9872bae549cb"
+    },
+    {
+      "path": "masters/art-paintbrushes.png",
+      "bytes": 830954,
+      "sha256": "b1ebae24a2af720a834e521586350b7af2b0a0a6c7f9daf751d5173fead2b4ed"
+    },
+    {
+      "path": "masters/art-paper-collage.png",
+      "bytes": 1317691,
+      "sha256": "72e8e586caae76bc567afce4fad0c97a09429cc78d4b43b49588a220325217b3"
+    },
+    {
+      "path": "masters/art-sketchbook.png",
+      "bytes": 1061035,
+      "sha256": "1f8981c0f24eb0ac23a3ca6f9f1f52290cecaef0a3ce30eb1c4ade2f58a90209"
+    },
+    {
+      "path": "masters/art-small-easel.png",
+      "bytes": 924267,
+      "sha256": "ecf052bc30efee50bd57fb7930cb3d40deb8a5b47afd89783be0ae35ca1f90c1"
+    },
+    {
+      "path": "masters/art-watercolor-palette.png",
+      "bytes": 1279680,
+      "sha256": "06dac490889b46155ec554d4afe1ae1bf3f0c052b34401bbc0225b2d1aaf7574"
     },
     {
       "path": "masters/artifact-brush.png",
@@ -9558,8 +9628,8 @@
     },
     {
       "path": "qa/alpha-padding-audit.json",
-      "bytes": 269329,
-      "sha256": "46d39d3c43d9c15faf8b5561892e2852b418110355122a5cdbc8b6d23a0b5bcf"
+      "bytes": 272029,
+      "sha256": "5e6758386f2963415fa5fb72991c7b83d3aec0ffc9476ba8de662f3dc1dd05eb"
     },
     {
       "path": "qa/alpha-pilot-20260917/before-dark.png",
@@ -13063,13 +13133,23 @@
     },
     {
       "path": "qa/twenty-pairs-20260924/alpha-cleanup.json",
-      "bytes": 35005,
-      "sha256": "4f59b3ba293a23beb1c4d1435b698b5872778d1fa9723de2d0483dd1814c0e61"
+      "bytes": 39513,
+      "sha256": "4d482ffe880bb52fd28bd99e10fa6fd208f8d4aa34c63402d0e25628cda0e083"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/art-corner-dark.png",
+      "bytes": 551632,
+      "sha256": "ba0be966e1ed2d61f3e554295cbb8d056a50b98480e39656b13b228d04dee80b"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/art-corner-light.png",
+      "bytes": 526154,
+      "sha256": "a0ab56026154605005e70f01c2d5b5e62a9e229cf15461e9da8091c7a79b58de"
     },
     {
       "path": "qa/twenty-pairs-20260924/CHECKPOINT.vi.md",
-      "bytes": 975,
-      "sha256": "b1ae04bd300d8779005ccdaeb0d891a99baa1743501a3aa7a1bf40217dddb4bc"
+      "bytes": 1009,
+      "sha256": "05f3c72ecf9b015d2ac654b256fb69b88b7b546f70b95e68ea02d8bbbf0396e2"
     },
     {
       "path": "qa/twenty-pairs-20260924/chestnut-season-dark.png",
@@ -13143,8 +13223,8 @@
     },
     {
       "path": "qa/visual-qa.json",
-      "bytes": 57729,
-      "sha256": "f5870f81a8f01178e894c9d9a46d7a4cbce28ef34f156048d41d5197b156999c"
+      "bytes": 57907,
+      "sha256": "5ae907f4ff145828dcc2ae7814285947453ecefbf47435862ee89a2ac63b406b"
     },
     {
       "path": "qa/weaving-beater-comb-v2-alpha-dark.png",
@@ -30537,6 +30617,41 @@
       "sha256": "c0ae7a3a7095e3ae5764c55dc5ad98c669c9b8caf1bfa214c96486b8dd12878f"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/art-corner/art-clay-pot.png",
+      "bytes": 836060,
+      "sha256": "84a3df4607c10d63e08890b4fa535ec4683ae8c12179bb8a8e52f034ce8260ca"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/art-corner/art-colored-pencils.png",
+      "bytes": 1074597,
+      "sha256": "a029d281593cff0c95989f46fe00efeb28dcb24b3d946f6e47311bf8991ec70f"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/art-corner/art-paintbrushes.png",
+      "bytes": 843785,
+      "sha256": "8c8aa44a038eeed778a57a2937afa91ce91538a355de185b8b3a5de0fa4d898f"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/art-corner/art-paper-collage.png",
+      "bytes": 1302025,
+      "sha256": "8887ff3aa4379a8ca14883adfd2bb4a75a7e59cefcb82a47d8883cb960350726"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/art-corner/art-sketchbook.png",
+      "bytes": 1078348,
+      "sha256": "919a3afa9f5f4131274e6ec5615364d6c58d9e2ba56811d836086c1f0c4c4174"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/art-corner/art-small-easel.png",
+      "bytes": 939176,
+      "sha256": "fc4f5b7afb7412bd168a92829ad9edf3c8faaa33a322f5a210e1745d1cbd768b"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/art-corner/art-watercolor-palette.png",
+      "bytes": 1288348,
+      "sha256": "c210822ef4440454bc798d5fce4d932dc9aa9d26b93b1d6f78853dd5786ae7db"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/art-corner/mouse-color-pencil-box.png",
       "bytes": 1073961,
       "sha256": "efb08ca37ae945ce54ef8c0952953c8197c25a339159167e4a85758d80f7fe3b"
@@ -30815,6 +30930,41 @@
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/squirrel-forest/squirrel-walnut.png",
       "bytes": 1283253,
       "sha256": "118581fb51c17672dca6d6748e7235c469f3b02cdc6bbed611fe5467c95bf0ec"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/art-clay-pot.png",
+      "bytes": 836060,
+      "sha256": "84a3df4607c10d63e08890b4fa535ec4683ae8c12179bb8a8e52f034ce8260ca"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/art-colored-pencils.png",
+      "bytes": 1074597,
+      "sha256": "a029d281593cff0c95989f46fe00efeb28dcb24b3d946f6e47311bf8991ec70f"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/art-paintbrushes.png",
+      "bytes": 843785,
+      "sha256": "8c8aa44a038eeed778a57a2937afa91ce91538a355de185b8b3a5de0fa4d898f"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/art-paper-collage.png",
+      "bytes": 1302025,
+      "sha256": "8887ff3aa4379a8ca14883adfd2bb4a75a7e59cefcb82a47d8883cb960350726"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/art-sketchbook.png",
+      "bytes": 1078348,
+      "sha256": "919a3afa9f5f4131274e6ec5615364d6c58d9e2ba56811d836086c1f0c4c4174"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/art-small-easel.png",
+      "bytes": 939176,
+      "sha256": "fc4f5b7afb7412bd168a92829ad9edf3c8faaa33a322f5a210e1745d1cbd768b"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/art-watercolor-palette.png",
+      "bytes": 1288348,
+      "sha256": "c210822ef4440454bc798d5fce4d932dc9aa9d26b93b1d6f78853dd5786ae7db"
     },
     {
       "path": "revisions/twenty-pairs-20260924/alpha-before/masters/chestnut-branch.png",
@@ -31233,8 +31383,8 @@
     },
     {
       "path": "state/generation-queue.json",
-      "bytes": 2486,
-      "sha256": "019577299aeb3d9b727509d2f08870f8a13cfad2b29ef3782a1d458b3ec276f8"
+      "bytes": 2315,
+      "sha256": "97e0e9685e18d2e4f35b53267efcd61c107fdbf16e91b6c8a8d7eb939605da65"
     },
     {
       "path": "state/imagegen-quota-20260918-second.json",
@@ -31263,8 +31413,8 @@
     },
     {
       "path": "state/progress.json",
-      "bytes": 909603,
-      "sha256": "30ac310da39c617dc7a44ed74553fe7abecc2e777747c0bc5294cba784771f40"
+      "bytes": 913833,
+      "sha256": "fdfd4cdaa5cf51641b679a7bc2f4338e786c614213c1eea032fd4f4c3480aa30"
     },
     {
       "path": "state/quota-eight-topics-20260924.json",
@@ -34813,8 +34963,8 @@
     },
     {
       "path": "state/resume.json",
-      "bytes": 1149,
-      "sha256": "1c99540121957ea0290399af65efad903123be20520c4a9a684bad5d113506e9"
+      "bytes": 1143,
+      "sha256": "be82db3706566e81fefca8bdd4d91ccf0a618cb5280634c43f2823425e6dc545"
     },
     {
       "path": "state/twenty-pairs-20260924.json",
@@ -34823,8 +34973,8 @@
     },
     {
       "path": "state/work-order.json",
-      "bytes": 10032,
-      "sha256": "92111e6c64762c5572ba622edc26650ced51d05a7a8f9ad1ff85237d99dc9081"
+      "bytes": 10028,
+      "sha256": "2701b585f429dce104dc1bac30a2fc52e0648acca089f6dcfab2ca7e41a01368"
     },
     {
       "path": "workspace.json",

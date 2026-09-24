@@ -696,7 +696,14 @@
     "mouse-lunchbox",
     "mouse-globe",
     "mouse-sleeping-books",
-    "mouse-color-pencil-box"
+    "mouse-color-pencil-box",
+    "art-colored-pencils",
+    "art-watercolor-palette",
+    "art-paintbrushes",
+    "art-sketchbook",
+    "art-small-easel",
+    "art-clay-pot",
+    "art-paper-collage"
   ],
   "style_reference": "references/Stickers",
   "subject_check": "See rework_candidates; other reviewed subjects provisionally accepted",

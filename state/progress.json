@@ -1,14 +1,14 @@
 {
-  "updated_utc": "2026-09-24T10:41:30.203448+00:00",
+  "updated_utc": "2026-09-24T11:25:40.765837+00:00",
   "target_topics": 102,
   "target_slots": 816,
   "target_unique": 796,
-  "generated_unique": 686,
-  "missing_unique": 110,
-  "alpha_corners_clear_unique": 686,
+  "generated_unique": 691,
+  "missing_unique": 105,
+  "alpha_corners_clear_unique": 691,
   "needs_alpha_unique": 0,
-  "topics_with_all_images": 87,
-  "generated_topic_slots": 699,
+  "topics_with_all_images": 88,
+  "generated_topic_slots": 704,
   "visual_rework_unique": 25,
   "complete": false,
   "prompt_target_dimensions": [
@@ -21304,8 +21304,29 @@
         "lakeside-camping"
       ],
       "source": "masters/lakeside-canteen.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 795698,
+      "partial_alpha_pixels": 776151,
+      "opaque_pixels": 667,
+      "padding_nonzero_alpha": [
+        144,
+        68,
+        136,
+        70
+      ],
+      "review_edge": false,
+      "sha256": "03fc78fee7984ab4220aacbc33f0ba515c871bf52fc1861e1730b94f17f7aef9",
+      "bytes": 1195071
     },
     {
       "id": "lakeside-fishing-rod",
@@ -21314,8 +21335,29 @@
         "lakeside-camping"
       ],
       "source": "masters/lakeside-fishing-rod.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1197976,
+      "partial_alpha_pixels": 372459,
+      "opaque_pixels": 2081,
+      "padding_nonzero_alpha": [
+        93,
+        43,
+        84,
+        44
+      ],
+      "review_edge": false,
+      "sha256": "cf7a62155cc3ae3746d6171f5e2bfa888f9a6555dbc487d8c597230d2a9d5d92",
+      "bytes": 712197
     },
     {
       "id": "lakeside-rowboat",
@@ -21324,8 +21366,29 @@
         "lakeside-camping"
       ],
       "source": "masters/lakeside-rowboat.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 889524,
+      "partial_alpha_pixels": 681416,
+      "opaque_pixels": 1576,
+      "padding_nonzero_alpha": [
+        68,
+        166,
+        68,
+        160
+      ],
+      "review_edge": false,
+      "sha256": "9694cef3ad63bfc4586d713d4f9ba7c4d7e994d10b5ef90f075edcaeba6e0464",
+      "bytes": 1065443
     },
     {
       "id": "lakeside-lantern",
@@ -21334,8 +21397,29 @@
         "lakeside-camping"
       ],
       "source": "masters/lakeside-lantern.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 967831,
+      "partial_alpha_pixels": 603147,
+      "opaque_pixels": 1538,
+      "padding_nonzero_alpha": [
+        304,
+        40,
+        304,
+        40
+      ],
+      "review_edge": false,
+      "sha256": "c24190df7239fab8cd15346bd6820f0502159b8bfac14c9a83ab1276e27b588d",
+      "bytes": 1019776
     },
     {
       "id": "lakeside-sleeping-bag",
@@ -21344,8 +21428,29 @@
         "lakeside-camping"
       ],
       "source": "masters/lakeside-sleeping-bag.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 856515,
+      "partial_alpha_pixels": 714563,
+      "opaque_pixels": 1438,
+      "padding_nonzero_alpha": [
+        42,
+        216,
+        32,
+        205
+      ],
+      "review_edge": false,
+      "sha256": "d09fed1116c61bcd5cd270bfd918583f9c033fe54e9979cc1fbdd25179072df8",
+      "bytes": 1036979
     },
     {
       "id": "mouse-schoolbag",
@@ -22931,7 +23036,7 @@
     {
       "slug": "lakeside-camping",
       "name_vi": "Cắm trại ven hồ",
-      "generated": 3,
+      "generated": 8,
       "target": 8
     },
     {
@@ -29315,45 +29420,45 @@
       "topic": "lakeside-camping",
       "name_vi": "Cắm trại ven hồ",
       "id": "lakeside-canteen",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/lakeside-camping/lakeside-canteen.png",
+      "status": "alpha_corners_clear",
+      "sha256": "03fc78fee7984ab4220aacbc33f0ba515c871bf52fc1861e1730b94f17f7aef9",
       "review_note": ""
     },
     {
       "topic": "lakeside-camping",
       "name_vi": "Cắm trại ven hồ",
       "id": "lakeside-fishing-rod",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/lakeside-camping/lakeside-fishing-rod.png",
+      "status": "alpha_corners_clear",
+      "sha256": "cf7a62155cc3ae3746d6171f5e2bfa888f9a6555dbc487d8c597230d2a9d5d92",
       "review_note": ""
     },
     {
       "topic": "lakeside-camping",
       "name_vi": "Cắm trại ven hồ",
       "id": "lakeside-rowboat",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/lakeside-camping/lakeside-rowboat.png",
+      "status": "alpha_corners_clear",
+      "sha256": "9694cef3ad63bfc4586d713d4f9ba7c4d7e994d10b5ef90f075edcaeba6e0464",
       "review_note": ""
     },
     {
       "topic": "lakeside-camping",
       "name_vi": "Cắm trại ven hồ",
       "id": "lakeside-lantern",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/lakeside-camping/lakeside-lantern.png",
+      "status": "alpha_corners_clear",
+      "sha256": "c24190df7239fab8cd15346bd6820f0502159b8bfac14c9a83ab1276e27b588d",
       "review_note": ""
     },
     {
       "topic": "lakeside-camping",
       "name_vi": "Cắm trại ven hồ",
       "id": "lakeside-sleeping-bag",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/lakeside-camping/lakeside-sleeping-bag.png",
+      "status": "alpha_corners_clear",
+      "sha256": "d09fed1116c61bcd5cd270bfd918583f9c033fe54e9979cc1fbdd25179072df8",
       "review_note": ""
     },
     {

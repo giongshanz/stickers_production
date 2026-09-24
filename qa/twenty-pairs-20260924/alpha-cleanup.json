@@ -640,8 +640,88 @@
       "rgb_unchanged": true,
       "dimensions_unchanged": true,
       "alpha_1_to_15_cleared": 19944
+    },
+    {
+      "id": "lakeside-canteen",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lakeside-canteen.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lakeside-camping/lakeside-canteen.png"
+      ],
+      "before_sha256": "4a9428a2e4c4d6cb1df3aa168225de93afddd2de8a4546dec346526f6e68d318",
+      "after_sha256": "03fc78fee7984ab4220aacbc33f0ba515c871bf52fc1861e1730b94f17f7aef9",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 15915
+    },
+    {
+      "id": "lakeside-fishing-rod",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lakeside-fishing-rod.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lakeside-camping/lakeside-fishing-rod.png"
+      ],
+      "before_sha256": "914e49cf8116775826388491a152eb83b9f79fd31ce539e1b826d08efd6d1a55",
+      "after_sha256": "cf7a62155cc3ae3746d6171f5e2bfa888f9a6555dbc487d8c597230d2a9d5d92",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 30020
+    },
+    {
+      "id": "lakeside-rowboat",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lakeside-rowboat.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lakeside-camping/lakeside-rowboat.png"
+      ],
+      "before_sha256": "4338726f82e8c24e0692fd97f7689fbf8d4f0a6c775d15d90d7206ec37c2a5a0",
+      "after_sha256": "9694cef3ad63bfc4586d713d4f9ba7c4d7e994d10b5ef90f075edcaeba6e0464",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 9791
+    },
+    {
+      "id": "lakeside-lantern",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lakeside-lantern.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lakeside-camping/lakeside-lantern.png"
+      ],
+      "before_sha256": "1eaaffc3fad7c38de8978837ac3231c3c6e395bc116749f67123fb1ba24fa343",
+      "after_sha256": "c24190df7239fab8cd15346bd6820f0502159b8bfac14c9a83ab1276e27b588d",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 15567
+    },
+    {
+      "id": "lakeside-sleeping-bag",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lakeside-sleeping-bag.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lakeside-camping/lakeside-sleeping-bag.png"
+      ],
+      "before_sha256": "2293fa90cb5995e1193574e6ffa52dc06d515a5c9be01ab9f763388e3b3b59e8",
+      "after_sha256": "d09fed1116c61bcd5cd270bfd918583f9c033fe54e9979cc1fbdd25179072df8",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 10212
     }
   ],
-  "updated_utc": "2026-09-24T10:39:29.715343+00:00",
+  "updated_utc": "2026-09-24T11:24:40.349840+00:00",
   "operation": "Set alpha 1..15 to zero only, preserving RGB and dimensions."
 }

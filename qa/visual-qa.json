@@ -681,7 +681,14 @@
     "raccoon-binoculars",
     "raccoon-marshmallow",
     "raccoon-sleeping",
-    "raccoon-lakeside-fishing"
+    "raccoon-lakeside-fishing",
+    "lakeside-tent",
+    "lakeside-campfire",
+    "lakeside-canteen",
+    "lakeside-fishing-rod",
+    "lakeside-rowboat",
+    "lakeside-lantern",
+    "lakeside-sleeping-bag"
   ],
   "style_reference": "references/Stickers",
   "subject_check": "See rework_candidates; other reviewed subjects provisionally accepted",

@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-24T10:41:30.203448+00:00",
+  "updated_utc": "2026-09-24T11:25:40.765837+00:00",
   "padding_definition": "Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",
   "assets": [
     {
@@ -14407,6 +14407,111 @@
       "transparent_pixels": 1051536,
       "partial_alpha_pixels": 519984,
       "opaque_pixels": 996
+    },
+    {
+      "id": "lakeside-canteen",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        144,
+        68,
+        136,
+        70
+      ],
+      "review_edge": false,
+      "transparent_pixels": 795698,
+      "partial_alpha_pixels": 776151,
+      "opaque_pixels": 667
+    },
+    {
+      "id": "lakeside-fishing-rod",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        93,
+        43,
+        84,
+        44
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1197976,
+      "partial_alpha_pixels": 372459,
+      "opaque_pixels": 2081
+    },
+    {
+      "id": "lakeside-rowboat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        68,
+        166,
+        68,
+        160
+      ],
+      "review_edge": false,
+      "transparent_pixels": 889524,
+      "partial_alpha_pixels": 681416,
+      "opaque_pixels": 1576
+    },
+    {
+      "id": "lakeside-lantern",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        304,
+        40,
+        304,
+        40
+      ],
+      "review_edge": false,
+      "transparent_pixels": 967831,
+      "partial_alpha_pixels": 603147,
+      "opaque_pixels": 1538
+    },
+    {
+      "id": "lakeside-sleeping-bag",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        42,
+        216,
+        32,
+        205
+      ],
+      "review_edge": false,
+      "transparent_pixels": 856515,
+      "partial_alpha_pixels": 714563,
+      "opaque_pixels": 1438
     }
   ]
 }

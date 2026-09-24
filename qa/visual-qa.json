@@ -688,7 +688,15 @@
     "lakeside-fishing-rod",
     "lakeside-rowboat",
     "lakeside-lantern",
-    "lakeside-sleeping-bag"
+    "lakeside-sleeping-bag",
+    "mouse-schoolbag",
+    "mouse-reading",
+    "mouse-writing",
+    "mouse-ruler",
+    "mouse-lunchbox",
+    "mouse-globe",
+    "mouse-sleeping-books",
+    "mouse-color-pencil-box"
   ],
   "style_reference": "references/Stickers",
   "subject_check": "See rework_candidates; other reviewed subjects provisionally accepted",

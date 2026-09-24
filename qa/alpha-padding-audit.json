@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-24T11:25:40.765837+00:00",
+  "updated_utc": "2026-09-24T11:38:35.107468+00:00",
   "padding_definition": "Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",
   "assets": [
     {
@@ -14512,6 +14512,174 @@
       "transparent_pixels": 856515,
       "partial_alpha_pixels": 714563,
       "opaque_pixels": 1438
+    },
+    {
+      "id": "mouse-schoolbag",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        194,
+        40,
+        183,
+        30
+      ],
+      "review_edge": false,
+      "transparent_pixels": 854510,
+      "partial_alpha_pixels": 716071,
+      "opaque_pixels": 1935
+    },
+    {
+      "id": "mouse-reading",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        190,
+        61,
+        156,
+        56
+      ],
+      "review_edge": false,
+      "transparent_pixels": 811061,
+      "partial_alpha_pixels": 759576,
+      "opaque_pixels": 1879
+    },
+    {
+      "id": "mouse-writing",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        225,
+        41,
+        113,
+        29
+      ],
+      "review_edge": false,
+      "transparent_pixels": 816907,
+      "partial_alpha_pixels": 753871,
+      "opaque_pixels": 1738
+    },
+    {
+      "id": "mouse-ruler",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        196,
+        25,
+        157,
+        27
+      ],
+      "review_edge": true,
+      "transparent_pixels": 869173,
+      "partial_alpha_pixels": 701702,
+      "opaque_pixels": 1641
+    },
+    {
+      "id": "mouse-lunchbox",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        203,
+        76,
+        176,
+        55
+      ],
+      "review_edge": false,
+      "transparent_pixels": 871353,
+      "partial_alpha_pixels": 698948,
+      "opaque_pixels": 2215
+    },
+    {
+      "id": "mouse-globe",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        97,
+        58,
+        78,
+        63
+      ],
+      "review_edge": false,
+      "transparent_pixels": 813803,
+      "partial_alpha_pixels": 755812,
+      "opaque_pixels": 2901
+    },
+    {
+      "id": "mouse-sleeping-books",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        102,
+        158,
+        97,
+        128
+      ],
+      "review_edge": false,
+      "transparent_pixels": 924478,
+      "partial_alpha_pixels": 646397,
+      "opaque_pixels": 1641
+    },
+    {
+      "id": "mouse-color-pencil-box",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        187,
+        14,
+        163,
+        22
+      ],
+      "review_edge": true,
+      "transparent_pixels": 774553,
+      "partial_alpha_pixels": 796245,
+      "opaque_pixels": 1718
     }
   ]
 }

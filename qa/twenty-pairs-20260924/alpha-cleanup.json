@@ -720,8 +720,137 @@
       "rgb_unchanged": true,
       "dimensions_unchanged": true,
       "alpha_1_to_15_cleared": 10212
+    },
+    {
+      "id": "mouse-schoolbag",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/mouse-schoolbag.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/school-mouse/mouse-schoolbag.png"
+      ],
+      "before_sha256": "579c826211e4e763d845ef02ac190e81af1c81fd51cb272242963c5a540e6c7c",
+      "after_sha256": "f794c910c01f55c5a8aeaad1791f1dd0a1dd5bd920736ffebbc9be444c2e8220",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 20034
+    },
+    {
+      "id": "mouse-reading",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/mouse-reading.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/school-mouse/mouse-reading.png"
+      ],
+      "before_sha256": "70e3462f5b64dd639d6934d07b08534bd7b5f196c5b81b7622a9c090284fdec7",
+      "after_sha256": "d4e140e06cc4c886d91679fc342f6816b0423a0266bb4120a4df173aa33a3398",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 23728
+    },
+    {
+      "id": "mouse-writing",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/mouse-writing.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/school-mouse/mouse-writing.png"
+      ],
+      "before_sha256": "023b18af3a9a5cc13654912288679c333d1a51faa02f1eafc11d20068edce4de",
+      "after_sha256": "3f93cc0e793f72a00a31d1447bcaeec86692b8185ca61802255164a4121befe8",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 20980
+    },
+    {
+      "id": "mouse-ruler",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/mouse-ruler.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/school-mouse/mouse-ruler.png"
+      ],
+      "before_sha256": "2fc66ecff0c19da88f8a1ce86f0b572d235965874e7497eaa9ca575fb6558fd1",
+      "after_sha256": "e167d9bbdb2a1caeac6dce2bc6afaab939d9cc7d9e249f3b3921e43ab53474b7",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 38107
+    },
+    {
+      "id": "mouse-lunchbox",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/mouse-lunchbox.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/school-mouse/mouse-lunchbox.png"
+      ],
+      "before_sha256": "afffb68ed33b75dc1f4d5e882f38ebcdf52f934b276f86efeddd2ebe51536a0c",
+      "after_sha256": "69d55a178c508d2f1bb7bb6ccdf51cc7e6920053b61b8eb33b87891c291e7d4a",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 23259
+    },
+    {
+      "id": "mouse-globe",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/mouse-globe.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/school-mouse/mouse-globe.png"
+      ],
+      "before_sha256": "632c4730acbe288650c5413ed0be41ad7028bbb05ada20daa0264f9500c355ce",
+      "after_sha256": "d4560a17ed736e20dca5ee75bd66aeb30fc6af83d662c3f50556ced3ad80a814",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 24492
+    },
+    {
+      "id": "mouse-sleeping-books",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/mouse-sleeping-books.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/school-mouse/mouse-sleeping-books.png"
+      ],
+      "before_sha256": "c51562db2229f0bddd1017ed99dd979fb0ad380a5a6760a44f02a5c80e2c5915",
+      "after_sha256": "9bceeb5c195796cc5aebd3b136321d1b2dc4ba5b2588468dfc8e28186654f34a",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 14221
+    },
+    {
+      "id": "mouse-color-pencil-box",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/mouse-color-pencil-box.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/art-corner/mouse-color-pencil-box.png",
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/school-mouse/mouse-color-pencil-box.png"
+      ],
+      "before_sha256": "efb08ca37ae945ce54ef8c0952953c8197c25a339159167e4a85758d80f7fe3b",
+      "after_sha256": "cb66c430bb002c74981d2c18c9578710ee9977960a09ae86c5bb81fcc6fbaba5",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 28272
     }
   ],
-  "updated_utc": "2026-09-24T11:24:40.349840+00:00",
+  "updated_utc": "2026-09-24T11:37:37.919829+00:00",
   "operation": "Set alpha 1..15 to zero only, preserving RGB and dimensions."
 }

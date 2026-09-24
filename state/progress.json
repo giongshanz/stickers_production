@@ -1,14 +1,14 @@
 {
-  "updated_utc": "2026-09-24T11:25:40.765837+00:00",
+  "updated_utc": "2026-09-24T11:38:35.107468+00:00",
   "target_topics": 102,
   "target_slots": 816,
   "target_unique": 796,
-  "generated_unique": 691,
-  "missing_unique": 105,
-  "alpha_corners_clear_unique": 691,
+  "generated_unique": 699,
+  "missing_unique": 97,
+  "alpha_corners_clear_unique": 699,
   "needs_alpha_unique": 0,
-  "topics_with_all_images": 88,
-  "generated_topic_slots": 704,
+  "topics_with_all_images": 89,
+  "generated_topic_slots": 713,
   "visual_rework_unique": 25,
   "complete": false,
   "prompt_target_dimensions": [
@@ -21459,8 +21459,29 @@
         "school-mouse"
       ],
       "source": "masters/mouse-schoolbag.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 854510,
+      "partial_alpha_pixels": 716071,
+      "opaque_pixels": 1935,
+      "padding_nonzero_alpha": [
+        194,
+        40,
+        183,
+        30
+      ],
+      "review_edge": false,
+      "sha256": "f794c910c01f55c5a8aeaad1791f1dd0a1dd5bd920736ffebbc9be444c2e8220",
+      "bytes": 954894
     },
     {
       "id": "mouse-reading",
@@ -21469,8 +21490,29 @@
         "school-mouse"
       ],
       "source": "masters/mouse-reading.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 811061,
+      "partial_alpha_pixels": 759576,
+      "opaque_pixels": 1879,
+      "padding_nonzero_alpha": [
+        190,
+        61,
+        156,
+        56
+      ],
+      "review_edge": false,
+      "sha256": "d4e140e06cc4c886d91679fc342f6816b0423a0266bb4120a4df173aa33a3398",
+      "bytes": 993918
     },
     {
       "id": "mouse-writing",
@@ -21479,8 +21521,29 @@
         "school-mouse"
       ],
       "source": "masters/mouse-writing.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 816907,
+      "partial_alpha_pixels": 753871,
+      "opaque_pixels": 1738,
+      "padding_nonzero_alpha": [
+        225,
+        41,
+        113,
+        29
+      ],
+      "review_edge": false,
+      "sha256": "3f93cc0e793f72a00a31d1447bcaeec86692b8185ca61802255164a4121befe8",
+      "bytes": 930716
     },
     {
       "id": "mouse-ruler",
@@ -21489,8 +21552,29 @@
         "school-mouse"
       ],
       "source": "masters/mouse-ruler.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 869173,
+      "partial_alpha_pixels": 701702,
+      "opaque_pixels": 1641,
+      "padding_nonzero_alpha": [
+        196,
+        25,
+        157,
+        27
+      ],
+      "review_edge": true,
+      "sha256": "e167d9bbdb2a1caeac6dce2bc6afaab939d9cc7d9e249f3b3921e43ab53474b7",
+      "bytes": 983816
     },
     {
       "id": "mouse-lunchbox",
@@ -21499,8 +21583,29 @@
         "school-mouse"
       ],
       "source": "masters/mouse-lunchbox.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 871353,
+      "partial_alpha_pixels": 698948,
+      "opaque_pixels": 2215,
+      "padding_nonzero_alpha": [
+        203,
+        76,
+        176,
+        55
+      ],
+      "review_edge": false,
+      "sha256": "69d55a178c508d2f1bb7bb6ccdf51cc7e6920053b61b8eb33b87891c291e7d4a",
+      "bytes": 904848
     },
     {
       "id": "mouse-globe",
@@ -21509,8 +21614,29 @@
         "school-mouse"
       ],
       "source": "masters/mouse-globe.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 813803,
+      "partial_alpha_pixels": 755812,
+      "opaque_pixels": 2901,
+      "padding_nonzero_alpha": [
+        97,
+        58,
+        78,
+        63
+      ],
+      "review_edge": false,
+      "sha256": "d4560a17ed736e20dca5ee75bd66aeb30fc6af83d662c3f50556ced3ad80a814",
+      "bytes": 1006161
     },
     {
       "id": "mouse-sleeping-books",
@@ -21519,8 +21645,29 @@
         "school-mouse"
       ],
       "source": "masters/mouse-sleeping-books.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 924478,
+      "partial_alpha_pixels": 646397,
+      "opaque_pixels": 1641,
+      "padding_nonzero_alpha": [
+        102,
+        158,
+        97,
+        128
+      ],
+      "review_edge": false,
+      "sha256": "9bceeb5c195796cc5aebd3b136321d1b2dc4ba5b2588468dfc8e28186654f34a",
+      "bytes": 887905
     },
     {
       "id": "mouse-color-pencil-box",
@@ -21530,8 +21677,29 @@
         "art-corner"
       ],
       "source": "masters/mouse-color-pencil-box.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 774553,
+      "partial_alpha_pixels": 796245,
+      "opaque_pixels": 1718,
+      "padding_nonzero_alpha": [
+        187,
+        14,
+        163,
+        22
+      ],
+      "review_edge": true,
+      "sha256": "cb66c430bb002c74981d2c18c9578710ee9977960a09ae86c5bb81fcc6fbaba5",
+      "bytes": 1051558
     },
     {
       "id": "art-colored-pencils",
@@ -23042,13 +23210,13 @@
     {
       "slug": "school-mouse",
       "name_vi": "Chuột học trò",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "art-corner",
       "name_vi": "Góc mỹ thuật",
-      "generated": 0,
+      "generated": 1,
       "target": 8
     },
     {
@@ -29465,81 +29633,81 @@
       "topic": "school-mouse",
       "name_vi": "Chuột học trò",
       "id": "mouse-schoolbag",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/school-mouse/mouse-schoolbag.png",
+      "status": "alpha_corners_clear",
+      "sha256": "f794c910c01f55c5a8aeaad1791f1dd0a1dd5bd920736ffebbc9be444c2e8220",
       "review_note": ""
     },
     {
       "topic": "school-mouse",
       "name_vi": "Chuột học trò",
       "id": "mouse-reading",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/school-mouse/mouse-reading.png",
+      "status": "alpha_corners_clear",
+      "sha256": "d4e140e06cc4c886d91679fc342f6816b0423a0266bb4120a4df173aa33a3398",
       "review_note": ""
     },
     {
       "topic": "school-mouse",
       "name_vi": "Chuột học trò",
       "id": "mouse-writing",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/school-mouse/mouse-writing.png",
+      "status": "alpha_corners_clear",
+      "sha256": "3f93cc0e793f72a00a31d1447bcaeec86692b8185ca61802255164a4121befe8",
       "review_note": ""
     },
     {
       "topic": "school-mouse",
       "name_vi": "Chuột học trò",
       "id": "mouse-ruler",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/school-mouse/mouse-ruler.png",
+      "status": "alpha_corners_clear",
+      "sha256": "e167d9bbdb2a1caeac6dce2bc6afaab939d9cc7d9e249f3b3921e43ab53474b7",
       "review_note": ""
     },
     {
       "topic": "school-mouse",
       "name_vi": "Chuột học trò",
       "id": "mouse-lunchbox",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/school-mouse/mouse-lunchbox.png",
+      "status": "alpha_corners_clear",
+      "sha256": "69d55a178c508d2f1bb7bb6ccdf51cc7e6920053b61b8eb33b87891c291e7d4a",
       "review_note": ""
     },
     {
       "topic": "school-mouse",
       "name_vi": "Chuột học trò",
       "id": "mouse-globe",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/school-mouse/mouse-globe.png",
+      "status": "alpha_corners_clear",
+      "sha256": "d4560a17ed736e20dca5ee75bd66aeb30fc6af83d662c3f50556ced3ad80a814",
       "review_note": ""
     },
     {
       "topic": "school-mouse",
       "name_vi": "Chuột học trò",
       "id": "mouse-sleeping-books",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/school-mouse/mouse-sleeping-books.png",
+      "status": "alpha_corners_clear",
+      "sha256": "9bceeb5c195796cc5aebd3b136321d1b2dc4ba5b2588468dfc8e28186654f34a",
       "review_note": ""
     },
     {
       "topic": "school-mouse",
       "name_vi": "Chuột học trò",
       "id": "mouse-color-pencil-box",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/school-mouse/mouse-color-pencil-box.png",
+      "status": "alpha_corners_clear",
+      "sha256": "cb66c430bb002c74981d2c18c9578710ee9977960a09ae86c5bb81fcc6fbaba5",
       "review_note": ""
     },
     {
       "topic": "art-corner",
       "name_vi": "Góc mỹ thuật",
       "id": "mouse-color-pencil-box",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/art-corner/mouse-color-pencil-box.png",
+      "status": "alpha_corners_clear",
+      "sha256": "cb66c430bb002c74981d2c18c9578710ee9977960a09ae86c5bb81fcc6fbaba5",
       "review_note": ""
     },
     {

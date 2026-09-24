@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-24T11:25:46.194621+00:00",
+  "updated_utc": "2026-09-24T11:38:40.403973+00:00",
   "files": [
     {
       "path": ".gitattributes",
@@ -145,6 +145,11 @@
       "path": "delivery/stickers/arctic-research/arctic-snowmobile.png",
       "bytes": 954219,
       "sha256": "57f15638994b3678e2a943e5789b081f8a12850d661d53bc34f35348ddf20150"
+    },
+    {
+      "path": "delivery/stickers/art-corner/mouse-color-pencil-box.png",
+      "bytes": 1051558,
+      "sha256": "cb66c430bb002c74981d2c18c9578710ee9977960a09ae86c5bb81fcc6fbaba5"
     },
     {
       "path": "delivery/stickers/baby-elephant-playtime/elephant-blocks.png",
@@ -2747,6 +2752,46 @@
       "sha256": "8484462b6d3a9041f24edb3fe89c0c55a127af3fdac168b0ab21d5d3e91aa42b"
     },
     {
+      "path": "delivery/stickers/school-mouse/mouse-color-pencil-box.png",
+      "bytes": 1051558,
+      "sha256": "cb66c430bb002c74981d2c18c9578710ee9977960a09ae86c5bb81fcc6fbaba5"
+    },
+    {
+      "path": "delivery/stickers/school-mouse/mouse-globe.png",
+      "bytes": 1006161,
+      "sha256": "d4560a17ed736e20dca5ee75bd66aeb30fc6af83d662c3f50556ced3ad80a814"
+    },
+    {
+      "path": "delivery/stickers/school-mouse/mouse-lunchbox.png",
+      "bytes": 904848,
+      "sha256": "69d55a178c508d2f1bb7bb6ccdf51cc7e6920053b61b8eb33b87891c291e7d4a"
+    },
+    {
+      "path": "delivery/stickers/school-mouse/mouse-reading.png",
+      "bytes": 993918,
+      "sha256": "d4e140e06cc4c886d91679fc342f6816b0423a0266bb4120a4df173aa33a3398"
+    },
+    {
+      "path": "delivery/stickers/school-mouse/mouse-ruler.png",
+      "bytes": 983816,
+      "sha256": "e167d9bbdb2a1caeac6dce2bc6afaab939d9cc7d9e249f3b3921e43ab53474b7"
+    },
+    {
+      "path": "delivery/stickers/school-mouse/mouse-schoolbag.png",
+      "bytes": 954894,
+      "sha256": "f794c910c01f55c5a8aeaad1791f1dd0a1dd5bd920736ffebbc9be444c2e8220"
+    },
+    {
+      "path": "delivery/stickers/school-mouse/mouse-sleeping-books.png",
+      "bytes": 887905,
+      "sha256": "9bceeb5c195796cc5aebd3b136321d1b2dc4ba5b2588468dfc8e28186654f34a"
+    },
+    {
+      "path": "delivery/stickers/school-mouse/mouse-writing.png",
+      "bytes": 930716,
+      "sha256": "3f93cc0e793f72a00a31d1447bcaeec86692b8185ca61802255164a4121befe8"
+    },
+    {
       "path": "delivery/stickers/science-laboratory/glass-thermometer.png",
       "bytes": 507421,
       "sha256": "d324511c6046cc6542ae61921947caba39b1deb81e4da71ffe89c7ebca3a2efb"
@@ -3548,8 +3593,8 @@
     },
     {
       "path": "delivery/topic-map.csv",
-      "bytes": 147883,
-      "sha256": "9736eb3e414ce49b2bc755eaae834399171f247c0e62c8613ea23a88558e5359"
+      "bytes": 149021,
+      "sha256": "2271e4cf3651af10f346d0f1ce17e0a939af0c732533a177fc58d24bdd9ee1fe"
     },
     {
       "path": "history/delivery/.gitattributes",
@@ -3933,8 +3978,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 395203,
-      "sha256": "34b6c29aa52156d7c4a43b0ddc2550c8eaf095f797460ff16fd50faadc7953ba"
+      "bytes": 398935,
+      "sha256": "8c15653ecf66776f6e10ecf59fcee5d24000899defcaf3b940e3e1136015e83b"
     },
     {
       "path": "logs/alpha-pilot-20260917.jsonl",
@@ -3958,8 +4003,8 @@
     },
     {
       "path": "logs/generation.jsonl",
-      "bytes": 288001,
-      "sha256": "6fb6931c6eb809236585c46a89a5501ffb8b506acea1f06ab3bc612fda4190f9"
+      "bytes": 292358,
+      "sha256": "23d434d9d921f77e4d1f47db0a0f276af18dd38f9f68964e256ecdf689d331ee"
     },
     {
       "path": "logs/README.vi.md",
@@ -6035,6 +6080,46 @@
       "path": "masters/mosaic-fragment.png",
       "bytes": 1458127,
       "sha256": "119e1c438ac5f8c097db3b393a9340c69e76fd273f021bd2fd2510572212db9c"
+    },
+    {
+      "path": "masters/mouse-color-pencil-box.png",
+      "bytes": 1051558,
+      "sha256": "cb66c430bb002c74981d2c18c9578710ee9977960a09ae86c5bb81fcc6fbaba5"
+    },
+    {
+      "path": "masters/mouse-globe.png",
+      "bytes": 1006161,
+      "sha256": "d4560a17ed736e20dca5ee75bd66aeb30fc6af83d662c3f50556ced3ad80a814"
+    },
+    {
+      "path": "masters/mouse-lunchbox.png",
+      "bytes": 904848,
+      "sha256": "69d55a178c508d2f1bb7bb6ccdf51cc7e6920053b61b8eb33b87891c291e7d4a"
+    },
+    {
+      "path": "masters/mouse-reading.png",
+      "bytes": 993918,
+      "sha256": "d4e140e06cc4c886d91679fc342f6816b0423a0266bb4120a4df173aa33a3398"
+    },
+    {
+      "path": "masters/mouse-ruler.png",
+      "bytes": 983816,
+      "sha256": "e167d9bbdb2a1caeac6dce2bc6afaab939d9cc7d9e249f3b3921e43ab53474b7"
+    },
+    {
+      "path": "masters/mouse-schoolbag.png",
+      "bytes": 954894,
+      "sha256": "f794c910c01f55c5a8aeaad1791f1dd0a1dd5bd920736ffebbc9be444c2e8220"
+    },
+    {
+      "path": "masters/mouse-sleeping-books.png",
+      "bytes": 887905,
+      "sha256": "9bceeb5c195796cc5aebd3b136321d1b2dc4ba5b2588468dfc8e28186654f34a"
+    },
+    {
+      "path": "masters/mouse-writing.png",
+      "bytes": 930716,
+      "sha256": "3f93cc0e793f72a00a31d1447bcaeec86692b8185ca61802255164a4121befe8"
     },
     {
       "path": "masters/mushroom-basket.png",
@@ -9473,8 +9558,8 @@
     },
     {
       "path": "qa/alpha-padding-audit.json",
-      "bytes": 266261,
-      "sha256": "47205053df901b7ed9c385b46a715a6db097eec9639b4c03c05ea72d26081e2f"
+      "bytes": 269329,
+      "sha256": "46d39d3c43d9c15faf8b5561892e2852b418110355122a5cdbc8b6d23a0b5bcf"
     },
     {
       "path": "qa/alpha-pilot-20260917/before-dark.png",
@@ -12978,13 +13063,13 @@
     },
     {
       "path": "qa/twenty-pairs-20260924/alpha-cleanup.json",
-      "bytes": 29759,
-      "sha256": "2ecdfb143764ae5b2f2032c038f5392385d57ca292513c06f68c05462e77e3c6"
+      "bytes": 35005,
+      "sha256": "4f59b3ba293a23beb1c4d1435b698b5872778d1fa9723de2d0483dd1814c0e61"
     },
     {
       "path": "qa/twenty-pairs-20260924/CHECKPOINT.vi.md",
-      "bytes": 932,
-      "sha256": "8a363b64228e812aec93c2d2ac26b0dd6305e52e05a391d8bd3f746083d4b7d9"
+      "bytes": 975,
+      "sha256": "b1ae04bd300d8779005ccdaeb0d891a99baa1743501a3aa7a1bf40217dddb4bc"
     },
     {
       "path": "qa/twenty-pairs-20260924/chestnut-season-dark.png",
@@ -13037,6 +13122,16 @@
       "sha256": "aae5181d0e16ceeb2e75974d3f984ca241cd283c9a4c95baafef11f2def96469"
     },
     {
+      "path": "qa/twenty-pairs-20260924/school-mouse-dark.png",
+      "bytes": 562513,
+      "sha256": "7bbac8faff02aadf40908426f503d9bece4462ecf96d8761cbaad380a05597dc"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/school-mouse-light.png",
+      "bytes": 528319,
+      "sha256": "fe19a724000103b9f5e3ecf9a4826275c76dfac5a258d274296a8a46770dbb6d"
+    },
+    {
       "path": "qa/twenty-pairs-20260924/squirrel-forest-dark.png",
       "bytes": 664925,
       "sha256": "c6c1f83b31c90c9df5c1cc47fe8e0bafd8d278961ec43c9e828de55eb416cfdb"
@@ -13048,8 +13143,8 @@
     },
     {
       "path": "qa/visual-qa.json",
-      "bytes": 57538,
-      "sha256": "fa9218fc9f4b7b09f6e69bf882210382620ab2ec5a5bd697e01d05e994813385"
+      "bytes": 57729,
+      "sha256": "f5870f81a8f01178e894c9d9a46d7a4cbce28ef34f156048d41d5197b156999c"
     },
     {
       "path": "qa/weaving-beater-comb-v2-alpha-dark.png",
@@ -30442,6 +30537,11 @@
       "sha256": "c0ae7a3a7095e3ae5764c55dc5ad98c669c9b8caf1bfa214c96486b8dd12878f"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/art-corner/mouse-color-pencil-box.png",
+      "bytes": 1073961,
+      "sha256": "efb08ca37ae945ce54ef8c0952953c8197c25a339159167e4a85758d80f7fe3b"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/chestnut-season/chestnut-branch.png",
       "bytes": 1309970,
       "sha256": "db953b3eceef500c5329377ba7cc791a084d90448948149c1704836f6f8ed4fe"
@@ -30637,6 +30737,46 @@
       "sha256": "94b5d8244f5467c398184f95d018130d9c9f123395c965c59d52df938bcf4933"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/school-mouse/mouse-color-pencil-box.png",
+      "bytes": 1073961,
+      "sha256": "efb08ca37ae945ce54ef8c0952953c8197c25a339159167e4a85758d80f7fe3b"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/school-mouse/mouse-globe.png",
+      "bytes": 1024439,
+      "sha256": "632c4730acbe288650c5413ed0be41ad7028bbb05ada20daa0264f9500c355ce"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/school-mouse/mouse-lunchbox.png",
+      "bytes": 920485,
+      "sha256": "afffb68ed33b75dc1f4d5e882f38ebcdf52f934b276f86efeddd2ebe51536a0c"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/school-mouse/mouse-reading.png",
+      "bytes": 1015541,
+      "sha256": "70e3462f5b64dd639d6934d07b08534bd7b5f196c5b81b7622a9c090284fdec7"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/school-mouse/mouse-ruler.png",
+      "bytes": 1003443,
+      "sha256": "2fc66ecff0c19da88f8a1ce86f0b572d235965874e7497eaa9ca575fb6558fd1"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/school-mouse/mouse-schoolbag.png",
+      "bytes": 971807,
+      "sha256": "579c826211e4e763d845ef02ac190e81af1c81fd51cb272242963c5a540e6c7c"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/school-mouse/mouse-sleeping-books.png",
+      "bytes": 905204,
+      "sha256": "c51562db2229f0bddd1017ed99dd979fb0ad380a5a6760a44f02a5c80e2c5915"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/school-mouse/mouse-writing.png",
+      "bytes": 952611,
+      "sha256": "023b18af3a9a5cc13654912288679c333d1a51faa02f1eafc11d20068edce4de"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/squirrel-forest/squirrel-acorn.png",
       "bytes": 1138417,
       "sha256": "f12910e2fdbbb645c538b3aa60f45fab08a95c0dbd8328206993b5bc4a0a2f70"
@@ -30785,6 +30925,46 @@
       "path": "revisions/twenty-pairs-20260924/alpha-before/masters/lakeside-tent.png",
       "bytes": 1083775,
       "sha256": "36833a612c45adff8eb067afa359c3eb37d516fc5756dfff58e932da6ef72498"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/mouse-color-pencil-box.png",
+      "bytes": 1073961,
+      "sha256": "efb08ca37ae945ce54ef8c0952953c8197c25a339159167e4a85758d80f7fe3b"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/mouse-globe.png",
+      "bytes": 1024439,
+      "sha256": "632c4730acbe288650c5413ed0be41ad7028bbb05ada20daa0264f9500c355ce"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/mouse-lunchbox.png",
+      "bytes": 920485,
+      "sha256": "afffb68ed33b75dc1f4d5e882f38ebcdf52f934b276f86efeddd2ebe51536a0c"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/mouse-reading.png",
+      "bytes": 1015541,
+      "sha256": "70e3462f5b64dd639d6934d07b08534bd7b5f196c5b81b7622a9c090284fdec7"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/mouse-ruler.png",
+      "bytes": 1003443,
+      "sha256": "2fc66ecff0c19da88f8a1ce86f0b572d235965874e7497eaa9ca575fb6558fd1"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/mouse-schoolbag.png",
+      "bytes": 971807,
+      "sha256": "579c826211e4e763d845ef02ac190e81af1c81fd51cb272242963c5a540e6c7c"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/mouse-sleeping-books.png",
+      "bytes": 905204,
+      "sha256": "c51562db2229f0bddd1017ed99dd979fb0ad380a5a6760a44f02a5c80e2c5915"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/mouse-writing.png",
+      "bytes": 952611,
+      "sha256": "023b18af3a9a5cc13654912288679c333d1a51faa02f1eafc11d20068edce4de"
     },
     {
       "path": "revisions/twenty-pairs-20260924/alpha-before/masters/pumpkin-harvest.png",
@@ -31053,8 +31233,8 @@
     },
     {
       "path": "state/generation-queue.json",
-      "bytes": 2669,
-      "sha256": "03878c56155d91fcc0f5ca00bd5b32c8bf0a790a7b4e66a9f7136b8ee79078ed"
+      "bytes": 2486,
+      "sha256": "019577299aeb3d9b727509d2f08870f8a13cfad2b29ef3782a1d458b3ec276f8"
     },
     {
       "path": "state/imagegen-quota-20260918-second.json",
@@ -31083,8 +31263,8 @@
     },
     {
       "path": "state/progress.json",
-      "bytes": 904647,
-      "sha256": "ff3f245fe8c0972ec3298d88007426296d4261f11f89587490309f8daedef451"
+      "bytes": 909603,
+      "sha256": "30ac310da39c617dc7a44ed74553fe7abecc2e777747c0bc5294cba784771f40"
     },
     {
       "path": "state/quota-eight-topics-20260924.json",
@@ -34633,8 +34813,8 @@
     },
     {
       "path": "state/resume.json",
-      "bytes": 1164,
-      "sha256": "357534bc7f4b19448cf0172afd191a33bfbc1b287eb11232e183c14ef63f75d3"
+      "bytes": 1149,
+      "sha256": "1c99540121957ea0290399af65efad903123be20520c4a9a684bad5d113506e9"
     },
     {
       "path": "state/twenty-pairs-20260924.json",
@@ -34643,8 +34823,8 @@
     },
     {
       "path": "state/work-order.json",
-      "bytes": 10029,
-      "sha256": "78f25e1b36bfe4c2a30a75242700ee873fb6f522f1b43174c6a69939638ad6f9"
+      "bytes": 10032,
+      "sha256": "92111e6c64762c5572ba622edc26650ced51d05a7a8f9ad1ff85237d99dc9081"
     },
     {
       "path": "workspace.json",

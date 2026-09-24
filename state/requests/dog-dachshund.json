@@ -1,0 +1,22 @@
+{
+  "id": "dog-dachshund",
+  "subject": "A single black and tan Dachshund standing in side three-quarter view with a long body, short legs, floppy ears and a gently raised tail",
+  "topic_slugs": [
+    "dog-collection"
+  ],
+  "profile": "dogs",
+  "prompt": "Generate ONE new individual sticker in the exact illustrative style of the supplied original desktop sticker references. References are style only, not subjects to copy.\nArt direction: hand-painted 2D casual-game illustration with restrained local contrast, warm mid-light colors, thin warm locally colored outlines, simple matte painted volumes, just two or three quiet same-hue shadow patches. Modest detail and small broad paint marks. Soft illustrative volume matching the reference artwork. No shiny 3D toy appearance, deep dark crevices, harsh light, or dense surface texture. Do not anthropomorphize objects.\nEntire subject centered and fully visible with clear padding on all sides; a narrow clean white sticker-cut margin follows the silhouette. No scene, floor shadow, text, letters, brand or watermark.\nDeliver a PNG with a TRANSPARENT BACKGROUND: empty canvas outside the sticker, actual alpha transparency.\nSquare canvas, target 512 x 512. Entire sticker visible with clear padding.\nSUBJECT: A single black and tan Dachshund standing in side three-quarter view with a long body, short legs, floppy ears and a gently raised tail. Draw exactly one whole dog of the named breed, with natural canine anatomy, four plausible limbs and one tail. Preserve the breed's recognizable ears, muzzle, body proportions and coat pattern. The supplied dog image is a style reference only; do not copy its breed, pose or markings unless explicitly named. No clothing, collar, props or anthropomorphic expression. Use a readable silhouette at game-sticker size, restrained warm hand-painted detail and quiet local shading. The complete sticker including its narrow white cut margin occupies about 80 percent of the canvas in its longest dimension, with transparent padding on every side.",
+  "referenced_image_paths": [
+    "references/Stickers/Dog/1-dog_2.png",
+    "references/Stickers/1_Animals/cow.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "View the referenced images, then resolve their paths against the current workspace root when calling the image tool."
+}

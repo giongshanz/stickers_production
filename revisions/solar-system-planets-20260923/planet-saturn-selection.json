@@ -1,0 +1,14 @@
+{
+  "id": "planet-saturn",
+  "selected_utc": "2026-09-23T01:52:51.519276+00:00",
+  "reason": "Selected the v2 reframe for comfortable padding. Cleared the two ring openings with authorized alpha-only tools because the ImageGen reframe printed white fill there. Removed alpha 1..15 exterior noise. RGB and 1254 x 1254 canvas are unchanged after alpha cleanup.",
+  "old_master": "revisions/solar-system-planets-20260923/planet-saturn-v1-master.png",
+  "old_delivery": "revisions/solar-system-planets-20260923/planet-saturn-v1-delivery.png",
+  "old_sha256": "639de6ced831fa747e4af21ab904933e49e73f15ac77c69dd8053f15b9e0b5f8",
+  "selected_candidate": "revisions/solar-system-planets-20260923/planet-saturn-selected.png",
+  "new_master": "masters/planet-saturn.png",
+  "new_delivery": "delivery/stickers/solar-system-planets/planet-saturn.png",
+  "new_sha256": "7bc8edf5a11bfb93e86cc111dc97145efd69ddb727c525200eba1c9554e3b5ce",
+  "request": "state/requests/planet-saturn.json",
+  "visual_review": "Subject, ring overlap, padding and transparent ring openings reviewed at source resolution and on dark background; provisional pending user and game-scale QA."
+}

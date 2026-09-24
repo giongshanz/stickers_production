@@ -4,7 +4,7 @@ This folder is the sole active workspace for this sticker project. Read `START_H
 
 ## Scope and source of truth
 
-- Continue the expanded plan: the original 50 topics plus the user-requested fish and cat topics, 52 topics and 8 slots each, 406 unique asset IDs, 10 shared IDs used in exactly two topics. Do not restart or regenerate existing masters by default. Read the current target from `plan/sticker-plan.json` when reporting totals.
+- Continue the expanded plan: the original 50 topics plus the user-requested fish, cat, Book and Solar System planet topics, 54 topics and 8 slots each, 422 unique asset IDs, 10 shared IDs used in exactly two topics. Do not restart or regenerate existing masters by default. Read the current target from `plan/sticker-plan.json` when reporting totals.
 - `masters/<id>.png` is the authoritative selected image for an ID. Selection does not mean final visual/alpha approval. `delivery/` is derived from those masters. Resolve every active path relative to this folder, independent of current shell directory, drive, username or OS.
 - Use only the original art copied into `references/Stickers/` as the style reference. This is the user's external desktop reference collection. Unity project stickers and previously generated stickers are not the source style standard.
 - `history/` is historical evidence, including rejected trials and obsolete scripts. Old absolute paths there are provenance only. Do not execute legacy scripts or resume from legacy checkpoints.
@@ -30,7 +30,7 @@ This folder is the sole active workspace for this sticker project. Read `START_H
 
 ## Resume and reproducibility
 
-Current priority: the fish and cat topics now have all eight masters each. Continue the 25 explicit visual rework notes and game-scale background/alpha, anatomy and style QA. Read state/work-order.json and fresh state files.
+Current priority: the Solar System planet topic now has all eight masters, alongside the complete fish, cat and Book topics. Continue the 25 explicit visual rework notes and game-scale background/alpha, anatomy and style QA. Read state/work-order.json and fresh state files.
 
 At migration there were 173 masters, 183 populated topic slots, 22 topics with 8 images, 96 images with clear alpha corners, 77 needing background work, 217 missing masters, and 25 explicit visual rework candidates. Fresh state files override these baseline numbers. Continue from `wetland-heron` if it remains missing.
 

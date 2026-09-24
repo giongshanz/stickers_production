@@ -1,0 +1,22 @@
+{
+  "id": "frog-lily-pad",
+  "subject": "The same friendly plump leaf-green frog character sitting contentedly on one simple round lily pad; pale cream belly, darker olive spots, round peach cheek patches, large warm dark eyes, four complete webbed feet",
+  "topic_slugs": [
+    "frog-adventures"
+  ],
+  "profile": "frog-character",
+  "prompt": "Generate ONE new individual sticker in the exact illustrative style of the supplied original desktop sticker references. References are style only, not subjects to copy.\nArt direction: hand-painted 2D casual-game illustration with restrained local contrast, warm mid-light colors, thin warm locally colored outlines, simple matte painted volumes, just two or three quiet same-hue shadow patches. Modest detail and small broad paint marks. Soft illustrative volume matching the reference artwork. No shiny 3D toy appearance, deep dark crevices, harsh light, or dense surface texture. Do not anthropomorphize objects.\nEntire subject centered and fully visible with clear padding on all sides; a narrow clean white sticker-cut margin follows the silhouette. No scene, floor shadow, text, letters, brand or watermark.\nDeliver a PNG with a TRANSPARENT BACKGROUND: empty canvas outside the sticker, actual alpha transparency.\nSquare canvas, target 512 x 512. Entire sticker visible with clear padding.\nSUBJECT: The same friendly plump leaf-green frog character sitting contentedly on one simple round lily pad; pale cream belly, darker olive spots, round peach cheek patches, large warm dark eyes, four complete webbed feet. Draw exactly one whole friendly plump frog character performing the named activity. Keep its design consistent: leaf-green body, pale cream belly, darker olive spots, large warm dark eyes, round peach cheek patches and four anatomically readable webbed feet. Reference images guide style and proportions only; make a new pose. Props are limited to those named and form one connected composition. No extra character, scene, ground, floor shadow, text, brand or watermark. Keep the whole sticker and narrow white cut margin inside transparent padding.",
+  "referenced_image_paths": [
+    "references/Stickers/Frog/4-frog_4.png",
+    "references/Stickers/8-Gardening/8-Gardening_1.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "View the referenced images, then resolve their paths against the current workspace root when calling the image tool."
+}

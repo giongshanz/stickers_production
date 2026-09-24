@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Book — duyệt 8 sticker</title>
+  <style>
+    :root { font-family: system-ui, sans-serif; color: #27313b; background: #eef1f4; }
+    body { margin: 0 auto; max-width: 1200px; padding: 24px; }
+    h1 { margin: 0 0 8px; font-size: 28px; }
+    p { margin: 0 0 22px; color: #4e5b66; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; }
+    article { background: white; border-radius: 14px; overflow: hidden; box-shadow: 0 2px 12px #23304a16; }
+    h2 { margin: 15px 16px 12px; font-size: 16px; overflow-wrap: anywhere; }
+    .samples { display: grid; grid-template-columns: 1fr 1fr; }
+    .sample { min-height: 210px; display: flex; align-items: center; justify-content: center; position: relative; }
+    .sample.light { background: #f4f0e8; }
+    .sample.dark { background: #263745; }
+    .sample img { width: 180px; height: 180px; object-fit: contain; }
+    .sample span { position: absolute; bottom: 8px; left: 10px; font-size: 11px; color: #55616a; }
+    .sample.dark span { color: #d8e2e8; }
+    .small { border-top: 1px solid #e5e8eb; padding: 11px 16px; display: flex; align-items: center; gap: 14px; font-size: 12px; color: #66737c; }
+    .small img { width: 80px; height: 80px; object-fit: contain; background: #263745; border-radius: 8px; }
+    a { color: #226a9b; }
+  </style>
+</head>
+<body>
+  <h1>Book — 8 sticker</h1>
+  <p>Xem trên nền sáng, nền tối và ở cỡ nhỏ. Nhấp tên để mở PNG master gốc. Đây là bản QA tạm thời; 25 rework của các topic trước vẫn mở.</p>
+  <main class="grid" id="grid"></main>
+  <script>
+    const ids = [
+      'book-blue-hardcover', 'book-open-storybook', 'book-three-volume-stack',
+      'book-pocket-paperback', 'book-accordion-picture-book', 'book-pop-up-castle',
+      'book-leather-tome', 'book-small-diary'
+    ];
+    document.getElementById('grid').innerHTML = ids.map(id => {
+      const path = `../../masters/${id}.png`;
+      return `<article><h2><a href="${path}">${id}</a></h2><div class="samples"><div class="sample light"><img src="${path}" alt="${id} trên nền sáng"><span>Nền sáng</span></div><div class="sample dark"><img src="${path}" alt="${id} trên nền tối"><span>Nền tối</span></div></div><div class="small"><img src="${path}" alt="${id} ở cỡ nhỏ"><span>Xem ở cỡ 80 px</span></div></article>`;
+    }).join('');
+  </script>
+</body>
+</html>

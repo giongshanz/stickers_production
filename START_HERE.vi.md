@@ -42,6 +42,12 @@ Cập nhật 22/09/2026: sau khi hoàn tất 50 chủ đề gốc, người dùn
 
 Cập nhật sau đó: người dùng yêu cầu thêm chủ đề “Mèo” gồm 8 sticker. Mục tiêu mới là 52 chủ đề, 416 vị trí và 406 master duy nhất. Xem `state/progress.json` để biết số thực tế đã tạo; các mốc trước là lịch sử.
 
+Cập nhật 22/09/2026: người dùng yêu cầu thêm topic “Book” và đã cho phép tạo đủ 8 sticker sau khi xem mẫu đầu. Mục tiêu hiện tại là 53 chủ đề, 424 vị trí và 414 master duy nhất. Cả 8 Book master đã được tạo và QA tạm thời; xem `qa/book-collection-20260922/REPORT.vi.md`. Vẫn còn 25 rework cũ và QA ở kích thước game.
+
+Cập nhật 23/09/2026: thêm và hoàn tất topic “Các hành tinh trong Hệ Mặt Trời” gồm tám hành tinh. Mục tiêu hiện tại là 54 chủ đề, 432 vị trí và 422 master duy nhất. Cả tám master đã được tạo và QA tạm thời; xem `qa/solar-system-planets-20260923/REPORT.vi.md`. Vẫn còn 25 rework cũ và QA ở kích thước game.
+
+Cập nhật 23/09/2026: người dùng chốt thêm năm topic Dog, Khủng long, Thể thao mùa đông, Găng tay và Tea, mỗi topic tám sticker. Mục tiêu mới là 59 chủ đề, 472 vị trí và 462 master duy nhất; 40 ID mới đang chờ tạo theo thứ tự topic trong plan.
+
 ## Các lệnh quản lý
 
 Chạy từ workspace (hoặc gọi script bằng đường dẫn đến folder đã copy):
@@ -67,3 +73,61 @@ Mẫu chuẩn là bộ tham chiếu gốc ngoài Unity project: màu ấm trung 
 Không chạy script trong `history/`, không lấy checkpoint cũ hoặc mẫu thử bị loại làm bản hiện hành. Dùng công cụ tạo ảnh cho việc sửa nét/hình dáng; script được phép sửa alpha theo phạm vi trên. Lưu lại lý do chọn từng phiên bản.
 
 Ưu tiên tiếp theo: hoàn thiện nền/alpha và các ghi chú mỹ thuật còn tồn của 25 chủ đề đã có đủ hình. Xem state/work-order.json. Hàng đợi tạo mới đã tuân theo phạm vi này; hàng đợi rỗng không có nghĩa là đã hoàn tất mục tiêu 50 chủ đề.
+
+Cập nhật 23/09/2026: đã hoàn tất 8 sticker Dog và 8 sticker Khủng long trong năm topic mới. Hiện có 56/59 topic đủ hình, 438/462 master và 448/472 vị trí topic; còn 24 master thuộc Thể thao mùa đông, Găng tay và Tea. Xem `qa/dog-dinosaur-20260923/REPORT.vi.md`.
+
+Cập nhật 23/09/2026: người dùng thêm topic Farm gồm tám sticker: barn, tractor, cow, pig, sheep, hen, hay bale và windmill. Mục tiêu mới là 60 chủ đề, 480 vị trí và 470 master duy nhất; ưu tiên hiện tại là tạo đủ topic Farm trước ba topic đang chờ.
+
+Cập nhật 23/09/2026: đã hoàn tất 8/8 sticker Farm. Hiện có 57/60 topic đủ hình, 446/470 master và 456/480 vị trí topic; còn 24 master thuộc Thể thao mùa đông, Găng tay và Tea. Xem `qa/farm-20260923/REPORT.vi.md`.
+
+Cập nhật 23/09/2026: người dùng thêm topic Crocodile gồm tám sticker cùng một nhân vật cá sấu thân thiện trong các hoạt động đi biển, lướt sóng, xây lâu đài cát, bơi phao, ăn kem, đọc sách, nhảy vui và ngủ. Mục tiêu mới là 61 chủ đề, 488 vị trí và 478 master duy nhất; ưu tiên hiện tại là hoàn tất Crocodile.
+
+
+## Cập nhật Crocodile hoàn tất — 23/09/2026
+
+- Đã hoàn tất topic Crocodile: 8/8 sticker hoạt động.
+- Trạng thái sau batch: 58/61 topic đủ 8 ảnh; 454/478 master duy nhất; 464/488 slot đã có ảnh; còn 24 master.
+- QA batch: `qa/crocodile-20260923/REPORT.vi.md`.
+
+
+## Đã thêm 6 topic nhân vật — 23/09/2026
+
+- Đã thêm Penguin, Frog, Capybara, Rabbit Gardener, Little Bear Camping và Duck Rainy Day; mỗi topic 8 slot.
+- Tổng target mới: 67 topic, 536 slot, 526 master duy nhất.
+
+
+## Hoàn tất 6 topic nhân vật — 23/09/2026
+
+- Hoàn tất Penguin, Frog, Capybara, Rabbit Gardener, Little Bear Camping và Duck Rainy Day: 48/48 sticker.
+- Trạng thái sau batch: 64/67 topic đủ 8 ảnh; 502/526 master duy nhất; 512/536 slot đã có ảnh; còn 24 master.
+- QA batch: `qa/six-character-topics-20260923/REPORT.vi.md`.
+
+
+## Hoàn tất Winter Sports, Gloves và Tea — 23/09/2026
+
+- Hoàn tất 24/24 sticker của ba topic cuối.
+- Đã có đủ 67/67 topic, 526/526 master duy nhất và 536/536 topic slot.
+- 25 visual rework candidate và game-scale QA vẫn còn mở.
+- QA batch: `qa/final-three-topics-20260923/REPORT.vi.md`.
+
+
+## Đã thêm 7 topic mới — 24/09/2026
+
+- Đã thêm Red Panda Daily Life, Fox Autumn Adventures, Hamster Kitchen, Panda Bakery, Koala Bedtime, Little Dragon Magic và Birthday Cake Collection; mỗi topic 8 slot.
+- Tổng target mới: 74 topic, 592 slot, 582 master duy nhất.
+
+
+## Hoàn tất 7 topic mới — 24/09/2026
+
+- Hoàn tất 56/56 sticker của Red Panda, Fox Autumn, Hamster Kitchen, Panda Bakery, Koala Bedtime, Little Dragon Magic và Birthday Cake.
+- Đã có đủ 74/74 topic, 582/582 master duy nhất và 592/592 topic slot.
+- 25 visual rework candidate và game-scale QA vẫn còn mở.
+- QA batch: `qa/seven-topics-20260924/REPORT.vi.md`.
+
+
+## Hoàn tất 8 topic mới — 24/09/2026
+
+- Hoàn tất 64/64 sticker của Otter River Life, Sloth Cozy Day, Owl Night Study, Little Bee Adventures, Snail Garden Journey, Baby Elephant Playtime, Monkey Jungle Adventures và Little Ghost Halloween.
+- Đã có đủ 82/82 topic, 646/646 master duy nhất và 656/656 topic slot.
+- 25 visual rework candidate và game-scale QA vẫn còn mở.
+- QA batch: `qa/eight-topics-20260924/REPORT.vi.md`.

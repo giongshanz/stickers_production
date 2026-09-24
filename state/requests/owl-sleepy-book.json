@@ -1,0 +1,22 @@
+{
+  "id": "owl-sleepy-book",
+  "subject": "The same small scholarly tawny-brown owl character with a round cream facial disk and belly, subtle darker wing markings, amber eyes behind small round brass spectacles, a short golden beak, two clear wings and two golden feet sleeping with its cheek resting on one closed navy book, spectacles slightly lowered and eyes closed",
+  "topic_slugs": [
+    "owl-night-study"
+  ],
+  "profile": "owl-night-study-character",
+  "prompt": "Generate ONE new individual sticker in the exact illustrative style of the supplied original desktop sticker references. References are style only, not subjects to copy.\nArt direction: hand-painted 2D casual-game illustration with restrained local contrast, warm mid-light colors, thin warm locally colored outlines, simple matte painted volumes, just two or three quiet same-hue shadow patches. Modest detail and small broad paint marks. Soft illustrative volume matching the reference artwork. No shiny 3D toy appearance, deep dark crevices, harsh light, or dense surface texture. Do not anthropomorphize objects.\nEntire subject centered and fully visible with clear padding on all sides; a narrow clean white sticker-cut margin follows the silhouette. No scene, floor shadow, text, letters, brand or watermark.\nDeliver a PNG with a TRANSPARENT BACKGROUND: empty canvas outside the sticker, actual alpha transparency.\nSquare canvas, target 512 x 512. Entire sticker visible with clear padding.\nSUBJECT: The same small scholarly tawny-brown owl character with a round cream facial disk and belly, subtle darker wing markings, amber eyes behind small round brass spectacles, a short golden beak, two clear wings and two golden feet sleeping with its cheek resting on one closed navy book, spectacles slightly lowered and eyes closed. Draw exactly one whole scholarly owl performing the named study activity. Keep the design consistent: tawny-brown plumage, round cream facial disk and belly, subtle darker wing markings, amber eyes behind small round brass spectacles, short golden beak, two clear wings and two golden feet. Preserve recognizable owl anatomy; wings may hold the named prop but must remain feathered. References guide only the warm painted style and study mood. Props are limited to those named and form one connected sticker. No extra character, broad room scene, ground, floor shadow, readable text, logo or watermark. Keep the complete sticker and narrow white cut margin inside transparent padding.",
+  "referenced_image_paths": [
+    "references/Stickers/Bird/22_bird_1.png",
+    "references/Stickers/Reading/25-reading_2.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "View the referenced images, then resolve their paths against the current workspace root when calling the image tool."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "red-panda-happy-jump",
+  "subject": "The same small chubby red panda character making a joyful little jump with both forepaws raised and both hind paws visible; rich rust-red fur, cream face mask and muzzle, dark chocolate ears and legs, long rust-and-cream striped tail, warm dark eyes and peach cheek patches; no props",
+  "topic_slugs": [
+    "red-panda-daily-life"
+  ],
+  "profile": "red-panda-character",
+  "prompt": "Generate ONE new individual sticker in the exact illustrative style of the supplied original desktop sticker references. References are style only, not subjects to copy.\nArt direction: hand-painted 2D casual-game illustration with restrained local contrast, warm mid-light colors, thin warm locally colored outlines, simple matte painted volumes, just two or three quiet same-hue shadow patches. Modest detail and small broad paint marks. Soft illustrative volume matching the reference artwork. No shiny 3D toy appearance, deep dark crevices, harsh light, or dense surface texture. Do not anthropomorphize objects.\nEntire subject centered and fully visible with clear padding on all sides; a narrow clean white sticker-cut margin follows the silhouette. No scene, floor shadow, text, letters, brand or watermark.\nDeliver a PNG with a TRANSPARENT BACKGROUND: empty canvas outside the sticker, actual alpha transparency.\nSquare canvas, target 512 x 512. Entire sticker visible with clear padding.\nSUBJECT: The same small chubby red panda character making a joyful little jump with both forepaws raised and both hind paws visible; rich rust-red fur, cream face mask and muzzle, dark chocolate ears and legs, long rust-and-cream striped tail, warm dark eyes and peach cheek patches; no props. Draw exactly one whole red panda performing the named activity. Keep the design consistent: rich rust-red fur, broad cream facial mask and muzzle, dark chocolate ears and lower legs, long thick rust-and-cream ringed tail, warm dark eyes and peach cheek patches. It must read as a red panda, not a gray raccoon: no gray body and no black burglar mask. References guide only the cute proportions and restrained hand-painted style. Props are limited to those named and form one connected sticker. No extra character, scene, ground, floor shadow, text, logo or watermark. Keep the complete sticker and narrow white cut margin inside transparent padding.",
+  "referenced_image_paths": [
+    "references/Stickers/3. Racoon/187-Racoon_1.png",
+    "references/Stickers/3. Racoon/187-Racoon_6.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "View the referenced images, then resolve their paths against the current workspace root when calling the image tool."
+}

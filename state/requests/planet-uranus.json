@@ -1,0 +1,27 @@
+{
+  "id": "planet-uranus",
+  "subject": "A single Uranus planet as a pale cyan blue sphere with extremely subtle horizontal atmospheric bands and one very thin muted gray blue ring",
+  "topic_slugs": [
+    "solar-system-planets"
+  ],
+  "profile": "planets",
+  "prompt": "Generate ONE new individual sticker in the exact illustrative style of the supplied original desktop sticker references. References are style only, not subjects to copy.\nArt direction: hand-painted 2D casual-game illustration with restrained local contrast, warm mid-light colors, thin warm locally colored outlines, simple matte painted volumes, just two or three quiet same-hue shadow patches. Modest detail and small broad paint marks. Soft illustrative volume matching the reference artwork. No shiny 3D toy appearance, deep dark crevices, harsh light, or dense surface texture. Do not anthropomorphize objects.\nEntire subject centered and fully visible with clear padding on all sides; a narrow clean white sticker-cut margin follows the silhouette. No scene, floor shadow, text, letters, brand or watermark.\nDeliver a PNG with a TRANSPARENT BACKGROUND: empty canvas outside the sticker, actual alpha transparency.\nSquare canvas, target 512 x 512. Entire sticker visible with clear padding.\nSUBJECT: A single Uranus planet as a pale cyan blue sphere with extremely subtle horizontal atmospheric bands and one very thin muted gray blue ring. Draw exactly one isolated planet, scientifically recognizable through its main color, atmospheric or surface pattern, and any inherent ring system. The supplied planet images are style references only; do not copy their planet, markings, palette arrangement or pose. No face, eyes, limbs, stars, moons, orbit lines, glow, space scene or extra objects. Use a simple readable circular silhouette, restrained broad painted detail and quiet same-hue shading. The complete sticker including its narrow clean white cut margin occupies about 78 percent of the canvas in its longest dimension, with comfortable true transparent padding on every side.",
+  "referenced_image_paths": [
+    "references/Stickers/Planet/20_Planet_5.png",
+    "references/Stickers/Planet/20_Planet_6.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "The initial exact prompt and references above produced the archived rejected v1. The selected master is the second ImageGen pass described in selected_edit.",
+  "selected_edit": {
+    "prompt": "Edit only the most recent Uranus sticker. Make its gray-blue ring system very thin and delicate, about one quarter of its current band thickness, while it still passes visibly behind and in front of the planet. Reframe the whole planet and ring smaller and centered so the complete white cut margin occupies about 78 percent of the square canvas in its longest dimension, with at least 10 percent true transparent padding on every side. Keep the pale cyan sphere, extremely subtle broad atmospheric bands, matte hand-painted 2D style, thin teal outline and narrow white cut margin. Both enclosed ring openings must be clean actual alpha transparency. No face, stars, moons, orbit lines, glow, text or extra objects.",
+    "target": "revisions/solar-system-planets-20260923/planet-uranus-rejected-v1.png",
+    "additional_references": []
+  }
+}

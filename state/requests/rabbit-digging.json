@@ -1,0 +1,22 @@
+{
+  "id": "rabbit-digging",
+  "subject": "The same gentle cream-white rabbit gardener holding one short wooden garden trowel beside a compact soil mound; long upright ears with peach inner fur, round brown eyes, blush cheeks, small pink nose, four complete limbs and one round tail",
+  "topic_slugs": [
+    "rabbit-gardener"
+  ],
+  "profile": "rabbit-gardener-character",
+  "prompt": "Generate ONE new individual sticker in the exact illustrative style of the supplied original desktop sticker references. References are style only, not subjects to copy.\nArt direction: hand-painted 2D casual-game illustration with restrained local contrast, warm mid-light colors, thin warm locally colored outlines, simple matte painted volumes, just two or three quiet same-hue shadow patches. Modest detail and small broad paint marks. Soft illustrative volume matching the reference artwork. No shiny 3D toy appearance, deep dark crevices, harsh light, or dense surface texture. Do not anthropomorphize objects.\nEntire subject centered and fully visible with clear padding on all sides; a narrow clean white sticker-cut margin follows the silhouette. No scene, floor shadow, text, letters, brand or watermark.\nDeliver a PNG with a TRANSPARENT BACKGROUND: empty canvas outside the sticker, actual alpha transparency.\nSquare canvas, target 512 x 512. Entire sticker visible with clear padding.\nSUBJECT: The same gentle cream-white rabbit gardener holding one short wooden garden trowel beside a compact soil mound; long upright ears with peach inner fur, round brown eyes, blush cheeks, small pink nose, four complete limbs and one round tail. Draw exactly one whole gentle cream-white rabbit gardener performing the named activity. Keep its design consistent: long ears with peach inner fur, round brown eyes, blush cheeks, small pink nose, four plausible limbs and one small round tail. References guide style and proportions only; create a new pose. Props are limited to the named gardening items and form one connected composition. No clothing unless explicitly stated, extra character, scene, ground, floor shadow, text, brand or watermark. Keep the whole sticker and narrow white cut margin inside transparent padding.",
+  "referenced_image_paths": [
+    "references/Stickers/1_Animals/rabbit.png",
+    "references/Stickers/8-Gardening/8-Gardening_1.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "View the referenced images, then resolve their paths against the current workspace root when calling the image tool."
+}

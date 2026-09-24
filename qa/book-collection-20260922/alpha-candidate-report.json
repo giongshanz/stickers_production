@@ -1,0 +1,90 @@
+[
+  {
+    "id": "book-accordion-picture-book",
+    "source": "masters/book-accordion-picture-book.png",
+    "candidate": "revisions/book-collection-20260922/alpha-candidates/book-accordion-picture-book.png",
+    "source_sha256": "6148c630d7a4a8e606b00abfa0a4c6217fc657b85ecbe60053710a3b98c540fc",
+    "candidate_sha256": "243d0335ea73b48a3ee01ffc5eb29035ab53487fc269ccb09f5b7ba391b9e787",
+    "pixels_cleared": 8359,
+    "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+    "status": "selected",
+    "selection_record": "revisions/book-collection-20260922/alpha-selections.json"
+  },
+  {
+    "id": "book-blue-hardcover",
+    "source": "masters/book-blue-hardcover.png",
+    "candidate": "revisions/book-collection-20260922/alpha-candidates/book-blue-hardcover.png",
+    "source_sha256": "2dcd97fb2a99e36d51bf6dada5446c58f72a39d40ffdff0d5a3254d0a22a0eb4",
+    "candidate_sha256": "4398e0887eef3018ce67bd27b41d829653bd98d49a422dea1ea67e5bbfb03f76",
+    "pixels_cleared": 14969,
+    "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+    "status": "selected",
+    "selection_record": "revisions/book-collection-20260922/alpha-selections.json"
+  },
+  {
+    "id": "book-leather-tome",
+    "source": "masters/book-leather-tome.png",
+    "candidate": "revisions/book-collection-20260922/alpha-candidates/book-leather-tome.png",
+    "source_sha256": "511b7f0f124deb3b36642dc0d7ec4ca39ba31225033e7bc094c72c4d15370dc6",
+    "candidate_sha256": "12e59f61458a4f75f1ddc09418dfdbe019b4cdc9ddb11ec69b694c03baa04d58",
+    "pixels_cleared": 8979,
+    "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+    "status": "selected",
+    "selection_record": "revisions/book-collection-20260922/alpha-selections.json"
+  },
+  {
+    "id": "book-open-storybook",
+    "source": "masters/book-open-storybook.png",
+    "candidate": "revisions/book-collection-20260922/alpha-candidates/book-open-storybook.png",
+    "source_sha256": "354e16d6acbe208e1b5b9d0e6c3bc028014a0ee342cede35b21d9e5f0bab60b9",
+    "candidate_sha256": "9db6367f055c09a6f8f98d09cc3ca29a9f40e4229e0652dfba8a63538b239384",
+    "pixels_cleared": 8186,
+    "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+    "status": "selected",
+    "selection_record": "revisions/book-collection-20260922/alpha-selections.json"
+  },
+  {
+    "id": "book-pocket-paperback",
+    "source": "masters/book-pocket-paperback.png",
+    "candidate": "revisions/book-collection-20260922/alpha-candidates/book-pocket-paperback.png",
+    "source_sha256": "6cfa932c54b6f05e1f9c407ea843a7150be9433612c6b5eda541779b6c78133b",
+    "candidate_sha256": "61eba0fe7d0e70ec1396bc5abb44ef08ea5be0a7737f41f4786dc1727700245d",
+    "pixels_cleared": 7157,
+    "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+    "status": "selected",
+    "selection_record": "revisions/book-collection-20260922/alpha-selections.json"
+  },
+  {
+    "id": "book-pop-up-castle",
+    "source": "masters/book-pop-up-castle.png",
+    "candidate": "revisions/book-collection-20260922/alpha-candidates/book-pop-up-castle.png",
+    "source_sha256": "536c106f01912a1e74a822004cdf29c5c40eadbbb4fb25b37f7200800e6609e5",
+    "candidate_sha256": "daca98d6196e6efac7ee30c39c37cac44aac5f1c03d2a872300cdc020e7e95b7",
+    "pixels_cleared": 12212,
+    "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+    "status": "selected",
+    "selection_record": "revisions/book-collection-20260922/alpha-selections.json"
+  },
+  {
+    "id": "book-small-diary",
+    "source": "masters/book-small-diary.png",
+    "candidate": "revisions/book-collection-20260922/alpha-candidates/book-small-diary.png",
+    "source_sha256": "19a262810394b42a1e17a7b4c88d59ae4981f3c4350522ce4312788a7dc66a99",
+    "candidate_sha256": "8f3cd4a0a2e909bd4525c2c63bf10c64728998f26c11133cb13dbea130886602",
+    "pixels_cleared": 6709,
+    "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+    "status": "selected",
+    "selection_record": "revisions/book-collection-20260922/alpha-selections.json"
+  },
+  {
+    "id": "book-three-volume-stack",
+    "source": "masters/book-three-volume-stack.png",
+    "candidate": "revisions/book-collection-20260922/alpha-candidates/book-three-volume-stack.png",
+    "source_sha256": "1cabbee6fa362ff0c216e2e9ec623424592775be2909f3319c09765183bac1d3",
+    "candidate_sha256": "2d1dccfe2dcc595f2c9ce56208d9ae7166195c24229d0c7f67e34d1995cc1125",
+    "pixels_cleared": 8271,
+    "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+    "status": "selected",
+    "selection_record": "revisions/book-collection-20260922/alpha-selections.json"
+  }
+]

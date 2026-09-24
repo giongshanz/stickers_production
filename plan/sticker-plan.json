@@ -3,13 +3,13 @@
   "style_reference": "references/Stickers",
   "excluded_style_reference": "Any Unity project sticker collection; never an active style input",
   "target": {
-    "topics": 53,
+    "topics": 102,
     "slots_per_topic": 8,
-    "total_topic_slots": 424,
-    "unique_assets": 414,
-    "shared_assets": 10
+    "total_topic_slots": 816,
+    "unique_assets": 796,
+    "shared_assets": 20
   },
-  "production_note": "Use original external reference artwork now bundled at references/Stickers. The glossy beehive pilot is rejected; the current beehive-skep master already uses the softer replacement. Preserve existing IDs, subjects and shared mappings. Apply the current separate style prompt. No logos, licensed characters or readable text.",
+  "production_note": "Use original external reference artwork now bundled at references/Stickers. The glossy beehive pilot is rejected; the current beehive-skep master already uses the softer replacement. Preserve existing IDs, subjects and shared mappings. Apply the current separate style prompt. No logos, licensed characters or readable text. On 2026-09-23 the user added five eight-slot topics: dog breeds, dinosaurs, winter sports, gloves and tea accessories. On 2026-09-23 the user added an eight-slot Farm topic containing four farm structures or tools and four farm animals. On 2026-09-23 the user added an eight-slot Crocodile topic showing one friendly crocodile character in varied beach, leisure and emotion poses. On 2026-09-23 the user added six eight-slot single-character activity topics: Penguin, Frog, Capybara, Rabbit Gardener, Little Bear Camping and Duck Rainy Day. On 2026-09-24 the user added seven eight-slot topics: Red Panda Daily Life, Fox Autumn Adventures, Hamster Kitchen, Panda Bakery, Koala Bedtime, Little Dragon Magic and Birthday Cake Collection. On 2026-09-24 the user added eight eight-slot character topics: Otter River Life, Sloth Cozy Day, Owl Night Study, Little Bee Adventures, Snail Garden Journey, Baby Elephant Playtime, Monkey Jungle Adventures and Little Ghost Halloween. On 2026-09-24 the user added twenty eight-slot topics in ten pairs, with exactly one new shared sticker master per pair.",
   "assets": [
     {
       "id": "banh-mi",
@@ -1666,6 +1666,1534 @@
     {
       "id": "book-small-diary",
       "subject": "One small dark plum travel diary with a supple rounded cover, thin cream page edge, an elastic band around its middle and a tiny crescent moon emblem, no ribbon, flowers or writing"
+    },
+    {
+      "id": "planet-mercury",
+      "subject": "A single small Mercury planet as a warm gray rocky sphere with a restrained number of broad shallow craters and quiet painted shading"
+    },
+    {
+      "id": "planet-venus",
+      "subject": "A single Venus planet as a pale golden ochre sphere with a few broad soft cream cloud bands and no visible craters"
+    },
+    {
+      "id": "planet-earth",
+      "subject": "A single Earth planet with blue oceans, simplified recognizable green land masses, small soft white cloud patches and pale polar ice"
+    },
+    {
+      "id": "planet-mars",
+      "subject": "A single Mars planet as a muted rust orange rocky sphere with a few broad darker red land patches and one small pale polar cap"
+    },
+    {
+      "id": "planet-jupiter",
+      "subject": "A single Jupiter planet with broad cream, tan and muted orange horizontal cloud bands and one modest brick red oval storm"
+    },
+    {
+      "id": "planet-saturn",
+      "subject": "A single Saturn planet as a warm golden beige sphere with a few quiet cream cloud bands and one broad pale ring system tilted diagonally, visibly passing behind and in front of the planet"
+    },
+    {
+      "id": "planet-uranus",
+      "subject": "A single Uranus planet as a pale cyan blue sphere with extremely subtle horizontal atmospheric bands and one very thin muted gray blue ring"
+    },
+    {
+      "id": "planet-neptune",
+      "subject": "A single Neptune planet as a deep calm blue sphere with a few broad lighter blue atmospheric bands and one small muted navy storm patch"
+    },
+    {
+      "id": "dog-golden-retriever",
+      "subject": "A single adult Golden Retriever lying in a relaxed three-quarter pose with a warm golden coat, softly feathered ears and tail, natural open eyes and a gentle closed mouth"
+    },
+    {
+      "id": "dog-shiba-inu",
+      "subject": "A single alert Shiba Inu standing in three-quarter view with a warm red sesame coat, cream underside, upright ears and one naturally curled tail"
+    },
+    {
+      "id": "dog-pembroke-corgi",
+      "subject": "A single Pembroke Welsh Corgi standing with short sturdy legs, a red and white coat, large upright ears and a natural compact body"
+    },
+    {
+      "id": "dog-beagle",
+      "subject": "A single Beagle standing calmly with a clear tricolor coat, long floppy ears, compact paws and a white tipped tail"
+    },
+    {
+      "id": "dog-apricot-poodle",
+      "subject": "A single small apricot Poodle sitting upright with a naturally curly coat, rounded floppy ears and a neat unexaggerated silhouette"
+    },
+    {
+      "id": "dog-dachshund",
+      "subject": "A single black and tan Dachshund standing in side three-quarter view with a long body, short legs, floppy ears and a gently raised tail"
+    },
+    {
+      "id": "dog-siberian-husky",
+      "subject": "A single Siberian Husky sitting calmly with a gray and white coat, upright ears, a full curved tail and pale blue natural eyes"
+    },
+    {
+      "id": "dog-french-bulldog",
+      "subject": "A single compact fawn French Bulldog standing with large bat ears, a short natural muzzle and dark attentive eyes"
+    },
+    {
+      "id": "dinosaur-tyrannosaurus",
+      "subject": "A single scientifically recognizable Tyrannosaurus rex in a balanced side three-quarter stance with a large head, two small two-fingered arms, powerful hind legs and a long counterbalancing tail"
+    },
+    {
+      "id": "dinosaur-triceratops",
+      "subject": "A single Triceratops standing in side three-quarter view with three clear facial horns, a broad bony frill, sturdy legs and a short tail"
+    },
+    {
+      "id": "dinosaur-stegosaurus",
+      "subject": "A single Stegosaurus in side view with two rows of broad back plates, four distinct tail spikes, a small head and a gently arched body"
+    },
+    {
+      "id": "dinosaur-brachiosaurus",
+      "subject": "A single Brachiosaurus standing with a very long upright neck, small head, taller front legs, large rounded body and a long tapering tail"
+    },
+    {
+      "id": "dinosaur-ankylosaurus",
+      "subject": "A single low broad Ankylosaurus in side three-quarter view with restrained armored back plates and one clearly visible heavy tail club"
+    },
+    {
+      "id": "dinosaur-parasaurolophus",
+      "subject": "A single Parasaurolophus standing with a long backward curving head crest, strong hind legs, shorter forelimbs and a long tail"
+    },
+    {
+      "id": "dinosaur-spinosaurus",
+      "subject": "A single Spinosaurus in side three-quarter view with a long crocodile-like snout, a tall rounded back sail, strong hind legs and a long tail"
+    },
+    {
+      "id": "dinosaur-velociraptor",
+      "subject": "A single feathered Velociraptor in an alert natural stance with a narrow head, folded wing-like forelimbs, one raised sickle claw and a long stiff tail"
+    },
+    {
+      "id": "penguin-ice-skating",
+      "subject": "The same small round penguin character ice skating happily on two pale blue figure skates, wings spread for balance, one foot lifted; black charcoal back and head, white face and belly, warm orange beak and feet, soft peach cheek patches"
+    },
+    {
+      "id": "penguin-ice-fishing",
+      "subject": "The same small round penguin character sitting and holding a short fishing rod with one small blue fish dangling from the line; black charcoal back and head, white face and belly, warm orange beak and feet, soft peach cheek patches; no water or landscape"
+    },
+    {
+      "id": "penguin-hot-cocoa",
+      "subject": "The same small round penguin character holding one warm coral mug of hot cocoa with both wings, a small curl of steam above it; black charcoal back and head, white face and belly, warm orange beak and feet, soft peach cheek patches"
+    },
+    {
+      "id": "penguin-winter-hat",
+      "subject": "The same small round penguin character standing proudly in one knitted mustard-yellow bobble hat and a short teal scarf; black charcoal back and head, white face and belly, warm orange beak and feet, soft peach cheek patches"
+    },
+    {
+      "id": "penguin-hugging-fish",
+      "subject": "The same small round penguin character sitting and affectionately hugging one plump blue fish against its belly; black charcoal back and head, white face and belly, warm orange beak and feet, soft peach cheek patches"
+    },
+    {
+      "id": "penguin-sledding",
+      "subject": "The same small round penguin character riding one compact red wooden sled, leaning forward with joyful excitement; black charcoal back and head, white face and belly, warm orange beak and feet, soft peach cheek patches; no snow scene"
+    },
+    {
+      "id": "penguin-happy-dance",
+      "subject": "The same small round penguin character doing a joyful dance with both wings lifted and one orange foot raised; black charcoal back and head, white face and belly, warm orange beak and feet, soft peach cheek patches; no props"
+    },
+    {
+      "id": "penguin-sleeping",
+      "subject": "The same small round penguin character sleeping curled on its belly with eyes closed and head resting on folded wings; black charcoal back and head, white face and belly, warm orange beak and feet, soft peach cheek patches; no symbols or props"
+    },
+    {
+      "id": "frog-lily-pad",
+      "subject": "The same friendly plump leaf-green frog character sitting contentedly on one simple round lily pad; pale cream belly, darker olive spots, round peach cheek patches, large warm dark eyes, four complete webbed feet"
+    },
+    {
+      "id": "frog-umbrella",
+      "subject": "The same friendly plump leaf-green frog character standing and holding one small coral umbrella overhead; pale cream belly, darker olive spots, round peach cheek patches, large warm dark eyes, four complete webbed feet; no rain scene"
+    },
+    {
+      "id": "frog-butterfly",
+      "subject": "The same friendly plump leaf-green frog character reaching gently toward one small yellow butterfly perched on its raised hand; pale cream belly, darker olive spots, round peach cheek patches, large warm dark eyes, four complete webbed feet"
+    },
+    {
+      "id": "frog-guitar",
+      "subject": "The same friendly plump leaf-green frog character sitting and playing one small warm-brown acoustic guitar; pale cream belly, darker olive spots, round peach cheek patches, large warm dark eyes, four complete webbed feet"
+    },
+    {
+      "id": "frog-tea",
+      "subject": "The same friendly plump leaf-green frog character sitting and holding one small cream teacup with both hands; pale cream belly, darker olive spots, round peach cheek patches, large warm dark eyes, four complete webbed feet"
+    },
+    {
+      "id": "frog-reading",
+      "subject": "The same friendly plump leaf-green frog character sitting and reading one open blue picture book with simple blank illustrated pages and no text; pale cream belly, darker olive spots, round peach cheek patches, large warm dark eyes, four complete webbed feet"
+    },
+    {
+      "id": "frog-crown",
+      "subject": "The same friendly plump leaf-green frog character sitting proudly while wearing one small simple golden crown; pale cream belly, darker olive spots, round peach cheek patches, large warm dark eyes, four complete webbed feet"
+    },
+    {
+      "id": "frog-sleeping-flower",
+      "subject": "The same friendly plump leaf-green frog character sleeping curled inside one broad pink water-lily flower, eyes closed and hands tucked under its cheek; pale cream belly, darker olive spots, round peach cheek patches, four complete webbed feet"
+    },
+    {
+      "id": "capybara-hot-spring",
+      "subject": "The same calm chubby capybara character relaxing in one compact oval wooden hot-spring tub with shoulders and forepaws visible above pale blue water; warm caramel-brown fur, darker rounded muzzle, tiny rounded ears, small dark eyes and peach cheek patches"
+    },
+    {
+      "id": "capybara-orange-hat",
+      "subject": "The same calm chubby capybara character sitting upright with one whole orange balanced gently on its head; warm caramel-brown fur, darker rounded muzzle, tiny rounded ears, small dark eyes, peach cheek patches and four complete short legs"
+    },
+    {
+      "id": "capybara-drinking-juice",
+      "subject": "The same calm chubby capybara character sitting and holding one clear cup of orange juice with a short straw between its forepaws; warm caramel-brown fur, darker rounded muzzle, tiny rounded ears, small dark eyes, peach cheek patches and four complete short legs"
+    },
+    {
+      "id": "capybara-watermelon",
+      "subject": "The same calm chubby capybara character sitting and eating one triangular watermelon slice held between its forepaws; warm caramel-brown fur, darker rounded muzzle, tiny rounded ears, small dark eyes, peach cheek patches and four complete short legs"
+    },
+    {
+      "id": "capybara-bubble-bath",
+      "subject": "The same calm chubby capybara character sitting in one small cream bathtub filled with a few broad white soap bubbles, head and forepaws visible; warm caramel-brown fur, darker rounded muzzle, tiny rounded ears, small dark eyes and peach cheek patches"
+    },
+    {
+      "id": "capybara-reading",
+      "subject": "The same calm chubby capybara character sitting and reading one open sage-green picture book with simple blank illustrated pages and no text; warm caramel-brown fur, darker rounded muzzle, tiny rounded ears, small dark eyes, peach cheek patches and four complete short legs"
+    },
+    {
+      "id": "capybara-hugging-plush",
+      "subject": "The same calm chubby capybara character sitting and hugging one small cream rabbit plush toy; warm caramel-brown fur, darker rounded muzzle, tiny rounded ears, small dark eyes, peach cheek patches and four complete short legs"
+    },
+    {
+      "id": "capybara-relaxing",
+      "subject": "The same calm chubby capybara character lying comfortably on its belly with chin resting on crossed forepaws and hind legs tucked beside its rounded body; warm caramel-brown fur, darker rounded muzzle, tiny rounded ears, small dark eyes and peach cheek patches; no props"
+    },
+    {
+      "id": "rabbit-planting-carrot",
+      "subject": "The same gentle cream-white rabbit gardener kneeling and placing one small carrot into a compact mound of dark soil; long upright ears with peach inner fur, round brown eyes, blush cheeks, small pink nose and one round tail"
+    },
+    {
+      "id": "rabbit-watering-plant",
+      "subject": "The same gentle cream-white rabbit gardener standing and using one small teal watering can to water one young green sprout in a compact soil mound; long upright ears with peach inner fur, round brown eyes, blush cheeks, small pink nose and one round tail"
+    },
+    {
+      "id": "rabbit-digging",
+      "subject": "The same gentle cream-white rabbit gardener holding one short wooden garden trowel beside a compact soil mound; long upright ears with peach inner fur, round brown eyes, blush cheeks, small pink nose, four complete limbs and one round tail"
+    },
+    {
+      "id": "rabbit-wheelbarrow",
+      "subject": "The same gentle cream-white rabbit gardener pushing one small green wheelbarrow carrying three orange carrots with leafy tops; long upright ears with peach inner fur, round brown eyes, blush cheeks, small pink nose and one round tail"
+    },
+    {
+      "id": "rabbit-flower-bouquet",
+      "subject": "The same gentle cream-white rabbit gardener standing and hugging one small bouquet of simple pink, yellow and blue garden flowers; long upright ears with peach inner fur, round brown eyes, blush cheeks, small pink nose and one round tail"
+    },
+    {
+      "id": "rabbit-butterfly",
+      "subject": "The same gentle cream-white rabbit gardener sitting quietly while one small blue butterfly rests on its raised paw; long upright ears with peach inner fur, round brown eyes, blush cheeks, small pink nose, four complete limbs and one round tail"
+    },
+    {
+      "id": "rabbit-tea-break",
+      "subject": "The same gentle cream-white rabbit gardener sitting and holding one small terracotta teacup beside one compact woven basket containing carrots and leafy greens; long upright ears with peach inner fur, round brown eyes, blush cheeks, small pink nose and one round tail"
+    },
+    {
+      "id": "rabbit-sleeping-basket",
+      "subject": "The same gentle cream-white rabbit gardener sleeping curled beside one compact woven vegetable basket, head resting on folded paws; long ears relaxed backward, peach inner fur, blush cheeks, small pink nose and one round tail"
+    },
+    {
+      "id": "bear-setting-tent",
+      "subject": "The same small friendly honey-brown bear cub kneeling beside one compact green triangular camping tent while holding one short tent peg; cream muzzle and belly, small rounded ears, dark brown paws, warm black eyes and peach cheek patches"
+    },
+    {
+      "id": "bear-campfire",
+      "subject": "The same small friendly honey-brown bear cub sitting beside one tiny contained campfire made from three logs and a simple orange flame; cream muzzle and belly, small rounded ears, dark brown paws, warm black eyes and peach cheek patches"
+    },
+    {
+      "id": "bear-marshmallow",
+      "subject": "The same small friendly honey-brown bear cub sitting and holding one marshmallow on a short wooden roasting stick; cream muzzle and belly, small rounded ears, dark brown paws, warm black eyes and peach cheek patches; no fire or scene"
+    },
+    {
+      "id": "bear-flashlight",
+      "subject": "The same small friendly honey-brown bear cub standing and holding one compact yellow flashlight in both paws, looking curious; cream muzzle and belly, small rounded ears, dark brown paws, warm black eyes and peach cheek patches; no light beam or scene"
+    },
+    {
+      "id": "bear-fishing",
+      "subject": "The same small friendly honey-brown bear cub sitting and holding one short fishing rod with one small blue fish dangling from the line; cream muzzle and belly, small rounded ears, dark brown paws, warm black eyes and peach cheek patches; no water scene"
+    },
+    {
+      "id": "bear-map",
+      "subject": "The same small friendly honey-brown bear cub standing and studying one unfolded cream trail map with simple colored path lines and no text; cream muzzle and belly, small rounded ears, dark brown paws, warm black eyes and peach cheek patches"
+    },
+    {
+      "id": "bear-stargazing",
+      "subject": "The same small friendly honey-brown bear cub looking upward through one small teal camping telescope on a short tripod; cream muzzle and belly, small rounded ears, dark brown paws, warm black eyes and peach cheek patches; no sky or stars"
+    },
+    {
+      "id": "bear-sleeping-bag",
+      "subject": "The same small friendly honey-brown bear cub tucked comfortably into one teal sleeping bag with head and forepaws visible, eyes closed; cream muzzle, small rounded ears, dark brown paws and peach cheek patches"
+    },
+    {
+      "id": "duck-raincoat",
+      "subject": "The same cheerful small yellow duckling standing in one simple teal hooded raincoat left open enough to show its round body; soft golden-yellow feathers, orange bill and webbed feet, small dark eyes and peach cheek patches"
+    },
+    {
+      "id": "duck-umbrella",
+      "subject": "The same cheerful small yellow duckling standing and holding one coral umbrella overhead with one wing; soft golden-yellow feathers, orange bill and webbed feet, small dark eyes and peach cheek patches; no rain scene"
+    },
+    {
+      "id": "duck-rain-boots",
+      "subject": "The same cheerful small yellow duckling standing proudly in a matching pair of small red rain boots; soft golden-yellow feathers, orange bill, small dark eyes, peach cheek patches and two complete wings"
+    },
+    {
+      "id": "duck-puddle-jump",
+      "subject": "The same cheerful small yellow duckling jumping above one small connected pale-blue puddle splash, wings lifted and both orange webbed feet visible; soft golden-yellow feathers, orange bill, small dark eyes and peach cheek patches"
+    },
+    {
+      "id": "duck-paper-boat",
+      "subject": "The same cheerful small yellow duckling sitting and gently holding one folded blue paper boat between its wings; soft golden-yellow feathers, orange bill and webbed feet, small dark eyes and peach cheek patches"
+    },
+    {
+      "id": "duck-hot-drink",
+      "subject": "The same cheerful small yellow duckling sitting and holding one small cream mug of warm cocoa between its wings, with one subtle curl of steam; soft golden-yellow feathers, orange bill and webbed feet, small dark eyes and peach cheek patches"
+    },
+    {
+      "id": "duck-rainbow",
+      "subject": "The same cheerful small yellow duckling standing beneath one small simple arched rainbow connected closely behind its body, looking upward happily; soft golden-yellow feathers, orange bill and webbed feet, small dark eyes and peach cheek patches; no landscape or clouds"
+    },
+    {
+      "id": "duck-cozy-nap",
+      "subject": "The same cheerful small yellow duckling sleeping curled under one small sage-green blanket with head, wings and orange webbed feet visible; soft golden-yellow feathers, orange bill, closed eyes and peach cheek patches"
+    },
+    {
+      "id": "winter-sports-alpine-skis",
+      "subject": "A connected set of two crossed alpine skis with two slim ski poles, using a simple muted blue and ochre color scheme with no writing or logos"
+    },
+    {
+      "id": "winter-sports-snowboard",
+      "subject": "One freestanding snowboard viewed at a slight angle with simple coral and navy geometric color panels, two visible bindings and no writing or logos"
+    },
+    {
+      "id": "winter-sports-figure-skates",
+      "subject": "A neatly crossed pair of classic white figure skates with pale blue laces and clearly visible silver blades"
+    },
+    {
+      "id": "winter-sports-curling-stone",
+      "subject": "One polished gray curling stone with a muted red handle and a small connected curling brush resting diagonally behind it"
+    },
+    {
+      "id": "winter-sports-bobsled",
+      "subject": "One compact two-person bobsled in three-quarter view with a rounded navy body, slim metal runners and no people, numbers, writing or logos"
+    },
+    {
+      "id": "winter-sports-snowshoes",
+      "subject": "A crossed pair of traditional oval snowshoes with warm wooden frames, simple woven lacing and brown foot bindings"
+    },
+    {
+      "id": "winter-sports-ski-helmet-goggles",
+      "subject": "One matte teal ski helmet with amber ski goggles fitted around it as a single compact sticker, no writing or logos"
+    },
+    {
+      "id": "winter-sports-hockey-stick-puck",
+      "subject": "One wooden ice hockey stick crossed behind a single black puck as a compact connected set, no writing or logos"
+    },
+    {
+      "id": "gloves-knitted-mittens",
+      "subject": "A matching pair of warm knitted mittens in muted coral with cream ribbed cuffs and one simple woven stripe pattern"
+    },
+    {
+      "id": "gloves-leather-driving",
+      "subject": "A matching pair of soft tan leather driving gloves with small knuckle openings, short buttoned wrists and restrained stitched seams"
+    },
+    {
+      "id": "gloves-rubber-cleaning",
+      "subject": "A matching pair of long pale yellow rubber cleaning gloves with rolled cuffs and simple matte surfaces"
+    },
+    {
+      "id": "gloves-oven-mitts",
+      "subject": "A matching pair of quilted sage green oven mitts with cream binding and simple broad diamond stitching"
+    },
+    {
+      "id": "gloves-gardening",
+      "subject": "A matching pair of practical gardening gloves with muted green fabric backs, tan reinforced palms and short fitted cuffs"
+    },
+    {
+      "id": "gloves-boxing",
+      "subject": "A connected pair of classic brick red boxing gloves tied together by short cream laces, no writing or logos"
+    },
+    {
+      "id": "gloves-goalkeeper",
+      "subject": "A matching pair of padded goalkeeper gloves with cream palms, muted blue backs and simple wrist straps, no writing or logos"
+    },
+    {
+      "id": "gloves-fingerless-knit",
+      "subject": "A matching pair of charcoal fingerless knitted gloves with ribbed wrists, open fingertips and simple cable-knit panels"
+    },
+    {
+      "id": "tea-cast-iron-teapot",
+      "subject": "One compact charcoal cast iron teapot with a rounded body, gently arched handle, short spout and a subtle raised dot texture"
+    },
+    {
+      "id": "tea-porcelain-cup",
+      "subject": "One small handleless porcelain teacup filled with amber tea, decorated with a single simple pale blue leaf motif and no writing"
+    },
+    {
+      "id": "tea-matcha-bowl",
+      "subject": "One low handmade ceramic matcha bowl in warm cream with a muted moss green glaze band and a small pool of whisked green tea"
+    },
+    {
+      "id": "tea-bamboo-whisk",
+      "subject": "One traditional bamboo matcha whisk standing upright with a short natural handle and a clearly separated crown of fine curved tines"
+    },
+    {
+      "id": "tea-leaf-caddy",
+      "subject": "One small cylindrical tea caddy in muted red lacquer with a fitted lid, a tiny simple leaf emblem and no writing"
+    },
+    {
+      "id": "tea-mesh-strainer",
+      "subject": "One small round fine-mesh tea strainer with a warm brass rim, a short wooden handle and a simple resting hook"
+    },
+    {
+      "id": "tea-serving-tray",
+      "subject": "One shallow oval wooden tea serving tray holding two tiny matching cream tea cups as a single connected set"
+    },
+    {
+      "id": "tea-loose-leaf-pouch",
+      "subject": "One small folded kraft paper pouch partly open to reveal a modest cluster of loose green tea leaves, with a plain tied label and no writing"
+    },
+    {
+      "id": "farm-red-barn",
+      "subject": "One compact red wooden farm barn in three-quarter view with a dark pitched roof, cream trim, one small square loft window and closed double crossbuck doors, no fence, plants, animals or landscape"
+    },
+    {
+      "id": "farm-red-tractor",
+      "subject": "One small classic red farm tractor in three-quarter view with a simple black seat, vertical exhaust pipe, two large rear tires and two smaller front tires, no driver, trailer, writing or logo"
+    },
+    {
+      "id": "farm-holstein-cow",
+      "subject": "One whole friendly Holstein dairy cow standing in three-quarter view with a white coat, restrained charcoal patches, four plausible legs, small cream horns, pink muzzle and one natural tail, no collar or bell"
+    },
+    {
+      "id": "farm-pink-pig",
+      "subject": "One whole small pink farm pig standing in three-quarter view with a round body, four short plausible legs, floppy ears, a broad natural snout and one curled tail"
+    },
+    {
+      "id": "farm-woolly-sheep",
+      "subject": "One whole cream woolly sheep standing calmly in three-quarter view with a fluffy fleece, tan face and ears, four plausible legs and dark brown hooves"
+    },
+    {
+      "id": "farm-white-hen",
+      "subject": "One whole plump white farm hen standing in three-quarter view with a small red comb and wattle, orange beak and legs, layered wing feathers and a short raised tail, no eggs or nest"
+    },
+    {
+      "id": "farm-hay-bale",
+      "subject": "One compact rectangular golden hay bale in three-quarter view with restrained straw ends and two simple dark brown binding bands"
+    },
+    {
+      "id": "farm-windmill",
+      "subject": "One compact traditional farm windmill in three-quarter view with a short solid warm-stone body, a dark brown conical roof and four broad cream wooden sails joined at one hub, no open lattice, landscape, writing or logo"
+    },
+    {
+      "id": "crocodile-beach-day",
+      "subject": "One whole the same friendly small chubby crocodile character with a light olive-green body, a pale warm-cream segmented belly, a neat row of darker green rounded dorsal scutes, subtle green spots, round warm-peach cheek patches, four short limbs and one long tapering tail, walking cheerfully to the beach while wearing a simple straw sun hat and carrying one rolled coral towel under an arm and one small blue beach tote in the other hand"
+    },
+    {
+      "id": "crocodile-surfing",
+      "subject": "One whole the same friendly small chubby crocodile character with a light olive-green body, a pale warm-cream segmented belly, a neat row of darker green rounded dorsal scutes, subtle green spots, round warm-peach cheek patches, four short limbs and one long tapering tail, balancing happily on one fully visible muted teal surfboard with knees bent, arms spread and tail lifted for balance, no wave or water scene"
+    },
+    {
+      "id": "crocodile-sandcastle",
+      "subject": "One whole the same friendly small chubby crocodile character with a light olive-green body, a pale warm-cream segmented belly, a neat row of darker green rounded dorsal scutes, subtle green spots, round warm-peach cheek patches, four short limbs and one long tapering tail, kneeling with a pleased smile beside one small simple golden sandcastle while holding a tiny red shovel, arranged as one compact connected sticker"
+    },
+    {
+      "id": "crocodile-swim-ring",
+      "subject": "One whole the same friendly small chubby crocodile character with a light olive-green body, a pale warm-cream segmented belly, a neat row of darker green rounded dorsal scutes, subtle green spots, round warm-peach cheek patches, four short limbs and one long tapering tail, standing happily inside one round yellow inflatable swim ring with both arms resting over the top and the complete legs and tail still visible"
+    },
+    {
+      "id": "crocodile-ice-cream",
+      "subject": "One whole the same friendly small chubby crocodile character with a light olive-green body, a pale warm-cream segmented belly, a neat row of darker green rounded dorsal scutes, subtle green spots, round warm-peach cheek patches, four short limbs and one long tapering tail, sitting with a delighted gentle smile while holding one small strawberry ice-cream cone carefully in both hands"
+    },
+    {
+      "id": "crocodile-reading",
+      "subject": "One whole the same friendly small chubby crocodile character with a light olive-green body, a pale warm-cream segmented belly, a neat row of darker green rounded dorsal scutes, subtle green spots, round warm-peach cheek patches, four short limbs and one long tapering tail, sitting cross-legged and calmly reading one open blue picture book with simple color shapes and no writing"
+    },
+    {
+      "id": "crocodile-happy-jump",
+      "subject": "One whole the same friendly small chubby crocodile character with a light olive-green body, a pale warm-cream segmented belly, a neat row of darker green rounded dorsal scutes, subtle green spots, round warm-peach cheek patches, four short limbs and one long tapering tail, making a joyful little jump with both arms raised, feet lifted, tail curved behind and a bright open-mouth smile with only a few small rounded teeth"
+    },
+    {
+      "id": "crocodile-sleeping",
+      "subject": "One whole the same friendly small chubby crocodile character with a light olive-green body, a pale warm-cream segmented belly, a neat row of darker green rounded dorsal scutes, subtle green spots, round warm-peach cheek patches, four short limbs and one long tapering tail, curled comfortably on its belly with eyes closed, head resting on folded forearms and tail wrapped gently beside the body, no letters or sleep symbols"
+    },
+    {
+      "id": "red-panda-apple",
+      "subject": "The same small chubby red panda character sitting and holding one bright red apple between both forepaws; rich rust-red fur, cream face mask and muzzle, dark chocolate ears and legs, long rust-and-cream striped tail, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "red-panda-tea",
+      "subject": "The same small chubby red panda character sitting and holding one small sage-green teacup with both forepaws; rich rust-red fur, cream face mask and muzzle, dark chocolate ears and legs, long rust-and-cream striped tail, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "red-panda-reading",
+      "subject": "The same small chubby red panda character sitting and reading one open teal picture book with simple blank illustrated pages and no text; rich rust-red fur, cream face mask and muzzle, dark chocolate ears and legs, long rust-and-cream striped tail, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "red-panda-hugging-pillow",
+      "subject": "The same small chubby red panda character sitting and hugging one soft mustard-yellow star-shaped pillow; rich rust-red fur, cream face mask and muzzle, dark chocolate ears and legs, long rust-and-cream striped tail, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "red-panda-winter-hat",
+      "subject": "The same small chubby red panda character standing happily in one teal knitted bobble hat and a short cream scarf; rich rust-red fur, cream face mask and muzzle, dark chocolate ears and legs, long rust-and-cream striped tail, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "red-panda-autumn-leaf",
+      "subject": "The same small chubby red panda character sitting and holding one large golden-orange maple leaf in a raised forepaw; rich rust-red fur, cream face mask and muzzle, dark chocolate ears and legs, long rust-and-cream striped tail, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "red-panda-happy-jump",
+      "subject": "The same small chubby red panda character making a joyful little jump with both forepaws raised and both hind paws visible; rich rust-red fur, cream face mask and muzzle, dark chocolate ears and legs, long rust-and-cream striped tail, warm dark eyes and peach cheek patches; no props"
+    },
+    {
+      "id": "red-panda-sleeping",
+      "subject": "The same small chubby red panda character sleeping curled into a compact ball with its long rust-and-cream striped tail wrapped around the body; rich rust-red fur, cream face mask and muzzle, dark chocolate ears and legs, closed eyes and peach cheek patches; no props"
+    },
+    {
+      "id": "fox-maple-leaf",
+      "subject": "The same small friendly fox character sitting and holding one large red-orange maple leaf; warm burnt-orange fur, cream muzzle and chest, dark brown ear tips and lower legs, large fluffy tail with a cream tip, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "fox-umbrella",
+      "subject": "The same small friendly fox character standing and holding one small mustard-yellow umbrella overhead; warm burnt-orange fur, cream muzzle and chest, dark brown ear tips and lower legs, large fluffy tail with a cream tip, warm dark eyes and peach cheek patches; no rain scene"
+    },
+    {
+      "id": "fox-pumpkin",
+      "subject": "The same small friendly fox character sitting and hugging one round muted-orange pumpkin; warm burnt-orange fur, cream muzzle and chest, dark brown ear tips and lower legs, large fluffy tail with a cream tip, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "fox-apple-basket",
+      "subject": "The same small friendly fox character sitting beside one compact woven basket holding three red apples; warm burnt-orange fur, cream muzzle and chest, dark brown ear tips and lower legs, large fluffy tail with a cream tip, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "fox-hot-cocoa",
+      "subject": "The same small friendly fox character sitting and holding one warm cream mug of hot cocoa with both forepaws, with one subtle curl of steam; warm burnt-orange fur, cream muzzle and chest, dark brown ear tips and lower legs, large fluffy tail with a cream tip, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "fox-autumn-scarf",
+      "subject": "The same small friendly fox character standing proudly in one knitted olive-green scarf; warm burnt-orange fur, cream muzzle and chest, dark brown ear tips and lower legs, large fluffy tail with a cream tip, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "fox-chestnut",
+      "subject": "The same small friendly fox character sitting and holding one open green chestnut husk containing a glossy brown chestnut; warm burnt-orange fur, cream muzzle and chest, dark brown ear tips and lower legs, large fluffy tail with a cream tip, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "fox-sleeping-leaves",
+      "subject": "The same small friendly fox character sleeping curled in a compact nest of a few broad golden and red autumn leaves, fluffy cream-tipped tail wrapped around its body; warm burnt-orange fur, cream muzzle and chest, dark brown ear tips and closed eyes"
+    },
+    {
+      "id": "hamster-mixing-batter",
+      "subject": "The same small round golden hamster character standing behind one compact cream mixing bowl and stirring pale cake batter with a wooden spoon; golden-tan fur, white muzzle and belly, tiny round pink ears, small pink paws, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "hamster-stirring-soup",
+      "subject": "The same small round golden hamster character standing beside one small terracotta cooking pot and stirring vegetable soup with a wooden spoon; golden-tan fur, white muzzle and belly, tiny round pink ears, small pink paws, warm dark eyes and peach cheek patches; no stove"
+    },
+    {
+      "id": "hamster-rolling-dough",
+      "subject": "The same small round golden hamster character using one small wooden rolling pin on a compact oval piece of pale dough; golden-tan fur, white muzzle and belly, tiny round pink ears, small pink paws, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "hamster-chef-hat",
+      "subject": "The same small round golden hamster character standing proudly while wearing one simple white chef hat and holding one small wooden spoon; golden-tan fur, white muzzle and belly, tiny round pink ears, small pink paws, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "hamster-bread",
+      "subject": "The same small round golden hamster character sitting and hugging one small warm-brown bread loaf; golden-tan fur, white muzzle and belly, tiny round pink ears, small pink paws, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "hamster-washing-vegetables",
+      "subject": "The same small round golden hamster character washing one carrot and two green leaves in a small pale-blue bowl, paws visibly holding the carrot; golden-tan fur, white muzzle and belly, tiny round pink ears, small pink paws, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "hamster-tasting-soup",
+      "subject": "The same small round golden hamster character carefully tasting soup from one tiny wooden spoon held near its mouth, with one small cream bowl beside it; golden-tan fur, white muzzle and belly, tiny round pink ears, small pink paws, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "hamster-sleeping-food-basket",
+      "subject": "The same small round golden hamster character sleeping curled beside one compact woven basket containing a bread roll, carrot and green leaves; golden-tan fur, white muzzle and belly, tiny round pink ears, small pink paws, closed eyes and peach cheek patches"
+    },
+    {
+      "id": "panda-kneading-dough",
+      "subject": "The same small chubby panda cub kneeling and pressing both forepaws into one compact round piece of pale dough; creamy white fur, charcoal-black ears, eye patches and limbs, warm dark eyes, small black nose and peach cheek patches"
+    },
+    {
+      "id": "panda-making-bao",
+      "subject": "The same small chubby panda cub sitting and carefully shaping one small round bao bun between both forepaws, with two finished buns beside it; creamy white fur, charcoal-black ears, eye patches and limbs, warm dark eyes, small black nose and peach cheek patches"
+    },
+    {
+      "id": "panda-decorating-cake",
+      "subject": "The same small chubby panda cub holding one small piping bag and decorating a compact single-layer strawberry cake with one frosting swirl; creamy white fur, charcoal-black ears, eye patches and limbs, warm dark eyes, small black nose and peach cheek patches"
+    },
+    {
+      "id": "panda-baguette",
+      "subject": "The same small chubby panda cub standing and hugging one long golden baguette against its belly; creamy white fur, charcoal-black ears, eye patches and limbs, warm dark eyes, small black nose and peach cheek patches"
+    },
+    {
+      "id": "panda-bread-tray",
+      "subject": "The same small chubby panda cub standing and carrying one small wooden bakery tray holding three simple bread rolls; creamy white fur, charcoal-black ears, eye patches and limbs, warm dark eyes, small black nose and peach cheek patches"
+    },
+    {
+      "id": "panda-drinking-milk",
+      "subject": "The same small chubby panda cub sitting and holding one clear glass of milk with both forepaws; creamy white fur, charcoal-black ears, eye patches and limbs, warm dark eyes, small black nose and peach cheek patches"
+    },
+    {
+      "id": "panda-cookie",
+      "subject": "The same small chubby panda cub sitting and holding one round chocolate-chip cookie between both forepaws; creamy white fur, charcoal-black ears, eye patches and limbs, warm dark eyes, small black nose and peach cheek patches"
+    },
+    {
+      "id": "panda-sleeping-bread",
+      "subject": "The same small chubby panda cub sleeping with its head resting on one large soft bread loaf like a pillow; creamy white fur, charcoal-black ears, eye patches and limbs, small black nose, closed eyes and peach cheek patches"
+    },
+    {
+      "id": "koala-pajamas",
+      "subject": "The same small gentle gray koala character standing in one simple pale-blue pajama top with a tiny moon emblem and matching pajama trousers; soft warm-gray fur, large fluffy round ears with cream centers, cream belly, broad dark-gray oval nose, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "koala-hugging-pillow",
+      "subject": "The same small gentle gray koala character sitting and hugging one soft cream crescent-moon pillow; soft warm-gray fur, large fluffy round ears with cream centers, cream belly, broad dark-gray oval nose, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "koala-bedtime-reading",
+      "subject": "The same small gentle gray koala character sitting and reading one open navy-blue bedtime picture book with simple blank illustrated pages and no text; soft warm-gray fur, large fluffy round ears with cream centers, cream belly, broad dark-gray oval nose, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "koala-warm-milk",
+      "subject": "The same small gentle gray koala character sitting and holding one small cream mug of warm milk with both paws, with one subtle curl of steam; soft warm-gray fur, large fluffy round ears with cream centers, cream belly, broad dark-gray oval nose, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "koala-brushing-teeth",
+      "subject": "The same small gentle gray koala character standing and brushing its teeth with one small mint-green toothbrush, mouth slightly open; soft warm-gray fur, large fluffy round ears with cream centers, cream belly, broad dark-gray oval nose, warm dark eyes and peach cheek patches; no toothpaste text"
+    },
+    {
+      "id": "koala-night-light",
+      "subject": "The same small gentle gray koala character sitting beside and touching one small glowing star-shaped amber night-light, with the light connected closely to the composition; soft warm-gray fur, large fluffy round ears with cream centers, cream belly, broad dark-gray oval nose, warm dark eyes and peach cheek patches; no room scene"
+    },
+    {
+      "id": "koala-yawning",
+      "subject": "The same small gentle gray koala character sitting and making a sleepy yawn with one paw near its mouth and eyes half closed; soft warm-gray fur, large fluffy round ears with cream centers, cream belly, broad dark-gray oval nose and peach cheek patches; no props"
+    },
+    {
+      "id": "koala-sleeping-blanket",
+      "subject": "The same small gentle gray koala character sleeping curled under one soft sage-green blanket with head, ears and forepaws visible; soft warm-gray fur, large fluffy round ears with cream centers, broad dark-gray oval nose, closed eyes and peach cheek patches"
+    },
+    {
+      "id": "dragon-tiny-flame",
+      "subject": "The same small friendly moss-green dragon hatchling standing and breathing one tiny connected orange flame; pale warm-cream segmented belly, muted golden horns and wing membranes, darker green rounded dorsal scutes, four short limbs, two small wings, one complete tapering tail, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "dragon-magic-wand",
+      "subject": "The same small friendly moss-green dragon hatchling standing and holding one short wooden magic wand with a small golden star tip; pale warm-cream segmented belly, muted golden horns and wing membranes, darker green rounded dorsal scutes, four short limbs, two small wings, one complete tapering tail, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "dragon-spellbook",
+      "subject": "The same small friendly moss-green dragon hatchling sitting and reading one open plum-colored spellbook with simple blank illustrated pages and no text; pale warm-cream segmented belly, muted golden horns and wing membranes, darker green rounded dorsal scutes, four short limbs, two small wings, one complete tapering tail, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "dragon-crystal-orb",
+      "subject": "The same small friendly moss-green dragon hatchling sitting and holding one small pale-blue crystal orb between both forepaws; pale warm-cream segmented belly, muted golden horns and wing membranes, darker green rounded dorsal scutes, four short limbs, two small wings, one complete tapering tail, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "dragon-flying",
+      "subject": "The same small friendly moss-green dragon hatchling flying joyfully with both small wings spread, four feet lifted and complete tail curving behind; pale warm-cream segmented belly, muted golden horns and wing membranes, darker green rounded dorsal scutes, warm dark eyes and peach cheek patches; no props or sky scene"
+    },
+    {
+      "id": "dragon-wizard-hat",
+      "subject": "The same small friendly moss-green dragon hatchling sitting proudly while wearing one simple plum wizard hat with a small golden star emblem; pale warm-cream segmented belly, muted golden horns and wing membranes, darker green rounded dorsal scutes, four short limbs, two small wings, one complete tapering tail, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "dragon-potion",
+      "subject": "The same small friendly moss-green dragon hatchling carefully holding one small round lavender potion bottle with a cork and one subtle curl of colored vapor; pale warm-cream segmented belly, muted golden horns and wing membranes, darker green rounded dorsal scutes, four short limbs, two small wings, one complete tapering tail, warm dark eyes and peach cheek patches"
+    },
+    {
+      "id": "dragon-sleeping-treasure",
+      "subject": "The same small friendly moss-green dragon hatchling sleeping curled around one compact pile of five large golden coins and one red gem; pale warm-cream segmented belly, muted golden horns and wing membranes, darker green rounded dorsal scutes, four short limbs, folded wings, one complete tapering tail, closed eyes and peach cheek patches"
+    },
+    {
+      "id": "cake-strawberry",
+      "subject": "One compact round vanilla birthday cake with pale pink frosting, a restrained strawberry drip, three fresh strawberry halves and two small cream swirls on top, presented as one isolated sticker on a simple cake board; no candles, face or writing"
+    },
+    {
+      "id": "cake-chocolate",
+      "subject": "One compact round chocolate birthday cake with matte cocoa frosting, a restrained dark chocolate drip, three broad frosting swirls and a few simple chocolate squares on top, presented as one isolated sticker on a simple cake board; no candles, face or writing"
+    },
+    {
+      "id": "cake-rainbow",
+      "subject": "One compact round birthday cake with smooth cream frosting and six broad rainbow-colored layers visible in one clean cut slice, topped by a small simple rainbow arch, presented as one connected isolated sticker on a cake board; no face or writing"
+    },
+    {
+      "id": "cake-floral",
+      "subject": "One compact round ivory birthday cake decorated sparsely with five broad hand-painted edible flowers in blush pink, pale yellow and muted blue with a few green leaves, presented as one isolated sticker on a cake board; no candles, face or writing"
+    },
+    {
+      "id": "cake-star",
+      "subject": "One compact five-point star-shaped birthday cake with warm golden frosting, a pale cream piped border and three small sugar stars on top, presented as one isolated sticker on a simple cake board; no candles, face or writing"
+    },
+    {
+      "id": "cake-fruit",
+      "subject": "One compact round birthday cake with pale cream frosting topped by a restrained arrangement of kiwi slices, orange segments, blueberries and one strawberry, presented as one isolated sticker on a simple cake board; no candles, face or writing"
+    },
+    {
+      "id": "cake-single-candle",
+      "subject": "One small round pastel-blue birthday cake with a cream piped border and exactly one short lit yellow candle centered on top, presented as one isolated sticker on a simple cake board; no numbers, face or writing"
+    },
+    {
+      "id": "cake-tiered",
+      "subject": "One compact two-tier birthday cake with muted lavender and cream frosting, sparse pearl dots and a small ribbon bow around the lower tier, presented as one isolated sticker on a simple cake board; no candles, face or writing"
+    },
+    {
+      "id": "otter-floating-leaf",
+      "subject": "The same small playful river otter character with warm chestnut-brown fur, a pale cream muzzle, throat and belly, tiny rounded ears, warm dark eyes, peach cheek patches, four short webbed feet and one long complete tapering tail lying on its back as if floating, with one small green leaf resting on its belly"
+    },
+    {
+      "id": "otter-river-stone",
+      "subject": "The same small playful river otter character with warm chestnut-brown fur, a pale cream muzzle, throat and belly, tiny rounded ears, warm dark eyes, peach cheek patches, four short webbed feet and one long complete tapering tail sitting upright and proudly holding one smooth blue-gray river stone between both forepaws"
+    },
+    {
+      "id": "otter-water-lily",
+      "subject": "The same small playful river otter character with warm chestnut-brown fur, a pale cream muzzle, throat and belly, tiny rounded ears, warm dark eyes, peach cheek patches, four short webbed feet and one long complete tapering tail swimming in a curved pose while holding one connected pale pink water lily"
+    },
+    {
+      "id": "otter-splashing",
+      "subject": "The same small playful river otter character with warm chestnut-brown fur, a pale cream muzzle, throat and belly, tiny rounded ears, warm dark eyes, peach cheek patches, four short webbed feet and one long complete tapering tail making a joyful little leap with three small connected blue water droplets around its feet"
+    },
+    {
+      "id": "otter-reed-flute",
+      "subject": "The same small playful river otter character with warm chestnut-brown fur, a pale cream muzzle, throat and belly, tiny rounded ears, warm dark eyes, peach cheek patches, four short webbed feet and one long complete tapering tail sitting and playing one simple hollow green river reed like a tiny flute"
+    },
+    {
+      "id": "otter-hugging-fish",
+      "subject": "The same small playful river otter character with warm chestnut-brown fur, a pale cream muzzle, throat and belly, tiny rounded ears, warm dark eyes, peach cheek patches, four short webbed feet and one long complete tapering tail sitting and gently hugging one small silver river fish against its cream belly"
+    },
+    {
+      "id": "otter-river-map",
+      "subject": "The same small playful river otter character with warm chestnut-brown fur, a pale cream muzzle, throat and belly, tiny rounded ears, warm dark eyes, peach cheek patches, four short webbed feet and one long complete tapering tail standing and studying one small folded illustrated river map with no writing"
+    },
+    {
+      "id": "otter-sleeping-reeds",
+      "subject": "The same small playful river otter character with warm chestnut-brown fur, a pale cream muzzle, throat and belly, tiny rounded ears, warm dark eyes, peach cheek patches, four short webbed feet and one long complete tapering tail sleeping curled around its own tail beside two short connected river reeds"
+    },
+    {
+      "id": "sloth-cozy-hammock",
+      "subject": "The same small gentle three-toed sloth character with warm taupe-brown fur, a pale cream face and belly, soft dark eye patches, a small dark nose, warm dark eyes, peach cheek patches, long curved arms, three clear claws on each visible limb and a tiny rounded body resting snugly in one small mustard-yellow fabric hammock"
+    },
+    {
+      "id": "sloth-hot-cocoa",
+      "subject": "The same small gentle three-toed sloth character with warm taupe-brown fur, a pale cream face and belly, soft dark eye patches, a small dark nose, warm dark eyes, peach cheek patches, long curved arms, three clear claws on each visible limb and a tiny rounded body sitting and holding one warm coral mug of cocoa with both hands, with two tiny connected steam curls"
+    },
+    {
+      "id": "sloth-reading-book",
+      "subject": "The same small gentle three-toed sloth character with warm taupe-brown fur, a pale cream face and belly, soft dark eye patches, a small dark nose, warm dark eyes, peach cheek patches, long curved arms, three clear claws on each visible limb and a tiny rounded body sitting comfortably and reading one open teal picture book with no writing"
+    },
+    {
+      "id": "sloth-knitted-scarf",
+      "subject": "The same small gentle three-toed sloth character with warm taupe-brown fur, a pale cream face and belly, soft dark eye patches, a small dark nose, warm dark eyes, peach cheek patches, long curved arms, three clear claws on each visible limb and a tiny rounded body standing in one long soft rust-orange knitted scarf wrapped loosely around its neck"
+    },
+    {
+      "id": "sloth-knitting",
+      "subject": "The same small gentle three-toed sloth character with warm taupe-brown fur, a pale cream face and belly, soft dark eye patches, a small dark nose, warm dark eyes, peach cheek patches, long curved arms, three clear claws on each visible limb and a tiny rounded body sitting and slowly knitting a small cream swatch with two wooden needles and one connected ball of sage yarn"
+    },
+    {
+      "id": "sloth-hugging-pillow",
+      "subject": "The same small gentle three-toed sloth character with warm taupe-brown fur, a pale cream face and belly, soft dark eye patches, a small dark nose, warm dark eyes, peach cheek patches, long curved arms, three clear claws on each visible limb and a tiny rounded body sitting and hugging one plump pale-blue crescent pillow with both long arms"
+    },
+    {
+      "id": "sloth-cozy-blanket",
+      "subject": "The same small gentle three-toed sloth character with warm taupe-brown fur, a pale cream face and belly, soft dark eye patches, a small dark nose, warm dark eyes, peach cheek patches, long curved arms, three clear claws on each visible limb and a tiny rounded body curled up under one soft patchwork blanket in muted cream, sage and peach"
+    },
+    {
+      "id": "sloth-sleeping-branch",
+      "subject": "The same small gentle three-toed sloth character with warm taupe-brown fur, a pale cream face and belly, soft dark eye patches, a small dark nose, warm dark eyes, peach cheek patches, long curved arms, three clear claws on each visible limb and a tiny rounded body sleeping while gently wrapped around one short sturdy tree branch, eyes closed"
+    },
+    {
+      "id": "owl-reading-book",
+      "subject": "The same small scholarly tawny-brown owl character with a round cream facial disk and belly, subtle darker wing markings, amber eyes behind small round brass spectacles, a short golden beak, two clear wings and two golden feet sitting and reading one open deep-blue book with no writing"
+    },
+    {
+      "id": "owl-writing-notes",
+      "subject": "The same small scholarly tawny-brown owl character with a round cream facial disk and belly, subtle darker wing markings, amber eyes behind small round brass spectacles, a short golden beak, two clear wings and two golden feet holding one short pencil over a small cream notebook with only simple blank lines and no readable writing"
+    },
+    {
+      "id": "owl-desk-lamp",
+      "subject": "The same small scholarly tawny-brown owl character with a round cream facial disk and belly, subtle darker wing markings, amber eyes behind small round brass spectacles, a short golden beak, two clear wings and two golden feet studying beside one compact connected brass desk lamp with a warm pale-yellow shade"
+    },
+    {
+      "id": "owl-study-globe",
+      "subject": "The same small scholarly tawny-brown owl character with a round cream facial disk and belly, subtle darker wing markings, amber eyes behind small round brass spectacles, a short golden beak, two clear wings and two golden feet standing beside one small connected teal-and-ochre globe with simple land shapes and no labels"
+    },
+    {
+      "id": "owl-telescope",
+      "subject": "The same small scholarly tawny-brown owl character with a round cream facial disk and belly, subtle darker wing markings, amber eyes behind small round brass spectacles, a short golden beak, two clear wings and two golden feet looking through one small connected midnight-blue telescope on a short brass tripod"
+    },
+    {
+      "id": "owl-book-stack",
+      "subject": "The same small scholarly tawny-brown owl character with a round cream facial disk and belly, subtle darker wing markings, amber eyes behind small round brass spectacles, a short golden beak, two clear wings and two golden feet perching on a neat stack of three closed books in muted teal, rust and cream, no text"
+    },
+    {
+      "id": "owl-quill",
+      "subject": "The same small scholarly tawny-brown owl character with a round cream facial disk and belly, subtle darker wing markings, amber eyes behind small round brass spectacles, a short golden beak, two clear wings and two golden feet holding one cream feather quill above a tiny dark-blue ink pot, all connected as one composition"
+    },
+    {
+      "id": "owl-sleepy-book",
+      "subject": "The same small scholarly tawny-brown owl character with a round cream facial disk and belly, subtle darker wing markings, amber eyes behind small round brass spectacles, a short golden beak, two clear wings and two golden feet sleeping with its cheek resting on one closed navy book, spectacles slightly lowered and eyes closed"
+    },
+    {
+      "id": "bee-flower-explorer",
+      "subject": "The same tiny cheerful honeybee character with a round golden-yellow body, three soft dark-brown stripes, a fuzzy cream collar, two translucent cream wings, two short antennae, six small readable limbs, warm dark eyes and peach cheek patches hovering beside one connected coral-pink garden flower and examining it with curiosity"
+    },
+    {
+      "id": "bee-pollen-basket",
+      "subject": "The same tiny cheerful honeybee character with a round golden-yellow body, three soft dark-brown stripes, a fuzzy cream collar, two translucent cream wings, two short antennae, six small readable limbs, warm dark eyes and peach cheek patches flying while carrying one tiny woven pollen basket filled with golden pollen between its lower legs"
+    },
+    {
+      "id": "bee-leaf-umbrella",
+      "subject": "The same tiny cheerful honeybee character with a round golden-yellow body, three soft dark-brown stripes, a fuzzy cream collar, two translucent cream wings, two short antennae, six small readable limbs, warm dark eyes and peach cheek patches holding one broad green leaf overhead like an umbrella with three small connected raindrops"
+    },
+    {
+      "id": "bee-watering-sprout",
+      "subject": "The same tiny cheerful honeybee character with a round golden-yellow body, three soft dark-brown stripes, a fuzzy cream collar, two translucent cream wings, two short antennae, six small readable limbs, warm dark eyes and peach cheek patches using one tiny mint-green watering can to water a connected two-leaf sprout"
+    },
+    {
+      "id": "bee-dandelion-ride",
+      "subject": "The same tiny cheerful honeybee character with a round golden-yellow body, three soft dark-brown stripes, a fuzzy cream collar, two translucent cream wings, two short antennae, six small readable limbs, warm dark eyes and peach cheek patches holding onto one large connected cream dandelion seed as if drifting through the air"
+    },
+    {
+      "id": "bee-adventure-map",
+      "subject": "The same tiny cheerful honeybee character with a round golden-yellow body, three soft dark-brown stripes, a fuzzy cream collar, two translucent cream wings, two short antennae, six small readable limbs, warm dark eyes and peach cheek patches wearing one tiny rust-orange satchel and reading a small folded map with no writing"
+    },
+    {
+      "id": "bee-honey-jar",
+      "subject": "The same tiny cheerful honeybee character with a round golden-yellow body, three soft dark-brown stripes, a fuzzy cream collar, two translucent cream wings, two short antennae, six small readable limbs, warm dark eyes and peach cheek patches sitting beside and hugging one small clear jar of golden honey with no label"
+    },
+    {
+      "id": "bee-sleeping-flower",
+      "subject": "The same tiny cheerful honeybee character with a round golden-yellow body, three soft dark-brown stripes, a fuzzy cream collar, two translucent cream wings, two short antennae, six small readable limbs, warm dark eyes and peach cheek patches sleeping curled inside one open pale-pink flower, wings relaxed and eyes closed"
+    },
+    {
+      "id": "snail-mushroom-shade",
+      "subject": "The same small friendly garden snail character with a warm beige body, two long eye stalks with dark round eyes, two short lower feelers, peach cheek patches, one large terracotta-coral spiral shell and one broad natural crawling foot crawling beneath one connected red-capped mushroom used as a tiny shade"
+    },
+    {
+      "id": "snail-watering-sprout",
+      "subject": "The same small friendly garden snail character with a warm beige body, two long eye stalks with dark round eyes, two short lower feelers, peach cheek patches, one large terracotta-coral spiral shell and one broad natural crawling foot holding one tiny mint-green watering can toward a connected two-leaf garden sprout"
+    },
+    {
+      "id": "snail-leaf-umbrella",
+      "subject": "The same small friendly garden snail character with a warm beige body, two long eye stalks with dark round eyes, two short lower feelers, peach cheek patches, one large terracotta-coral spiral shell and one broad natural crawling foot carrying one broad green leaf overhead like an umbrella with three connected raindrops"
+    },
+    {
+      "id": "snail-strawberry",
+      "subject": "The same small friendly garden snail character with a warm beige body, two long eye stalks with dark round eyes, two short lower feelers, peach cheek patches, one large terracotta-coral spiral shell and one broad natural crawling foot pausing beside one ripe connected strawberry and taking a tiny cheerful bite"
+    },
+    {
+      "id": "snail-flower-crown",
+      "subject": "The same small friendly garden snail character with a warm beige body, two long eye stalks with dark round eyes, two short lower feelers, peach cheek patches, one large terracotta-coral spiral shell and one broad natural crawling foot wearing one small crown of connected cream and yellow garden flowers around the base of its eye stalks"
+    },
+    {
+      "id": "snail-pebble-path",
+      "subject": "The same small friendly garden snail character with a warm beige body, two long eye stalks with dark round eyes, two short lower feelers, peach cheek patches, one large terracotta-coral spiral shell and one broad natural crawling foot carefully crossing three smooth connected blue-gray garden pebbles arranged in a short path"
+    },
+    {
+      "id": "snail-seed-satchel",
+      "subject": "The same small friendly garden snail character with a warm beige body, two long eye stalks with dark round eyes, two short lower feelers, peach cheek patches, one large terracotta-coral spiral shell and one broad natural crawling foot traveling with one tiny tan seed satchel attached neatly beside its shell"
+    },
+    {
+      "id": "snail-sleeping-clover",
+      "subject": "The same small friendly garden snail character with a warm beige body, two long eye stalks with dark round eyes, two short lower feelers, peach cheek patches, one large terracotta-coral spiral shell and one broad natural crawling foot sleeping peacefully curled beside one connected three-leaf clover, eye stalks relaxed"
+    },
+    {
+      "id": "elephant-colorful-ball",
+      "subject": "The same small playful baby elephant character with soft powder-blue skin, very large peach-pink inner ears, a short flexible trunk, warm dark eyes, peach cheek patches, four stout legs with pale toenails and one thin complete tail standing with one forefoot resting gently on a striped coral, cream and teal play ball"
+    },
+    {
+      "id": "elephant-bubbles",
+      "subject": "The same small playful baby elephant character with soft powder-blue skin, very large peach-pink inner ears, a short flexible trunk, warm dark eyes, peach cheek patches, four stout legs with pale toenails and one thin complete tail lifting its trunk to blow three connected translucent soap bubbles of different sizes"
+    },
+    {
+      "id": "elephant-kite",
+      "subject": "The same small playful baby elephant character with soft powder-blue skin, very large peach-pink inner ears, a short flexible trunk, warm dark eyes, peach cheek patches, four stout legs with pale toenails and one thin complete tail running while holding one connected small diamond kite in muted yellow and coral, with the short string fully visible"
+    },
+    {
+      "id": "elephant-blocks",
+      "subject": "The same small playful baby elephant character with soft powder-blue skin, very large peach-pink inner ears, a short flexible trunk, warm dark eyes, peach cheek patches, four stout legs with pale toenails and one thin complete tail sitting and stacking three plain wooden toy blocks with simple shapes and no letters or numbers"
+    },
+    {
+      "id": "elephant-water-splash",
+      "subject": "The same small playful baby elephant character with soft powder-blue skin, very large peach-pink inner ears, a short flexible trunk, warm dark eyes, peach cheek patches, four stout legs with pale toenails and one thin complete tail spraying one playful curved splash of clear blue water upward from its raised trunk"
+    },
+    {
+      "id": "elephant-pinwheel",
+      "subject": "The same small playful baby elephant character with soft powder-blue skin, very large peach-pink inner ears, a short flexible trunk, warm dark eyes, peach cheek patches, four stout legs with pale toenails and one thin complete tail sitting and holding one small connected four-blade pinwheel in coral, teal and cream"
+    },
+    {
+      "id": "elephant-flower",
+      "subject": "The same small playful baby elephant character with soft powder-blue skin, very large peach-pink inner ears, a short flexible trunk, warm dark eyes, peach cheek patches, four stout legs with pale toenails and one thin complete tail standing and offering one connected yellow daisy held carefully in the tip of its trunk"
+    },
+    {
+      "id": "elephant-sleeping-plush",
+      "subject": "The same small playful baby elephant character with soft powder-blue skin, very large peach-pink inner ears, a short flexible trunk, warm dark eyes, peach cheek patches, four stout legs with pale toenails and one thin complete tail sleeping curled up while hugging one small cream bunny plush toy, eyes closed"
+    },
+    {
+      "id": "monkey-swinging-vine",
+      "subject": "The same small adventurous monkey character with warm golden-brown fur, a pale cream face, rounded ears and belly, warm dark eyes, peach cheek patches, four natural grasping limbs and one long complete curled tail swinging joyfully from one thick connected green jungle vine with both hands"
+    },
+    {
+      "id": "monkey-banana",
+      "subject": "The same small adventurous monkey character with warm golden-brown fur, a pale cream face, rounded ears and belly, warm dark eyes, peach cheek patches, four natural grasping limbs and one long complete curled tail sitting and happily holding one peeled yellow banana with both hands"
+    },
+    {
+      "id": "monkey-coconut-drink",
+      "subject": "The same small adventurous monkey character with warm golden-brown fur, a pale cream face, rounded ears and belly, warm dark eyes, peach cheek patches, four natural grasping limbs and one long complete curled tail sitting and sipping from one green coconut through a short bamboo straw"
+    },
+    {
+      "id": "monkey-butterfly",
+      "subject": "The same small adventurous monkey character with warm golden-brown fur, a pale cream face, rounded ears and belly, warm dark eyes, peach cheek patches, four natural grasping limbs and one long complete curled tail crouching curiously with one small connected blue butterfly resting on the tip of its tail"
+    },
+    {
+      "id": "monkey-jungle-map",
+      "subject": "The same small adventurous monkey character with warm golden-brown fur, a pale cream face, rounded ears and belly, warm dark eyes, peach cheek patches, four natural grasping limbs and one long complete curled tail standing and studying one folded illustrated jungle map with no writing"
+    },
+    {
+      "id": "monkey-leaf-umbrella",
+      "subject": "The same small adventurous monkey character with warm golden-brown fur, a pale cream face, rounded ears and belly, warm dark eyes, peach cheek patches, four natural grasping limbs and one long complete curled tail holding one very broad green jungle leaf overhead like an umbrella with three connected raindrops"
+    },
+    {
+      "id": "monkey-jungle-drum",
+      "subject": "The same small adventurous monkey character with warm golden-brown fur, a pale cream face, rounded ears and belly, warm dark eyes, peach cheek patches, four natural grasping limbs and one long complete curled tail sitting and tapping one small connected hollow-log drum with both hands"
+    },
+    {
+      "id": "monkey-sleeping-hammock",
+      "subject": "The same small adventurous monkey character with warm golden-brown fur, a pale cream face, rounded ears and belly, warm dark eyes, peach cheek patches, four natural grasping limbs and one long complete curled tail sleeping curled in one small woven leaf hammock, its full tail tucked visibly around the body"
+    },
+    {
+      "id": "ghost-pumpkin",
+      "subject": "The same small friendly ivory-white ghost character with a rounded floating body, two short arm-like folds, a soft scalloped lower edge, two warm dark oval eyes, a tiny smiling mouth and peach cheek patches floating while hugging one small orange jack-o-lantern pumpkin with a friendly simple face"
+    },
+    {
+      "id": "ghost-witch-hat",
+      "subject": "The same small friendly ivory-white ghost character with a rounded floating body, two short arm-like folds, a soft scalloped lower edge, two warm dark oval eyes, a tiny smiling mouth and peach cheek patches wearing one floppy deep-purple witch hat with a muted gold buckle"
+    },
+    {
+      "id": "ghost-lantern",
+      "subject": "The same small friendly ivory-white ghost character with a rounded floating body, two short arm-like folds, a soft scalloped lower edge, two warm dark oval eyes, a tiny smiling mouth and peach cheek patches carrying one small connected brass lantern glowing soft lavender"
+    },
+    {
+      "id": "ghost-candy-basket",
+      "subject": "The same small friendly ivory-white ghost character with a rounded floating body, two short arm-like folds, a soft scalloped lower edge, two warm dark oval eyes, a tiny smiling mouth and peach cheek patches holding one tiny pumpkin-shaped candy basket containing three simple wrapped candies, no labels"
+    },
+    {
+      "id": "ghost-broomstick",
+      "subject": "The same small friendly ivory-white ghost character with a rounded floating body, two short arm-like folds, a soft scalloped lower edge, two warm dark oval eyes, a tiny smiling mouth and peach cheek patches riding one short connected wooden broomstick in a playful upward pose"
+    },
+    {
+      "id": "ghost-potion",
+      "subject": "The same small friendly ivory-white ghost character with a rounded floating body, two short arm-like folds, a soft scalloped lower edge, two warm dark oval eyes, a tiny smiling mouth and peach cheek patches holding one small round purple potion bottle with a cork and two tiny connected magic sparkles"
+    },
+    {
+      "id": "ghost-happy-dance",
+      "subject": "The same small friendly ivory-white ghost character with a rounded floating body, two short arm-like folds, a soft scalloped lower edge, two warm dark oval eyes, a tiny smiling mouth and peach cheek patches doing a joyful floating dance with three connected orange autumn leaves swirling nearby"
+    },
+    {
+      "id": "ghost-sleeping-moon",
+      "subject": "The same small friendly ivory-white ghost character with a rounded floating body, two short arm-like folds, a soft scalloped lower edge, two warm dark oval eyes, a tiny smiling mouth and peach cheek patches sleeping while hugging one soft muted-yellow crescent-moon pillow, eyes closed"
+    },
+    {
+      "id": "squirrel-acorn",
+      "subject": "Draw the same playful little forest squirrel with warm russet fur, a cream muzzle and belly, tufted ears, dark eyes, peach cheeks, four small paws and one complete large curled fluffy tail sitting and holding one large acorn"
+    },
+    {
+      "id": "squirrel-tree-branch",
+      "subject": "Draw the same playful little forest squirrel with warm russet fur, a cream muzzle and belly, tufted ears, dark eyes, peach cheeks, four small paws and one complete large curled fluffy tail balancing on one short leafy tree branch"
+    },
+    {
+      "id": "squirrel-leaf-umbrella",
+      "subject": "Draw the same playful little forest squirrel with warm russet fur, a cream muzzle and belly, tufted ears, dark eyes, peach cheeks, four small paws and one complete large curled fluffy tail holding a broad green leaf overhead like an umbrella"
+    },
+    {
+      "id": "squirrel-jumping",
+      "subject": "Draw the same playful little forest squirrel with warm russet fur, a cream muzzle and belly, tufted ears, dark eyes, peach cheeks, four small paws and one complete large curled fluffy tail making a cheerful leap with the complete tail visible"
+    },
+    {
+      "id": "squirrel-forest-map",
+      "subject": "Draw the same playful little forest squirrel with warm russet fur, a cream muzzle and belly, tufted ears, dark eyes, peach cheeks, four small paws and one complete large curled fluffy tail studying one tiny illustrated forest map with no writing"
+    },
+    {
+      "id": "squirrel-walnut",
+      "subject": "Draw the same playful little forest squirrel with warm russet fur, a cream muzzle and belly, tufted ears, dark eyes, peach cheeks, four small paws and one complete large curled fluffy tail sitting and opening one walnut"
+    },
+    {
+      "id": "squirrel-sleeping-nest",
+      "subject": "Draw the same playful little forest squirrel with warm russet fur, a cream muzzle and belly, tufted ears, dark eyes, peach cheeks, four small paws and one complete large curled fluffy tail sleeping curled in a small connected leaf nest"
+    },
+    {
+      "id": "squirrel-chestnut-basket",
+      "subject": "Draw the same playful little forest squirrel with warm russet fur, a cream muzzle and belly, tufted ears, dark eyes, peach cheeks, four small paws and one complete large curled fluffy tail walking while hugging one small wicker basket full of ripe chestnuts"
+    },
+    {
+      "id": "chestnut-branch",
+      "subject": "A short chestnut branch bearing three brown nuts inside green spiky burrs"
+    },
+    {
+      "id": "chestnut-open-burr",
+      "subject": "One open spiky chestnut burr revealing two polished brown chestnuts"
+    },
+    {
+      "id": "chestnut-harvest-basket",
+      "subject": "A small wicker basket filled with freshly harvested chestnuts"
+    },
+    {
+      "id": "chestnut-roasting-pan",
+      "subject": "A small handled roasting pan holding four warm roasted chestnuts"
+    },
+    {
+      "id": "chestnut-paper-cone",
+      "subject": "A folded kraft paper cone containing a handful of roasted chestnuts, no writing"
+    },
+    {
+      "id": "chestnut-cream-cake",
+      "subject": "A small chestnut cream cake with a single glossy chestnut garnish"
+    },
+    {
+      "id": "chestnut-leaf-cluster",
+      "subject": "A short chestnut twig with three golden autumn leaves and two nuts"
+    },
+    {
+      "id": "hedgehog-apple",
+      "subject": "Draw the same small cheerful hedgehog with a warm tan face and belly, soft rounded brown spines, tiny ears, dark eyes, peach cheeks and four short paws sitting and holding one red apple"
+    },
+    {
+      "id": "hedgehog-leaf-hat",
+      "subject": "Draw the same small cheerful hedgehog with a warm tan face and belly, soft rounded brown spines, tiny ears, dark eyes, peach cheeks and four short paws wearing one large golden autumn leaf like a hat"
+    },
+    {
+      "id": "hedgehog-mushroom",
+      "subject": "Draw the same small cheerful hedgehog with a warm tan face and belly, soft rounded brown spines, tiny ears, dark eyes, peach cheeks and four short paws standing beside one small connected woodland mushroom"
+    },
+    {
+      "id": "hedgehog-rain-boots",
+      "subject": "Draw the same small cheerful hedgehog with a warm tan face and belly, soft rounded brown spines, tiny ears, dark eyes, peach cheeks and four short paws wearing a pair of tiny green rain boots"
+    },
+    {
+      "id": "hedgehog-butterfly",
+      "subject": "Draw the same small cheerful hedgehog with a warm tan face and belly, soft rounded brown spines, tiny ears, dark eyes, peach cheeks and four short paws watching one small blue butterfly perched on a spine"
+    },
+    {
+      "id": "hedgehog-happy-jump",
+      "subject": "Draw the same small cheerful hedgehog with a warm tan face and belly, soft rounded brown spines, tiny ears, dark eyes, peach cheeks and four short paws making a little joyful hop with all four paws readable"
+    },
+    {
+      "id": "hedgehog-sleeping",
+      "subject": "Draw the same small cheerful hedgehog with a warm tan face and belly, soft rounded brown spines, tiny ears, dark eyes, peach cheeks and four short paws sleeping curled in a round pose with its face still visible"
+    },
+    {
+      "id": "hedgehog-pumpkin-hug",
+      "subject": "Draw the same small cheerful hedgehog with a warm tan face and belly, soft rounded brown spines, tiny ears, dark eyes, peach cheeks and four short paws sitting and hugging one small uncarved orange pumpkin"
+    },
+    {
+      "id": "pumpkin-seedling",
+      "subject": "A young pumpkin seedling with two broad green leaves in a little soil clump"
+    },
+    {
+      "id": "pumpkin-vine",
+      "subject": "A short curling pumpkin vine with one small green pumpkin and yellow blossom"
+    },
+    {
+      "id": "pumpkin-harvest",
+      "subject": "A compact group of three ripe orange pumpkins of different sizes"
+    },
+    {
+      "id": "pumpkin-wicker-basket",
+      "subject": "A low wicker basket holding two small orange pumpkins"
+    },
+    {
+      "id": "pumpkin-slice",
+      "subject": "One cut pumpkin wedge showing orange flesh and pale seeds"
+    },
+    {
+      "id": "pumpkin-pie",
+      "subject": "One round pumpkin pie with a neat slice removed"
+    },
+    {
+      "id": "pumpkin-lantern",
+      "subject": "One friendly carved pumpkin lantern with a warm candle glow and no face on any other object"
+    },
+    {
+      "id": "raccoon-apple",
+      "subject": "Draw the same small friendly raccoon with warm gray-brown fur, cream face markings, a dark natural eye mask, dark paws, peach cheeks and one long complete ringed tail sitting and holding one red apple"
+    },
+    {
+      "id": "raccoon-reading",
+      "subject": "Draw the same small friendly raccoon with warm gray-brown fur, cream face markings, a dark natural eye mask, dark paws, peach cheeks and one long complete ringed tail reading one open teal picture book with no writing"
+    },
+    {
+      "id": "raccoon-umbrella",
+      "subject": "Draw the same small friendly raccoon with warm gray-brown fur, cream face markings, a dark natural eye mask, dark paws, peach cheeks and one long complete ringed tail holding one compact yellow umbrella"
+    },
+    {
+      "id": "raccoon-hiking",
+      "subject": "Draw the same small friendly raccoon with warm gray-brown fur, cream face markings, a dark natural eye mask, dark paws, peach cheeks and one long complete ringed tail walking with one small rust-orange backpack"
+    },
+    {
+      "id": "raccoon-binoculars",
+      "subject": "Draw the same small friendly raccoon with warm gray-brown fur, cream face markings, a dark natural eye mask, dark paws, peach cheeks and one long complete ringed tail looking through one pair of small brass binoculars"
+    },
+    {
+      "id": "raccoon-marshmallow",
+      "subject": "Draw the same small friendly raccoon with warm gray-brown fur, cream face markings, a dark natural eye mask, dark paws, peach cheeks and one long complete ringed tail sitting and holding one toasted marshmallow on a short stick"
+    },
+    {
+      "id": "raccoon-sleeping",
+      "subject": "Draw the same small friendly raccoon with warm gray-brown fur, cream face markings, a dark natural eye mask, dark paws, peach cheeks and one long complete ringed tail sleeping curled around its striped tail"
+    },
+    {
+      "id": "raccoon-lakeside-fishing",
+      "subject": "Draw the same small friendly raccoon with warm gray-brown fur, cream face markings, a dark natural eye mask, dark paws, peach cheeks and one long complete ringed tail sitting beside one small connected teal camping tent while holding a simple fishing rod"
+    },
+    {
+      "id": "lakeside-tent",
+      "subject": "One small teal canvas camping tent with its opening clearly visible"
+    },
+    {
+      "id": "lakeside-campfire",
+      "subject": "A compact safe campfire of three logs and a small orange flame"
+    },
+    {
+      "id": "lakeside-canteen",
+      "subject": "A muted green metal camping canteen with a shoulder strap"
+    },
+    {
+      "id": "lakeside-fishing-rod",
+      "subject": "One simple wooden fishing rod with an attached line, float and hook"
+    },
+    {
+      "id": "lakeside-rowboat",
+      "subject": "One small wooden rowboat with two short oars inside"
+    },
+    {
+      "id": "lakeside-lantern",
+      "subject": "A brass camping lantern with a warm pale yellow glow"
+    },
+    {
+      "id": "lakeside-sleeping-bag",
+      "subject": "One rolled rust-orange sleeping bag fastened with two straps"
+    },
+    {
+      "id": "mouse-schoolbag",
+      "subject": "Draw the same little school mouse with warm light-brown fur, a cream muzzle and belly, large round pink inner ears, small dark eyes, peach cheeks, four tiny paws and one complete thin pink tail wearing one small teal schoolbag"
+    },
+    {
+      "id": "mouse-reading",
+      "subject": "Draw the same little school mouse with warm light-brown fur, a cream muzzle and belly, large round pink inner ears, small dark eyes, peach cheeks, four tiny paws and one complete thin pink tail reading one open cream picture book with no writing"
+    },
+    {
+      "id": "mouse-writing",
+      "subject": "Draw the same little school mouse with warm light-brown fur, a cream muzzle and belly, large round pink inner ears, small dark eyes, peach cheeks, four tiny paws and one complete thin pink tail writing with one short pencil on a small blank notebook"
+    },
+    {
+      "id": "mouse-ruler",
+      "subject": "Draw the same little school mouse with warm light-brown fur, a cream muzzle and belly, large round pink inner ears, small dark eyes, peach cheeks, four tiny paws and one complete thin pink tail holding one simple wooden ruler without numbers"
+    },
+    {
+      "id": "mouse-lunchbox",
+      "subject": "Draw the same little school mouse with warm light-brown fur, a cream muzzle and belly, large round pink inner ears, small dark eyes, peach cheeks, four tiny paws and one complete thin pink tail sitting and opening one small yellow lunchbox"
+    },
+    {
+      "id": "mouse-globe",
+      "subject": "Draw the same little school mouse with warm light-brown fur, a cream muzzle and belly, large round pink inner ears, small dark eyes, peach cheeks, four tiny paws and one complete thin pink tail standing beside one tiny classroom globe without labels"
+    },
+    {
+      "id": "mouse-sleeping-books",
+      "subject": "Draw the same little school mouse with warm light-brown fur, a cream muzzle and belly, large round pink inner ears, small dark eyes, peach cheeks, four tiny paws and one complete thin pink tail sleeping against a stack of two closed school books"
+    },
+    {
+      "id": "mouse-color-pencil-box",
+      "subject": "Draw the same little school mouse with warm light-brown fur, a cream muzzle and belly, large round pink inner ears, small dark eyes, peach cheeks, four tiny paws and one complete thin pink tail sitting and proudly holding one small open box of colored pencils"
+    },
+    {
+      "id": "art-colored-pencils",
+      "subject": "A tidy cup holding six colored pencils with no writing"
+    },
+    {
+      "id": "art-watercolor-palette",
+      "subject": "A small oval watercolor palette with six muted paint wells"
+    },
+    {
+      "id": "art-paintbrushes",
+      "subject": "Three varied paintbrushes tied together with one pale ribbon"
+    },
+    {
+      "id": "art-sketchbook",
+      "subject": "An open sketchbook showing one simple flower drawing and no text"
+    },
+    {
+      "id": "art-small-easel",
+      "subject": "A little wooden table easel holding a blank cream canvas"
+    },
+    {
+      "id": "art-clay-pot",
+      "subject": "A small unfinished terracotta pinch pot with a lump of clay"
+    },
+    {
+      "id": "art-paper-collage",
+      "subject": "A compact layered paper collage of a flower, leaf and sun cut from colored paper"
+    },
+    {
+      "id": "lamb-winter-hat",
+      "subject": "Draw the same small gentle lamb with fluffy warm-cream fleece, a pale peach face and inner ears, little dark eyes, blush cheeks, four short legs and tiny hooves wearing one red knitted winter hat"
+    },
+    {
+      "id": "lamb-snowflake",
+      "subject": "Draw the same small gentle lamb with fluffy warm-cream fleece, a pale peach face and inner ears, little dark eyes, blush cheeks, four short legs and tiny hooves looking up at one large connected pale-blue snowflake"
+    },
+    {
+      "id": "lamb-sled",
+      "subject": "Draw the same small gentle lamb with fluffy warm-cream fleece, a pale peach face and inner ears, little dark eyes, blush cheeks, four short legs and tiny hooves sitting on one small wooden sled"
+    },
+    {
+      "id": "lamb-snowball",
+      "subject": "Draw the same small gentle lamb with fluffy warm-cream fleece, a pale peach face and inner ears, little dark eyes, blush cheeks, four short legs and tiny hooves holding one neat round snowball between its front hooves"
+    },
+    {
+      "id": "lamb-cocoa",
+      "subject": "Draw the same small gentle lamb with fluffy warm-cream fleece, a pale peach face and inner ears, little dark eyes, blush cheeks, four short legs and tiny hooves sitting and holding one small steaming coral mug of cocoa"
+    },
+    {
+      "id": "lamb-mittens",
+      "subject": "Draw the same small gentle lamb with fluffy warm-cream fleece, a pale peach face and inner ears, little dark eyes, blush cheeks, four short legs and tiny hooves wearing one pair of muted teal knitted mittens"
+    },
+    {
+      "id": "lamb-sleeping-blanket",
+      "subject": "Draw the same small gentle lamb with fluffy warm-cream fleece, a pale peach face and inner ears, little dark eyes, blush cheeks, four short legs and tiny hooves sleeping under one soft sage-green knitted blanket"
+    },
+    {
+      "id": "lamb-red-scarf",
+      "subject": "Draw the same small gentle lamb with fluffy warm-cream fleece, a pale peach face and inner ears, little dark eyes, blush cheeks, four short legs and tiny hooves standing and wearing one long red knitted scarf wrapped loosely around its neck"
+    },
+    {
+      "id": "knit-pom-hat",
+      "subject": "One rust-red knitted pom-pom hat with a simple ribbed cuff"
+    },
+    {
+      "id": "knit-cream-sweater",
+      "subject": "One cream cable-knit sweater laid flat, no logo"
+    },
+    {
+      "id": "knit-striped-socks",
+      "subject": "One matching pair of striped knitted socks"
+    },
+    {
+      "id": "knit-earmuffs",
+      "subject": "One pair of soft knitted ear warmers joined by a curved headband"
+    },
+    {
+      "id": "knit-shawl",
+      "subject": "One folded sage-green knitted shawl with simple fringe"
+    },
+    {
+      "id": "knit-baby-booties",
+      "subject": "One matching pair of tiny pale-blue knitted baby booties"
+    },
+    {
+      "id": "knit-yarn-basket",
+      "subject": "One wicker basket holding three balls of yarn and two wooden knitting needles"
+    },
+    {
+      "id": "turtle-strawberry",
+      "subject": "Draw the same small friendly freshwater turtle with an olive-green head and four short legs, a rounded warm-brown segmented shell, dark eyes, peach cheeks and one tiny complete tail sitting and holding one red strawberry"
+    },
+    {
+      "id": "turtle-rain-leaf",
+      "subject": "Draw the same small friendly freshwater turtle with an olive-green head and four short legs, a rounded warm-brown segmented shell, dark eyes, peach cheeks and one tiny complete tail sheltering under one broad green leaf with three connected raindrops"
+    },
+    {
+      "id": "turtle-map",
+      "subject": "Draw the same small friendly freshwater turtle with an olive-green head and four short legs, a rounded warm-brown segmented shell, dark eyes, peach cheeks and one tiny complete tail studying one tiny illustrated pond map with no writing"
+    },
+    {
+      "id": "turtle-water-lily",
+      "subject": "Draw the same small friendly freshwater turtle with an olive-green head and four short legs, a rounded warm-brown segmented shell, dark eyes, peach cheeks and one tiny complete tail holding one pale-pink water lily flower"
+    },
+    {
+      "id": "turtle-pond-dive",
+      "subject": "Draw the same small friendly freshwater turtle with an olive-green head and four short legs, a rounded warm-brown segmented shell, dark eyes, peach cheeks and one tiny complete tail making a gentle diving pose with a few connected blue droplets"
+    },
+    {
+      "id": "turtle-butterfly",
+      "subject": "Draw the same small friendly freshwater turtle with an olive-green head and four short legs, a rounded warm-brown segmented shell, dark eyes, peach cheeks and one tiny complete tail watching one small blue butterfly perched on its shell"
+    },
+    {
+      "id": "turtle-sleeping",
+      "subject": "Draw the same small friendly freshwater turtle with an olive-green head and four short legs, a rounded warm-brown segmented shell, dark eyes, peach cheeks and one tiny complete tail sleeping with its head tucked softly against its shell"
+    },
+    {
+      "id": "turtle-lotus-leaf",
+      "subject": "Draw the same small friendly freshwater turtle with an olive-green head and four short legs, a rounded warm-brown segmented shell, dark eyes, peach cheeks and one tiny complete tail sitting peacefully on one broad floating lotus leaf with a small pink lotus bud beside it"
+    },
+    {
+      "id": "lotus-pink-bloom",
+      "subject": "One open pink lotus flower on a short green stem with two broad leaves"
+    },
+    {
+      "id": "lotus-white-bud",
+      "subject": "One closed ivory lotus bud on a curved stem"
+    },
+    {
+      "id": "lotus-seed-pod",
+      "subject": "One green lotus seed pod with clearly visible round seeds"
+    },
+    {
+      "id": "lotus-floating-leaf",
+      "subject": "One broad round floating lotus leaf with a small bead of water"
+    },
+    {
+      "id": "lotus-dragonfly",
+      "subject": "One blue dragonfly perched on a short lotus stem"
+    },
+    {
+      "id": "lotus-frog",
+      "subject": "One small green frog resting on a lotus leaf"
+    },
+    {
+      "id": "lotus-pond-fish",
+      "subject": "One small golden pond fish swimming beside a connected lotus leaf"
+    },
+    {
+      "id": "robot-watering-plant",
+      "subject": "Draw the same small helpful friendly robot with a rounded cream metal body, muted teal panels, two short jointed arms, two short legs, dark oval eyes on a simple face plate and a tiny orange antenna watering one small connected potted green plant with a little can"
+    },
+    {
+      "id": "robot-reading-manual",
+      "subject": "Draw the same small helpful friendly robot with a rounded cream metal body, muted teal panels, two short jointed arms, two short legs, dark oval eyes on a simple face plate and a tiny orange antenna holding one open picture manual with no writing"
+    },
+    {
+      "id": "robot-toolbox",
+      "subject": "Draw the same small helpful friendly robot with a rounded cream metal body, muted teal panels, two short jointed arms, two short legs, dark oval eyes on a simple face plate and a tiny orange antenna carrying one small red toolbox with simple tools visible"
+    },
+    {
+      "id": "robot-lightbulb",
+      "subject": "Draw the same small helpful friendly robot with a rounded cream metal body, muted teal panels, two short jointed arms, two short legs, dark oval eyes on a simple face plate and a tiny orange antenna holding one warm yellow lightbulb while thinking"
+    },
+    {
+      "id": "robot-cleaning",
+      "subject": "Draw the same small helpful friendly robot with a rounded cream metal body, muted teal panels, two short jointed arms, two short legs, dark oval eyes on a simple face plate and a tiny orange antenna using one soft cloth to clean its own arm panel"
+    },
+    {
+      "id": "robot-greeting",
+      "subject": "Draw the same small helpful friendly robot with a rounded cream metal body, muted teal panels, two short jointed arms, two short legs, dark oval eyes on a simple face plate and a tiny orange antenna standing and waving one jointed hand"
+    },
+    {
+      "id": "robot-sleep-mode",
+      "subject": "Draw the same small helpful friendly robot with a rounded cream metal body, muted teal panels, two short jointed arms, two short legs, dark oval eyes on a simple face plate and a tiny orange antenna sitting with eyes softly closed and antenna folded"
+    },
+    {
+      "id": "robot-bicycle-ride",
+      "subject": "Draw the same small helpful friendly robot with a rounded cream metal body, muted teal panels, two short jointed arms, two short legs, dark oval eyes on a simple face plate and a tiny orange antenna riding one small teal bicycle with both wheels and its whole body visible"
+    },
+    {
+      "id": "bicycle-city",
+      "subject": "One compact mint-green city bicycle with a low step-through frame"
+    },
+    {
+      "id": "bicycle-mountain",
+      "subject": "One muted orange mountain bicycle with broad knobby tires"
+    },
+    {
+      "id": "bicycle-cargo",
+      "subject": "One small blue cargo bicycle with a wooden front basket"
+    },
+    {
+      "id": "bicycle-kids",
+      "subject": "One small yellow children's bicycle with training wheels"
+    },
+    {
+      "id": "bicycle-folding",
+      "subject": "One neatly folded teal folding bicycle with small wheels"
+    },
+    {
+      "id": "bicycle-tandem",
+      "subject": "One red tandem bicycle with two saddles and two sets of pedals"
+    },
+    {
+      "id": "bicycle-basket-flowers",
+      "subject": "One cream bicycle with a front wicker basket of flowers"
+    },
+    {
+      "id": "seal-clapping",
+      "subject": "Draw the same small playful harbor seal with a rounded pale silver-gray body, darker gentle spots, short whiskers, warm dark eyes, peach cheeks, two front flippers and two rear flippers sitting upright and clapping its two front flippers"
+    },
+    {
+      "id": "seal-fish",
+      "subject": "Draw the same small playful harbor seal with a rounded pale silver-gray body, darker gentle spots, short whiskers, warm dark eyes, peach cheeks, two front flippers and two rear flippers hugging one small silver fish"
+    },
+    {
+      "id": "seal-swim-ring",
+      "subject": "Draw the same small playful harbor seal with a rounded pale silver-gray body, darker gentle spots, short whiskers, warm dark eyes, peach cheeks, two front flippers and two rear flippers floating through one simple coral-and-cream swim ring"
+    },
+    {
+      "id": "seal-beach-ball",
+      "subject": "Draw the same small playful harbor seal with a rounded pale silver-gray body, darker gentle spots, short whiskers, warm dark eyes, peach cheeks, two front flippers and two rear flippers balancing one small striped beach ball on its nose"
+    },
+    {
+      "id": "seal-snowball",
+      "subject": "Draw the same small playful harbor seal with a rounded pale silver-gray body, darker gentle spots, short whiskers, warm dark eyes, peach cheeks, two front flippers and two rear flippers nudging one round snowball with a front flipper"
+    },
+    {
+      "id": "seal-sled",
+      "subject": "Draw the same small playful harbor seal with a rounded pale silver-gray body, darker gentle spots, short whiskers, warm dark eyes, peach cheeks, two front flippers and two rear flippers sitting on one small connected wooden sled"
+    },
+    {
+      "id": "seal-sleeping",
+      "subject": "Draw the same small playful harbor seal with a rounded pale silver-gray body, darker gentle spots, short whiskers, warm dark eyes, peach cheeks, two front flippers and two rear flippers sleeping curled with its flippers tucked and whiskers visible"
+    },
+    {
+      "id": "seal-ice-skates",
+      "subject": "Draw the same small playful harbor seal with a rounded pale silver-gray body, darker gentle spots, short whiskers, warm dark eyes, peach cheeks, two front flippers and two rear flippers wearing one matching pair of small pale-blue ice skates while making a gentle gliding pose"
+    },
+    {
+      "id": "ice-frozen-pond",
+      "subject": "A compact irregular oval of pale-blue frozen pond ice with a few broad soft painted streaks"
+    },
+    {
+      "id": "ice-fishing-hole",
+      "subject": "A small circular ice-fishing hole with one short wooden fishing rod and float"
+    },
+    {
+      "id": "ice-lantern",
+      "subject": "One clear ice lantern holding a warm small candle"
+    },
+    {
+      "id": "ice-skate-pair",
+      "subject": "One matching pair of pale-blue figure skates tied together by their laces"
+    },
+    {
+      "id": "ice-sled",
+      "subject": "One compact wooden sled with curved runners and a short pull rope"
+    },
+    {
+      "id": "ice-snow-crystal",
+      "subject": "One large delicate six-point snow crystal with broad readable branches"
+    },
+    {
+      "id": "ice-thermos",
+      "subject": "One teal winter thermos with its cap used as a small cup"
+    },
+    {
+      "id": "polar-bear-scarf",
+      "subject": "Draw the same small gentle polar bear cub with warm ivory-white fur, rounded ears, a cream muzzle, a small charcoal nose, dark eyes, peach cheeks, four short paws and a tiny round tail wearing one soft pale-blue winter scarf"
+    },
+    {
+      "id": "polar-bear-snowflake",
+      "subject": "Draw the same small gentle polar bear cub with warm ivory-white fur, rounded ears, a cream muzzle, a small charcoal nose, dark eyes, peach cheeks, four short paws and a tiny round tail looking up at one connected pale-blue snowflake"
+    },
+    {
+      "id": "polar-bear-fishing",
+      "subject": "Draw the same small gentle polar bear cub with warm ivory-white fur, rounded ears, a cream muzzle, a small charcoal nose, dark eyes, peach cheeks, four short paws and a tiny round tail holding one short ice-fishing rod beside a small connected blue hole"
+    },
+    {
+      "id": "polar-bear-cocoa",
+      "subject": "Draw the same small gentle polar bear cub with warm ivory-white fur, rounded ears, a cream muzzle, a small charcoal nose, dark eyes, peach cheeks, four short paws and a tiny round tail sitting and holding one coral mug of cocoa"
+    },
+    {
+      "id": "polar-bear-sled",
+      "subject": "Draw the same small gentle polar bear cub with warm ivory-white fur, rounded ears, a cream muzzle, a small charcoal nose, dark eyes, peach cheeks, four short paws and a tiny round tail riding one little wooden sled"
+    },
+    {
+      "id": "polar-bear-snowman",
+      "subject": "Draw the same small gentle polar bear cub with warm ivory-white fur, rounded ears, a cream muzzle, a small charcoal nose, dark eyes, peach cheeks, four short paws and a tiny round tail sitting beside one tiny connected snowman made from two snowballs"
+    },
+    {
+      "id": "polar-bear-sleeping",
+      "subject": "Draw the same small gentle polar bear cub with warm ivory-white fur, rounded ears, a cream muzzle, a small charcoal nose, dark eyes, peach cheeks, four short paws and a tiny round tail sleeping curled under a small blue blanket"
+    },
+    {
+      "id": "polar-bear-strawberry-cone",
+      "subject": "Draw the same small gentle polar bear cub with warm ivory-white fur, rounded ears, a cream muzzle, a small charcoal nose, dark eyes, peach cheeks, four short paws and a tiny round tail sitting and holding one waffle cone with a single scoop of pink strawberry ice cream and a tiny strawberry garnish"
+    },
+    {
+      "id": "icecream-mango",
+      "subject": "One waffle cone with a single scoop of golden mango ice cream and a tiny mango slice"
+    },
+    {
+      "id": "icecream-blueberry",
+      "subject": "One waffle cone with a single scoop of muted purple blueberry ice cream and two blueberries"
+    },
+    {
+      "id": "icecream-kiwi",
+      "subject": "One waffle cone with a single scoop of pale-green kiwi ice cream and one kiwi slice"
+    },
+    {
+      "id": "icecream-peach",
+      "subject": "One waffle cone with a single scoop of soft peach ice cream and one peach wedge"
+    },
+    {
+      "id": "icecream-banana",
+      "subject": "One waffle cone with a single scoop of banana ice cream and one banana slice"
+    },
+    {
+      "id": "icecream-watermelon",
+      "subject": "One waffle cone with a single scoop of pale coral watermelon ice cream and one tiny watermelon wedge"
+    },
+    {
+      "id": "icecream-pineapple",
+      "subject": "One waffle cone with a single scoop of pale-yellow pineapple ice cream and one pineapple piece"
+    },
+    {
+      "id": "explorer-fox-map",
+      "subject": "Draw the same curious little russet fox with a cream muzzle, chest and tail tip, dark lower paws, triangular ears, warm dark eyes, peach cheeks and one complete bushy tail standing and studying one folded illustrated map with no writing"
+    },
+    {
+      "id": "explorer-fox-binoculars",
+      "subject": "Draw the same curious little russet fox with a cream muzzle, chest and tail tip, dark lower paws, triangular ears, warm dark eyes, peach cheeks and one complete bushy tail looking through one small pair of brass binoculars"
+    },
+    {
+      "id": "explorer-fox-backpack",
+      "subject": "Draw the same curious little russet fox with a cream muzzle, chest and tail tip, dark lower paws, triangular ears, warm dark eyes, peach cheeks and one complete bushy tail walking with one small teal travel backpack"
+    },
+    {
+      "id": "explorer-fox-compass",
+      "subject": "Draw the same curious little russet fox with a cream muzzle, chest and tail tip, dark lower paws, triangular ears, warm dark eyes, peach cheeks and one complete bushy tail sitting and holding one brass pocket compass"
+    },
+    {
+      "id": "explorer-fox-telescope",
+      "subject": "Draw the same curious little russet fox with a cream muzzle, chest and tail tip, dark lower paws, triangular ears, warm dark eyes, peach cheeks and one complete bushy tail looking through one little hand telescope"
+    },
+    {
+      "id": "explorer-fox-photo",
+      "subject": "Draw the same curious little russet fox with a cream muzzle, chest and tail tip, dark lower paws, triangular ears, warm dark eyes, peach cheeks and one complete bushy tail holding one compact cream camera with no logo"
+    },
+    {
+      "id": "explorer-fox-sleeping",
+      "subject": "Draw the same curious little russet fox with a cream muzzle, chest and tail tip, dark lower paws, triangular ears, warm dark eyes, peach cheeks and one complete bushy tail sleeping curled beside one small closed travel satchel"
+    },
+    {
+      "id": "fox-hot-air-balloon",
+      "subject": "Draw the same curious little russet fox with a cream muzzle, chest and tail tip, dark lower paws, triangular ears, warm dark eyes, peach cheeks and one complete bushy tail sitting safely in the wicker basket of one small russet-and-cream fox-shaped hot-air balloon, full balloon visible"
+    },
+    {
+      "id": "balloon-rainbow",
+      "subject": "One rainbow-striped hot-air balloon with a simple wicker basket"
+    },
+    {
+      "id": "balloon-heart",
+      "subject": "One coral heart-shaped hot-air balloon with a compact wicker basket"
+    },
+    {
+      "id": "balloon-bear",
+      "subject": "One hot-air balloon shaped like a friendly cream bear head with a wicker basket"
+    },
+    {
+      "id": "balloon-rabbit",
+      "subject": "One pale-pink rabbit-shaped hot-air balloon with two long ears and a wicker basket"
+    },
+    {
+      "id": "balloon-cloud",
+      "subject": "One pale-blue cloud-shaped hot-air balloon with a wicker basket"
+    },
+    {
+      "id": "balloon-pumpkin",
+      "subject": "One warm-orange pumpkin-shaped hot-air balloon with a wicker basket"
+    },
+    {
+      "id": "balloon-star",
+      "subject": "One muted-gold star-shaped hot-air balloon with a wicker basket"
     }
   ],
   "topics": [
@@ -2410,6 +3938,692 @@
         "book-leather-tome",
         "book-small-diary"
       ]
+    },
+    {
+      "slug": "solar-system-planets",
+      "name_vi": "Các hành tinh trong Hệ Mặt Trời",
+      "asset_ids": [
+        "planet-mercury",
+        "planet-venus",
+        "planet-earth",
+        "planet-mars",
+        "planet-jupiter",
+        "planet-saturn",
+        "planet-uranus",
+        "planet-neptune"
+      ]
+    },
+    {
+      "slug": "dog-collection",
+      "name_vi": "Các giống chó",
+      "asset_ids": [
+        "dog-golden-retriever",
+        "dog-shiba-inu",
+        "dog-pembroke-corgi",
+        "dog-beagle",
+        "dog-apricot-poodle",
+        "dog-dachshund",
+        "dog-siberian-husky",
+        "dog-french-bulldog"
+      ]
+    },
+    {
+      "slug": "dinosaur-collection",
+      "name_vi": "Khủng long",
+      "asset_ids": [
+        "dinosaur-tyrannosaurus",
+        "dinosaur-triceratops",
+        "dinosaur-stegosaurus",
+        "dinosaur-brachiosaurus",
+        "dinosaur-ankylosaurus",
+        "dinosaur-parasaurolophus",
+        "dinosaur-spinosaurus",
+        "dinosaur-velociraptor"
+      ]
+    },
+    {
+      "slug": "winter-sports",
+      "name_vi": "Thể thao mùa đông",
+      "asset_ids": [
+        "winter-sports-alpine-skis",
+        "winter-sports-snowboard",
+        "winter-sports-figure-skates",
+        "winter-sports-curling-stone",
+        "winter-sports-bobsled",
+        "winter-sports-snowshoes",
+        "winter-sports-ski-helmet-goggles",
+        "winter-sports-hockey-stick-puck"
+      ]
+    },
+    {
+      "slug": "glove-collection",
+      "name_vi": "Găng tay",
+      "asset_ids": [
+        "gloves-knitted-mittens",
+        "gloves-leather-driving",
+        "gloves-rubber-cleaning",
+        "gloves-oven-mitts",
+        "gloves-gardening",
+        "gloves-boxing",
+        "gloves-goalkeeper",
+        "gloves-fingerless-knit"
+      ]
+    },
+    {
+      "slug": "tea-set",
+      "name_vi": "Tea",
+      "asset_ids": [
+        "tea-cast-iron-teapot",
+        "tea-porcelain-cup",
+        "tea-matcha-bowl",
+        "tea-bamboo-whisk",
+        "tea-leaf-caddy",
+        "tea-mesh-strainer",
+        "tea-serving-tray",
+        "tea-loose-leaf-pouch"
+      ]
+    },
+    {
+      "slug": "farm",
+      "name_vi": "Farm",
+      "asset_ids": [
+        "farm-red-barn",
+        "farm-red-tractor",
+        "farm-holstein-cow",
+        "farm-pink-pig",
+        "farm-woolly-sheep",
+        "farm-white-hen",
+        "farm-hay-bale",
+        "farm-windmill"
+      ]
+    },
+    {
+      "slug": "crocodile-activities",
+      "name_vi": "Crocodile",
+      "asset_ids": [
+        "crocodile-beach-day",
+        "crocodile-surfing",
+        "crocodile-sandcastle",
+        "crocodile-swim-ring",
+        "crocodile-ice-cream",
+        "crocodile-reading",
+        "crocodile-happy-jump",
+        "crocodile-sleeping"
+      ]
+    },
+    {
+      "slug": "penguin-activities",
+      "name_vi": "Penguin",
+      "asset_ids": [
+        "penguin-ice-skating",
+        "penguin-ice-fishing",
+        "penguin-hot-cocoa",
+        "penguin-winter-hat",
+        "penguin-hugging-fish",
+        "penguin-sledding",
+        "penguin-happy-dance",
+        "penguin-sleeping"
+      ]
+    },
+    {
+      "slug": "frog-adventures",
+      "name_vi": "Frog",
+      "asset_ids": [
+        "frog-lily-pad",
+        "frog-umbrella",
+        "frog-butterfly",
+        "frog-guitar",
+        "frog-tea",
+        "frog-reading",
+        "frog-crown",
+        "frog-sleeping-flower"
+      ]
+    },
+    {
+      "slug": "capybara-daily-life",
+      "name_vi": "Capybara",
+      "asset_ids": [
+        "capybara-hot-spring",
+        "capybara-orange-hat",
+        "capybara-drinking-juice",
+        "capybara-watermelon",
+        "capybara-bubble-bath",
+        "capybara-reading",
+        "capybara-hugging-plush",
+        "capybara-relaxing"
+      ]
+    },
+    {
+      "slug": "rabbit-gardener",
+      "name_vi": "Rabbit Gardener",
+      "asset_ids": [
+        "rabbit-planting-carrot",
+        "rabbit-watering-plant",
+        "rabbit-digging",
+        "rabbit-wheelbarrow",
+        "rabbit-flower-bouquet",
+        "rabbit-butterfly",
+        "rabbit-tea-break",
+        "rabbit-sleeping-basket"
+      ]
+    },
+    {
+      "slug": "little-bear-camping",
+      "name_vi": "Little Bear Camping",
+      "asset_ids": [
+        "bear-setting-tent",
+        "bear-campfire",
+        "bear-marshmallow",
+        "bear-flashlight",
+        "bear-fishing",
+        "bear-map",
+        "bear-stargazing",
+        "bear-sleeping-bag"
+      ]
+    },
+    {
+      "slug": "duck-rainy-day",
+      "name_vi": "Duck Rainy Day",
+      "asset_ids": [
+        "duck-raincoat",
+        "duck-umbrella",
+        "duck-rain-boots",
+        "duck-puddle-jump",
+        "duck-paper-boat",
+        "duck-hot-drink",
+        "duck-rainbow",
+        "duck-cozy-nap"
+      ]
+    },
+    {
+      "slug": "red-panda-daily-life",
+      "name_vi": "Red Panda Daily Life",
+      "asset_ids": [
+        "red-panda-apple",
+        "red-panda-tea",
+        "red-panda-reading",
+        "red-panda-hugging-pillow",
+        "red-panda-winter-hat",
+        "red-panda-autumn-leaf",
+        "red-panda-happy-jump",
+        "red-panda-sleeping"
+      ]
+    },
+    {
+      "slug": "fox-autumn-adventures",
+      "name_vi": "Fox Autumn Adventures",
+      "asset_ids": [
+        "fox-maple-leaf",
+        "fox-umbrella",
+        "fox-pumpkin",
+        "fox-apple-basket",
+        "fox-hot-cocoa",
+        "fox-autumn-scarf",
+        "fox-chestnut",
+        "fox-sleeping-leaves"
+      ]
+    },
+    {
+      "slug": "hamster-kitchen",
+      "name_vi": "Hamster Kitchen",
+      "asset_ids": [
+        "hamster-mixing-batter",
+        "hamster-stirring-soup",
+        "hamster-rolling-dough",
+        "hamster-chef-hat",
+        "hamster-bread",
+        "hamster-washing-vegetables",
+        "hamster-tasting-soup",
+        "hamster-sleeping-food-basket"
+      ]
+    },
+    {
+      "slug": "panda-bakery",
+      "name_vi": "Panda Bakery",
+      "asset_ids": [
+        "panda-kneading-dough",
+        "panda-making-bao",
+        "panda-decorating-cake",
+        "panda-baguette",
+        "panda-bread-tray",
+        "panda-drinking-milk",
+        "panda-cookie",
+        "panda-sleeping-bread"
+      ]
+    },
+    {
+      "slug": "koala-bedtime",
+      "name_vi": "Koala Bedtime",
+      "asset_ids": [
+        "koala-pajamas",
+        "koala-hugging-pillow",
+        "koala-bedtime-reading",
+        "koala-warm-milk",
+        "koala-brushing-teeth",
+        "koala-night-light",
+        "koala-yawning",
+        "koala-sleeping-blanket"
+      ]
+    },
+    {
+      "slug": "little-dragon-magic",
+      "name_vi": "Little Dragon Magic",
+      "asset_ids": [
+        "dragon-tiny-flame",
+        "dragon-magic-wand",
+        "dragon-spellbook",
+        "dragon-crystal-orb",
+        "dragon-flying",
+        "dragon-wizard-hat",
+        "dragon-potion",
+        "dragon-sleeping-treasure"
+      ]
+    },
+    {
+      "slug": "birthday-cake-collection",
+      "name_vi": "Birthday Cake Collection",
+      "asset_ids": [
+        "cake-strawberry",
+        "cake-chocolate",
+        "cake-rainbow",
+        "cake-floral",
+        "cake-star",
+        "cake-fruit",
+        "cake-single-candle",
+        "cake-tiered"
+      ]
+    },
+    {
+      "slug": "otter-river-life",
+      "name_vi": "Otter River Life",
+      "asset_ids": [
+        "otter-floating-leaf",
+        "otter-river-stone",
+        "otter-water-lily",
+        "otter-splashing",
+        "otter-reed-flute",
+        "otter-hugging-fish",
+        "otter-river-map",
+        "otter-sleeping-reeds"
+      ]
+    },
+    {
+      "slug": "sloth-cozy-day",
+      "name_vi": "Sloth Cozy Day",
+      "asset_ids": [
+        "sloth-cozy-hammock",
+        "sloth-hot-cocoa",
+        "sloth-reading-book",
+        "sloth-knitted-scarf",
+        "sloth-knitting",
+        "sloth-hugging-pillow",
+        "sloth-cozy-blanket",
+        "sloth-sleeping-branch"
+      ]
+    },
+    {
+      "slug": "owl-night-study",
+      "name_vi": "Owl Night Study",
+      "asset_ids": [
+        "owl-reading-book",
+        "owl-writing-notes",
+        "owl-desk-lamp",
+        "owl-study-globe",
+        "owl-telescope",
+        "owl-book-stack",
+        "owl-quill",
+        "owl-sleepy-book"
+      ]
+    },
+    {
+      "slug": "little-bee-adventures",
+      "name_vi": "Little Bee Adventures",
+      "asset_ids": [
+        "bee-flower-explorer",
+        "bee-pollen-basket",
+        "bee-leaf-umbrella",
+        "bee-watering-sprout",
+        "bee-dandelion-ride",
+        "bee-adventure-map",
+        "bee-honey-jar",
+        "bee-sleeping-flower"
+      ]
+    },
+    {
+      "slug": "snail-garden-journey",
+      "name_vi": "Snail Garden Journey",
+      "asset_ids": [
+        "snail-mushroom-shade",
+        "snail-watering-sprout",
+        "snail-leaf-umbrella",
+        "snail-strawberry",
+        "snail-flower-crown",
+        "snail-pebble-path",
+        "snail-seed-satchel",
+        "snail-sleeping-clover"
+      ]
+    },
+    {
+      "slug": "baby-elephant-playtime",
+      "name_vi": "Baby Elephant Playtime",
+      "asset_ids": [
+        "elephant-colorful-ball",
+        "elephant-bubbles",
+        "elephant-kite",
+        "elephant-blocks",
+        "elephant-water-splash",
+        "elephant-pinwheel",
+        "elephant-flower",
+        "elephant-sleeping-plush"
+      ]
+    },
+    {
+      "slug": "monkey-jungle-adventures",
+      "name_vi": "Monkey Jungle Adventures",
+      "asset_ids": [
+        "monkey-swinging-vine",
+        "monkey-banana",
+        "monkey-coconut-drink",
+        "monkey-butterfly",
+        "monkey-jungle-map",
+        "monkey-leaf-umbrella",
+        "monkey-jungle-drum",
+        "monkey-sleeping-hammock"
+      ]
+    },
+    {
+      "slug": "little-ghost-halloween",
+      "name_vi": "Little Ghost Halloween",
+      "asset_ids": [
+        "ghost-pumpkin",
+        "ghost-witch-hat",
+        "ghost-lantern",
+        "ghost-candy-basket",
+        "ghost-broomstick",
+        "ghost-potion",
+        "ghost-happy-dance",
+        "ghost-sleeping-moon"
+      ]
+    },
+    {
+      "slug": "squirrel-forest",
+      "name_vi": "Sóc rừng",
+      "asset_ids": [
+        "squirrel-acorn",
+        "squirrel-tree-branch",
+        "squirrel-leaf-umbrella",
+        "squirrel-jumping",
+        "squirrel-forest-map",
+        "squirrel-walnut",
+        "squirrel-sleeping-nest",
+        "squirrel-chestnut-basket"
+      ]
+    },
+    {
+      "slug": "chestnut-season",
+      "name_vi": "Mùa hạt dẻ",
+      "asset_ids": [
+        "squirrel-chestnut-basket",
+        "chestnut-branch",
+        "chestnut-open-burr",
+        "chestnut-harvest-basket",
+        "chestnut-roasting-pan",
+        "chestnut-paper-cone",
+        "chestnut-cream-cake",
+        "chestnut-leaf-cluster"
+      ]
+    },
+    {
+      "slug": "happy-hedgehog",
+      "name_vi": "Nhím vui vẻ",
+      "asset_ids": [
+        "hedgehog-apple",
+        "hedgehog-leaf-hat",
+        "hedgehog-mushroom",
+        "hedgehog-rain-boots",
+        "hedgehog-butterfly",
+        "hedgehog-happy-jump",
+        "hedgehog-sleeping",
+        "hedgehog-pumpkin-hug"
+      ]
+    },
+    {
+      "slug": "pumpkin-season",
+      "name_vi": "Mùa bí ngô",
+      "asset_ids": [
+        "hedgehog-pumpkin-hug",
+        "pumpkin-seedling",
+        "pumpkin-vine",
+        "pumpkin-harvest",
+        "pumpkin-wicker-basket",
+        "pumpkin-slice",
+        "pumpkin-pie",
+        "pumpkin-lantern"
+      ]
+    },
+    {
+      "slug": "raccoon-activities",
+      "name_vi": "Gấu mèo",
+      "asset_ids": [
+        "raccoon-apple",
+        "raccoon-reading",
+        "raccoon-umbrella",
+        "raccoon-hiking",
+        "raccoon-binoculars",
+        "raccoon-marshmallow",
+        "raccoon-sleeping",
+        "raccoon-lakeside-fishing"
+      ]
+    },
+    {
+      "slug": "lakeside-camping",
+      "name_vi": "Cắm trại ven hồ",
+      "asset_ids": [
+        "raccoon-lakeside-fishing",
+        "lakeside-tent",
+        "lakeside-campfire",
+        "lakeside-canteen",
+        "lakeside-fishing-rod",
+        "lakeside-rowboat",
+        "lakeside-lantern",
+        "lakeside-sleeping-bag"
+      ]
+    },
+    {
+      "slug": "school-mouse",
+      "name_vi": "Chuột học trò",
+      "asset_ids": [
+        "mouse-schoolbag",
+        "mouse-reading",
+        "mouse-writing",
+        "mouse-ruler",
+        "mouse-lunchbox",
+        "mouse-globe",
+        "mouse-sleeping-books",
+        "mouse-color-pencil-box"
+      ]
+    },
+    {
+      "slug": "art-corner",
+      "name_vi": "Góc mỹ thuật",
+      "asset_ids": [
+        "mouse-color-pencil-box",
+        "art-colored-pencils",
+        "art-watercolor-palette",
+        "art-paintbrushes",
+        "art-sketchbook",
+        "art-small-easel",
+        "art-clay-pot",
+        "art-paper-collage"
+      ]
+    },
+    {
+      "slug": "winter-lamb",
+      "name_vi": "Cừu mùa đông",
+      "asset_ids": [
+        "lamb-winter-hat",
+        "lamb-snowflake",
+        "lamb-sled",
+        "lamb-snowball",
+        "lamb-cocoa",
+        "lamb-mittens",
+        "lamb-sleeping-blanket",
+        "lamb-red-scarf"
+      ]
+    },
+    {
+      "slug": "knitwear",
+      "name_vi": "Đồ len",
+      "asset_ids": [
+        "lamb-red-scarf",
+        "knit-pom-hat",
+        "knit-cream-sweater",
+        "knit-striped-socks",
+        "knit-earmuffs",
+        "knit-shawl",
+        "knit-baby-booties",
+        "knit-yarn-basket"
+      ]
+    },
+    {
+      "slug": "little-turtle",
+      "name_vi": "Rùa nhỏ",
+      "asset_ids": [
+        "turtle-strawberry",
+        "turtle-rain-leaf",
+        "turtle-map",
+        "turtle-water-lily",
+        "turtle-pond-dive",
+        "turtle-butterfly",
+        "turtle-sleeping",
+        "turtle-lotus-leaf"
+      ]
+    },
+    {
+      "slug": "lotus-pond",
+      "name_vi": "Ao sen",
+      "asset_ids": [
+        "turtle-lotus-leaf",
+        "lotus-pink-bloom",
+        "lotus-white-bud",
+        "lotus-seed-pod",
+        "lotus-floating-leaf",
+        "lotus-dragonfly",
+        "lotus-frog",
+        "lotus-pond-fish"
+      ]
+    },
+    {
+      "slug": "small-robot",
+      "name_vi": "Robot nhỏ",
+      "asset_ids": [
+        "robot-watering-plant",
+        "robot-reading-manual",
+        "robot-toolbox",
+        "robot-lightbulb",
+        "robot-cleaning",
+        "robot-greeting",
+        "robot-sleep-mode",
+        "robot-bicycle-ride"
+      ]
+    },
+    {
+      "slug": "bicycles",
+      "name_vi": "Xe đạp",
+      "asset_ids": [
+        "robot-bicycle-ride",
+        "bicycle-city",
+        "bicycle-mountain",
+        "bicycle-cargo",
+        "bicycle-kids",
+        "bicycle-folding",
+        "bicycle-tandem",
+        "bicycle-basket-flowers"
+      ]
+    },
+    {
+      "slug": "seal-activities",
+      "name_vi": "Hải cẩu",
+      "asset_ids": [
+        "seal-clapping",
+        "seal-fish",
+        "seal-swim-ring",
+        "seal-beach-ball",
+        "seal-snowball",
+        "seal-sled",
+        "seal-sleeping",
+        "seal-ice-skates"
+      ]
+    },
+    {
+      "slug": "ice-day",
+      "name_vi": "Ngày trên băng",
+      "asset_ids": [
+        "seal-ice-skates",
+        "ice-frozen-pond",
+        "ice-fishing-hole",
+        "ice-lantern",
+        "ice-skate-pair",
+        "ice-sled",
+        "ice-snow-crystal",
+        "ice-thermos"
+      ]
+    },
+    {
+      "slug": "polar-bear-activities",
+      "name_vi": "Gấu Bắc Cực",
+      "asset_ids": [
+        "polar-bear-scarf",
+        "polar-bear-snowflake",
+        "polar-bear-fishing",
+        "polar-bear-cocoa",
+        "polar-bear-sled",
+        "polar-bear-snowman",
+        "polar-bear-sleeping",
+        "polar-bear-strawberry-cone"
+      ]
+    },
+    {
+      "slug": "fruit-ice-cream",
+      "name_vi": "Kem trái cây",
+      "asset_ids": [
+        "polar-bear-strawberry-cone",
+        "icecream-mango",
+        "icecream-blueberry",
+        "icecream-kiwi",
+        "icecream-peach",
+        "icecream-banana",
+        "icecream-watermelon",
+        "icecream-pineapple"
+      ]
+    },
+    {
+      "slug": "fox-explorer",
+      "name_vi": "Cáo khám phá",
+      "asset_ids": [
+        "explorer-fox-map",
+        "explorer-fox-binoculars",
+        "explorer-fox-backpack",
+        "explorer-fox-compass",
+        "explorer-fox-telescope",
+        "explorer-fox-photo",
+        "explorer-fox-sleeping",
+        "fox-hot-air-balloon"
+      ]
+    },
+    {
+      "slug": "hot-air-balloons",
+      "name_vi": "Khinh khí cầu",
+      "asset_ids": [
+        "fox-hot-air-balloon",
+        "balloon-rainbow",
+        "balloon-heart",
+        "balloon-bear",
+        "balloon-rabbit",
+        "balloon-cloud",
+        "balloon-pumpkin",
+        "balloon-star"
+      ]
     }
   ],
   "shared_assets": [
@@ -2482,13 +4696,83 @@
         "percussion",
         "marching-band"
       ]
+    },
+    {
+      "id": "squirrel-chestnut-basket",
+      "topic_slugs": [
+        "squirrel-forest",
+        "chestnut-season"
+      ]
+    },
+    {
+      "id": "hedgehog-pumpkin-hug",
+      "topic_slugs": [
+        "happy-hedgehog",
+        "pumpkin-season"
+      ]
+    },
+    {
+      "id": "raccoon-lakeside-fishing",
+      "topic_slugs": [
+        "raccoon-activities",
+        "lakeside-camping"
+      ]
+    },
+    {
+      "id": "mouse-color-pencil-box",
+      "topic_slugs": [
+        "school-mouse",
+        "art-corner"
+      ]
+    },
+    {
+      "id": "lamb-red-scarf",
+      "topic_slugs": [
+        "winter-lamb",
+        "knitwear"
+      ]
+    },
+    {
+      "id": "turtle-lotus-leaf",
+      "topic_slugs": [
+        "little-turtle",
+        "lotus-pond"
+      ]
+    },
+    {
+      "id": "robot-bicycle-ride",
+      "topic_slugs": [
+        "small-robot",
+        "bicycles"
+      ]
+    },
+    {
+      "id": "seal-ice-skates",
+      "topic_slugs": [
+        "seal-activities",
+        "ice-day"
+      ]
+    },
+    {
+      "id": "polar-bear-strawberry-cone",
+      "topic_slugs": [
+        "polar-bear-activities",
+        "fruit-ice-cream"
+      ]
+    },
+    {
+      "id": "fox-hot-air-balloon",
+      "topic_slugs": [
+        "fox-explorer",
+        "hot-air-balloons"
+      ]
     }
   ],
   "qa": {
-    "topic_count": 53,
-    "total_topic_slots": 424,
-    "unique_assets": 414,
-    "shared_assets": 10,
+    "topic_count": 102,
+    "total_topic_slots": 816,
+    "unique_assets": 796,
+    "shared_assets": 20,
     "all_topics_have_eight": true,
     "shared_membership_exactly_two": true
   },

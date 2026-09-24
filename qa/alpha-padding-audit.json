@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-22T10:45:29.355859+00:00",
+  "updated_utc": "2026-09-24T10:31:48.119717+00:00",
   "padding_definition": "Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",
   "assets": [
     {
@@ -8539,14 +8539,14 @@
         0
       ],
       "padding_nonzero_alpha": [
-        0,
-        49,
-        60,
-        44
+        94,
+        91,
+        64,
+        47
       ],
-      "review_edge": true,
-      "transparent_pixels": 736707,
-      "partial_alpha_pixels": 834738,
+      "review_edge": false,
+      "transparent_pixels": 751676,
+      "partial_alpha_pixels": 819769,
       "opaque_pixels": 1071
     },
     {
@@ -8560,15 +8560,15 @@
         0
       ],
       "padding_nonzero_alpha": [
-        0,
-        205,
-        3,
-        16
+        168,
+        366,
+        181,
+        337
       ],
-      "review_edge": true,
-      "transparent_pixels": 826418,
-      "partial_alpha_pixels": 744403,
-      "opaque_pixels": 1695
+      "review_edge": false,
+      "transparent_pixels": 1171814,
+      "partial_alpha_pixels": 400230,
+      "opaque_pixels": 472
     },
     {
       "id": "book-three-volume-stack",
@@ -8581,14 +8581,14 @@
         0
       ],
       "padding_nonzero_alpha": [
-        49,
-        128,
-        62,
-        78
+        78,
+        130,
+        71,
+        81
       ],
       "review_edge": false,
-      "transparent_pixels": 718359,
-      "partial_alpha_pixels": 852290,
+      "transparent_pixels": 726630,
+      "partial_alpha_pixels": 844019,
       "opaque_pixels": 1867
     },
     {
@@ -8602,14 +8602,14 @@
         0
       ],
       "padding_nonzero_alpha": [
-        103,
-        104,
-        39,
-        72
+        349,
+        107,
+        212,
+        80
       ],
       "review_edge": false,
-      "transparent_pixels": 1000748,
-      "partial_alpha_pixels": 570742,
+      "transparent_pixels": 1007905,
+      "partial_alpha_pixels": 563585,
       "opaque_pixels": 1026
     },
     {
@@ -8623,14 +8623,14 @@
         0
       ],
       "padding_nonzero_alpha": [
-        0,
-        54,
-        6,
-        286
+        65,
+        297,
+        64,
+        290
       ],
-      "review_edge": true,
-      "transparent_pixels": 953384,
-      "partial_alpha_pixels": 616978,
+      "review_edge": false,
+      "transparent_pixels": 961743,
+      "partial_alpha_pixels": 608619,
       "opaque_pixels": 2154
     },
     {
@@ -8644,14 +8644,14 @@
         0
       ],
       "padding_nonzero_alpha": [
-        49,
-        48,
-        51,
-        106
+        55,
+        112,
+        57,
+        112
       ],
       "review_edge": false,
-      "transparent_pixels": 919860,
-      "partial_alpha_pixels": 651755,
+      "transparent_pixels": 932072,
+      "partial_alpha_pixels": 639543,
       "opaque_pixels": 901
     },
     {
@@ -8665,14 +8665,14 @@
         0
       ],
       "padding_nonzero_alpha": [
-        0,
-        91,
-        68,
-        48
+        105,
+        95,
+        77,
+        59
       ],
-      "review_edge": true,
-      "transparent_pixels": 772513,
-      "partial_alpha_pixels": 798973,
+      "review_edge": false,
+      "transparent_pixels": 781492,
+      "partial_alpha_pixels": 789994,
       "opaque_pixels": 1030
     },
     {
@@ -8686,15 +8686,5643 @@
         0
       ],
       "padding_nonzero_alpha": [
-        121,
-        142,
-        125,
-        146
+        150,
+        145,
+        127,
+        155
       ],
       "review_edge": false,
-      "transparent_pixels": 925394,
-      "partial_alpha_pixels": 646243,
+      "transparent_pixels": 932103,
+      "partial_alpha_pixels": 639534,
       "opaque_pixels": 879
+    },
+    {
+      "id": "planet-mercury",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        122,
+        115,
+        124,
+        129
+      ],
+      "review_edge": false,
+      "transparent_pixels": 780158,
+      "partial_alpha_pixels": 791521,
+      "opaque_pixels": 837
+    },
+    {
+      "id": "planet-venus",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        113,
+        101,
+        113,
+        133
+      ],
+      "review_edge": false,
+      "transparent_pixels": 751259,
+      "partial_alpha_pixels": 819797,
+      "opaque_pixels": 1460
+    },
+    {
+      "id": "planet-earth",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        155,
+        151,
+        156,
+        166
+      ],
+      "review_edge": false,
+      "transparent_pixels": 881874,
+      "partial_alpha_pixels": 690014,
+      "opaque_pixels": 628
+    },
+    {
+      "id": "planet-mars",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        145,
+        139,
+        152,
+        161
+      ],
+      "review_edge": false,
+      "transparent_pixels": 859845,
+      "partial_alpha_pixels": 711950,
+      "opaque_pixels": 721
+    },
+    {
+      "id": "planet-jupiter",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        134,
+        132,
+        142,
+        155
+      ],
+      "review_edge": false,
+      "transparent_pixels": 833728,
+      "partial_alpha_pixels": 737984,
+      "opaque_pixels": 804
+    },
+    {
+      "id": "planet-saturn",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        127,
+        300,
+        111,
+        283
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1142904,
+      "partial_alpha_pixels": 428592,
+      "opaque_pixels": 1020
+    },
+    {
+      "id": "planet-uranus",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        236,
+        327,
+        225,
+        332
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1282040,
+      "partial_alpha_pixels": 289703,
+      "opaque_pixels": 773
+    },
+    {
+      "id": "planet-neptune",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        160,
+        158,
+        161,
+        167
+      ],
+      "review_edge": false,
+      "transparent_pixels": 890400,
+      "partial_alpha_pixels": 682013,
+      "opaque_pixels": 103
+    },
+    {
+      "id": "dog-golden-retriever",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        29,
+        137,
+        22,
+        148
+      ],
+      "review_edge": true,
+      "transparent_pixels": 841610,
+      "partial_alpha_pixels": 729421,
+      "opaque_pixels": 1485
+    },
+    {
+      "id": "dog-shiba-inu",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        176,
+        52,
+        139,
+        50
+      ],
+      "review_edge": false,
+      "transparent_pixels": 837802,
+      "partial_alpha_pixels": 732288,
+      "opaque_pixels": 2426
+    },
+    {
+      "id": "dog-pembroke-corgi",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        110,
+        76,
+        59,
+        61
+      ],
+      "review_edge": false,
+      "transparent_pixels": 817764,
+      "partial_alpha_pixels": 753235,
+      "opaque_pixels": 1517
+    },
+    {
+      "id": "dog-beagle",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        100,
+        84,
+        51,
+        75
+      ],
+      "review_edge": false,
+      "transparent_pixels": 786389,
+      "partial_alpha_pixels": 783452,
+      "opaque_pixels": 2675
+    },
+    {
+      "id": "dog-apricot-poodle",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        201,
+        68,
+        168,
+        66
+      ],
+      "review_edge": false,
+      "transparent_pixels": 931736,
+      "partial_alpha_pixels": 639489,
+      "opaque_pixels": 1291
+    },
+    {
+      "id": "dog-dachshund",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        61,
+        141,
+        24,
+        133
+      ],
+      "review_edge": true,
+      "transparent_pixels": 873119,
+      "partial_alpha_pixels": 697018,
+      "opaque_pixels": 2379
+    },
+    {
+      "id": "dog-siberian-husky",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        249,
+        39,
+        114,
+        36
+      ],
+      "review_edge": false,
+      "transparent_pixels": 891458,
+      "partial_alpha_pixels": 678974,
+      "opaque_pixels": 2084
+    },
+    {
+      "id": "dog-french-bulldog",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        193,
+        17,
+        98,
+        25
+      ],
+      "review_edge": true,
+      "transparent_pixels": 803128,
+      "partial_alpha_pixels": 767344,
+      "opaque_pixels": 2044
+    },
+    {
+      "id": "dinosaur-tyrannosaurus",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        21,
+        186,
+        22,
+        147
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1005729,
+      "partial_alpha_pixels": 565078,
+      "opaque_pixels": 1709
+    },
+    {
+      "id": "dinosaur-triceratops",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        51,
+        163,
+        19,
+        162
+      ],
+      "review_edge": true,
+      "transparent_pixels": 908246,
+      "partial_alpha_pixels": 663267,
+      "opaque_pixels": 1003
+    },
+    {
+      "id": "dinosaur-stegosaurus",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        16,
+        195,
+        4,
+        235
+      ],
+      "review_edge": true,
+      "transparent_pixels": 971073,
+      "partial_alpha_pixels": 599980,
+      "opaque_pixels": 1463
+    },
+    {
+      "id": "dinosaur-brachiosaurus",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        118,
+        49,
+        70,
+        45
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1092698,
+      "partial_alpha_pixels": 478467,
+      "opaque_pixels": 1351
+    },
+    {
+      "id": "dinosaur-ankylosaurus",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        13,
+        257,
+        13,
+        215
+      ],
+      "review_edge": true,
+      "transparent_pixels": 951589,
+      "partial_alpha_pixels": 619075,
+      "opaque_pixels": 1852
+    },
+    {
+      "id": "dinosaur-parasaurolophus",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        19,
+        114,
+        13,
+        104
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1031205,
+      "partial_alpha_pixels": 539882,
+      "opaque_pixels": 1429
+    },
+    {
+      "id": "dinosaur-spinosaurus",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        16,
+        221,
+        16,
+        180
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1076579,
+      "partial_alpha_pixels": 494499,
+      "opaque_pixels": 1438
+    },
+    {
+      "id": "dinosaur-velociraptor",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        36,
+        156,
+        26,
+        149
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1142765,
+      "partial_alpha_pixels": 427874,
+      "opaque_pixels": 1877
+    },
+    {
+      "id": "penguin-ice-skating",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        61,
+        91,
+        75,
+        87
+      ],
+      "review_edge": false,
+      "transparent_pixels": 841849,
+      "partial_alpha_pixels": 728441,
+      "opaque_pixels": 2226
+    },
+    {
+      "id": "penguin-ice-fishing",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        138,
+        131,
+        30,
+        122
+      ],
+      "review_edge": false,
+      "transparent_pixels": 798927,
+      "partial_alpha_pixels": 772499,
+      "opaque_pixels": 1090
+    },
+    {
+      "id": "penguin-hot-cocoa",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        182,
+        120,
+        209,
+        112
+      ],
+      "review_edge": false,
+      "transparent_pixels": 868678,
+      "partial_alpha_pixels": 702853,
+      "opaque_pixels": 985
+    },
+    {
+      "id": "penguin-winter-hat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        161,
+        50,
+        150,
+        55
+      ],
+      "review_edge": false,
+      "transparent_pixels": 846058,
+      "partial_alpha_pixels": 725610,
+      "opaque_pixels": 848
+    },
+    {
+      "id": "penguin-hugging-fish",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        204,
+        139,
+        204,
+        131
+      ],
+      "review_edge": false,
+      "transparent_pixels": 902246,
+      "partial_alpha_pixels": 669540,
+      "opaque_pixels": 730
+    },
+    {
+      "id": "penguin-sledding",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        60,
+        83,
+        20,
+        81
+      ],
+      "review_edge": true,
+      "transparent_pixels": 760670,
+      "partial_alpha_pixels": 810317,
+      "opaque_pixels": 1529
+    },
+    {
+      "id": "penguin-happy-dance",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        178,
+        125,
+        147,
+        112
+      ],
+      "review_edge": false,
+      "transparent_pixels": 938623,
+      "partial_alpha_pixels": 632606,
+      "opaque_pixels": 1287
+    },
+    {
+      "id": "penguin-sleeping",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        30,
+        290,
+        31,
+        256
+      ],
+      "review_edge": false,
+      "transparent_pixels": 949955,
+      "partial_alpha_pixels": 621190,
+      "opaque_pixels": 1371
+    },
+    {
+      "id": "frog-lily-pad",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        22,
+        82,
+        22,
+        86
+      ],
+      "review_edge": true,
+      "transparent_pixels": 650013,
+      "partial_alpha_pixels": 920452,
+      "opaque_pixels": 2051
+    },
+    {
+      "id": "frog-umbrella",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        176,
+        34,
+        189,
+        45
+      ],
+      "review_edge": false,
+      "transparent_pixels": 887235,
+      "partial_alpha_pixels": 683894,
+      "opaque_pixels": 1387
+    },
+    {
+      "id": "frog-butterfly",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        87,
+        132,
+        76,
+        98
+      ],
+      "review_edge": false,
+      "transparent_pixels": 744165,
+      "partial_alpha_pixels": 827162,
+      "opaque_pixels": 1189
+    },
+    {
+      "id": "frog-guitar",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        55,
+        127,
+        27,
+        106
+      ],
+      "review_edge": false,
+      "transparent_pixels": 739406,
+      "partial_alpha_pixels": 832186,
+      "opaque_pixels": 924
+    },
+    {
+      "id": "frog-tea",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        63,
+        65,
+        63,
+        64
+      ],
+      "review_edge": false,
+      "transparent_pixels": 645806,
+      "partial_alpha_pixels": 925728,
+      "opaque_pixels": 982
+    },
+    {
+      "id": "frog-reading",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        63,
+        79,
+        54,
+        68
+      ],
+      "review_edge": false,
+      "transparent_pixels": 653446,
+      "partial_alpha_pixels": 917206,
+      "opaque_pixels": 1864
+    },
+    {
+      "id": "frog-crown",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        62,
+        65,
+        56,
+        93
+      ],
+      "review_edge": false,
+      "transparent_pixels": 753872,
+      "partial_alpha_pixels": 816840,
+      "opaque_pixels": 1804
+    },
+    {
+      "id": "frog-sleeping-flower",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        32,
+        104,
+        28,
+        96
+      ],
+      "review_edge": false,
+      "transparent_pixels": 642242,
+      "partial_alpha_pixels": 928918,
+      "opaque_pixels": 1356
+    },
+    {
+      "id": "capybara-hot-spring",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        62,
+        87,
+        62,
+        79
+      ],
+      "review_edge": false,
+      "transparent_pixels": 690754,
+      "partial_alpha_pixels": 879517,
+      "opaque_pixels": 2245
+    },
+    {
+      "id": "capybara-orange-hat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        191,
+        43,
+        182,
+        55
+      ],
+      "review_edge": false,
+      "transparent_pixels": 873030,
+      "partial_alpha_pixels": 697853,
+      "opaque_pixels": 1633
+    },
+    {
+      "id": "capybara-drinking-juice",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        113,
+        36,
+        108,
+        33
+      ],
+      "review_edge": false,
+      "transparent_pixels": 680891,
+      "partial_alpha_pixels": 889692,
+      "opaque_pixels": 1933
+    },
+    {
+      "id": "capybara-watermelon",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        123,
+        51,
+        110,
+        39
+      ],
+      "review_edge": false,
+      "transparent_pixels": 717956,
+      "partial_alpha_pixels": 853251,
+      "opaque_pixels": 1309
+    },
+    {
+      "id": "capybara-bubble-bath",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        76,
+        76,
+        67,
+        63
+      ],
+      "review_edge": false,
+      "transparent_pixels": 766171,
+      "partial_alpha_pixels": 805173,
+      "opaque_pixels": 1172
+    },
+    {
+      "id": "capybara-reading",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        140,
+        60,
+        116,
+        53
+      ],
+      "review_edge": false,
+      "transparent_pixels": 761034,
+      "partial_alpha_pixels": 810211,
+      "opaque_pixels": 1271
+    },
+    {
+      "id": "capybara-hugging-plush",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        160,
+        62,
+        145,
+        56
+      ],
+      "review_edge": false,
+      "transparent_pixels": 790001,
+      "partial_alpha_pixels": 781532,
+      "opaque_pixels": 983
+    },
+    {
+      "id": "capybara-relaxing",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        47,
+        258,
+        21,
+        255
+      ],
+      "review_edge": true,
+      "transparent_pixels": 926227,
+      "partial_alpha_pixels": 644986,
+      "opaque_pixels": 1303
+    },
+    {
+      "id": "rabbit-planting-carrot",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        237,
+        16,
+        168,
+        20
+      ],
+      "review_edge": true,
+      "transparent_pixels": 909455,
+      "partial_alpha_pixels": 662568,
+      "opaque_pixels": 493
+    },
+    {
+      "id": "rabbit-watering-plant",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        141,
+        9,
+        80,
+        6
+      ],
+      "review_edge": true,
+      "transparent_pixels": 910635,
+      "partial_alpha_pixels": 659381,
+      "opaque_pixels": 2500
+    },
+    {
+      "id": "rabbit-digging",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        180,
+        14,
+        177,
+        22
+      ],
+      "review_edge": true,
+      "transparent_pixels": 939533,
+      "partial_alpha_pixels": 631616,
+      "opaque_pixels": 1367
+    },
+    {
+      "id": "rabbit-wheelbarrow",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        127,
+        23,
+        99,
+        24
+      ],
+      "review_edge": true,
+      "transparent_pixels": 850608,
+      "partial_alpha_pixels": 720918,
+      "opaque_pixels": 990
+    },
+    {
+      "id": "rabbit-flower-bouquet",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        225,
+        41,
+        178,
+        34
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1005524,
+      "partial_alpha_pixels": 565250,
+      "opaque_pixels": 1742
+    },
+    {
+      "id": "rabbit-butterfly",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        184,
+        14,
+        145,
+        13
+      ],
+      "review_edge": true,
+      "transparent_pixels": 902687,
+      "partial_alpha_pixels": 669219,
+      "opaque_pixels": 610
+    },
+    {
+      "id": "rabbit-tea-break",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        145,
+        23,
+        59,
+        29
+      ],
+      "review_edge": true,
+      "transparent_pixels": 738627,
+      "partial_alpha_pixels": 831941,
+      "opaque_pixels": 1948
+    },
+    {
+      "id": "rabbit-sleeping-basket",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        19,
+        273,
+        15,
+        277
+      ],
+      "review_edge": true,
+      "transparent_pixels": 935862,
+      "partial_alpha_pixels": 634639,
+      "opaque_pixels": 2015
+    },
+    {
+      "id": "bear-setting-tent",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        15,
+        144,
+        9,
+        194
+      ],
+      "review_edge": true,
+      "transparent_pixels": 860139,
+      "partial_alpha_pixels": 711381,
+      "opaque_pixels": 996
+    },
+    {
+      "id": "bear-campfire",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        124,
+        97,
+        73,
+        102
+      ],
+      "review_edge": false,
+      "transparent_pixels": 846862,
+      "partial_alpha_pixels": 724320,
+      "opaque_pixels": 1334
+    },
+    {
+      "id": "bear-marshmallow",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        120,
+        10,
+        82,
+        16
+      ],
+      "review_edge": true,
+      "transparent_pixels": 724245,
+      "partial_alpha_pixels": 846629,
+      "opaque_pixels": 1642
+    },
+    {
+      "id": "bear-flashlight",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        253,
+        65,
+        205,
+        64
+      ],
+      "review_edge": false,
+      "transparent_pixels": 961872,
+      "partial_alpha_pixels": 608993,
+      "opaque_pixels": 1651
+    },
+    {
+      "id": "bear-fishing",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        94,
+        67,
+        80,
+        60
+      ],
+      "review_edge": false,
+      "transparent_pixels": 776500,
+      "partial_alpha_pixels": 795105,
+      "opaque_pixels": 911
+    },
+    {
+      "id": "bear-map",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        208,
+        41,
+        178,
+        32
+      ],
+      "review_edge": false,
+      "transparent_pixels": 872640,
+      "partial_alpha_pixels": 698076,
+      "opaque_pixels": 1800
+    },
+    {
+      "id": "bear-stargazing",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        62,
+        131,
+        39,
+        128
+      ],
+      "review_edge": false,
+      "transparent_pixels": 810529,
+      "partial_alpha_pixels": 760627,
+      "opaque_pixels": 1360
+    },
+    {
+      "id": "bear-sleeping-bag",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        193,
+        58,
+        129,
+        53
+      ],
+      "review_edge": false,
+      "transparent_pixels": 844723,
+      "partial_alpha_pixels": 726739,
+      "opaque_pixels": 1054
+    },
+    {
+      "id": "duck-raincoat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        189,
+        70,
+        134,
+        58
+      ],
+      "review_edge": false,
+      "transparent_pixels": 902601,
+      "partial_alpha_pixels": 668520,
+      "opaque_pixels": 1395
+    },
+    {
+      "id": "duck-umbrella",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        173,
+        62,
+        199,
+        57
+      ],
+      "review_edge": false,
+      "transparent_pixels": 906236,
+      "partial_alpha_pixels": 664946,
+      "opaque_pixels": 1334
+    },
+    {
+      "id": "duck-rain-boots",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        196,
+        66,
+        184,
+        65
+      ],
+      "review_edge": false,
+      "transparent_pixels": 972270,
+      "partial_alpha_pixels": 599694,
+      "opaque_pixels": 552
+    },
+    {
+      "id": "duck-puddle-jump",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        193,
+        58,
+        175,
+        55
+      ],
+      "review_edge": false,
+      "transparent_pixels": 821540,
+      "partial_alpha_pixels": 750112,
+      "opaque_pixels": 864
+    },
+    {
+      "id": "duck-paper-boat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        204,
+        66,
+        193,
+        57
+      ],
+      "review_edge": false,
+      "transparent_pixels": 946975,
+      "partial_alpha_pixels": 624847,
+      "opaque_pixels": 694
+    },
+    {
+      "id": "duck-hot-drink",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        174,
+        79,
+        165,
+        75
+      ],
+      "review_edge": false,
+      "transparent_pixels": 874631,
+      "partial_alpha_pixels": 696300,
+      "opaque_pixels": 1585
+    },
+    {
+      "id": "duck-rainbow",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        166,
+        101,
+        166,
+        91
+      ],
+      "review_edge": false,
+      "transparent_pixels": 872137,
+      "partial_alpha_pixels": 699602,
+      "opaque_pixels": 777
+    },
+    {
+      "id": "duck-cozy-nap",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        59,
+        144,
+        59,
+        168
+      ],
+      "review_edge": false,
+      "transparent_pixels": 878445,
+      "partial_alpha_pixels": 693303,
+      "opaque_pixels": 768
+    },
+    {
+      "id": "winter-sports-alpine-skis",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        211,
+        36,
+        218,
+        52
+      ],
+      "review_edge": false,
+      "transparent_pixels": 986653,
+      "partial_alpha_pixels": 584169,
+      "opaque_pixels": 1694
+    },
+    {
+      "id": "winter-sports-snowboard",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        142,
+        46,
+        134,
+        49
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1134307,
+      "partial_alpha_pixels": 437098,
+      "opaque_pixels": 1111
+    },
+    {
+      "id": "winter-sports-figure-skates",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        68,
+        46,
+        60,
+        50
+      ],
+      "review_edge": false,
+      "transparent_pixels": 772615,
+      "partial_alpha_pixels": 798198,
+      "opaque_pixels": 1703
+    },
+    {
+      "id": "winter-sports-curling-stone",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        47,
+        84,
+        37,
+        131
+      ],
+      "review_edge": false,
+      "transparent_pixels": 958348,
+      "partial_alpha_pixels": 613042,
+      "opaque_pixels": 1126
+    },
+    {
+      "id": "winter-sports-bobsled",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        41,
+        210,
+        34,
+        206
+      ],
+      "review_edge": false,
+      "transparent_pixels": 972405,
+      "partial_alpha_pixels": 599143,
+      "opaque_pixels": 968
+    },
+    {
+      "id": "winter-sports-snowshoes",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        119,
+        47,
+        119,
+        52
+      ],
+      "review_edge": false,
+      "transparent_pixels": 872903,
+      "partial_alpha_pixels": 698083,
+      "opaque_pixels": 1530
+    },
+    {
+      "id": "winter-sports-ski-helmet-goggles",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        99,
+        66,
+        87,
+        50
+      ],
+      "review_edge": false,
+      "transparent_pixels": 708405,
+      "partial_alpha_pixels": 862431,
+      "opaque_pixels": 1680
+    },
+    {
+      "id": "winter-sports-hockey-stick-puck",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        64,
+        50,
+        45,
+        104
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1098144,
+      "partial_alpha_pixels": 472898,
+      "opaque_pixels": 1474
+    },
+    {
+      "id": "gloves-knitted-mittens",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        100,
+        109,
+        92,
+        88
+      ],
+      "review_edge": false,
+      "transparent_pixels": 820857,
+      "partial_alpha_pixels": 750603,
+      "opaque_pixels": 1056
+    },
+    {
+      "id": "gloves-leather-driving",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        118,
+        56,
+        122,
+        62
+      ],
+      "review_edge": false,
+      "transparent_pixels": 815832,
+      "partial_alpha_pixels": 755824,
+      "opaque_pixels": 860
+    },
+    {
+      "id": "gloves-rubber-cleaning",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        153,
+        33,
+        98,
+        29
+      ],
+      "review_edge": false,
+      "transparent_pixels": 785599,
+      "partial_alpha_pixels": 786226,
+      "opaque_pixels": 691
+    },
+    {
+      "id": "gloves-oven-mitts",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        141,
+        74,
+        159,
+        100
+      ],
+      "review_edge": false,
+      "transparent_pixels": 824680,
+      "partial_alpha_pixels": 746640,
+      "opaque_pixels": 1196
+    },
+    {
+      "id": "gloves-gardening",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        117,
+        101,
+        114,
+        108
+      ],
+      "review_edge": false,
+      "transparent_pixels": 860530,
+      "partial_alpha_pixels": 711415,
+      "opaque_pixels": 571
+    },
+    {
+      "id": "gloves-boxing",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        166,
+        95,
+        162,
+        86
+      ],
+      "review_edge": false,
+      "transparent_pixels": 929263,
+      "partial_alpha_pixels": 642542,
+      "opaque_pixels": 711
+    },
+    {
+      "id": "gloves-goalkeeper",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        69,
+        103,
+        64,
+        72
+      ],
+      "review_edge": false,
+      "transparent_pixels": 751074,
+      "partial_alpha_pixels": 820775,
+      "opaque_pixels": 667
+    },
+    {
+      "id": "gloves-fingerless-knit",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        52,
+        105,
+        54,
+        68
+      ],
+      "review_edge": false,
+      "transparent_pixels": 762564,
+      "partial_alpha_pixels": 808894,
+      "opaque_pixels": 1058
+    },
+    {
+      "id": "tea-cast-iron-teapot",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        127,
+        104,
+        129,
+        85
+      ],
+      "review_edge": false,
+      "transparent_pixels": 899277,
+      "partial_alpha_pixels": 671861,
+      "opaque_pixels": 1378
+    },
+    {
+      "id": "tea-porcelain-cup",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        192,
+        182,
+        193,
+        171
+      ],
+      "review_edge": false,
+      "transparent_pixels": 922809,
+      "partial_alpha_pixels": 649353,
+      "opaque_pixels": 354
+    },
+    {
+      "id": "tea-matcha-bowl",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        99,
+        176,
+        99,
+        158
+      ],
+      "review_edge": false,
+      "transparent_pixels": 779572,
+      "partial_alpha_pixels": 791705,
+      "opaque_pixels": 1239
+    },
+    {
+      "id": "tea-bamboo-whisk",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        293,
+        46,
+        291,
+        52
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1061764,
+      "partial_alpha_pixels": 509915,
+      "opaque_pixels": 837
+    },
+    {
+      "id": "tea-leaf-caddy",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        240,
+        135,
+        240,
+        126
+      ],
+      "review_edge": false,
+      "transparent_pixels": 888916,
+      "partial_alpha_pixels": 682239,
+      "opaque_pixels": 1361
+    },
+    {
+      "id": "tea-mesh-strainer",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        38,
+        117,
+        30,
+        167
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1065045,
+      "partial_alpha_pixels": 506804,
+      "opaque_pixels": 667
+    },
+    {
+      "id": "tea-serving-tray",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        32,
+        328,
+        31,
+        316
+      ],
+      "review_edge": false,
+      "transparent_pixels": 995215,
+      "partial_alpha_pixels": 576021,
+      "opaque_pixels": 1280
+    },
+    {
+      "id": "tea-loose-leaf-pouch",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        174,
+        120,
+        176,
+        101
+      ],
+      "review_edge": false,
+      "transparent_pixels": 799371,
+      "partial_alpha_pixels": 772402,
+      "opaque_pixels": 743
+    },
+    {
+      "id": "farm-red-barn",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        144,
+        122,
+        127,
+        124
+      ],
+      "review_edge": false,
+      "transparent_pixels": 817261,
+      "partial_alpha_pixels": 754595,
+      "opaque_pixels": 660
+    },
+    {
+      "id": "farm-red-tractor",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        33,
+        132,
+        27,
+        129
+      ],
+      "review_edge": false,
+      "transparent_pixels": 824129,
+      "partial_alpha_pixels": 747225,
+      "opaque_pixels": 1162
+    },
+    {
+      "id": "farm-holstein-cow",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        58,
+        92,
+        29,
+        88
+      ],
+      "review_edge": false,
+      "transparent_pixels": 795694,
+      "partial_alpha_pixels": 775601,
+      "opaque_pixels": 1221
+    },
+    {
+      "id": "farm-pink-pig",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        58,
+        145,
+        47,
+        121
+      ],
+      "review_edge": false,
+      "transparent_pixels": 802519,
+      "partial_alpha_pixels": 768669,
+      "opaque_pixels": 1328
+    },
+    {
+      "id": "farm-woolly-sheep",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        31,
+        73,
+        37,
+        73
+      ],
+      "review_edge": false,
+      "transparent_pixels": 759356,
+      "partial_alpha_pixels": 810969,
+      "opaque_pixels": 2191
+    },
+    {
+      "id": "farm-white-hen",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        182,
+        80,
+        98,
+        58
+      ],
+      "review_edge": false,
+      "transparent_pixels": 908832,
+      "partial_alpha_pixels": 661913,
+      "opaque_pixels": 1771
+    },
+    {
+      "id": "farm-hay-bale",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        57,
+        169,
+        51,
+        166
+      ],
+      "review_edge": false,
+      "transparent_pixels": 816169,
+      "partial_alpha_pixels": 755499,
+      "opaque_pixels": 848
+    },
+    {
+      "id": "farm-windmill",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        171,
+        32,
+        150,
+        46
+      ],
+      "review_edge": false,
+      "transparent_pixels": 878444,
+      "partial_alpha_pixels": 693145,
+      "opaque_pixels": 927
+    },
+    {
+      "id": "crocodile-beach-day",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        112,
+        125,
+        110,
+        113
+      ],
+      "review_edge": false,
+      "transparent_pixels": 905208,
+      "partial_alpha_pixels": 665783,
+      "opaque_pixels": 1525
+    },
+    {
+      "id": "crocodile-surfing",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        103,
+        123,
+        87,
+        113
+      ],
+      "review_edge": false,
+      "transparent_pixels": 872852,
+      "partial_alpha_pixels": 698178,
+      "opaque_pixels": 1486
+    },
+    {
+      "id": "crocodile-sandcastle",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        55,
+        167,
+        32,
+        163
+      ],
+      "review_edge": false,
+      "transparent_pixels": 913130,
+      "partial_alpha_pixels": 658059,
+      "opaque_pixels": 1327
+    },
+    {
+      "id": "crocodile-swim-ring",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        123,
+        101,
+        100,
+        93
+      ],
+      "review_edge": false,
+      "transparent_pixels": 851609,
+      "partial_alpha_pixels": 719971,
+      "opaque_pixels": 936
+    },
+    {
+      "id": "crocodile-ice-cream",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        122,
+        68,
+        63,
+        65
+      ],
+      "review_edge": false,
+      "transparent_pixels": 764509,
+      "partial_alpha_pixels": 806154,
+      "opaque_pixels": 1853
+    },
+    {
+      "id": "crocodile-reading",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        148,
+        118,
+        96,
+        97
+      ],
+      "review_edge": false,
+      "transparent_pixels": 827685,
+      "partial_alpha_pixels": 743536,
+      "opaque_pixels": 1295
+    },
+    {
+      "id": "crocodile-happy-jump",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        120,
+        168,
+        139,
+        154
+      ],
+      "review_edge": false,
+      "transparent_pixels": 946356,
+      "partial_alpha_pixels": 626096,
+      "opaque_pixels": 64
+    },
+    {
+      "id": "crocodile-sleeping",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        30,
+        335,
+        19,
+        226
+      ],
+      "review_edge": true,
+      "transparent_pixels": 974202,
+      "partial_alpha_pixels": 597910,
+      "opaque_pixels": 404
+    },
+    {
+      "id": "red-panda-apple",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        166,
+        104,
+        53,
+        101
+      ],
+      "review_edge": false,
+      "transparent_pixels": 782481,
+      "partial_alpha_pixels": 788540,
+      "opaque_pixels": 1495
+    },
+    {
+      "id": "red-panda-tea",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        44,
+        108,
+        106,
+        93
+      ],
+      "review_edge": false,
+      "transparent_pixels": 696325,
+      "partial_alpha_pixels": 874423,
+      "opaque_pixels": 1768
+    },
+    {
+      "id": "red-panda-reading",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        33,
+        109,
+        68,
+        109
+      ],
+      "review_edge": false,
+      "transparent_pixels": 675937,
+      "partial_alpha_pixels": 895680,
+      "opaque_pixels": 899
+    },
+    {
+      "id": "red-panda-hugging-pillow",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        50,
+        80,
+        80,
+        90
+      ],
+      "review_edge": false,
+      "transparent_pixels": 696222,
+      "partial_alpha_pixels": 874960,
+      "opaque_pixels": 1334
+    },
+    {
+      "id": "red-panda-winter-hat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        80,
+        47,
+        105,
+        46
+      ],
+      "review_edge": false,
+      "transparent_pixels": 704344,
+      "partial_alpha_pixels": 866541,
+      "opaque_pixels": 1631
+    },
+    {
+      "id": "red-panda-autumn-leaf",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        69,
+        100,
+        98,
+        99
+      ],
+      "review_edge": false,
+      "transparent_pixels": 716681,
+      "partial_alpha_pixels": 853910,
+      "opaque_pixels": 1925
+    },
+    {
+      "id": "red-panda-happy-jump",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        50,
+        75,
+        91,
+        149
+      ],
+      "review_edge": false,
+      "transparent_pixels": 752071,
+      "partial_alpha_pixels": 818836,
+      "opaque_pixels": 1609
+    },
+    {
+      "id": "red-panda-sleeping",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        38,
+        108,
+        35,
+        95
+      ],
+      "review_edge": false,
+      "transparent_pixels": 662628,
+      "partial_alpha_pixels": 908356,
+      "opaque_pixels": 1532
+    },
+    {
+      "id": "fox-maple-leaf",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        172,
+        64,
+        55,
+        80
+      ],
+      "review_edge": false,
+      "transparent_pixels": 742113,
+      "partial_alpha_pixels": 828891,
+      "opaque_pixels": 1512
+    },
+    {
+      "id": "fox-umbrella",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        142,
+        56,
+        159,
+        47
+      ],
+      "review_edge": false,
+      "transparent_pixels": 880550,
+      "partial_alpha_pixels": 690089,
+      "opaque_pixels": 1877
+    },
+    {
+      "id": "fox-pumpkin",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        104,
+        76,
+        88,
+        86
+      ],
+      "review_edge": false,
+      "transparent_pixels": 769399,
+      "partial_alpha_pixels": 801329,
+      "opaque_pixels": 1788
+    },
+    {
+      "id": "fox-apple-basket",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        50,
+        64,
+        73,
+        84
+      ],
+      "review_edge": false,
+      "transparent_pixels": 648241,
+      "partial_alpha_pixels": 922574,
+      "opaque_pixels": 1701
+    },
+    {
+      "id": "fox-hot-cocoa",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        153,
+        123,
+        191,
+        119
+      ],
+      "review_edge": false,
+      "transparent_pixels": 918116,
+      "partial_alpha_pixels": 653132,
+      "opaque_pixels": 1268
+    },
+    {
+      "id": "fox-autumn-scarf",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        83,
+        70,
+        71,
+        71
+      ],
+      "review_edge": false,
+      "transparent_pixels": 749427,
+      "partial_alpha_pixels": 821020,
+      "opaque_pixels": 2069
+    },
+    {
+      "id": "fox-chestnut",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        219,
+        64,
+        90,
+        72
+      ],
+      "review_edge": false,
+      "transparent_pixels": 803120,
+      "partial_alpha_pixels": 767857,
+      "opaque_pixels": 1539
+    },
+    {
+      "id": "fox-sleeping-leaves",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        40,
+        125,
+        32,
+        98
+      ],
+      "review_edge": false,
+      "transparent_pixels": 723753,
+      "partial_alpha_pixels": 847265,
+      "opaque_pixels": 1498
+    },
+    {
+      "id": "hamster-mixing-batter",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        196,
+        51,
+        198,
+        45
+      ],
+      "review_edge": false,
+      "transparent_pixels": 766614,
+      "partial_alpha_pixels": 804790,
+      "opaque_pixels": 1112
+    },
+    {
+      "id": "hamster-stirring-soup",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        204,
+        63,
+        202,
+        56
+      ],
+      "review_edge": false,
+      "transparent_pixels": 819550,
+      "partial_alpha_pixels": 751689,
+      "opaque_pixels": 1277
+    },
+    {
+      "id": "hamster-rolling-dough",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        157,
+        76,
+        158,
+        76
+      ],
+      "review_edge": false,
+      "transparent_pixels": 741101,
+      "partial_alpha_pixels": 830598,
+      "opaque_pixels": 817
+    },
+    {
+      "id": "hamster-chef-hat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        217,
+        38,
+        187,
+        59
+      ],
+      "review_edge": false,
+      "transparent_pixels": 832197,
+      "partial_alpha_pixels": 738604,
+      "opaque_pixels": 1715
+    },
+    {
+      "id": "hamster-bread",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        179,
+        65,
+        178,
+        68
+      ],
+      "review_edge": false,
+      "transparent_pixels": 751047,
+      "partial_alpha_pixels": 820196,
+      "opaque_pixels": 1273
+    },
+    {
+      "id": "hamster-washing-vegetables",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        175,
+        52,
+        180,
+        52
+      ],
+      "review_edge": false,
+      "transparent_pixels": 744758,
+      "partial_alpha_pixels": 827514,
+      "opaque_pixels": 244
+    },
+    {
+      "id": "hamster-tasting-soup",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        175,
+        94,
+        176,
+        92
+      ],
+      "review_edge": false,
+      "transparent_pixels": 787689,
+      "partial_alpha_pixels": 783898,
+      "opaque_pixels": 929
+    },
+    {
+      "id": "hamster-sleeping-food-basket",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        47,
+        160,
+        31,
+        156
+      ],
+      "review_edge": false,
+      "transparent_pixels": 784332,
+      "partial_alpha_pixels": 786801,
+      "opaque_pixels": 1383
+    },
+    {
+      "id": "panda-kneading-dough",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        175,
+        40,
+        134,
+        38
+      ],
+      "review_edge": false,
+      "transparent_pixels": 771869,
+      "partial_alpha_pixels": 798796,
+      "opaque_pixels": 1851
+    },
+    {
+      "id": "panda-making-bao",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        133,
+        32,
+        127,
+        28
+      ],
+      "review_edge": false,
+      "transparent_pixels": 756331,
+      "partial_alpha_pixels": 815557,
+      "opaque_pixels": 628
+    },
+    {
+      "id": "panda-decorating-cake",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        197,
+        32,
+        105,
+        36
+      ],
+      "review_edge": false,
+      "transparent_pixels": 776011,
+      "partial_alpha_pixels": 795722,
+      "opaque_pixels": 783
+    },
+    {
+      "id": "panda-baguette",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        212,
+        45,
+        168,
+        52
+      ],
+      "review_edge": false,
+      "transparent_pixels": 865809,
+      "partial_alpha_pixels": 705377,
+      "opaque_pixels": 1330
+    },
+    {
+      "id": "panda-bread-tray",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        212,
+        46,
+        146,
+        52
+      ],
+      "review_edge": false,
+      "transparent_pixels": 896742,
+      "partial_alpha_pixels": 674174,
+      "opaque_pixels": 1600
+    },
+    {
+      "id": "panda-drinking-milk",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        201,
+        47,
+        142,
+        44
+      ],
+      "review_edge": false,
+      "transparent_pixels": 801958,
+      "partial_alpha_pixels": 768689,
+      "opaque_pixels": 1869
+    },
+    {
+      "id": "panda-cookie",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        223,
+        63,
+        137,
+        64
+      ],
+      "review_edge": false,
+      "transparent_pixels": 847475,
+      "partial_alpha_pixels": 723215,
+      "opaque_pixels": 1826
+    },
+    {
+      "id": "panda-sleeping-bread",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        51,
+        144,
+        51,
+        138
+      ],
+      "review_edge": false,
+      "transparent_pixels": 820763,
+      "partial_alpha_pixels": 750051,
+      "opaque_pixels": 1702
+    },
+    {
+      "id": "koala-pajamas",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        201,
+        80,
+        138,
+        71
+      ],
+      "review_edge": false,
+      "transparent_pixels": 868241,
+      "partial_alpha_pixels": 702722,
+      "opaque_pixels": 1553
+    },
+    {
+      "id": "koala-hugging-pillow",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        167,
+        59,
+        95,
+        76
+      ],
+      "review_edge": false,
+      "transparent_pixels": 789275,
+      "partial_alpha_pixels": 782119,
+      "opaque_pixels": 1122
+    },
+    {
+      "id": "koala-bedtime-reading",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        172,
+        63,
+        113,
+        84
+      ],
+      "review_edge": false,
+      "transparent_pixels": 784162,
+      "partial_alpha_pixels": 786669,
+      "opaque_pixels": 1685
+    },
+    {
+      "id": "koala-warm-milk",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        128,
+        66,
+        88,
+        60
+      ],
+      "review_edge": false,
+      "transparent_pixels": 772538,
+      "partial_alpha_pixels": 798684,
+      "opaque_pixels": 1294
+    },
+    {
+      "id": "koala-brushing-teeth",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        159,
+        46,
+        99,
+        59
+      ],
+      "review_edge": false,
+      "transparent_pixels": 812682,
+      "partial_alpha_pixels": 758239,
+      "opaque_pixels": 1595
+    },
+    {
+      "id": "koala-night-light",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        173,
+        69,
+        100,
+        71
+      ],
+      "review_edge": false,
+      "transparent_pixels": 802197,
+      "partial_alpha_pixels": 769061,
+      "opaque_pixels": 1258
+    },
+    {
+      "id": "koala-yawning",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        105,
+        83,
+        136,
+        61
+      ],
+      "review_edge": false,
+      "transparent_pixels": 774485,
+      "partial_alpha_pixels": 796949,
+      "opaque_pixels": 1082
+    },
+    {
+      "id": "koala-sleeping-blanket",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        90,
+        145,
+        64,
+        142
+      ],
+      "review_edge": false,
+      "transparent_pixels": 812946,
+      "partial_alpha_pixels": 757844,
+      "opaque_pixels": 1726
+    },
+    {
+      "id": "dragon-tiny-flame",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        32,
+        151,
+        8,
+        136
+      ],
+      "review_edge": true,
+      "transparent_pixels": 919455,
+      "partial_alpha_pixels": 651542,
+      "opaque_pixels": 1519
+    },
+    {
+      "id": "dragon-magic-wand",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        51,
+        58,
+        27,
+        71
+      ],
+      "review_edge": false,
+      "transparent_pixels": 825775,
+      "partial_alpha_pixels": 744660,
+      "opaque_pixels": 2081
+    },
+    {
+      "id": "dragon-spellbook",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        132,
+        43,
+        79,
+        33
+      ],
+      "review_edge": false,
+      "transparent_pixels": 777077,
+      "partial_alpha_pixels": 793944,
+      "opaque_pixels": 1495
+    },
+    {
+      "id": "dragon-crystal-orb",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        135,
+        20,
+        127,
+        28
+      ],
+      "review_edge": true,
+      "transparent_pixels": 837814,
+      "partial_alpha_pixels": 733018,
+      "opaque_pixels": 1684
+    },
+    {
+      "id": "dragon-flying",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        90,
+        65,
+        49,
+        65
+      ],
+      "review_edge": false,
+      "transparent_pixels": 873957,
+      "partial_alpha_pixels": 696144,
+      "opaque_pixels": 2415
+    },
+    {
+      "id": "dragon-wizard-hat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        187,
+        47,
+        156,
+        34
+      ],
+      "review_edge": false,
+      "transparent_pixels": 856403,
+      "partial_alpha_pixels": 714031,
+      "opaque_pixels": 2082
+    },
+    {
+      "id": "dragon-potion",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        142,
+        22,
+        95,
+        29
+      ],
+      "review_edge": true,
+      "transparent_pixels": 848845,
+      "partial_alpha_pixels": 721460,
+      "opaque_pixels": 2211
+    },
+    {
+      "id": "dragon-sleeping-treasure",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        75,
+        98,
+        78,
+        94
+      ],
+      "review_edge": false,
+      "transparent_pixels": 787882,
+      "partial_alpha_pixels": 782871,
+      "opaque_pixels": 1763
+    },
+    {
+      "id": "cake-strawberry",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        87,
+        74,
+        87,
+        82
+      ],
+      "review_edge": false,
+      "transparent_pixels": 705644,
+      "partial_alpha_pixels": 865385,
+      "opaque_pixels": 1487
+    },
+    {
+      "id": "cake-chocolate",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        89,
+        61,
+        89,
+        80
+      ],
+      "review_edge": false,
+      "transparent_pixels": 706751,
+      "partial_alpha_pixels": 864414,
+      "opaque_pixels": 1351
+    },
+    {
+      "id": "cake-rainbow",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        52,
+        50,
+        52,
+        54
+      ],
+      "review_edge": false,
+      "transparent_pixels": 581463,
+      "partial_alpha_pixels": 989904,
+      "opaque_pixels": 1149
+    },
+    {
+      "id": "cake-floral",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        57,
+        62,
+        57,
+        56
+      ],
+      "review_edge": false,
+      "transparent_pixels": 579345,
+      "partial_alpha_pixels": 991425,
+      "opaque_pixels": 1746
+    },
+    {
+      "id": "cake-star",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        50,
+        72,
+        49,
+        71
+      ],
+      "review_edge": false,
+      "transparent_pixels": 642157,
+      "partial_alpha_pixels": 928393,
+      "opaque_pixels": 1966
+    },
+    {
+      "id": "cake-fruit",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        84,
+        78,
+        84,
+        64
+      ],
+      "review_edge": false,
+      "transparent_pixels": 654264,
+      "partial_alpha_pixels": 916569,
+      "opaque_pixels": 1683
+    },
+    {
+      "id": "cake-single-candle",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        81,
+        32,
+        81,
+        62
+      ],
+      "review_edge": false,
+      "transparent_pixels": 703361,
+      "partial_alpha_pixels": 867652,
+      "opaque_pixels": 1503
+    },
+    {
+      "id": "cake-tiered",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        87,
+        45,
+        88,
+        46
+      ],
+      "review_edge": false,
+      "transparent_pixels": 673144,
+      "partial_alpha_pixels": 897507,
+      "opaque_pixels": 1865
+    },
+    {
+      "id": "otter-floating-leaf",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        62,
+        104,
+        61,
+        62
+      ],
+      "review_edge": false,
+      "transparent_pixels": 907742,
+      "partial_alpha_pixels": 663691,
+      "opaque_pixels": 1083
+    },
+    {
+      "id": "otter-river-stone",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        123,
+        52,
+        52,
+        46
+      ],
+      "review_edge": false,
+      "transparent_pixels": 783941,
+      "partial_alpha_pixels": 786958,
+      "opaque_pixels": 1617
+    },
+    {
+      "id": "otter-water-lily",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        32,
+        117,
+        27,
+        85
+      ],
+      "review_edge": false,
+      "transparent_pixels": 735361,
+      "partial_alpha_pixels": 835024,
+      "opaque_pixels": 2131
+    },
+    {
+      "id": "otter-splashing",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        85,
+        151,
+        59,
+        130
+      ],
+      "review_edge": false,
+      "transparent_pixels": 896605,
+      "partial_alpha_pixels": 673474,
+      "opaque_pixels": 2437
+    },
+    {
+      "id": "otter-reed-flute",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        125,
+        80,
+        50,
+        87
+      ],
+      "review_edge": false,
+      "transparent_pixels": 854800,
+      "partial_alpha_pixels": 715619,
+      "opaque_pixels": 2097
+    },
+    {
+      "id": "otter-hugging-fish",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        139,
+        68,
+        92,
+        56
+      ],
+      "review_edge": false,
+      "transparent_pixels": 808164,
+      "partial_alpha_pixels": 762344,
+      "opaque_pixels": 2008
+    },
+    {
+      "id": "otter-river-map",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        169,
+        63,
+        82,
+        51
+      ],
+      "review_edge": false,
+      "transparent_pixels": 859737,
+      "partial_alpha_pixels": 710892,
+      "opaque_pixels": 1887
+    },
+    {
+      "id": "otter-sleeping-reeds",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        95,
+        66,
+        60,
+        94
+      ],
+      "review_edge": false,
+      "transparent_pixels": 831363,
+      "partial_alpha_pixels": 739856,
+      "opaque_pixels": 1297
+    },
+    {
+      "id": "sloth-cozy-hammock",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        47,
+        183,
+        38,
+        174
+      ],
+      "review_edge": false,
+      "transparent_pixels": 892441,
+      "partial_alpha_pixels": 678106,
+      "opaque_pixels": 1969
+    },
+    {
+      "id": "sloth-hot-cocoa",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        164,
+        69,
+        164,
+        56
+      ],
+      "review_edge": false,
+      "transparent_pixels": 779458,
+      "partial_alpha_pixels": 791536,
+      "opaque_pixels": 1522
+    },
+    {
+      "id": "sloth-reading-book",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        129,
+        36,
+        128,
+        26
+      ],
+      "review_edge": false,
+      "transparent_pixels": 706926,
+      "partial_alpha_pixels": 864255,
+      "opaque_pixels": 1335
+    },
+    {
+      "id": "sloth-knitted-scarf",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        246,
+        58,
+        129,
+        51
+      ],
+      "review_edge": false,
+      "transparent_pixels": 852368,
+      "partial_alpha_pixels": 719084,
+      "opaque_pixels": 1064
+    },
+    {
+      "id": "sloth-knitting",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        164,
+        70,
+        159,
+        50
+      ],
+      "review_edge": false,
+      "transparent_pixels": 779322,
+      "partial_alpha_pixels": 792232,
+      "opaque_pixels": 962
+    },
+    {
+      "id": "sloth-hugging-pillow",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        155,
+        85,
+        159,
+        85
+      ],
+      "review_edge": false,
+      "transparent_pixels": 805094,
+      "partial_alpha_pixels": 766732,
+      "opaque_pixels": 690
+    },
+    {
+      "id": "sloth-cozy-blanket",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        88,
+        92,
+        88,
+        89
+      ],
+      "review_edge": false,
+      "transparent_pixels": 699453,
+      "partial_alpha_pixels": 871258,
+      "opaque_pixels": 1805
+    },
+    {
+      "id": "sloth-sleeping-branch",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        13,
+        142,
+        13,
+        143
+      ],
+      "review_edge": true,
+      "transparent_pixels": 870201,
+      "partial_alpha_pixels": 701460,
+      "opaque_pixels": 855
+    },
+    {
+      "id": "owl-reading-book",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        150,
+        122,
+        148,
+        111
+      ],
+      "review_edge": false,
+      "transparent_pixels": 909206,
+      "partial_alpha_pixels": 662741,
+      "opaque_pixels": 569
+    },
+    {
+      "id": "owl-writing-notes",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        152,
+        61,
+        159,
+        56
+      ],
+      "review_edge": false,
+      "transparent_pixels": 843663,
+      "partial_alpha_pixels": 727728,
+      "opaque_pixels": 1125
+    },
+    {
+      "id": "owl-desk-lamp",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        22,
+        152,
+        21,
+        133
+      ],
+      "review_edge": true,
+      "transparent_pixels": 744115,
+      "partial_alpha_pixels": 827224,
+      "opaque_pixels": 1177
+    },
+    {
+      "id": "owl-study-globe",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        93,
+        181,
+        97,
+        171
+      ],
+      "review_edge": false,
+      "transparent_pixels": 940495,
+      "partial_alpha_pixels": 630882,
+      "opaque_pixels": 1139
+    },
+    {
+      "id": "owl-telescope",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        53,
+        224,
+        45,
+        200
+      ],
+      "review_edge": false,
+      "transparent_pixels": 957908,
+      "partial_alpha_pixels": 612503,
+      "opaque_pixels": 2105
+    },
+    {
+      "id": "owl-book-stack",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        206,
+        70,
+        184,
+        50
+      ],
+      "review_edge": false,
+      "transparent_pixels": 881928,
+      "partial_alpha_pixels": 688800,
+      "opaque_pixels": 1788
+    },
+    {
+      "id": "owl-quill",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        136,
+        112,
+        135,
+        98
+      ],
+      "review_edge": false,
+      "transparent_pixels": 844203,
+      "partial_alpha_pixels": 727842,
+      "opaque_pixels": 471
+    },
+    {
+      "id": "owl-sleepy-book",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        29,
+        210,
+        9,
+        203
+      ],
+      "review_edge": true,
+      "transparent_pixels": 907886,
+      "partial_alpha_pixels": 663977,
+      "opaque_pixels": 653
+    },
+    {
+      "id": "bee-flower-explorer",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        140,
+        50,
+        120,
+        44
+      ],
+      "review_edge": false,
+      "transparent_pixels": 934223,
+      "partial_alpha_pixels": 636443,
+      "opaque_pixels": 1850
+    },
+    {
+      "id": "bee-pollen-basket",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        194,
+        58,
+        184,
+        71
+      ],
+      "review_edge": false,
+      "transparent_pixels": 937258,
+      "partial_alpha_pixels": 633405,
+      "opaque_pixels": 1853
+    },
+    {
+      "id": "bee-leaf-umbrella",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        231,
+        52,
+        126,
+        101
+      ],
+      "review_edge": false,
+      "transparent_pixels": 930842,
+      "partial_alpha_pixels": 639640,
+      "opaque_pixels": 2034
+    },
+    {
+      "id": "bee-watering-sprout",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        168,
+        83,
+        48,
+        68
+      ],
+      "review_edge": false,
+      "transparent_pixels": 957155,
+      "partial_alpha_pixels": 613667,
+      "opaque_pixels": 1694
+    },
+    {
+      "id": "bee-dandelion-ride",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        67,
+        69,
+        42,
+        120
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1005268,
+      "partial_alpha_pixels": 566504,
+      "opaque_pixels": 744
+    },
+    {
+      "id": "bee-adventure-map",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        81,
+        70,
+        71,
+        69
+      ],
+      "review_edge": false,
+      "transparent_pixels": 812123,
+      "partial_alpha_pixels": 758364,
+      "opaque_pixels": 2029
+    },
+    {
+      "id": "bee-honey-jar",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        96,
+        85,
+        41,
+        105
+      ],
+      "review_edge": false,
+      "transparent_pixels": 784921,
+      "partial_alpha_pixels": 787273,
+      "opaque_pixels": 322
+    },
+    {
+      "id": "bee-sleeping-flower",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        108,
+        132,
+        79,
+        109
+      ],
+      "review_edge": false,
+      "transparent_pixels": 802841,
+      "partial_alpha_pixels": 768238,
+      "opaque_pixels": 1437
+    },
+    {
+      "id": "snail-mushroom-shade",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        96,
+        65,
+        75,
+        69
+      ],
+      "review_edge": false,
+      "transparent_pixels": 729463,
+      "partial_alpha_pixels": 840951,
+      "opaque_pixels": 2102
+    },
+    {
+      "id": "snail-watering-sprout",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        43,
+        98,
+        20,
+        118
+      ],
+      "review_edge": true,
+      "transparent_pixels": 813491,
+      "partial_alpha_pixels": 757095,
+      "opaque_pixels": 1930
+    },
+    {
+      "id": "snail-leaf-umbrella",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        150,
+        66,
+        104,
+        97
+      ],
+      "review_edge": false,
+      "transparent_pixels": 768720,
+      "partial_alpha_pixels": 801130,
+      "opaque_pixels": 2666
+    },
+    {
+      "id": "snail-strawberry",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        42,
+        171,
+        24,
+        177
+      ],
+      "review_edge": true,
+      "transparent_pixels": 829601,
+      "partial_alpha_pixels": 742050,
+      "opaque_pixels": 865
+    },
+    {
+      "id": "snail-flower-crown",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        143,
+        66,
+        95,
+        88
+      ],
+      "review_edge": false,
+      "transparent_pixels": 762739,
+      "partial_alpha_pixels": 807611,
+      "opaque_pixels": 2166
+    },
+    {
+      "id": "snail-pebble-path",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        80,
+        211,
+        78,
+        188
+      ],
+      "review_edge": false,
+      "transparent_pixels": 951486,
+      "partial_alpha_pixels": 619814,
+      "opaque_pixels": 1216
+    },
+    {
+      "id": "snail-seed-satchel",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        114,
+        121,
+        93,
+        138
+      ],
+      "review_edge": false,
+      "transparent_pixels": 842040,
+      "partial_alpha_pixels": 728548,
+      "opaque_pixels": 1928
+    },
+    {
+      "id": "snail-sleeping-clover",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        75,
+        144,
+        75,
+        159
+      ],
+      "review_edge": false,
+      "transparent_pixels": 865537,
+      "partial_alpha_pixels": 706150,
+      "opaque_pixels": 829
+    },
+    {
+      "id": "elephant-colorful-ball",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        50,
+        77,
+        26,
+        108
+      ],
+      "review_edge": false,
+      "transparent_pixels": 694844,
+      "partial_alpha_pixels": 876903,
+      "opaque_pixels": 769
+    },
+    {
+      "id": "elephant-bubbles",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        33,
+        41,
+        32,
+        35
+      ],
+      "review_edge": false,
+      "transparent_pixels": 890478,
+      "partial_alpha_pixels": 680043,
+      "opaque_pixels": 1995
+    },
+    {
+      "id": "elephant-kite",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        40,
+        69,
+        32,
+        67
+      ],
+      "review_edge": false,
+      "transparent_pixels": 916791,
+      "partial_alpha_pixels": 653023,
+      "opaque_pixels": 2702
+    },
+    {
+      "id": "elephant-blocks",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        72,
+        93,
+        19,
+        69
+      ],
+      "review_edge": true,
+      "transparent_pixels": 700576,
+      "partial_alpha_pixels": 871445,
+      "opaque_pixels": 495
+    },
+    {
+      "id": "elephant-water-splash",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        87,
+        65,
+        66,
+        46
+      ],
+      "review_edge": false,
+      "transparent_pixels": 856362,
+      "partial_alpha_pixels": 714237,
+      "opaque_pixels": 1917
+    },
+    {
+      "id": "elephant-pinwheel",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        83,
+        67,
+        57,
+        57
+      ],
+      "review_edge": false,
+      "transparent_pixels": 754497,
+      "partial_alpha_pixels": 816266,
+      "opaque_pixels": 1753
+    },
+    {
+      "id": "elephant-flower",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        37,
+        77,
+        4,
+        66
+      ],
+      "review_edge": true,
+      "transparent_pixels": 762825,
+      "partial_alpha_pixels": 807509,
+      "opaque_pixels": 2182
+    },
+    {
+      "id": "elephant-sleeping-plush",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        28,
+        122,
+        38,
+        115
+      ],
+      "review_edge": false,
+      "transparent_pixels": 717047,
+      "partial_alpha_pixels": 854814,
+      "opaque_pixels": 655
+    },
+    {
+      "id": "monkey-swinging-vine",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        176,
+        8,
+        58,
+        55
+      ],
+      "review_edge": true,
+      "transparent_pixels": 921483,
+      "partial_alpha_pixels": 648499,
+      "opaque_pixels": 2534
+    },
+    {
+      "id": "monkey-banana",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        178,
+        73,
+        71,
+        59
+      ],
+      "review_edge": false,
+      "transparent_pixels": 743221,
+      "partial_alpha_pixels": 827316,
+      "opaque_pixels": 1979
+    },
+    {
+      "id": "monkey-coconut-drink",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        171,
+        62,
+        73,
+        53
+      ],
+      "review_edge": false,
+      "transparent_pixels": 776158,
+      "partial_alpha_pixels": 794701,
+      "opaque_pixels": 1657
+    },
+    {
+      "id": "monkey-butterfly",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        105,
+        60,
+        71,
+        64
+      ],
+      "review_edge": false,
+      "transparent_pixels": 876005,
+      "partial_alpha_pixels": 694533,
+      "opaque_pixels": 1978
+    },
+    {
+      "id": "monkey-jungle-map",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        163,
+        72,
+        113,
+        66
+      ],
+      "review_edge": false,
+      "transparent_pixels": 830695,
+      "partial_alpha_pixels": 739472,
+      "opaque_pixels": 2349
+    },
+    {
+      "id": "monkey-leaf-umbrella",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        167,
+        40,
+        86,
+        44
+      ],
+      "review_edge": false,
+      "transparent_pixels": 803085,
+      "partial_alpha_pixels": 767759,
+      "opaque_pixels": 1672
+    },
+    {
+      "id": "monkey-jungle-drum",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        113,
+        48,
+        55,
+        41
+      ],
+      "review_edge": false,
+      "transparent_pixels": 724842,
+      "partial_alpha_pixels": 845542,
+      "opaque_pixels": 2132
+    },
+    {
+      "id": "monkey-sleeping-hammock",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        7,
+        122,
+        7,
+        129
+      ],
+      "review_edge": true,
+      "transparent_pixels": 763915,
+      "partial_alpha_pixels": 807553,
+      "opaque_pixels": 1048
+    },
+    {
+      "id": "ghost-pumpkin",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        162,
+        85,
+        146,
+        84
+      ],
+      "review_edge": false,
+      "transparent_pixels": 890642,
+      "partial_alpha_pixels": 681027,
+      "opaque_pixels": 847
+    },
+    {
+      "id": "ghost-witch-hat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        199,
+        48,
+        171,
+        45
+      ],
+      "review_edge": false,
+      "transparent_pixels": 834567,
+      "partial_alpha_pixels": 737508,
+      "opaque_pixels": 441
+    },
+    {
+      "id": "ghost-lantern",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        117,
+        132,
+        99,
+        133
+      ],
+      "review_edge": false,
+      "transparent_pixels": 911161,
+      "partial_alpha_pixels": 659827,
+      "opaque_pixels": 1528
+    },
+    {
+      "id": "ghost-candy-basket",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        63,
+        95,
+        79,
+        97
+      ],
+      "review_edge": false,
+      "transparent_pixels": 799223,
+      "partial_alpha_pixels": 772329,
+      "opaque_pixels": 964
+    },
+    {
+      "id": "ghost-broomstick",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        89,
+        98,
+        67,
+        94
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1019836,
+      "partial_alpha_pixels": 550884,
+      "opaque_pixels": 1796
+    },
+    {
+      "id": "ghost-potion",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        170,
+        121,
+        155,
+        114
+      ],
+      "review_edge": false,
+      "transparent_pixels": 952288,
+      "partial_alpha_pixels": 618474,
+      "opaque_pixels": 1754
+    },
+    {
+      "id": "ghost-happy-dance",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        102,
+        70,
+        66,
+        115
+      ],
+      "review_edge": false,
+      "transparent_pixels": 877102,
+      "partial_alpha_pixels": 693987,
+      "opaque_pixels": 1427
+    },
+    {
+      "id": "ghost-sleeping-moon",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        118,
+        94,
+        81,
+        92
+      ],
+      "review_edge": false,
+      "transparent_pixels": 817923,
+      "partial_alpha_pixels": 752755,
+      "opaque_pixels": 1838
+    },
+    {
+      "id": "squirrel-acorn",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        85,
+        85,
+        167,
+        81
+      ],
+      "review_edge": false,
+      "transparent_pixels": 779604,
+      "partial_alpha_pixels": 791977,
+      "opaque_pixels": 935
+    },
+    {
+      "id": "squirrel-tree-branch",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        76,
+        91,
+        39,
+        66
+      ],
+      "review_edge": false,
+      "transparent_pixels": 828648,
+      "partial_alpha_pixels": 742591,
+      "opaque_pixels": 1277
+    },
+    {
+      "id": "squirrel-leaf-umbrella",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        150,
+        53,
+        94,
+        40
+      ],
+      "review_edge": false,
+      "transparent_pixels": 729032,
+      "partial_alpha_pixels": 841231,
+      "opaque_pixels": 2253
+    },
+    {
+      "id": "squirrel-jumping",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        74,
+        113,
+        105,
+        100
+      ],
+      "review_edge": false,
+      "transparent_pixels": 763481,
+      "partial_alpha_pixels": 807419,
+      "opaque_pixels": 1616
+    },
+    {
+      "id": "squirrel-forest-map",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        64,
+        79,
+        97,
+        63
+      ],
+      "review_edge": false,
+      "transparent_pixels": 703038,
+      "partial_alpha_pixels": 867769,
+      "opaque_pixels": 1709
+    },
+    {
+      "id": "squirrel-walnut",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        40,
+        35,
+        107,
+        38
+      ],
+      "review_edge": false,
+      "transparent_pixels": 649440,
+      "partial_alpha_pixels": 920938,
+      "opaque_pixels": 2138
+    },
+    {
+      "id": "squirrel-sleeping-nest",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        47,
+        115,
+        33,
+        92
+      ],
+      "review_edge": false,
+      "transparent_pixels": 670483,
+      "partial_alpha_pixels": 900962,
+      "opaque_pixels": 1071
+    },
+    {
+      "id": "squirrel-chestnut-basket",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        105,
+        69,
+        101,
+        66
+      ],
+      "review_edge": false,
+      "transparent_pixels": 771036,
+      "partial_alpha_pixels": 799533,
+      "opaque_pixels": 1947
+    },
+    {
+      "id": "chestnut-branch",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        90,
+        123,
+        20,
+        105
+      ],
+      "review_edge": true,
+      "transparent_pixels": 804821,
+      "partial_alpha_pixels": 765899,
+      "opaque_pixels": 1796
+    },
+    {
+      "id": "chestnut-open-burr",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        57,
+        132,
+        59,
+        129
+      ],
+      "review_edge": false,
+      "transparent_pixels": 693043,
+      "partial_alpha_pixels": 879045,
+      "opaque_pixels": 428
+    },
+    {
+      "id": "chestnut-harvest-basket",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        131,
+        78,
+        120,
+        88
+      ],
+      "review_edge": false,
+      "transparent_pixels": 792198,
+      "partial_alpha_pixels": 779371,
+      "opaque_pixels": 947
+    },
+    {
+      "id": "chestnut-roasting-pan",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        52,
+        217,
+        49,
+        193
+      ],
+      "review_edge": false,
+      "transparent_pixels": 924221,
+      "partial_alpha_pixels": 647153,
+      "opaque_pixels": 1142
+    },
+    {
+      "id": "chestnut-paper-cone",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        251,
+        75,
+        235,
+        84
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1082079,
+      "partial_alpha_pixels": 489598,
+      "opaque_pixels": 839
+    },
+    {
+      "id": "chestnut-cream-cake",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        210,
+        112,
+        209,
+        110
+      ],
+      "review_edge": false,
+      "transparent_pixels": 928162,
+      "partial_alpha_pixels": 644097,
+      "opaque_pixels": 257
+    },
+    {
+      "id": "chestnut-leaf-cluster",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        78,
+        71,
+        57,
+        133
+      ],
+      "review_edge": false,
+      "transparent_pixels": 733704,
+      "partial_alpha_pixels": 837090,
+      "opaque_pixels": 1722
+    },
+    {
+      "id": "hedgehog-apple",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        174,
+        66,
+        150,
+        77
+      ],
+      "review_edge": false,
+      "transparent_pixels": 776826,
+      "partial_alpha_pixels": 794439,
+      "opaque_pixels": 1251
+    },
+    {
+      "id": "hedgehog-leaf-hat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        160,
+        55,
+        148,
+        76
+      ],
+      "review_edge": false,
+      "transparent_pixels": 753149,
+      "partial_alpha_pixels": 817724,
+      "opaque_pixels": 1643
+    },
+    {
+      "id": "hedgehog-mushroom",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        65,
+        109,
+        89,
+        107
+      ],
+      "review_edge": false,
+      "transparent_pixels": 738705,
+      "partial_alpha_pixels": 832072,
+      "opaque_pixels": 1739
+    },
+    {
+      "id": "hedgehog-rain-boots",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        196,
+        72,
+        144,
+        61
+      ],
+      "review_edge": false,
+      "transparent_pixels": 807431,
+      "partial_alpha_pixels": 763480,
+      "opaque_pixels": 1605
+    },
+    {
+      "id": "hedgehog-butterfly",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        179,
+        63,
+        165,
+        56
+      ],
+      "review_edge": false,
+      "transparent_pixels": 815038,
+      "partial_alpha_pixels": 757125,
+      "opaque_pixels": 353
+    },
+    {
+      "id": "hedgehog-happy-jump",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        192,
+        113,
+        145,
+        115
+      ],
+      "review_edge": false,
+      "transparent_pixels": 876582,
+      "partial_alpha_pixels": 695445,
+      "opaque_pixels": 489
+    },
+    {
+      "id": "hedgehog-sleeping",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        84,
+        59,
+        82,
+        56
+      ],
+      "review_edge": false,
+      "transparent_pixels": 634476,
+      "partial_alpha_pixels": 937467,
+      "opaque_pixels": 573
+    },
+    {
+      "id": "hedgehog-pumpkin-hug",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        148,
+        66,
+        145,
+        81
+      ],
+      "review_edge": false,
+      "transparent_pixels": 719652,
+      "partial_alpha_pixels": 851220,
+      "opaque_pixels": 1644
+    },
+    {
+      "id": "pumpkin-seedling",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        77,
+        142,
+        76,
+        136
+      ],
+      "review_edge": false,
+      "transparent_pixels": 941894,
+      "partial_alpha_pixels": 628387,
+      "opaque_pixels": 2235
+    },
+    {
+      "id": "pumpkin-vine",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        120,
+        200,
+        118,
+        161
+      ],
+      "review_edge": false,
+      "transparent_pixels": 909884,
+      "partial_alpha_pixels": 661327,
+      "opaque_pixels": 1305
+    },
+    {
+      "id": "pumpkin-harvest",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        50,
+        114,
+        56,
+        129
+      ],
+      "review_edge": false,
+      "transparent_pixels": 755498,
+      "partial_alpha_pixels": 815876,
+      "opaque_pixels": 1142
+    },
+    {
+      "id": "pumpkin-wicker-basket",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        117,
+        107,
+        107,
+        115
+      ],
+      "review_edge": false,
+      "transparent_pixels": 852131,
+      "partial_alpha_pixels": 718619,
+      "opaque_pixels": 1766
+    },
+    {
+      "id": "pumpkin-slice",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        43,
+        128,
+        25,
+        112
+      ],
+      "review_edge": true,
+      "transparent_pixels": 846880,
+      "partial_alpha_pixels": 724495,
+      "opaque_pixels": 1141
+    },
+    {
+      "id": "pumpkin-pie",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        31,
+        165,
+        33,
+        161
+      ],
+      "review_edge": false,
+      "transparent_pixels": 761349,
+      "partial_alpha_pixels": 810182,
+      "opaque_pixels": 985
+    },
+    {
+      "id": "pumpkin-lantern",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        148,
+        75,
+        147,
+        99
+      ],
+      "review_edge": false,
+      "transparent_pixels": 824426,
+      "partial_alpha_pixels": 746731,
+      "opaque_pixels": 1359
+    },
+    {
+      "id": "raccoon-apple",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        41,
+        29,
+        53,
+        56
+      ],
+      "review_edge": false,
+      "transparent_pixels": 734929,
+      "partial_alpha_pixels": 836347,
+      "opaque_pixels": 1240
+    },
+    {
+      "id": "raccoon-reading",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        32,
+        37,
+        62,
+        116
+      ],
+      "review_edge": false,
+      "transparent_pixels": 777016,
+      "partial_alpha_pixels": 794530,
+      "opaque_pixels": 970
+    },
+    {
+      "id": "raccoon-umbrella",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        0,
+        0,
+        30,
+        52
+      ],
+      "review_edge": true,
+      "transparent_pixels": 668859,
+      "partial_alpha_pixels": 902500,
+      "opaque_pixels": 1157
+    },
+    {
+      "id": "raccoon-hiking",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        2,
+        51,
+        12,
+        48
+      ],
+      "review_edge": true,
+      "transparent_pixels": 762631,
+      "partial_alpha_pixels": 808113,
+      "opaque_pixels": 1772
+    },
+    {
+      "id": "raccoon-binoculars",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        39,
+        53,
+        32,
+        54
+      ],
+      "review_edge": false,
+      "transparent_pixels": 739780,
+      "partial_alpha_pixels": 831216,
+      "opaque_pixels": 1520
+    },
+    {
+      "id": "raccoon-marshmallow",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        49,
+        51,
+        16,
+        55
+      ],
+      "review_edge": true,
+      "transparent_pixels": 706786,
+      "partial_alpha_pixels": 864483,
+      "opaque_pixels": 1247
     }
   ]
 }

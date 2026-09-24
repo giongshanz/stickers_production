@@ -1,0 +1,22 @@
+{
+  "id": "dragon-sleeping-treasure",
+  "subject": "The same small friendly moss-green dragon hatchling sleeping curled around one compact pile of five large golden coins and one red gem; pale warm-cream segmented belly, muted golden horns and wing membranes, darker green rounded dorsal scutes, four short limbs, folded wings, one complete tapering tail, closed eyes and peach cheek patches",
+  "topic_slugs": [
+    "little-dragon-magic"
+  ],
+  "profile": "little-dragon-magic-character",
+  "prompt": "Generate ONE new individual sticker in the exact illustrative style of the supplied original desktop sticker references. References are style only, not subjects to copy.\nArt direction: hand-painted 2D casual-game illustration with restrained local contrast, warm mid-light colors, thin warm locally colored outlines, simple matte painted volumes, just two or three quiet same-hue shadow patches. Modest detail and small broad paint marks. Soft illustrative volume matching the reference artwork. No shiny 3D toy appearance, deep dark crevices, harsh light, or dense surface texture. Do not anthropomorphize objects.\nEntire subject centered and fully visible with clear padding on all sides; a narrow clean white sticker-cut margin follows the silhouette. No scene, floor shadow, text, letters, brand or watermark.\nDeliver a PNG with a TRANSPARENT BACKGROUND: empty canvas outside the sticker, actual alpha transparency.\nSquare canvas, target 512 x 512. Entire sticker visible with clear padding.\nSUBJECT: The same small friendly moss-green dragon hatchling sleeping curled around one compact pile of five large golden coins and one red gem; pale warm-cream segmented belly, muted golden horns and wing membranes, darker green rounded dorsal scutes, four short limbs, folded wings, one complete tapering tail, closed eyes and peach cheek patches. Draw exactly one whole friendly dragon hatchling performing the named magical activity. Keep the design consistent: moss-green body, pale warm-cream segmented belly, muted golden horns and wing membranes, darker green rounded dorsal scutes, four anatomically readable short limbs, two small bat-like wings, one complete tapering tail, warm dark eyes and peach cheek patches. References guide style and anatomy only; do not switch to red or copy their exact pose. Props are limited to those named and form one connected sticker. No extra character, broad scene, ground, floor shadow, text, logo or watermark. Keep the complete sticker and narrow white cut margin inside transparent padding.",
+  "referenced_image_paths": [
+    "references/Stickers/Dragon/5-dragon_1.png",
+    "references/Stickers/Dragon/5-dragon_3.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "View the referenced images, then resolve their paths against the current workspace root when calling the image tool."
+}

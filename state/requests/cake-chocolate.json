@@ -1,0 +1,22 @@
+{
+  "id": "cake-chocolate",
+  "subject": "One compact round chocolate birthday cake with matte cocoa frosting, a restrained dark chocolate drip, three broad frosting swirls and a few simple chocolate squares on top, presented as one isolated sticker on a simple cake board; no candles, face or writing",
+  "topic_slugs": [
+    "birthday-cake-collection"
+  ],
+  "profile": "birthday-cakes",
+  "prompt": "Generate ONE new individual sticker in the exact illustrative style of the supplied original desktop sticker references. References are style only, not subjects to copy.\nArt direction: hand-painted 2D casual-game illustration with restrained local contrast, warm mid-light colors, thin warm locally colored outlines, simple matte painted volumes, just two or three quiet same-hue shadow patches. Modest detail and small broad paint marks. Soft illustrative volume matching the reference artwork. No shiny 3D toy appearance, deep dark crevices, harsh light, or dense surface texture. Do not anthropomorphize objects.\nEntire subject centered and fully visible with clear padding on all sides; a narrow clean white sticker-cut margin follows the silhouette. No scene, floor shadow, text, letters, brand or watermark.\nDeliver a PNG with a TRANSPARENT BACKGROUND: empty canvas outside the sticker, actual alpha transparency.\nSquare canvas, target 512 x 512. Entire sticker visible with clear padding.\nSUBJECT: One compact round chocolate birthday cake with matte cocoa frosting, a restrained dark chocolate drip, three broad frosting swirls and a few simple chocolate squares on top, presented as one isolated sticker on a simple cake board; no candles, face or writing. Draw exactly one isolated birthday cake of the named design, presented on its simple connected cake board. Keep the cake construction clean, edible and recognizable, with broad matte frosting shapes, restrained decoration and only two or three quiet shadow patches. Reference cakes guide the warm hand-painted style only; do not copy their exact flavor, topping layout or palette. Do not anthropomorphize the cake. No face, eyes, limbs, extra food, table scene, floor shadow, readable text, numbers, logo or watermark. Keep the complete cake, board and narrow white cut margin inside transparent padding.",
+  "referenced_image_paths": [
+    "references/Stickers/Cake/20-cake_1.png",
+    "references/Stickers/Cake/20-cake_4.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "View the referenced images, then resolve their paths against the current workspace root when calling the image tool."
+}

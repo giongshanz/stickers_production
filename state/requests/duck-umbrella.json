@@ -1,0 +1,22 @@
+{
+  "id": "duck-umbrella",
+  "subject": "The same cheerful small yellow duckling standing and holding one coral umbrella overhead with one wing; soft golden-yellow feathers, orange bill and webbed feet, small dark eyes and peach cheek patches; no rain scene",
+  "topic_slugs": [
+    "duck-rainy-day"
+  ],
+  "profile": "duck-rainy-character",
+  "prompt": "Generate ONE new individual sticker in the exact illustrative style of the supplied original desktop sticker references. References are style only, not subjects to copy.\nArt direction: hand-painted 2D casual-game illustration with restrained local contrast, warm mid-light colors, thin warm locally colored outlines, simple matte painted volumes, just two or three quiet same-hue shadow patches. Modest detail and small broad paint marks. Soft illustrative volume matching the reference artwork. No shiny 3D toy appearance, deep dark crevices, harsh light, or dense surface texture. Do not anthropomorphize objects.\nEntire subject centered and fully visible with clear padding on all sides; a narrow clean white sticker-cut margin follows the silhouette. No scene, floor shadow, text, letters, brand or watermark.\nDeliver a PNG with a TRANSPARENT BACKGROUND: empty canvas outside the sticker, actual alpha transparency.\nSquare canvas, target 512 x 512. Entire sticker visible with clear padding.\nSUBJECT: The same cheerful small yellow duckling standing and holding one coral umbrella overhead with one wing; soft golden-yellow feathers, orange bill and webbed feet, small dark eyes and peach cheek patches; no rain scene. Draw exactly one whole cheerful small yellow duckling performing the named rainy-day activity. Keep its design consistent: soft golden-yellow feathers, rounded head and body, short orange bill, two orange webbed feet, two wings, small dark eyes and peach cheek patches. Preserve recognizable duck anatomy. References guide the warm hand-painted bird style only; create a new pose. Props are limited to those named and form one connected sticker. No extra character, broad scene, ground, floor shadow, text, brand or watermark. Keep the whole sticker and narrow white cut margin inside transparent padding.",
+  "referenced_image_paths": [
+    "references/Stickers/Bird/22_bird_1.png",
+    "references/Stickers/Bird/22_bird_5.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "View the referenced images, then resolve their paths against the current workspace root when calling the image tool."
+}

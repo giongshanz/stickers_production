@@ -1,0 +1,14 @@
+{
+  "timestamp_utc": "2026-09-24T10:00:23.868819+00:00",
+  "id": "chestnut-leaf-cluster",
+  "reason": "First image resembled oak leaves and acorns; replacement has serrated chestnut leaves, spiky burr and smooth chestnuts.",
+  "old_master": "revisions/twenty-pairs-20260924/chestnut-leaf-cluster-before/master.png",
+  "old_sha256": "9f2d78d95f5e45151844b16267fa2535007e608fc02ac899c92cd4ba51ab9e7a",
+  "archived_deliveries": [
+    "revisions/twenty-pairs-20260924/chestnut-leaf-cluster-before/delivery/stickers/chestnut-season/chestnut-leaf-cluster.png"
+  ],
+  "candidate": "revisions/twenty-pairs-20260924/chestnut-leaf-cluster-v2.png",
+  "new_master": "masters/chestnut-leaf-cluster.png",
+  "new_sha256": "16d74ad7aed152b9350f7c63be8264d29120239de8849412d631676cc5c8603b",
+  "request": "state/requests/chestnut-leaf-cluster-v2.json"
+}

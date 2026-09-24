@@ -1,0 +1,112 @@
+{
+  "updated_utc": "2026-09-23T03:56:05.102121+00:00",
+  "ids": [
+    "farm-red-barn",
+    "farm-red-tractor",
+    "farm-holstein-cow",
+    "farm-pink-pig",
+    "farm-woolly-sheep",
+    "farm-white-hen",
+    "farm-hay-bale",
+    "farm-windmill"
+  ],
+  "items": [
+    {
+      "id": "farm-red-barn",
+      "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+      "pixels_cleared": 13194,
+      "width": 1254,
+      "height": 1254,
+      "rgb_unchanged": true,
+      "old_master_sha256": "ca2df3890cca0b0f9a4b39e34d872bab58bd7e79411df32bc71d92e2365d27a8",
+      "new_master_sha256": "1bb6396276c1ce6e90a52bc5c4302fc9ac048f8f9ed0c1449e64d908e2105e14",
+      "archived_master": "revisions/farm-20260923/alpha-before/masters/farm-red-barn.png",
+      "archived_delivery": "revisions/farm-20260923/alpha-before/delivery/stickers/farm/farm-red-barn.png"
+    },
+    {
+      "id": "farm-red-tractor",
+      "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+      "pixels_cleared": 21084,
+      "width": 1254,
+      "height": 1254,
+      "rgb_unchanged": true,
+      "old_master_sha256": "34126fc1c88c58ed73b90b7b33b78940491e61a61f287da4caf8ad7edd93da39",
+      "new_master_sha256": "6a6eec03fe64d5cc5cc396d565b2796db07e9c5d749297cd49cd33ecf6753bba",
+      "archived_master": "revisions/farm-20260923/alpha-before/masters/farm-red-tractor.png",
+      "archived_delivery": "revisions/farm-20260923/alpha-before/delivery/stickers/farm/farm-red-tractor.png"
+    },
+    {
+      "id": "farm-holstein-cow",
+      "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+      "pixels_cleared": 27809,
+      "width": 1254,
+      "height": 1254,
+      "rgb_unchanged": true,
+      "old_master_sha256": "dac6586cd83c44f3a09ba11fff74cbafe896b2700cabfc24dfe87b2dc1adb7fd",
+      "new_master_sha256": "480f43e8bf2185a5b1e4ac2e83c10a5641b88eeab774918b4cdd810dc5f27238",
+      "archived_master": "revisions/farm-20260923/alpha-before/masters/farm-holstein-cow.png",
+      "archived_delivery": "revisions/farm-20260923/alpha-before/delivery/stickers/farm/farm-holstein-cow.png"
+    },
+    {
+      "id": "farm-pink-pig",
+      "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+      "pixels_cleared": 21055,
+      "width": 1254,
+      "height": 1254,
+      "rgb_unchanged": true,
+      "old_master_sha256": "db1f40734b8718360bc02af1c612c1eff1e87775640327241aca6ea824cd4157",
+      "new_master_sha256": "844bcc8096ff05846fa8a7288bd9fb476ae15f75cb227d5f51c94edc6f1ac4fd",
+      "archived_master": "revisions/farm-20260923/alpha-before/masters/farm-pink-pig.png",
+      "archived_delivery": "revisions/farm-20260923/alpha-before/delivery/stickers/farm/farm-pink-pig.png"
+    },
+    {
+      "id": "farm-woolly-sheep",
+      "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+      "pixels_cleared": 20305,
+      "width": 1254,
+      "height": 1254,
+      "rgb_unchanged": true,
+      "old_master_sha256": "714f6abc85e10063c1b8a746ab7d9491633b93eeabf98e463b15d3bc9abb1ab4",
+      "new_master_sha256": "dc8996d96af31bebb94f46dc227869b469a9971eeb24c29a820b013a94fef0ad",
+      "archived_master": "revisions/farm-20260923/alpha-before/masters/farm-woolly-sheep.png",
+      "archived_delivery": "revisions/farm-20260923/alpha-before/delivery/stickers/farm/farm-woolly-sheep.png"
+    },
+    {
+      "id": "farm-white-hen",
+      "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+      "pixels_cleared": 16950,
+      "width": 1254,
+      "height": 1254,
+      "rgb_unchanged": true,
+      "old_master_sha256": "3497031283f323f8f8b29297410b8690a5f6d1984773c1d23175cf978460e103",
+      "new_master_sha256": "0eb52275913b25154c448f1885a930542b6e56c9d7036ca5634159f04635e0d6",
+      "archived_master": "revisions/farm-20260923/alpha-before/masters/farm-white-hen.png",
+      "archived_delivery": "revisions/farm-20260923/alpha-before/delivery/stickers/farm/farm-white-hen.png"
+    },
+    {
+      "id": "farm-hay-bale",
+      "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+      "pixels_cleared": 20067,
+      "width": 1254,
+      "height": 1254,
+      "rgb_unchanged": true,
+      "old_master_sha256": "c10a8e278775c27eea026cf5b3685e31258396172cefc2f01c4194a2f5f62370",
+      "new_master_sha256": "9ea155ec5611b561b0329d2bc52168bde4e83fcd7852a3d2a03c12fcd27a1e6f",
+      "archived_master": "revisions/farm-20260923/alpha-before/masters/farm-hay-bale.png",
+      "archived_delivery": "revisions/farm-20260923/alpha-before/delivery/stickers/farm/farm-hay-bale.png"
+    },
+    {
+      "id": "farm-windmill",
+      "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+      "pixels_cleared": 13613,
+      "width": 1254,
+      "height": 1254,
+      "rgb_unchanged": true,
+      "old_master_sha256": "5dfe3233c143e13d3c90d77be132a06fd2270d6c89392b8fbd7be456eb3ff3b6",
+      "new_master_sha256": "50600ef26ce31d87069beff495b8edd114d389a2223b44861b14c06eba50fbf1",
+      "archived_master": "revisions/farm-20260923/alpha-before/masters/farm-windmill.png",
+      "archived_delivery": "revisions/farm-20260923/alpha-before/delivery/stickers/farm/farm-windmill.png"
+    }
+  ],
+  "note": "Selected alpha-only cleanup preserves RGB and 1254 x 1254 canvas dimensions. Delivery copies are rebuilt from masters by refresh."
+}

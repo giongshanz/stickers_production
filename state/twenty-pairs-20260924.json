@@ -1,0 +1,359 @@
+{
+  "topics": [
+    {
+      "slug": "squirrel-forest",
+      "name_vi": "Sóc rừng",
+      "ids": [
+        "squirrel-acorn",
+        "squirrel-tree-branch",
+        "squirrel-leaf-umbrella",
+        "squirrel-jumping",
+        "squirrel-forest-map",
+        "squirrel-walnut",
+        "squirrel-sleeping-nest",
+        "squirrel-chestnut-basket"
+      ]
+    },
+    {
+      "slug": "chestnut-season",
+      "name_vi": "Mùa hạt dẻ",
+      "ids": [
+        "squirrel-chestnut-basket",
+        "chestnut-branch",
+        "chestnut-open-burr",
+        "chestnut-harvest-basket",
+        "chestnut-roasting-pan",
+        "chestnut-paper-cone",
+        "chestnut-cream-cake",
+        "chestnut-leaf-cluster"
+      ]
+    },
+    {
+      "slug": "happy-hedgehog",
+      "name_vi": "Nhím vui vẻ",
+      "ids": [
+        "hedgehog-apple",
+        "hedgehog-leaf-hat",
+        "hedgehog-mushroom",
+        "hedgehog-rain-boots",
+        "hedgehog-butterfly",
+        "hedgehog-happy-jump",
+        "hedgehog-sleeping",
+        "hedgehog-pumpkin-hug"
+      ]
+    },
+    {
+      "slug": "pumpkin-season",
+      "name_vi": "Mùa bí ngô",
+      "ids": [
+        "hedgehog-pumpkin-hug",
+        "pumpkin-seedling",
+        "pumpkin-vine",
+        "pumpkin-harvest",
+        "pumpkin-wicker-basket",
+        "pumpkin-slice",
+        "pumpkin-pie",
+        "pumpkin-lantern"
+      ]
+    },
+    {
+      "slug": "raccoon-activities",
+      "name_vi": "Gấu mèo",
+      "ids": [
+        "raccoon-apple",
+        "raccoon-reading",
+        "raccoon-umbrella",
+        "raccoon-hiking",
+        "raccoon-binoculars",
+        "raccoon-marshmallow",
+        "raccoon-sleeping",
+        "raccoon-lakeside-fishing"
+      ]
+    },
+    {
+      "slug": "lakeside-camping",
+      "name_vi": "Cắm trại ven hồ",
+      "ids": [
+        "raccoon-lakeside-fishing",
+        "lakeside-tent",
+        "lakeside-campfire",
+        "lakeside-canteen",
+        "lakeside-fishing-rod",
+        "lakeside-rowboat",
+        "lakeside-lantern",
+        "lakeside-sleeping-bag"
+      ]
+    },
+    {
+      "slug": "school-mouse",
+      "name_vi": "Chuột học trò",
+      "ids": [
+        "mouse-schoolbag",
+        "mouse-reading",
+        "mouse-writing",
+        "mouse-ruler",
+        "mouse-lunchbox",
+        "mouse-globe",
+        "mouse-sleeping-books",
+        "mouse-color-pencil-box"
+      ]
+    },
+    {
+      "slug": "art-corner",
+      "name_vi": "Góc mỹ thuật",
+      "ids": [
+        "mouse-color-pencil-box",
+        "art-colored-pencils",
+        "art-watercolor-palette",
+        "art-paintbrushes",
+        "art-sketchbook",
+        "art-small-easel",
+        "art-clay-pot",
+        "art-paper-collage"
+      ]
+    },
+    {
+      "slug": "winter-lamb",
+      "name_vi": "Cừu mùa đông",
+      "ids": [
+        "lamb-winter-hat",
+        "lamb-snowflake",
+        "lamb-sled",
+        "lamb-snowball",
+        "lamb-cocoa",
+        "lamb-mittens",
+        "lamb-sleeping-blanket",
+        "lamb-red-scarf"
+      ]
+    },
+    {
+      "slug": "knitwear",
+      "name_vi": "Đồ len",
+      "ids": [
+        "lamb-red-scarf",
+        "knit-pom-hat",
+        "knit-cream-sweater",
+        "knit-striped-socks",
+        "knit-earmuffs",
+        "knit-shawl",
+        "knit-baby-booties",
+        "knit-yarn-basket"
+      ]
+    },
+    {
+      "slug": "little-turtle",
+      "name_vi": "Rùa nhỏ",
+      "ids": [
+        "turtle-strawberry",
+        "turtle-rain-leaf",
+        "turtle-map",
+        "turtle-water-lily",
+        "turtle-pond-dive",
+        "turtle-butterfly",
+        "turtle-sleeping",
+        "turtle-lotus-leaf"
+      ]
+    },
+    {
+      "slug": "lotus-pond",
+      "name_vi": "Ao sen",
+      "ids": [
+        "turtle-lotus-leaf",
+        "lotus-pink-bloom",
+        "lotus-white-bud",
+        "lotus-seed-pod",
+        "lotus-floating-leaf",
+        "lotus-dragonfly",
+        "lotus-frog",
+        "lotus-pond-fish"
+      ]
+    },
+    {
+      "slug": "small-robot",
+      "name_vi": "Robot nhỏ",
+      "ids": [
+        "robot-watering-plant",
+        "robot-reading-manual",
+        "robot-toolbox",
+        "robot-lightbulb",
+        "robot-cleaning",
+        "robot-greeting",
+        "robot-sleep-mode",
+        "robot-bicycle-ride"
+      ]
+    },
+    {
+      "slug": "bicycles",
+      "name_vi": "Xe đạp",
+      "ids": [
+        "robot-bicycle-ride",
+        "bicycle-city",
+        "bicycle-mountain",
+        "bicycle-cargo",
+        "bicycle-kids",
+        "bicycle-folding",
+        "bicycle-tandem",
+        "bicycle-basket-flowers"
+      ]
+    },
+    {
+      "slug": "seal-activities",
+      "name_vi": "Hải cẩu",
+      "ids": [
+        "seal-clapping",
+        "seal-fish",
+        "seal-swim-ring",
+        "seal-beach-ball",
+        "seal-snowball",
+        "seal-sled",
+        "seal-sleeping",
+        "seal-ice-skates"
+      ]
+    },
+    {
+      "slug": "ice-day",
+      "name_vi": "Ngày trên băng",
+      "ids": [
+        "seal-ice-skates",
+        "ice-frozen-pond",
+        "ice-fishing-hole",
+        "ice-lantern",
+        "ice-skate-pair",
+        "ice-sled",
+        "ice-snow-crystal",
+        "ice-thermos"
+      ]
+    },
+    {
+      "slug": "polar-bear-activities",
+      "name_vi": "Gấu Bắc Cực",
+      "ids": [
+        "polar-bear-scarf",
+        "polar-bear-snowflake",
+        "polar-bear-fishing",
+        "polar-bear-cocoa",
+        "polar-bear-sled",
+        "polar-bear-snowman",
+        "polar-bear-sleeping",
+        "polar-bear-strawberry-cone"
+      ]
+    },
+    {
+      "slug": "fruit-ice-cream",
+      "name_vi": "Kem trái cây",
+      "ids": [
+        "polar-bear-strawberry-cone",
+        "icecream-mango",
+        "icecream-blueberry",
+        "icecream-kiwi",
+        "icecream-peach",
+        "icecream-banana",
+        "icecream-watermelon",
+        "icecream-pineapple"
+      ]
+    },
+    {
+      "slug": "fox-explorer",
+      "name_vi": "Cáo khám phá",
+      "ids": [
+        "explorer-fox-map",
+        "explorer-fox-binoculars",
+        "explorer-fox-backpack",
+        "explorer-fox-compass",
+        "explorer-fox-telescope",
+        "explorer-fox-photo",
+        "explorer-fox-sleeping",
+        "fox-hot-air-balloon"
+      ]
+    },
+    {
+      "slug": "hot-air-balloons",
+      "name_vi": "Khinh khí cầu",
+      "ids": [
+        "fox-hot-air-balloon",
+        "balloon-rainbow",
+        "balloon-heart",
+        "balloon-bear",
+        "balloon-rabbit",
+        "balloon-cloud",
+        "balloon-pumpkin",
+        "balloon-star"
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "id": "squirrel-chestnut-basket",
+      "topic_slugs": [
+        "squirrel-forest",
+        "chestnut-season"
+      ]
+    },
+    {
+      "id": "hedgehog-pumpkin-hug",
+      "topic_slugs": [
+        "happy-hedgehog",
+        "pumpkin-season"
+      ]
+    },
+    {
+      "id": "raccoon-lakeside-fishing",
+      "topic_slugs": [
+        "raccoon-activities",
+        "lakeside-camping"
+      ]
+    },
+    {
+      "id": "mouse-color-pencil-box",
+      "topic_slugs": [
+        "school-mouse",
+        "art-corner"
+      ]
+    },
+    {
+      "id": "lamb-red-scarf",
+      "topic_slugs": [
+        "winter-lamb",
+        "knitwear"
+      ]
+    },
+    {
+      "id": "turtle-lotus-leaf",
+      "topic_slugs": [
+        "little-turtle",
+        "lotus-pond"
+      ]
+    },
+    {
+      "id": "robot-bicycle-ride",
+      "topic_slugs": [
+        "small-robot",
+        "bicycles"
+      ]
+    },
+    {
+      "id": "seal-ice-skates",
+      "topic_slugs": [
+        "seal-activities",
+        "ice-day"
+      ]
+    },
+    {
+      "id": "polar-bear-strawberry-cone",
+      "topic_slugs": [
+        "polar-bear-activities",
+        "fruit-ice-cream"
+      ]
+    },
+    {
+      "id": "fox-hot-air-balloon",
+      "topic_slugs": [
+        "fox-explorer",
+        "hot-air-balloons"
+      ]
+    }
+  ],
+  "target_new_unique": 150,
+  "target_new_slots": 160,
+  "next_id": "squirrel-acorn"
+}

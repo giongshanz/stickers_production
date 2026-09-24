@@ -1,0 +1,112 @@
+{
+  "updated_utc": "2026-09-23T07:00:28.361111+00:00",
+  "ids": [
+    "crocodile-beach-day",
+    "crocodile-surfing",
+    "crocodile-sandcastle",
+    "crocodile-swim-ring",
+    "crocodile-ice-cream",
+    "crocodile-reading",
+    "crocodile-happy-jump",
+    "crocodile-sleeping"
+  ],
+  "items": [
+    {
+      "id": "crocodile-beach-day",
+      "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+      "pixels_cleared": 13815,
+      "width": 1254,
+      "height": 1254,
+      "rgb_unchanged": true,
+      "old_master_sha256": "0d47bdde124054245a2078c49e336f0c4bd64945e0d7a81bd4614aa4118473ec",
+      "new_master_sha256": "aa6b4145896745dbf84be30265e8d3c002f6636ef1293c66ec84412d0b1797fc",
+      "archived_master": "revisions/crocodile-20260923/alpha-before/masters/crocodile-beach-day.png",
+      "archived_delivery": "revisions/crocodile-20260923/alpha-before/delivery/stickers/crocodile-activities/crocodile-beach-day.png"
+    },
+    {
+      "id": "crocodile-surfing",
+      "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+      "pixels_cleared": 14817,
+      "width": 1254,
+      "height": 1254,
+      "rgb_unchanged": true,
+      "old_master_sha256": "af8e44e5239bed49f71e3efb782246384a86df921d5f0082069f57ad380c6ccf",
+      "new_master_sha256": "2b6937b78cd8bf46e5f3b60e083b17cfe9072b85e1d69f2c0515331b99782716",
+      "archived_master": "revisions/crocodile-20260923/alpha-before/masters/crocodile-surfing.png",
+      "archived_delivery": "revisions/crocodile-20260923/alpha-before/delivery/stickers/crocodile-activities/crocodile-surfing.png"
+    },
+    {
+      "id": "crocodile-sandcastle",
+      "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+      "pixels_cleared": 14119,
+      "width": 1254,
+      "height": 1254,
+      "rgb_unchanged": true,
+      "old_master_sha256": "484c0eddfc6f80ffeee94babadb8ebdc518d986ba50fb197190a75a98cc3e2ce",
+      "new_master_sha256": "9c586f99f1743ec6d6f1fbc42e3a0c71a04f0930a20330f50a8effc444f8347b",
+      "archived_master": "revisions/crocodile-20260923/alpha-before/masters/crocodile-sandcastle.png",
+      "archived_delivery": "revisions/crocodile-20260923/alpha-before/delivery/stickers/crocodile-activities/crocodile-sandcastle.png"
+    },
+    {
+      "id": "crocodile-swim-ring",
+      "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+      "pixels_cleared": 14676,
+      "width": 1254,
+      "height": 1254,
+      "rgb_unchanged": true,
+      "old_master_sha256": "84755d5f13326a990cc8efdbf10d34ad5b216beccf5d83f9dcb17610715fc609",
+      "new_master_sha256": "72c158f8c7f1547bd3d5f6ddc5710db664b4b7ef8ef2f844a7c98483437950d5",
+      "archived_master": "revisions/crocodile-20260923/alpha-before/masters/crocodile-swim-ring.png",
+      "archived_delivery": "revisions/crocodile-20260923/alpha-before/delivery/stickers/crocodile-activities/crocodile-swim-ring.png"
+    },
+    {
+      "id": "crocodile-ice-cream",
+      "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+      "pixels_cleared": 15536,
+      "width": 1254,
+      "height": 1254,
+      "rgb_unchanged": true,
+      "old_master_sha256": "8b723de92fa1c2fc991e02271358a54754826b5b4e09bcf938bdd6cbd85310a2",
+      "new_master_sha256": "51e15ebc7b1b1f98f9b1254f6e5b414a6e07093567e447292d92a4ee4f58f03b",
+      "archived_master": "revisions/crocodile-20260923/alpha-before/masters/crocodile-ice-cream.png",
+      "archived_delivery": "revisions/crocodile-20260923/alpha-before/delivery/stickers/crocodile-activities/crocodile-ice-cream.png"
+    },
+    {
+      "id": "crocodile-reading",
+      "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+      "pixels_cleared": 14170,
+      "width": 1254,
+      "height": 1254,
+      "rgb_unchanged": true,
+      "old_master_sha256": "44c6a9d03367cd16dd197af0fede5e00a46c22e38dfc969b0f7ae28ad8d6d28a",
+      "new_master_sha256": "02462c47203679921010c5823eeeff329db070cc76f242659f854806e820f17e",
+      "archived_master": "revisions/crocodile-20260923/alpha-before/masters/crocodile-reading.png",
+      "archived_delivery": "revisions/crocodile-20260923/alpha-before/delivery/stickers/crocodile-activities/crocodile-reading.png"
+    },
+    {
+      "id": "crocodile-happy-jump",
+      "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+      "pixels_cleared": 19824,
+      "width": 1254,
+      "height": 1254,
+      "rgb_unchanged": true,
+      "old_master_sha256": "571a4e7d77167f857ce48a86b03381900cf9dbe60748d086dd7cdb65c9bd566a",
+      "new_master_sha256": "331f477a127eeb260fb11fe5a8954cdaa9d1f81a9164335ffbeee9b6e493e5a2",
+      "archived_master": "revisions/crocodile-20260923/alpha-before/masters/crocodile-happy-jump.png",
+      "archived_delivery": "revisions/crocodile-20260923/alpha-before/delivery/stickers/crocodile-activities/crocodile-happy-jump.png"
+    },
+    {
+      "id": "crocodile-sleeping",
+      "alpha_rule": "Set only alpha values 1..15 to zero; RGB and canvas dimensions unchanged.",
+      "pixels_cleared": 14406,
+      "width": 1254,
+      "height": 1254,
+      "rgb_unchanged": true,
+      "old_master_sha256": "a3a351ba700eb6779f0d83ffab0e8888e5512208e9914a2b97089188f8edff1d",
+      "new_master_sha256": "2ac06c0522617ef5f378403ec3d77078fe6a7357e158abb22e23be7d6fdd7ff1",
+      "archived_master": "revisions/crocodile-20260923/alpha-before/masters/crocodile-sleeping.png",
+      "archived_delivery": "revisions/crocodile-20260923/alpha-before/delivery/stickers/crocodile-activities/crocodile-sleeping.png"
+    }
+  ],
+  "note": "Selected alpha-only cleanup preserves RGB and 1254 x 1254 canvas dimensions. Delivery copies are rebuilt from masters by refresh."
+}

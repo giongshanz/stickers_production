@@ -1,0 +1,22 @@
+{
+  "id": "gloves-goalkeeper",
+  "subject": "A matching pair of padded goalkeeper gloves with cream palms, muted blue backs and simple wrist straps, no writing or logos",
+  "topic_slugs": [
+    "glove-collection"
+  ],
+  "profile": "gloves",
+  "prompt": "Generate ONE new individual sticker in the exact illustrative style of the supplied original desktop sticker references. References are style only, not subjects to copy.\nArt direction: hand-painted 2D casual-game illustration with restrained local contrast, warm mid-light colors, thin warm locally colored outlines, simple matte painted volumes, just two or three quiet same-hue shadow patches. Modest detail and small broad paint marks. Soft illustrative volume matching the reference artwork. No shiny 3D toy appearance, deep dark crevices, harsh light, or dense surface texture. Do not anthropomorphize objects.\nEntire subject centered and fully visible with clear padding on all sides; a narrow clean white sticker-cut margin follows the silhouette. No scene, floor shadow, text, letters, brand or watermark.\nDeliver a PNG with a TRANSPARENT BACKGROUND: empty canvas outside the sticker, actual alpha transparency.\nSquare canvas, target 512 x 512. Entire sticker visible with clear padding.\nSUBJECT: A matching pair of padded goalkeeper gloves with cream palms, muted blue backs and simple wrist straps, no writing or logos. Draw exactly one matching pair of the named glove type, arranged as one compact connected sticker. Make the material, cuff, finger construction and functional padding clearly recognizable. No hands, people, readable text, brand or logo. Use restrained warm hand-painted detail and quiet local shading. Keep every fingertip and the complete sticker-cut margin comfortably inside the transparent canvas.",
+  "referenced_image_paths": [
+    "references/Stickers/3. Gloves/165-Glovers_2.png",
+    "references/Stickers/Gloves/25-sport_5.png"
+  ],
+  "paths_relative_to": "workspace root",
+  "target_dimensions": [
+    512,
+    512
+  ],
+  "target_only": true,
+  "scripted_resizing": false,
+  "tool": "built-in imagegen",
+  "note": "View the referenced images, then resolve their paths against the current workspace root when calling the image tool."
+}

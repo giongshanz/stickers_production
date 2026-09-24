@@ -1,0 +1,486 @@
+{
+  "rows": [
+    {
+      "id": "squirrel-acorn",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/squirrel-acorn.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/squirrel-forest/squirrel-acorn.png"
+      ],
+      "before_sha256": "f12910e2fdbbb645c538b3aa60f45fab08a95c0dbd8328206993b5bc4a0a2f70",
+      "after_sha256": "b6a82bd30a3ed84d859cdbcce04047fd63c96ac02922933f933127d61aba6ad3",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 17090
+    },
+    {
+      "id": "squirrel-tree-branch",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/squirrel-tree-branch.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/squirrel-forest/squirrel-tree-branch.png"
+      ],
+      "before_sha256": "4e548dcee9f6a7a004a7f7561920585441ec4cb94d0c77818d3a317589206f53",
+      "after_sha256": "69867de6c29b9bfb1a6dbf315d9a467f0654cfc45a2867da308566a18d08932d",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 17309
+    },
+    {
+      "id": "squirrel-leaf-umbrella",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/squirrel-leaf-umbrella.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/squirrel-forest/squirrel-leaf-umbrella.png"
+      ],
+      "before_sha256": "ab32db1ecd8554e5a35483f677f28f83542a2c8a2cb49266be1d13a1ca9baa63",
+      "after_sha256": "52b0e191013ddbe74f03b46e6b2655a513d44ddd445976bc6e64c0a377bc3b3c",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 16021
+    },
+    {
+      "id": "squirrel-jumping",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/squirrel-jumping.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/squirrel-forest/squirrel-jumping.png"
+      ],
+      "before_sha256": "4213116dd20acc08fae0cea8e848cef77211f5f2ca0909a385f22b73d72ea7d0",
+      "after_sha256": "60ef13700f1698fba2aa93ee33da828e84c9096a810368df6cfb51f9650284af",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 15527
+    },
+    {
+      "id": "squirrel-forest-map",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/squirrel-forest-map.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/squirrel-forest/squirrel-forest-map.png"
+      ],
+      "before_sha256": "9a7199a0341c759dad201457478076c6cefd6b628739464d2d57afcc46e19c59",
+      "after_sha256": "c4f7a39c07e0adf25de2ecbfad8e7b42ebb7d4dde478fb1cba9c77fea5b730db",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 20325
+    },
+    {
+      "id": "squirrel-walnut",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/squirrel-walnut.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/squirrel-forest/squirrel-walnut.png"
+      ],
+      "before_sha256": "118581fb51c17672dca6d6748e7235c469f3b02cdc6bbed611fe5467c95bf0ec",
+      "after_sha256": "0a374636b741d701341095a5a6b453902eb5619e70aab9638c629da51eb547f4",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 16940
+    },
+    {
+      "id": "squirrel-sleeping-nest",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/squirrel-sleeping-nest.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/squirrel-forest/squirrel-sleeping-nest.png"
+      ],
+      "before_sha256": "c73785c58b57858e889c80abe170b82837a30331a955389b801d1ddb3cb2d715",
+      "after_sha256": "d594d07b023dce710c2d6777f3db5329e68c6e6d168b40d49bc19ea1ac96beb6",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 25075
+    },
+    {
+      "id": "squirrel-chestnut-basket",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/squirrel-chestnut-basket.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/chestnut-season/squirrel-chestnut-basket.png",
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/squirrel-forest/squirrel-chestnut-basket.png"
+      ],
+      "before_sha256": "bfba521bb850c15fc095846f7b4e227d665a99a3c546df7c08818e9c0ba65430",
+      "after_sha256": "fbdfc4de32c80fecea24bcd86602c73411dcb370fa7d36aff9d37b7f0ef60822",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 12081
+    },
+    {
+      "id": "chestnut-branch",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/chestnut-branch.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/chestnut-season/chestnut-branch.png"
+      ],
+      "before_sha256": "db953b3eceef500c5329377ba7cc791a084d90448948149c1704836f6f8ed4fe",
+      "after_sha256": "72c7d1e6f63df0047e63f7ff68980293a2c6870e9504006572cd050b3982e01c",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 16867
+    },
+    {
+      "id": "chestnut-open-burr",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/chestnut-open-burr.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/chestnut-season/chestnut-open-burr.png"
+      ],
+      "before_sha256": "378e6b247b7caea55f1afda392ee01ab4c43268b5452d05a828d62caf853a80d",
+      "after_sha256": "f7d5c05069787401c82d7056cfc6e0fad8dbf77d17cdfa4bedce38cbb20068a6",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 16544
+    },
+    {
+      "id": "chestnut-harvest-basket",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/chestnut-harvest-basket.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/chestnut-season/chestnut-harvest-basket.png"
+      ],
+      "before_sha256": "9009c7718ac69ac56abf79eb5e355e2b9d714d7e07d45df466656794922fdeaa",
+      "after_sha256": "b9fedf93fbd689ed79b87a850d75e1be37c9d7d2de97830e197c63fd68c6665c",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 34324
+    },
+    {
+      "id": "chestnut-roasting-pan",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/chestnut-roasting-pan.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/chestnut-season/chestnut-roasting-pan.png"
+      ],
+      "before_sha256": "407ff95d0cfe8da940548d16fcee890e586a994bbca35f424fd87dbcb289e123",
+      "after_sha256": "ba321b166b47e66f4c0cd3e815cdefd880431c51a98872ea4e43836071a5b651",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 11679
+    },
+    {
+      "id": "chestnut-paper-cone",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/chestnut-paper-cone.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/chestnut-season/chestnut-paper-cone.png"
+      ],
+      "before_sha256": "ef16c981252044fcc42db4a10decb1879acbf08a0a083656cf6a6d914cfe0c00",
+      "after_sha256": "327dff04d048b2e9eedc1ef0243838555885a2dc0811b91da5ce12bc708cda41",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 7170
+    },
+    {
+      "id": "chestnut-cream-cake",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/chestnut-cream-cake.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/chestnut-season/chestnut-cream-cake.png"
+      ],
+      "before_sha256": "6e1afe50d967102560491fea6352fcfaf550ed89ec69c31915ddc23312252f4f",
+      "after_sha256": "26a911673a70376827d93e556d02975fb18f89e5fa358147a6e3b69213254030",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 11577
+    },
+    {
+      "id": "chestnut-leaf-cluster",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/chestnut-leaf-cluster.png",
+      "delivery_before": [],
+      "before_sha256": "16d74ad7aed152b9350f7c63be8264d29120239de8849412d631676cc5c8603b",
+      "after_sha256": "95eb3451cb3ccf002cb6549f76d7d059d69ccdcb0926b6b39e6c6647359e0aef",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 12381
+    },
+    {
+      "id": "hedgehog-apple",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/hedgehog-apple.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/happy-hedgehog/hedgehog-apple.png"
+      ],
+      "before_sha256": "fa02aa7fa0bfe48cae32a35932384970d848bb459c27490755caf5a91152d072",
+      "after_sha256": "18109f78534f1131d3d80db9a8b96cbee223f21707d64070c50dd9bbeadba2cf",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 13583
+    },
+    {
+      "id": "hedgehog-leaf-hat",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/hedgehog-leaf-hat.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/happy-hedgehog/hedgehog-leaf-hat.png"
+      ],
+      "before_sha256": "b0ca4828dbc405bc627befb80d22380f51663df91023bfcecef192a3b7c806a3",
+      "after_sha256": "a31a4f45d713790ac6d40b6e010ab45fb64a0b73fe275d3c47c27247aee39431",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 10003
+    },
+    {
+      "id": "hedgehog-mushroom",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/hedgehog-mushroom.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/happy-hedgehog/hedgehog-mushroom.png"
+      ],
+      "before_sha256": "6cfb6f7dfa0368e8f38e223c665038ccc65a27183f780cdfcb3a58b597a68b49",
+      "after_sha256": "69eaa17631467f5e0de85bb1c1ad941be8c13959fb563edbb45fcd77dbf586df",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 10057
+    },
+    {
+      "id": "hedgehog-rain-boots",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/hedgehog-rain-boots.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/happy-hedgehog/hedgehog-rain-boots.png"
+      ],
+      "before_sha256": "4a1412aafe0fd0f3f26cc2b34949af77eecf5d7774982b579f4a8d5b923ea027",
+      "after_sha256": "4d4ea389a2c29b0fded899616a2fa22279b97d6975fd2f1f4eafe08483cbf2f9",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 20175
+    },
+    {
+      "id": "hedgehog-butterfly",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/hedgehog-butterfly.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/happy-hedgehog/hedgehog-butterfly.png"
+      ],
+      "before_sha256": "10e110aefc5651287334c27e36e5e61b27e1453b4c02b9b220e8a57c0a542aac",
+      "after_sha256": "e0a4d7d1f26eea7d962ce4de97d7525c98402acc69d38996d9d7b087cd713c8a",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 12554
+    },
+    {
+      "id": "hedgehog-happy-jump",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/hedgehog-happy-jump.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/happy-hedgehog/hedgehog-happy-jump.png"
+      ],
+      "before_sha256": "b29c6c9d8a3e601c92805a516eaf6f35a6921e50c84eab23e4c8ecfcaa1155b4",
+      "after_sha256": "7b0370da92d71858569a36a429c509592fcc7660257107a8ed42646fee135456",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 14567
+    },
+    {
+      "id": "hedgehog-sleeping",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/hedgehog-sleeping.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/happy-hedgehog/hedgehog-sleeping.png"
+      ],
+      "before_sha256": "0e668f87d7ad16a5238237326953c2aa6f0ff632a2019c8c3a14bb8b607a8270",
+      "after_sha256": "f48b3d5eeede3f27cd253b7c96bb5b93501d6eddbe70e0436934ea6111bb1959",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 20604
+    },
+    {
+      "id": "hedgehog-pumpkin-hug",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/hedgehog-pumpkin-hug.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/happy-hedgehog/hedgehog-pumpkin-hug.png",
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/pumpkin-season/hedgehog-pumpkin-hug.png"
+      ],
+      "before_sha256": "1c8f9e595798cc96235c156769b1ce714bd03d99ad3f875a89e3e7159e6b831b",
+      "after_sha256": "d94a80855af68a31e6e4c7df69419a7a4c74da0146d50b1238d9e98e59f03197",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 9284
+    },
+    {
+      "id": "pumpkin-seedling",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/pumpkin-seedling.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/pumpkin-season/pumpkin-seedling.png"
+      ],
+      "before_sha256": "d88ff1fda6114b24075e8af844aa2d55d45d5fad362c5f51172f8876776a48db",
+      "after_sha256": "829e475fc4bc00171467a1035e82babfbc6d2fda94667fd8d64f233bd158f696",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 29632
+    },
+    {
+      "id": "pumpkin-vine",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/pumpkin-vine.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/pumpkin-season/pumpkin-vine.png"
+      ],
+      "before_sha256": "1b9cc6b3930a345ce0e366e38e7d939521469b29c7703b38d0ab6ff07afa5fca",
+      "after_sha256": "108dead4dfcfb59211a2ba5a6bdde3b60a19a2762cfb26238d005937ed575039",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 19614
+    },
+    {
+      "id": "pumpkin-harvest",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/pumpkin-harvest.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/pumpkin-season/pumpkin-harvest.png"
+      ],
+      "before_sha256": "648a8dbe4566dcfdacbc1fda2ff874564c7af4a22f100cf6f91037602e1045c4",
+      "after_sha256": "e74b586408ff02eb5d6092a463672064f20acd0c74b455e5a55b7c2a468cd364",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 11324
+    },
+    {
+      "id": "pumpkin-wicker-basket",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/pumpkin-wicker-basket.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/pumpkin-season/pumpkin-wicker-basket.png"
+      ],
+      "before_sha256": "a4cf1cd99276b61e78057ee09560c9cb6438320724ed7d717c7af51932bf6ed0",
+      "after_sha256": "f9cc879e4e01d4ab5effad2e3b445fd624a89ab11e5721b0fb2ad00d8d952333",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 18852
+    },
+    {
+      "id": "pumpkin-slice",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/pumpkin-slice.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/pumpkin-season/pumpkin-slice.png"
+      ],
+      "before_sha256": "6e089df2223222c7598dafccd2b98da945e5df3894d38c722aaf4d9155e9e560",
+      "after_sha256": "067fe5a65db296615145e38c00f64d0c8adb46d1be43a25b4f01d972aca83bc5",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 22018
+    },
+    {
+      "id": "pumpkin-pie",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/pumpkin-pie.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/pumpkin-season/pumpkin-pie.png"
+      ],
+      "before_sha256": "0b1f237e2bfb3a106ad76cf5b6640766198b8c803a2f9ad48032946ad5d23226",
+      "after_sha256": "995c85b2334f29fbf4c6fb6569096da6c364ef156e88600d4f242d1ee3fcf2e8",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 14239
+    },
+    {
+      "id": "pumpkin-lantern",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/pumpkin-lantern.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/pumpkin-season/pumpkin-lantern.png"
+      ],
+      "before_sha256": "a1fca4ecfc883faf1b0c1487a545a3d82fc131a5cc8c36b88447ee35e23c199a",
+      "after_sha256": "27d4d5aeb043643eb971353911a8c705803597a7e9695b93177b84d3c5fa4249",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 20898
+    }
+  ],
+  "updated_utc": "2026-09-24T10:23:30.604227+00:00",
+  "operation": "Set alpha 1..15 to zero only, preserving RGB and dimensions."
+}

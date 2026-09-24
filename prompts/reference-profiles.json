@@ -70,6 +70,13 @@
       ],
       "suffix": "Draw only the named compact diary, not the people, flowers or other objects in the references. Make it clearly different from a rigid hardcover book: a soft flexible cover and slim page block. The moon is a small simple emblem, not a decorative scene. No readable text, labels or logos. Keep a readable silhouette, warm restrained painted detail and a narrow white cut margin fully inside the transparent canvas."
     },
+    "planets": {
+      "references": [
+        "references/Stickers/Planet/20_Planet_5.png",
+        "references/Stickers/Planet/20_Planet_6.png"
+      ],
+      "suffix": "Draw exactly one isolated planet, scientifically recognizable through its main color, atmospheric or surface pattern, and any inherent ring system. The supplied planet images are style references only; do not copy their planet, markings, palette arrangement or pose. No face, eyes, limbs, stars, moons, orbit lines, glow, space scene or extra objects. Use a simple readable circular silhouette, restrained broad painted detail and quiet same-hue shading. The complete sticker including its narrow clean white cut margin occupies about 78 percent of the canvas in its longest dimension, with comfortable true transparent padding on every side."
+    },
     "food": {
       "references": [
         "references/Stickers/1-Bakery & Coffee Cafe/Bakery-&-Coffee-Cafe_1.png",
@@ -83,6 +90,356 @@
         "references/Stickers/2. Home appliance/68-Home Appliance_2.png"
       ],
       "suffix": "Clear recognizable silhouette, modest hand-painted detail; follow the references' quiet local shading. The entire sticker including its narrow white cut margin occupies about 80 percent of the canvas in its longest dimension, with comfortable transparent padding on every side. Keep natural anatomical features recognizable. Decorative patterns only if inherent to this subject."
+    },
+    "dogs": {
+      "references": [
+        "references/Stickers/Dog/1-dog_2.png",
+        "references/Stickers/1_Animals/cow.png"
+      ],
+      "suffix": "Draw exactly one whole dog of the named breed, with natural canine anatomy, four plausible limbs and one tail. Preserve the breed's recognizable ears, muzzle, body proportions and coat pattern. The supplied dog image is a style reference only; do not copy its breed, pose or markings unless explicitly named. No clothing, collar, props or anthropomorphic expression. Use a readable silhouette at game-sticker size, restrained warm hand-painted detail and quiet local shading. The complete sticker including its narrow white cut margin occupies about 80 percent of the canvas in its longest dimension, with transparent padding on every side."
+    },
+    "dinosaurs": {
+      "references": [
+        "references/Stickers/Dinosaur/42-dinosaur_1.png",
+        "references/Stickers/Frog/4-frog_4.png"
+      ],
+      "suffix": "Draw exactly one whole dinosaur of the named species, using a scientifically recognizable natural body plan and a clear side or three-quarter silhouette. Keep all limbs and the complete tail visible. The supplied dinosaur image is a style reference only; do not copy its species, pose, bright green palette or cartoon facial expression. No clothing, props, human-like gestures or threatening gore. Use restrained warm hand-painted detail and quiet local shading. The complete sticker including its narrow white cut margin occupies about 80 percent of the canvas in its longest dimension, with transparent padding on every side."
+    },
+    "winter-sports": {
+      "references": [
+        "references/Stickers/Winter Sports/33- winter_2.png",
+        "references/Stickers/25_Sport/25-sport_1.png"
+      ],
+      "suffix": "Draw only the named winter-sports equipment or explicitly connected set, with accurate functional construction and a compact readable silhouette. No person, snow scene, floor shadow, readable text, numbers, brand or logo. Use restrained warm hand-painted detail and quiet local shading. Keep the complete sticker-cut margin comfortably inside the transparent canvas."
+    },
+    "gloves": {
+      "references": [
+        "references/Stickers/3. Gloves/165-Glovers_2.png",
+        "references/Stickers/Gloves/25-sport_5.png"
+      ],
+      "suffix": "Draw exactly one matching pair of the named glove type, arranged as one compact connected sticker. Make the material, cuff, finger construction and functional padding clearly recognizable. No hands, people, readable text, brand or logo. Use restrained warm hand-painted detail and quiet local shading. Keep every fingertip and the complete sticker-cut margin comfortably inside the transparent canvas."
+    },
+    "tea-accessories": {
+      "references": [
+        "references/Stickers/3. Cups/162-Cups_3.png",
+        "references/Stickers/8_Drinks/Drink_3.png"
+      ],
+      "suffix": "Draw only the named tea accessory or explicitly connected set. Keep its functional construction clear and its decoration sparse. No person, table scene, extra food, readable text, brand or logo. Use restrained warm hand-painted detail and quiet local shading. Keep the complete sticker-cut margin comfortably inside the transparent canvas."
+    },
+    "farm-objects": {
+      "references": [
+        "references/Stickers/2-Farm/Farm_6.png",
+        "references/Stickers/2-Farm/Farm_7.png"
+      ],
+      "suffix": "Draw only the named farm structure, machine or object, isolated as one compact sticker. Preserve its functional construction and a clear recognizable silhouette. The supplied farm images are style references only; do not copy their specific subject unless it is explicitly named. No person, animal, crop field, landscape, floor shadow, readable text, brand or logo. Use restrained warm hand-painted detail and quiet local shading. Keep the complete narrow white cut margin comfortably inside the transparent canvas."
+    },
+    "farm-animals": {
+      "references": [
+        "references/Stickers/2. Farm Animals/62-Farm-Animals_1.png",
+        "references/Stickers/2. Farm Animals/62-Farm Animals_3.png"
+      ],
+      "suffix": "Draw exactly one whole farm animal of the named species with natural recognizable anatomy, four plausible legs where applicable, and the complete tail visible. The supplied animal images are style references only; do not copy their pose, markings or accessories. No clothing, collar, bell, props or anthropomorphic gestures. Use a readable silhouette at game-sticker size, restrained warm hand-painted detail and quiet local shading. The complete sticker including its narrow white cut margin occupies about 80 percent of the canvas in its longest dimension, with transparent padding on every side."
+    },
+    "farm-poultry": {
+      "references": [
+        "references/Stickers/2-Farm/Farm_5.png",
+        "references/Stickers/2. Farm Animals/62-Farm Animals_4.png"
+      ],
+      "suffix": "Draw exactly one whole hen with natural chicken anatomy, two visible legs, one beak, one small comb, layered wing feathers and one short tail. The supplied poultry images are style references only; do not copy their pose or turn the hen into a rooster. No eggs, nest, props or anthropomorphic gesture. Use a readable silhouette at game-sticker size, restrained warm hand-painted detail and quiet local shading. The complete sticker including its narrow white cut margin occupies about 80 percent of the canvas in its longest dimension, with transparent padding on every side."
+    },
+    "crocodile-character": {
+      "references": [
+        "references/Stickers/3. Crocodile/204-crocodile_7.png",
+        "references/Stickers/3. Crocodile/204-crocodile_6.png"
+      ],
+      "suffix": "Draw exactly one whole friendly crocodile character performing the named activity. Keep the character design consistent across the collection: light olive-green body, pale warm-cream segmented belly, darker green rounded dorsal scutes, subtle green spots, warm-peach cheek patches, four short anatomically readable limbs and one complete tapering tail. The original crocodile images are style and character-design references only; create a new pose and composition and do not duplicate their exact emotion or gesture. Props must be limited to those explicitly named and remain clearly connected to the composition. Use child-friendly natural crocodile features, a readable silhouette, restrained warm hand-painted detail and quiet local shading. No extra character, scene, ground, floor shadow, text, letters, brand or watermark. The complete sticker including its narrow white cut margin occupies about 80 percent of the canvas in its longest dimension, with transparent padding on every side."
+    },
+    "penguin-character": {
+      "references": [
+        "references/Stickers/3. Penguin/210-Peguin_3.png",
+        "references/Stickers/3. Penguin/210-Peguin_7.png"
+      ],
+      "suffix": "Draw exactly one whole small round penguin character performing the named activity. Keep its design consistent across the collection: charcoal-black back and head, clean white face and belly, warm orange beak and feet, soft peach cheek patches, two short wings and two complete feet. Reference images guide style and character proportions only; make a new pose and avoid copying their exact gesture or background elements. Props are limited to those explicitly named and stay connected to the sticker. No extra character, scene, ground, floor shadow, text, brand or watermark. Keep the whole sticker and narrow white cut margin inside transparent padding."
+    },
+    "frog-character": {
+      "references": [
+        "references/Stickers/Frog/4-frog_4.png",
+        "references/Stickers/8-Gardening/8-Gardening_1.png"
+      ],
+      "suffix": "Draw exactly one whole friendly plump frog character performing the named activity. Keep its design consistent: leaf-green body, pale cream belly, darker olive spots, large warm dark eyes, round peach cheek patches and four anatomically readable webbed feet. Reference images guide style and proportions only; make a new pose. Props are limited to those named and form one connected composition. No extra character, scene, ground, floor shadow, text, brand or watermark. Keep the whole sticker and narrow white cut margin inside transparent padding."
+    },
+    "capybara-character": {
+      "references": [
+        "references/Stickers/1_Animals/panda.png",
+        "references/Stickers/Frog/4-frog_4.png"
+      ],
+      "suffix": "Draw exactly one whole calm chubby capybara character performing the named activity. Keep its design consistent: warm caramel-brown fur, broad darker rounded muzzle, tiny rounded ears, small dark eyes, peach cheek patches, barrel-shaped body, four short natural legs and no visible tail. Preserve recognizable capybara anatomy rather than bear or hamster features. References guide only the warm casual-game painting style. Props are limited to those named and form one connected sticker. No extra character, scene, ground, floor shadow, text, brand or watermark. Keep the whole sticker and narrow white cut margin inside transparent padding."
+    },
+    "rabbit-gardener-character": {
+      "references": [
+        "references/Stickers/1_Animals/rabbit.png",
+        "references/Stickers/8-Gardening/8-Gardening_1.png"
+      ],
+      "suffix": "Draw exactly one whole gentle cream-white rabbit gardener performing the named activity. Keep its design consistent: long ears with peach inner fur, round brown eyes, blush cheeks, small pink nose, four plausible limbs and one small round tail. References guide style and proportions only; create a new pose. Props are limited to the named gardening items and form one connected composition. No clothing unless explicitly stated, extra character, scene, ground, floor shadow, text, brand or watermark. Keep the whole sticker and narrow white cut margin inside transparent padding."
+    },
+    "little-bear-camping-character": {
+      "references": [
+        "references/Stickers/1_Animals/panda.png",
+        "references/Stickers/Camping/18_camping_4.png"
+      ],
+      "suffix": "Draw exactly one whole small friendly honey-brown bear cub performing the named camping activity. Keep its design consistent: honey-brown fur, cream muzzle and belly, small rounded ears, dark brown paws, warm black eyes, peach cheek patches, four short plausible limbs and no visible tail. It must read as a brown bear cub, not a panda. References guide style and simple prop construction only. Props are limited to those named and form one connected sticker. No extra character, broad scene, ground, floor shadow, text, brand or watermark. Keep the whole sticker and narrow white cut margin inside transparent padding."
+    },
+    "duck-rainy-character": {
+      "references": [
+        "references/Stickers/Bird/22_bird_1.png",
+        "references/Stickers/Bird/22_bird_5.png"
+      ],
+      "suffix": "Draw exactly one whole cheerful small yellow duckling performing the named rainy-day activity. Keep its design consistent: soft golden-yellow feathers, rounded head and body, short orange bill, two orange webbed feet, two wings, small dark eyes and peach cheek patches. Preserve recognizable duck anatomy. References guide the warm hand-painted bird style only; create a new pose. Props are limited to those named and form one connected sticker. No extra character, broad scene, ground, floor shadow, text, brand or watermark. Keep the whole sticker and narrow white cut margin inside transparent padding."
+    },
+    "red-panda-character": {
+      "references": [
+        "references/Stickers/3. Racoon/187-Racoon_1.png",
+        "references/Stickers/3. Racoon/187-Racoon_6.png"
+      ],
+      "suffix": "Draw exactly one whole red panda performing the named activity. Keep the design consistent: rich rust-red fur, broad cream facial mask and muzzle, dark chocolate ears and lower legs, long thick rust-and-cream ringed tail, warm dark eyes and peach cheek patches. It must read as a red panda, not a gray raccoon: no gray body and no black burglar mask. References guide only the cute proportions and restrained hand-painted style. Props are limited to those named and form one connected sticker. No extra character, scene, ground, floor shadow, text, logo or watermark. Keep the complete sticker and narrow white cut margin inside transparent padding."
+    },
+    "fox-autumn-character": {
+      "references": [
+        "references/Stickers/3. Racoon/187-Racoon_1.png",
+        "references/Stickers/1_Animals/rabbit.png"
+      ],
+      "suffix": "Draw exactly one whole small fox performing the named autumn activity. Keep the design consistent: warm burnt-orange fur, cream muzzle and chest, dark brown ear tips and lower legs, triangular upright ears, narrow fox muzzle and one large fluffy tail with a cream tip. It must read as a fox, not a dog, cat or raccoon. References guide only the warm casual-game style and proportions. Props are limited to those named and form one connected sticker. No extra character, broad scene, ground, floor shadow, text, logo or watermark. Keep the complete sticker and narrow white cut margin inside transparent padding."
+    },
+    "hamster-kitchen-character": {
+      "references": [
+        "references/Stickers/Pet/2_pet_5.png",
+        "references/Stickers/1-Bakery & Coffee Cafe/Bakery-&-Coffee-Cafe_1.png"
+      ],
+      "suffix": "Draw exactly one whole small round golden hamster performing the named kitchen activity. Keep the design consistent: golden-tan fur, white muzzle and belly, tiny round pink ears, small pink paws, very short hidden tail, warm dark eyes and peach cheek patches. Preserve hamster anatomy and do not turn it into a bear or mouse. Kitchen props are limited to those explicitly named and form one compact connected sticker. No broad kitchen scene, furniture, ground, floor shadow, text, logo or watermark. Keep the complete sticker and narrow white cut margin inside transparent padding."
+    },
+    "panda-bakery-character": {
+      "references": [
+        "references/Stickers/1_Animals/panda.png",
+        "references/Stickers/1-Bakery & Coffee Cafe/Bakery-&-Coffee-Cafe_1.png"
+      ],
+      "suffix": "Draw exactly one whole small chubby panda cub performing the named bakery activity. Keep the design consistent: creamy white fur, charcoal-black rounded ears, eye patches and limbs, warm dark eyes, small black nose and peach cheek patches. References guide character proportions and bakery painting style only; create a new pose. Bakery props are limited to those explicitly named and form one compact connected sticker. No broad bakery scene, furniture, ground, floor shadow, text, logo or watermark. Keep the complete sticker and narrow white cut margin inside transparent padding."
+    },
+    "koala-bedtime-character": {
+      "references": [
+        "references/Stickers/3. Koala/205-Koala_1.png",
+        "references/Stickers/3. Koala/205-Koala_6.png"
+      ],
+      "suffix": "Draw exactly one whole small gentle koala performing the named bedtime activity. Keep the design consistent: soft warm-gray fur, large fluffy round ears with cream centers, cream belly, broad dark-gray oval nose, warm dark eyes and peach cheek patches. References guide style and character proportions only; make a new pose and do not copy their exact emotion. Props and clothing are limited to those named and form one connected sticker. No extra character, room scene, bed, ground, floor shadow, text, logo or watermark. Keep the complete sticker and narrow white cut margin inside transparent padding."
+    },
+    "little-dragon-magic-character": {
+      "references": [
+        "references/Stickers/Dragon/5-dragon_1.png",
+        "references/Stickers/Dragon/5-dragon_3.png"
+      ],
+      "suffix": "Draw exactly one whole friendly dragon hatchling performing the named magical activity. Keep the design consistent: moss-green body, pale warm-cream segmented belly, muted golden horns and wing membranes, darker green rounded dorsal scutes, four anatomically readable short limbs, two small bat-like wings, one complete tapering tail, warm dark eyes and peach cheek patches. References guide style and anatomy only; do not switch to red or copy their exact pose. Props are limited to those named and form one connected sticker. No extra character, broad scene, ground, floor shadow, text, logo or watermark. Keep the complete sticker and narrow white cut margin inside transparent padding."
+    },
+    "birthday-cakes": {
+      "references": [
+        "references/Stickers/Cake/20-cake_1.png",
+        "references/Stickers/Cake/20-cake_4.png"
+      ],
+      "suffix": "Draw exactly one isolated birthday cake of the named design, presented on its simple connected cake board. Keep the cake construction clean, edible and recognizable, with broad matte frosting shapes, restrained decoration and only two or three quiet shadow patches. Reference cakes guide the warm hand-painted style only; do not copy their exact flavor, topping layout or palette. Do not anthropomorphize the cake. No face, eyes, limbs, extra food, table scene, floor shadow, readable text, numbers, logo or watermark. Keep the complete cake, board and narrow white cut margin inside transparent padding."
+    },
+    "otter-river-character": {
+      "references": [
+        "references/Stickers/1_Animals/panda.png",
+        "references/Stickers/Frog/4-frog_4.png"
+      ],
+      "suffix": "Draw exactly one whole playful river otter performing the named activity. Keep the design consistent: warm chestnut-brown fur, pale cream muzzle, throat and belly, tiny rounded ears, warm dark eyes, peach cheek patches, four short webbed feet and one long complete tapering tail. Preserve recognizable river-otter anatomy rather than beaver, seal or bear features. References guide only the cute proportions and restrained painted style. Props are limited to those named and form one connected sticker. No extra character, broad scene, ground, floor shadow, text, logo or watermark. Keep the complete sticker and narrow white cut margin inside transparent padding."
+    },
+    "sloth-cozy-character": {
+      "references": [
+        "references/Stickers/1_Animals/panda.png",
+        "references/Stickers/Frog/4-frog_4.png"
+      ],
+      "suffix": "Draw exactly one whole gentle three-toed sloth performing the named cozy activity. Keep the design consistent: warm taupe-brown fur, pale cream face and belly, soft dark eye patches, small dark nose, warm dark eyes, peach cheek patches, long curved arms, three clear claws on every visible limb and a tiny rounded body. Preserve recognizable sloth anatomy and slow relaxed poses. References guide only the cute proportions and restrained painted style. Props are limited to those named and form one connected sticker. No extra character, broad scene, ground, floor shadow, text, logo or watermark. Keep the complete sticker and narrow white cut margin inside transparent padding."
+    },
+    "owl-night-study-character": {
+      "references": [
+        "references/Stickers/Bird/22_bird_1.png",
+        "references/Stickers/Reading/25-reading_2.png"
+      ],
+      "suffix": "Draw exactly one whole scholarly owl performing the named study activity. Keep the design consistent: tawny-brown plumage, round cream facial disk and belly, subtle darker wing markings, amber eyes behind small round brass spectacles, short golden beak, two clear wings and two golden feet. Preserve recognizable owl anatomy; wings may hold the named prop but must remain feathered. References guide only the warm painted style and study mood. Props are limited to those named and form one connected sticker. No extra character, broad room scene, ground, floor shadow, readable text, logo or watermark. Keep the complete sticker and narrow white cut margin inside transparent padding."
+    },
+    "little-bee-character": {
+      "references": [
+        "references/Stickers/Frog/4-frog_4.png",
+        "references/Stickers/8-Gardening/8-Gardening_1.png"
+      ],
+      "suffix": "Draw exactly one whole tiny honeybee character performing the named adventure. Keep the design consistent: round golden-yellow body, three soft dark-brown stripes, fuzzy cream collar, two translucent cream wings, two short antennae, six small anatomically readable limbs, warm dark eyes and peach cheek patches. Keep it recognizably insect-like despite the friendly expression. References guide only the cute proportions and restrained painted style. Props are limited to those named and form one connected sticker. No extra character, broad scene, ground, floor shadow, text, logo or watermark. Keep the complete sticker and narrow white cut margin inside transparent padding."
+    },
+    "snail-garden-character": {
+      "references": [
+        "references/Stickers/Frog/4-frog_4.png",
+        "references/Stickers/8-Gardening/8-Gardening_1.png"
+      ],
+      "suffix": "Draw exactly one whole friendly garden snail performing the named journey activity. Keep the design consistent: warm beige body, two long eye stalks with dark round eyes, two short lower feelers, peach cheek patches, one large terracotta-coral spiral shell and one broad natural crawling foot. Preserve recognizable snail anatomy with no extra arms or legs. References guide only the cute proportions, garden palette and restrained painted style. Props are limited to those named and form one connected sticker. No extra character, broad scene, ground, floor shadow, text, logo or watermark. Keep the complete sticker and narrow white cut margin inside transparent padding."
+    },
+    "baby-elephant-character": {
+      "references": [
+        "references/Stickers/1_Animals/elephant.png",
+        "references/Stickers/Frog/4-frog_4.png"
+      ],
+      "suffix": "Draw exactly one whole playful baby elephant performing the named activity. Keep the design consistent: soft powder-blue skin, very large peach-pink inner ears, short flexible trunk, warm dark eyes, peach cheek patches, four stout legs with pale toenails and one thin complete tail. Preserve recognizable elephant anatomy and keep both ears and the full trunk visible. References guide style and proportions only; create a new pose. Props are limited to those named and form one connected sticker. No extra living character, broad scene, ground, floor shadow, text, logo or watermark. Keep the complete sticker and narrow white cut margin inside transparent padding."
+    },
+    "monkey-jungle-character": {
+      "references": [
+        "references/Stickers/1_Animals/panda.png",
+        "references/Stickers/Frog/4-frog_4.png"
+      ],
+      "suffix": "Draw exactly one whole adventurous monkey performing the named jungle activity. Keep the design consistent: warm golden-brown fur, pale cream face, rounded ears and belly, warm dark eyes, peach cheek patches, four natural grasping limbs and one long complete curled tail. Preserve recognizable monkey anatomy rather than ape, bear or human features. References guide only the cute proportions and restrained painted style. Props are limited to those named and form one connected sticker. No extra character, broad jungle scene, ground, floor shadow, text, logo or watermark. Keep the complete sticker and narrow white cut margin inside transparent padding."
+    },
+    "little-ghost-character": {
+      "references": [
+        "references/Stickers/2. Ghost/108-Ghosts_1.png",
+        "references/Stickers/2. Haloween/77-Haloween_1.png"
+      ],
+      "suffix": "Draw exactly one whole friendly little ghost performing the named Halloween activity. Keep the design consistent: ivory-white rounded floating body, two short arm-like folds, soft scalloped lower edge, two warm dark oval eyes, tiny smiling mouth and peach cheek patches. Keep the ghost cute and gentle with no skull face, hood, legs, gore or frightening expression. References guide only the painted Halloween palette and soft volume; do not copy the hooded ghost. Props are limited to those named and form one connected sticker. No extra character, broad scene, ground, floor shadow, text, logo or watermark. Keep the complete sticker and narrow white cut margin inside transparent padding."
+    },
+    "squirrel-forest-character": {
+      "references": [
+        "references/Stickers/3. Racoon/187-Racoon_1.png",
+        "references/Stickers/1_Animals/rabbit.png"
+      ],
+      "suffix": "Draw exactly one whole character with consistent anatomy and design across this topic: the same playful little forest squirrel with warm russet fur, a cream muzzle and belly, tufted ears, dark eyes, peach cheeks, four small paws and one complete large curled fluffy tail. The pose or prop is exactly as named in the subject; preserve complete limbs, tail or flippers where applicable. The references guide only the restrained warm hand-painted style and proportions, not an exact pose. No extra character, scene, ground, floor shadow, readable text, logo or watermark. Keep a compact readable silhouette and the narrow white cut margin fully inside transparent padding."
+    },
+    "chestnut-objects": {
+      "references": [
+        "references/Stickers/2. Autumn/96-Autumn_2.png",
+        "references/Stickers/8-Gardening/8-Gardening_1.png"
+      ],
+      "suffix": "Draw only the named object or explicitly connected small set, keeping functional construction and a clean readable silhouette. No face or limbs on objects, no person, broad scene, ground, floor shadow, readable text, brand or watermark. References guide only restrained warm hand-painted style, not the exact subject. Keep the complete narrow white cut margin inside transparent padding."
+    },
+    "hedgehog-character": {
+      "references": [
+        "references/Stickers/Frog/4-frog_4.png",
+        "references/Stickers/1_Animals/rabbit.png"
+      ],
+      "suffix": "Draw exactly one whole character with consistent anatomy and design across this topic: the same small cheerful hedgehog with a warm tan face and belly, soft rounded brown spines, tiny ears, dark eyes, peach cheeks and four short paws. The pose or prop is exactly as named in the subject; preserve complete limbs, tail or flippers where applicable. The references guide only the restrained warm hand-painted style and proportions, not an exact pose. No extra character, scene, ground, floor shadow, readable text, logo or watermark. Keep a compact readable silhouette and the narrow white cut margin fully inside transparent padding."
+    },
+    "pumpkin-objects": {
+      "references": [
+        "references/Stickers/2. Autumn/96-Autumn_2.png",
+        "references/Stickers/8-Gardening/8-Gardening_1.png"
+      ],
+      "suffix": "Draw only the named object or explicitly connected small set, keeping functional construction and a clean readable silhouette. No face or limbs on objects, no person, broad scene, ground, floor shadow, readable text, brand or watermark. References guide only restrained warm hand-painted style, not the exact subject. Keep the complete narrow white cut margin inside transparent padding."
+    },
+    "raccoon-character": {
+      "references": [
+        "references/Stickers/3. Racoon/187-Racoon_1.png",
+        "references/Stickers/3. Racoon/187-Racoon_6.png"
+      ],
+      "suffix": "Draw exactly one whole character with consistent anatomy and design across this topic: the same small friendly raccoon with warm gray-brown fur, cream face markings, a dark natural eye mask, dark paws, peach cheeks and one long complete ringed tail. The pose or prop is exactly as named in the subject; preserve complete limbs, tail or flippers where applicable. The references guide only the restrained warm hand-painted style and proportions, not an exact pose. No extra character, scene, ground, floor shadow, readable text, logo or watermark. Keep a compact readable silhouette and the narrow white cut margin fully inside transparent padding."
+    },
+    "lakeside-camp-objects": {
+      "references": [
+        "references/Stickers/17_Camping/camping_3.png",
+        "references/Stickers/8-Gardening/8-Gardening_1.png"
+      ],
+      "suffix": "Draw only the named object or explicitly connected small set, keeping functional construction and a clean readable silhouette. No face or limbs on objects, no person, broad scene, ground, floor shadow, readable text, brand or watermark. References guide only restrained warm hand-painted style, not the exact subject. Keep the complete narrow white cut margin inside transparent padding."
+    },
+    "school-mouse-character": {
+      "references": [
+        "references/Stickers/1_Animals/rabbit.png",
+        "references/Stickers/Frog/4-frog_4.png"
+      ],
+      "suffix": "Draw exactly one whole character with consistent anatomy and design across this topic: the same little school mouse with warm light-brown fur, a cream muzzle and belly, large round pink inner ears, small dark eyes, peach cheeks, four tiny paws and one complete thin pink tail. The pose or prop is exactly as named in the subject; preserve complete limbs, tail or flippers where applicable. The references guide only the restrained warm hand-painted style and proportions, not an exact pose. No extra character, scene, ground, floor shadow, readable text, logo or watermark. Keep a compact readable silhouette and the narrow white cut margin fully inside transparent padding."
+    },
+    "art-corner-objects": {
+      "references": [
+        "references/Stickers/2. Artist/84-Artist_2.png",
+        "references/Stickers/12_SchoolSupplies/school supplies_2.png"
+      ],
+      "suffix": "Draw only the named object or explicitly connected small set, keeping functional construction and a clean readable silhouette. No face or limbs on objects, no person, broad scene, ground, floor shadow, readable text, brand or watermark. References guide only restrained warm hand-painted style, not the exact subject. Keep the complete narrow white cut margin inside transparent padding."
+    },
+    "winter-lamb-character": {
+      "references": [
+        "references/Stickers/2. Farm Animals/62-Farm Animals_3.png",
+        "references/Stickers/Frog/4-frog_4.png"
+      ],
+      "suffix": "Draw exactly one whole character with consistent anatomy and design across this topic: the same small gentle lamb with fluffy warm-cream fleece, a pale peach face and inner ears, little dark eyes, blush cheeks, four short legs and tiny hooves. The pose or prop is exactly as named in the subject; preserve complete limbs, tail or flippers where applicable. The references guide only the restrained warm hand-painted style and proportions, not an exact pose. No extra character, scene, ground, floor shadow, readable text, logo or watermark. Keep a compact readable silhouette and the narrow white cut margin fully inside transparent padding."
+    },
+    "knitwear-objects": {
+      "references": [
+        "references/Stickers/3. Scarves/166-Scarves_2.png",
+        "references/Stickers/33_Winter/33- winter_2.png"
+      ],
+      "suffix": "Draw only the named object or explicitly connected small set, keeping functional construction and a clean readable silhouette. No face or limbs on objects, no person, broad scene, ground, floor shadow, readable text, brand or watermark. References guide only restrained warm hand-painted style, not the exact subject. Keep the complete narrow white cut margin inside transparent padding."
+    },
+    "little-turtle-character": {
+      "references": [
+        "references/Stickers/Frog/4-frog_4.png",
+        "references/Stickers/1_Animals/rabbit.png"
+      ],
+      "suffix": "Draw exactly one whole character with consistent anatomy and design across this topic: the same small friendly freshwater turtle with an olive-green head and four short legs, a rounded warm-brown segmented shell, dark eyes, peach cheeks and one tiny complete tail. The pose or prop is exactly as named in the subject; preserve complete limbs, tail or flippers where applicable. The references guide only the restrained warm hand-painted style and proportions, not an exact pose. No extra character, scene, ground, floor shadow, readable text, logo or watermark. Keep a compact readable silhouette and the narrow white cut margin fully inside transparent padding."
+    },
+    "lotus-pond-objects": {
+      "references": [
+        "references/Stickers/3_Flowers/Flower_3.png",
+        "references/Stickers/Frog/4-frog_4.png"
+      ],
+      "suffix": "Draw only the named object or explicitly connected small set, keeping functional construction and a clean readable silhouette. No face or limbs on objects, no person, broad scene, ground, floor shadow, readable text, brand or watermark. References guide only restrained warm hand-painted style, not the exact subject. Keep the complete narrow white cut margin inside transparent padding."
+    },
+    "small-robot-character": {
+      "references": [
+        "references/Stickers/2. Home appliance/68-Home Appliance_2.png",
+        "references/Stickers/Frog/4-frog_4.png"
+      ],
+      "suffix": "Draw exactly one whole character with consistent anatomy and design across this topic: the same small helpful friendly robot with a rounded cream metal body, muted teal panels, two short jointed arms, two short legs, dark oval eyes on a simple face plate and a tiny orange antenna. The pose or prop is exactly as named in the subject; preserve complete limbs, tail or flippers where applicable. The references guide only the restrained warm hand-painted style and proportions, not an exact pose. No extra character, scene, ground, floor shadow, readable text, logo or watermark. Keep a compact readable silhouette and the narrow white cut margin fully inside transparent padding."
+    },
+    "bicycle-objects": {
+      "references": [
+        "references/Stickers/11_Vehicles/vehicle_2.png",
+        "references/Stickers/8-Gardening/8-Gardening_1.png"
+      ],
+      "suffix": "Draw only the named object or explicitly connected small set, keeping functional construction and a clean readable silhouette. No face or limbs on objects, no person, broad scene, ground, floor shadow, readable text, brand or watermark. References guide only restrained warm hand-painted style, not the exact subject. Keep the complete narrow white cut margin inside transparent padding."
+    },
+    "seal-character": {
+      "references": [
+        "references/Stickers/19_MarineLife/marine_life_1.png",
+        "references/Stickers/Frog/4-frog_4.png"
+      ],
+      "suffix": "Draw exactly one whole character with consistent anatomy and design across this topic: the same small playful harbor seal with a rounded pale silver-gray body, darker gentle spots, short whiskers, warm dark eyes, peach cheeks, two front flippers and two rear flippers. The pose or prop is exactly as named in the subject; preserve complete limbs, tail or flippers where applicable. The references guide only the restrained warm hand-painted style and proportions, not an exact pose. No extra character, scene, ground, floor shadow, readable text, logo or watermark. Keep a compact readable silhouette and the narrow white cut margin fully inside transparent padding."
+    },
+    "ice-day-objects": {
+      "references": [
+        "references/Stickers/Winter Sports/33- winter_2.png",
+        "references/Stickers/33_Winter/33- winter_2.png"
+      ],
+      "suffix": "Draw only the named object or explicitly connected small set, keeping functional construction and a clean readable silhouette. No face or limbs on objects, no person, broad scene, ground, floor shadow, readable text, brand or watermark. References guide only restrained warm hand-painted style, not the exact subject. Keep the complete narrow white cut margin inside transparent padding."
+    },
+    "polar-bear-character": {
+      "references": [
+        "references/Stickers/1_Animals/panda.png",
+        "references/Stickers/Frog/4-frog_4.png"
+      ],
+      "suffix": "Draw exactly one whole character with consistent anatomy and design across this topic: the same small gentle polar bear cub with warm ivory-white fur, rounded ears, a cream muzzle, a small charcoal nose, dark eyes, peach cheeks, four short paws and a tiny round tail. The pose or prop is exactly as named in the subject; preserve complete limbs, tail or flippers where applicable. The references guide only the restrained warm hand-painted style and proportions, not an exact pose. No extra character, scene, ground, floor shadow, readable text, logo or watermark. Keep a compact readable silhouette and the narrow white cut margin fully inside transparent padding."
+    },
+    "fruit-ice-cream-objects": {
+      "references": [
+        "references/Stickers/Ice cream/22- ice cream_2.png",
+        "references/Stickers/1-Bakery & Coffee Cafe/Bakery-&-Coffee-Cafe_1.png"
+      ],
+      "suffix": "Draw only the named object or explicitly connected small set, keeping functional construction and a clean readable silhouette. No face or limbs on objects, no person, broad scene, ground, floor shadow, readable text, brand or watermark. References guide only restrained warm hand-painted style, not the exact subject. Keep the complete narrow white cut margin inside transparent padding."
+    },
+    "fox-explorer-character": {
+      "references": [
+        "references/Stickers/3. Racoon/187-Racoon_1.png",
+        "references/Stickers/Frog/4-frog_4.png"
+      ],
+      "suffix": "Draw exactly one whole character with consistent anatomy and design across this topic: the same curious little russet fox with a cream muzzle, chest and tail tip, dark lower paws, triangular ears, warm dark eyes, peach cheeks and one complete bushy tail. The pose or prop is exactly as named in the subject; preserve complete limbs, tail or flippers where applicable. The references guide only the restrained warm hand-painted style and proportions, not an exact pose. No extra character, scene, ground, floor shadow, readable text, logo or watermark. Keep a compact readable silhouette and the narrow white cut margin fully inside transparent padding."
+    },
+    "hot-air-balloon-objects": {
+      "references": [
+        "references/Stickers/3. Balloons/152-Balloons_2.png",
+        "references/Stickers/8-Gardening/8-Gardening_1.png"
+      ],
+      "suffix": "Draw only the named object or explicitly connected small set, keeping functional construction and a clean readable silhouette. No face or limbs on objects, no person, broad scene, ground, floor shadow, readable text, brand or watermark. References guide only restrained warm hand-painted style, not the exact subject. Keep the complete narrow white cut margin inside transparent padding."
     }
   },
   "topic_profiles": {
@@ -93,6 +450,7 @@
     "fish-collection": "fish",
     "cat-collection": "cats",
     "book-collection": "books",
+    "solar-system-planets": "planets",
     "forest-fungi": "plants",
     "woodland-foraging": "plants",
     "succulent-collection": "plants",
@@ -100,7 +458,55 @@
     "pasta-workshop": "food",
     "dumpling-table": "food",
     "mediterranean-mezze": "food",
-    "herbal-apothecary": "plants"
+    "herbal-apothecary": "plants",
+    "dog-collection": "dogs",
+    "dinosaur-collection": "dinosaurs",
+    "winter-sports": "winter-sports",
+    "glove-collection": "gloves",
+    "tea-set": "tea-accessories",
+    "farm": "farm-objects",
+    "crocodile-activities": "crocodile-character",
+    "penguin-activities": "penguin-character",
+    "frog-adventures": "frog-character",
+    "capybara-daily-life": "capybara-character",
+    "rabbit-gardener": "rabbit-gardener-character",
+    "little-bear-camping": "little-bear-camping-character",
+    "duck-rainy-day": "duck-rainy-character",
+    "red-panda-daily-life": "red-panda-character",
+    "fox-autumn-adventures": "fox-autumn-character",
+    "hamster-kitchen": "hamster-kitchen-character",
+    "panda-bakery": "panda-bakery-character",
+    "koala-bedtime": "koala-bedtime-character",
+    "little-dragon-magic": "little-dragon-magic-character",
+    "birthday-cake-collection": "birthday-cakes",
+    "otter-river-life": "otter-river-character",
+    "sloth-cozy-day": "sloth-cozy-character",
+    "owl-night-study": "owl-night-study-character",
+    "little-bee-adventures": "little-bee-character",
+    "snail-garden-journey": "snail-garden-character",
+    "baby-elephant-playtime": "baby-elephant-character",
+    "monkey-jungle-adventures": "monkey-jungle-character",
+    "little-ghost-halloween": "little-ghost-character",
+    "squirrel-forest": "squirrel-forest-character",
+    "chestnut-season": "chestnut-objects",
+    "happy-hedgehog": "hedgehog-character",
+    "pumpkin-season": "pumpkin-objects",
+    "raccoon-activities": "raccoon-character",
+    "lakeside-camping": "lakeside-camp-objects",
+    "school-mouse": "school-mouse-character",
+    "art-corner": "art-corner-objects",
+    "winter-lamb": "winter-lamb-character",
+    "knitwear": "knitwear-objects",
+    "little-turtle": "little-turtle-character",
+    "lotus-pond": "lotus-pond-objects",
+    "small-robot": "small-robot-character",
+    "bicycles": "bicycle-objects",
+    "seal-activities": "seal-character",
+    "ice-day": "ice-day-objects",
+    "polar-bear-activities": "polar-bear-character",
+    "fruit-ice-cream": "fruit-ice-cream-objects",
+    "fox-explorer": "fox-explorer-character",
+    "hot-air-balloons": "hot-air-balloon-objects"
   },
   "asset_profiles": {
     "book-small-diary": "diaries",
@@ -108,7 +514,21 @@
     "wetland-heron": "birds",
     "wetland-otter": "mammals",
     "wetland-beaver": "mammals",
-    "wetland-muskrat": "mammals"
+    "wetland-muskrat": "mammals",
+    "farm-holstein-cow": "farm-animals",
+    "farm-pink-pig": "farm-animals",
+    "farm-woolly-sheep": "farm-animals",
+    "farm-white-hen": "farm-poultry",
+    "squirrel-chestnut-basket": "squirrel-forest-character",
+    "hedgehog-pumpkin-hug": "hedgehog-character",
+    "raccoon-lakeside-fishing": "raccoon-character",
+    "mouse-color-pencil-box": "school-mouse-character",
+    "lamb-red-scarf": "winter-lamb-character",
+    "turtle-lotus-leaf": "little-turtle-character",
+    "robot-bicycle-ride": "small-robot-character",
+    "seal-ice-skates": "seal-character",
+    "polar-bear-strawberry-cone": "polar-bear-character",
+    "fox-hot-air-balloon": "fox-explorer-character"
   },
   "gallery_references": [
     "references/Stickers/8-Gardening/8-Gardening_1.png",
@@ -120,5 +540,5 @@
     "references/Stickers/1_Animals/cow.png",
     "references/Stickers/19_MarineLife/marine_life_1.png"
   ],
-  "note": "Preserves the active next-topic reference choices. Remaining-topic defaults are starting points; inspect original reference artwork and save the exact references used in each request."
+  "note": "Preserves active original-reference choices, including seven character and cake topics added by the user on 2026-09-24. Inspect original reference artwork and save exact references in every request."
 }

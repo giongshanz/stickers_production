@@ -1,14 +1,14 @@
 {
-  "updated_utc": "2026-09-25T08:15:56.700943+00:00",
+  "updated_utc": "2026-09-25T10:16:24.869834+00:00",
   "target_topics": 102,
   "target_slots": 816,
   "target_unique": 796,
-  "generated_unique": 774,
-  "missing_unique": 22,
-  "alpha_corners_clear_unique": 774,
+  "generated_unique": 781,
+  "missing_unique": 15,
+  "alpha_corners_clear_unique": 781,
   "needs_alpha_unique": 0,
-  "topics_with_all_images": 99,
-  "generated_topic_slots": 793,
+  "topics_with_all_images": 100,
+  "generated_topic_slots": 800,
   "visual_rework_unique": 25,
   "complete": false,
   "prompt_target_dimensions": [
@@ -24038,8 +24038,29 @@
         "fruit-ice-cream"
       ],
       "source": "masters/icecream-mango.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1087633,
+      "partial_alpha_pixels": 483414,
+      "opaque_pixels": 1469,
+      "padding_nonzero_alpha": [
+        306,
+        48,
+        252,
+        52
+      ],
+      "review_edge": false,
+      "sha256": "2762b2c41eb53be5f7a9901c0f6223ea90e3b90a2647d7009cd1482e3f1f5f30",
+      "bytes": 747850
     },
     {
       "id": "icecream-blueberry",
@@ -24048,8 +24069,29 @@
         "fruit-ice-cream"
       ],
       "source": "masters/icecream-blueberry.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1054593,
+      "partial_alpha_pixels": 517020,
+      "opaque_pixels": 903,
+      "padding_nonzero_alpha": [
+        299,
+        29,
+        249,
+        52
+      ],
+      "review_edge": false,
+      "sha256": "d93530c412a46ee6a58d07cc3d361ba7a025228ff165975ce8890fc7b9d74aff",
+      "bytes": 856351
     },
     {
       "id": "icecream-kiwi",
@@ -24058,8 +24100,29 @@
         "fruit-ice-cream"
       ],
       "source": "masters/icecream-kiwi.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1071223,
+      "partial_alpha_pixels": 500772,
+      "opaque_pixels": 521,
+      "padding_nonzero_alpha": [
+        291,
+        29,
+        261,
+        35
+      ],
+      "review_edge": false,
+      "sha256": "adac50e4ef077267a5ff576eec179e4c83e516e14b34d493ab8d9ae43fe20e69",
+      "bytes": 794337
     },
     {
       "id": "icecream-peach",
@@ -24068,8 +24131,29 @@
         "fruit-ice-cream"
       ],
       "source": "masters/icecream-peach.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1071818,
+      "partial_alpha_pixels": 499355,
+      "opaque_pixels": 1343,
+      "padding_nonzero_alpha": [
+        294,
+        39,
+        238,
+        49
+      ],
+      "review_edge": false,
+      "sha256": "53c9cfd63ecd2bba42a597c958af982282d2d7f1ea5d64ad04f8e070ca731681",
+      "bytes": 770596
     },
     {
       "id": "icecream-banana",
@@ -24078,8 +24162,29 @@
         "fruit-ice-cream"
       ],
       "source": "masters/icecream-banana.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1070287,
+      "partial_alpha_pixels": 500673,
+      "opaque_pixels": 1556,
+      "padding_nonzero_alpha": [
+        299,
+        40,
+        272,
+        57
+      ],
+      "review_edge": false,
+      "sha256": "d2b16ac2f00e0e5ee5e558b6c3138c0dd8dd2b09f1a16f756da05f435c823c8f",
+      "bytes": 748801
     },
     {
       "id": "icecream-watermelon",
@@ -24088,8 +24193,29 @@
         "fruit-ice-cream"
       ],
       "source": "masters/icecream-watermelon.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1068797,
+      "partial_alpha_pixels": 502231,
+      "opaque_pixels": 1488,
+      "padding_nonzero_alpha": [
+        294,
+        72,
+        220,
+        67
+      ],
+      "review_edge": false,
+      "sha256": "c2a532a4dfe4a45b9e15c15faaa3142bed057d0441777d448bf9c612db83124d",
+      "bytes": 752010
     },
     {
       "id": "icecream-pineapple",
@@ -24098,8 +24224,29 @@
         "fruit-ice-cream"
       ],
       "source": "masters/icecream-pineapple.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1035973,
+      "partial_alpha_pixels": 534841,
+      "opaque_pixels": 1702,
+      "padding_nonzero_alpha": [
+        256,
+        46,
+        179,
+        45
+      ],
+      "review_edge": false,
+      "sha256": "5837881d578292f535cb93071a5805b7a51dc74ec2584bf57d7b563bb278a8aa",
+      "bytes": 793536
     },
     {
       "id": "explorer-fox-map",
@@ -24851,7 +24998,7 @@
     {
       "slug": "fruit-ice-cream",
       "name_vi": "Kem trái cây",
-      "generated": 1,
+      "generated": 8,
       "target": 8
     },
     {
@@ -32009,63 +32156,63 @@
       "topic": "fruit-ice-cream",
       "name_vi": "Kem trái cây",
       "id": "icecream-mango",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fruit-ice-cream/icecream-mango.png",
+      "status": "alpha_corners_clear",
+      "sha256": "2762b2c41eb53be5f7a9901c0f6223ea90e3b90a2647d7009cd1482e3f1f5f30",
       "review_note": ""
     },
     {
       "topic": "fruit-ice-cream",
       "name_vi": "Kem trái cây",
       "id": "icecream-blueberry",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fruit-ice-cream/icecream-blueberry.png",
+      "status": "alpha_corners_clear",
+      "sha256": "d93530c412a46ee6a58d07cc3d361ba7a025228ff165975ce8890fc7b9d74aff",
       "review_note": ""
     },
     {
       "topic": "fruit-ice-cream",
       "name_vi": "Kem trái cây",
       "id": "icecream-kiwi",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fruit-ice-cream/icecream-kiwi.png",
+      "status": "alpha_corners_clear",
+      "sha256": "adac50e4ef077267a5ff576eec179e4c83e516e14b34d493ab8d9ae43fe20e69",
       "review_note": ""
     },
     {
       "topic": "fruit-ice-cream",
       "name_vi": "Kem trái cây",
       "id": "icecream-peach",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fruit-ice-cream/icecream-peach.png",
+      "status": "alpha_corners_clear",
+      "sha256": "53c9cfd63ecd2bba42a597c958af982282d2d7f1ea5d64ad04f8e070ca731681",
       "review_note": ""
     },
     {
       "topic": "fruit-ice-cream",
       "name_vi": "Kem trái cây",
       "id": "icecream-banana",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fruit-ice-cream/icecream-banana.png",
+      "status": "alpha_corners_clear",
+      "sha256": "d2b16ac2f00e0e5ee5e558b6c3138c0dd8dd2b09f1a16f756da05f435c823c8f",
       "review_note": ""
     },
     {
       "topic": "fruit-ice-cream",
       "name_vi": "Kem trái cây",
       "id": "icecream-watermelon",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fruit-ice-cream/icecream-watermelon.png",
+      "status": "alpha_corners_clear",
+      "sha256": "c2a532a4dfe4a45b9e15c15faaa3142bed057d0441777d448bf9c612db83124d",
       "review_note": ""
     },
     {
       "topic": "fruit-ice-cream",
       "name_vi": "Kem trái cây",
       "id": "icecream-pineapple",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fruit-ice-cream/icecream-pineapple.png",
+      "status": "alpha_corners_clear",
+      "sha256": "5837881d578292f535cb93071a5805b7a51dc74ec2584bf57d7b563bb278a8aa",
       "review_note": ""
     },
     {

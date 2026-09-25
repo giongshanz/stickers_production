@@ -771,7 +771,14 @@
     "polar-bear-sled",
     "polar-bear-snowman",
     "polar-bear-sleeping",
-    "polar-bear-strawberry-cone"
+    "polar-bear-strawberry-cone",
+    "icecream-mango",
+    "icecream-blueberry",
+    "icecream-kiwi",
+    "icecream-peach",
+    "icecream-banana",
+    "icecream-watermelon",
+    "icecream-pineapple"
   ],
   "style_reference": "references/Stickers",
   "subject_check": "See rework_candidates; other reviewed subjects provisionally accepted",

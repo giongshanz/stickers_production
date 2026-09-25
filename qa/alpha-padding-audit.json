@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-25T08:15:56.700943+00:00",
+  "updated_utc": "2026-09-25T10:16:24.869834+00:00",
   "padding_definition": "Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",
   "assets": [
     {
@@ -16255,6 +16255,153 @@
       "transparent_pixels": 882894,
       "partial_alpha_pixels": 687774,
       "opaque_pixels": 1848
+    },
+    {
+      "id": "icecream-mango",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        306,
+        48,
+        252,
+        52
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1087633,
+      "partial_alpha_pixels": 483414,
+      "opaque_pixels": 1469
+    },
+    {
+      "id": "icecream-blueberry",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        299,
+        29,
+        249,
+        52
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1054593,
+      "partial_alpha_pixels": 517020,
+      "opaque_pixels": 903
+    },
+    {
+      "id": "icecream-kiwi",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        291,
+        29,
+        261,
+        35
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1071223,
+      "partial_alpha_pixels": 500772,
+      "opaque_pixels": 521
+    },
+    {
+      "id": "icecream-peach",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        294,
+        39,
+        238,
+        49
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1071818,
+      "partial_alpha_pixels": 499355,
+      "opaque_pixels": 1343
+    },
+    {
+      "id": "icecream-banana",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        299,
+        40,
+        272,
+        57
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1070287,
+      "partial_alpha_pixels": 500673,
+      "opaque_pixels": 1556
+    },
+    {
+      "id": "icecream-watermelon",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        294,
+        72,
+        220,
+        67
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1068797,
+      "partial_alpha_pixels": 502231,
+      "opaque_pixels": 1488
+    },
+    {
+      "id": "icecream-pineapple",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        256,
+        46,
+        179,
+        45
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1035973,
+      "partial_alpha_pixels": 534841,
+      "opaque_pixels": 1702
     }
   ]
 }

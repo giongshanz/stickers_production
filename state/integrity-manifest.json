@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-25T08:16:02.780336+00:00",
+  "updated_utc": "2026-09-25T10:16:32.202521+00:00",
   "files": [
     {
       "path": ".gitattributes",
@@ -1345,6 +1345,41 @@
       "path": "delivery/stickers/frog-adventures/frog-umbrella.png",
       "bytes": 1017947,
       "sha256": "c8cf02c7c2a9a292a8d9a5007b3dd317b77b76c7c687d03bd96d32298dd4dad9"
+    },
+    {
+      "path": "delivery/stickers/fruit-ice-cream/icecream-banana.png",
+      "bytes": 748801,
+      "sha256": "d2b16ac2f00e0e5ee5e558b6c3138c0dd8dd2b09f1a16f756da05f435c823c8f"
+    },
+    {
+      "path": "delivery/stickers/fruit-ice-cream/icecream-blueberry.png",
+      "bytes": 856351,
+      "sha256": "d93530c412a46ee6a58d07cc3d361ba7a025228ff165975ce8890fc7b9d74aff"
+    },
+    {
+      "path": "delivery/stickers/fruit-ice-cream/icecream-kiwi.png",
+      "bytes": 794337,
+      "sha256": "adac50e4ef077267a5ff576eec179e4c83e516e14b34d493ab8d9ae43fe20e69"
+    },
+    {
+      "path": "delivery/stickers/fruit-ice-cream/icecream-mango.png",
+      "bytes": 747850,
+      "sha256": "2762b2c41eb53be5f7a9901c0f6223ea90e3b90a2647d7009cd1482e3f1f5f30"
+    },
+    {
+      "path": "delivery/stickers/fruit-ice-cream/icecream-peach.png",
+      "bytes": 770596,
+      "sha256": "53c9cfd63ecd2bba42a597c958af982282d2d7f1ea5d64ad04f8e070ca731681"
+    },
+    {
+      "path": "delivery/stickers/fruit-ice-cream/icecream-pineapple.png",
+      "bytes": 793536,
+      "sha256": "5837881d578292f535cb93071a5805b7a51dc74ec2584bf57d7b563bb278a8aa"
+    },
+    {
+      "path": "delivery/stickers/fruit-ice-cream/icecream-watermelon.png",
+      "bytes": 752010,
+      "sha256": "c2a532a4dfe4a45b9e15c15faaa3142bed057d0441777d448bf9c612db83124d"
     },
     {
       "path": "delivery/stickers/fruit-ice-cream/polar-bear-strawberry-cone.png",
@@ -3993,8 +4028,8 @@
     },
     {
       "path": "delivery/topic-map.csv",
-      "bytes": 159077,
-      "sha256": "18cc6611e302bff099018e447837fe021400dfe7cc3a31b0c28d1da2171bccbd"
+      "bytes": 159986,
+      "sha256": "32b4b4a28394b48bd6fee69b2ffa702adf283da850a30dce6afa56ae22259a32"
     },
     {
       "path": "history/delivery/.gitattributes",
@@ -4378,8 +4413,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 425255,
-      "sha256": "37848818100cae60fbf76107b66f25b7f4a1bed5f87d4fdc3bcc2b1136928064"
+      "bytes": 427093,
+      "sha256": "9ecacd6df0cbe9f4d53f0eb6239197a99116b993ab4b75d910769c1941962bac"
     },
     {
       "path": "logs/alpha-pilot-20260917.jsonl",
@@ -4403,8 +4438,8 @@
     },
     {
       "path": "logs/generation.jsonl",
-      "bytes": 333327,
-      "sha256": "a3a7bbd29a19b2a08f80a5ebfd0a579e2bed5c8a101edda2139113c2731a5fce"
+      "bytes": 337183,
+      "sha256": "ce16cf2f84f6ed623cb4a4e58896b0e8bfb20c0b9e6f2d9696f7555eb048ee46"
     },
     {
       "path": "logs/README.vi.md",
@@ -6235,6 +6270,41 @@
       "path": "masters/ice-thermos.png",
       "bytes": 987321,
       "sha256": "713884bdcdf99daefda4b1a24fb4474a742a884a8ee9bd9090128c3d86097c2b"
+    },
+    {
+      "path": "masters/icecream-banana.png",
+      "bytes": 748801,
+      "sha256": "d2b16ac2f00e0e5ee5e558b6c3138c0dd8dd2b09f1a16f756da05f435c823c8f"
+    },
+    {
+      "path": "masters/icecream-blueberry.png",
+      "bytes": 856351,
+      "sha256": "d93530c412a46ee6a58d07cc3d361ba7a025228ff165975ce8890fc7b9d74aff"
+    },
+    {
+      "path": "masters/icecream-kiwi.png",
+      "bytes": 794337,
+      "sha256": "adac50e4ef077267a5ff576eec179e4c83e516e14b34d493ab8d9ae43fe20e69"
+    },
+    {
+      "path": "masters/icecream-mango.png",
+      "bytes": 747850,
+      "sha256": "2762b2c41eb53be5f7a9901c0f6223ea90e3b90a2647d7009cd1482e3f1f5f30"
+    },
+    {
+      "path": "masters/icecream-peach.png",
+      "bytes": 770596,
+      "sha256": "53c9cfd63ecd2bba42a597c958af982282d2d7f1ea5d64ad04f8e070ca731681"
+    },
+    {
+      "path": "masters/icecream-pineapple.png",
+      "bytes": 793536,
+      "sha256": "5837881d578292f535cb93071a5805b7a51dc74ec2584bf57d7b563bb278a8aa"
+    },
+    {
+      "path": "masters/icecream-watermelon.png",
+      "bytes": 752010,
+      "sha256": "c2a532a4dfe4a45b9e15c15faaa3142bed057d0441777d448bf9c612db83124d"
     },
     {
       "path": "masters/jade-plant-pot.png",
@@ -10333,8 +10403,8 @@
     },
     {
       "path": "qa/alpha-padding-audit.json",
-      "bytes": 298106,
-      "sha256": "8303f5da8fa761326e4aefe26956ecc31dafdfb6870eda5d8bd7e1663eb5ff55"
+      "bytes": 300805,
+      "sha256": "1b4aa52e585433bf29468145636c5775974ba3badc554f20c6b009fc7bd92aac"
     },
     {
       "path": "qa/alpha-pilot-20260917/before-dark.png",
@@ -13838,8 +13908,8 @@
     },
     {
       "path": "qa/twenty-pairs-20260924/alpha-cleanup.json",
-      "bytes": 83670,
-      "sha256": "16f308b81f175d7dd9f4c965de22f1f1b6a2658c39653710890c537b64e6d1c4"
+      "bytes": 88199,
+      "sha256": "d5d748f1a89922003d011d37f9599366ae7f0cf21f8a7634d3557d7b8b5c8dc7"
     },
     {
       "path": "qa/twenty-pairs-20260924/art-corner-dark.png",
@@ -13863,8 +13933,8 @@
     },
     {
       "path": "qa/twenty-pairs-20260924/CHECKPOINT.vi.md",
-      "bytes": 1457,
-      "sha256": "d15151836abd4c4fd8768d3ff5277facbb71c30246dce12de5984dbb8c412f8f"
+      "bytes": 1491,
+      "sha256": "56a0b64c15254f69221b3ebc0d39b13c7ba44aea2584d56f615390cc0164be08"
     },
     {
       "path": "qa/twenty-pairs-20260924/chestnut-season-dark.png",
@@ -13875,6 +13945,16 @@
       "path": "qa/twenty-pairs-20260924/chestnut-season-light.png",
       "bytes": 633304,
       "sha256": "1b3d6993eb2cb3e5f85e0857263eada34a2f54cdbee053b144771e98659dc70a"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/fruit-ice-cream-dark.png",
+      "bytes": 442277,
+      "sha256": "f74516ebd652022f0f4fc1f717de471510d94972f69034b64fb98aca62475768"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/fruit-ice-cream-light.png",
+      "bytes": 421171,
+      "sha256": "4ad7493e6e1162b932356b9a149030e886db75d64fc8702bb2b4f9587736a58b"
     },
     {
       "path": "qa/twenty-pairs-20260924/happy-hedgehog-dark.png",
@@ -14018,8 +14098,8 @@
     },
     {
       "path": "qa/visual-qa.json",
-      "bytes": 59669,
-      "sha256": "1cd1e8c71ab6e2085114e72bb6510bf79066cd34de0c15825804a477ecccf696"
+      "bytes": 59843,
+      "sha256": "db7b39f8f15693293a54ff36e4cfda2c22e9daa541dfeee9ea9ed15f3619e704"
     },
     {
       "path": "qa/weaving-beater-comb-v2-alpha-dark.png",
@@ -31527,6 +31607,41 @@
       "sha256": "bfba521bb850c15fc095846f7b4e227d665a99a3c546df7c08818e9c0ba65430"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fruit-ice-cream/icecream-banana.png",
+      "bytes": 753290,
+      "sha256": "e561bd3057c2e23cd7937cae4f65b79581e04ac4cbed001d302c02655ead1453"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fruit-ice-cream/icecream-blueberry.png",
+      "bytes": 861406,
+      "sha256": "6b08e374ceaa3b1437675869e5ce753f79070ac4a55e6b61d8a6fc4702fbbd4e"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fruit-ice-cream/icecream-kiwi.png",
+      "bytes": 801876,
+      "sha256": "b67c8b572f6b42d3cb836ddd9b8bf0fd0929d91874c0e6b0d35e0c98a3b9debf"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fruit-ice-cream/icecream-mango.png",
+      "bytes": 752379,
+      "sha256": "3d0d3724d0decdfcd8f0076f4bf329dc19e35ac956a2e7356f9c1ad1b9f107dc"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fruit-ice-cream/icecream-peach.png",
+      "bytes": 777475,
+      "sha256": "c5fe327fca40a94056c4cb64fa26d10780d96b4a8bd2a9c814067c3bacf6d1cc"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fruit-ice-cream/icecream-pineapple.png",
+      "bytes": 797349,
+      "sha256": "6bf010a8752363b016698812d069e99c0d7486c56df3c1dc8cc22df3b33560da"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fruit-ice-cream/icecream-watermelon.png",
+      "bytes": 760287,
+      "sha256": "d9ce640a7cb98c9dd73de3e81fd5963b67c18d870155a52150e5582f9542d949"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fruit-ice-cream/polar-bear-strawberry-cone.png",
       "bytes": 810513,
       "sha256": "d9687eda13456bdc57c48789e816bd588a8c194b0372660fc5bddd10a0dd2a1d"
@@ -32272,6 +32387,41 @@
       "sha256": "32bf77e0a074139b0a383250feab13c66008a63c411c83ee983e2170e69265b6"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/icecream-banana.png",
+      "bytes": 753290,
+      "sha256": "e561bd3057c2e23cd7937cae4f65b79581e04ac4cbed001d302c02655ead1453"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/icecream-blueberry.png",
+      "bytes": 861406,
+      "sha256": "6b08e374ceaa3b1437675869e5ce753f79070ac4a55e6b61d8a6fc4702fbbd4e"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/icecream-kiwi.png",
+      "bytes": 801876,
+      "sha256": "b67c8b572f6b42d3cb836ddd9b8bf0fd0929d91874c0e6b0d35e0c98a3b9debf"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/icecream-mango.png",
+      "bytes": 752379,
+      "sha256": "3d0d3724d0decdfcd8f0076f4bf329dc19e35ac956a2e7356f9c1ad1b9f107dc"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/icecream-peach.png",
+      "bytes": 777475,
+      "sha256": "c5fe327fca40a94056c4cb64fa26d10780d96b4a8bd2a9c814067c3bacf6d1cc"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/icecream-pineapple.png",
+      "bytes": 797349,
+      "sha256": "6bf010a8752363b016698812d069e99c0d7486c56df3c1dc8cc22df3b33560da"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/icecream-watermelon.png",
+      "bytes": 760287,
+      "sha256": "d9ce640a7cb98c9dd73de3e81fd5963b67c18d870155a52150e5582f9542d949"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/masters/knit-baby-booties.png",
       "bytes": 1071764,
       "sha256": "fbc65494e5ebf2ab4229ee88a31c4036ebcdba882f5ecd95bbb2b85d9d9f45f0"
@@ -32938,8 +33088,8 @@
     },
     {
       "path": "state/generation-queue.json",
-      "bytes": 757,
-      "sha256": "ddafa09b1e77405a5a71deb44925fb562266d70e2f6135227d3a91f4606c0a40"
+      "bytes": 590,
+      "sha256": "236971a8aa6ec89e0706043b344222b004f43eebe23e3886cb71df506aad9634"
     },
     {
       "path": "state/imagegen-errors.jsonl",
@@ -32973,8 +33123,8 @@
     },
     {
       "path": "state/progress.json",
-      "bytes": 955501,
-      "sha256": "47e392a34d6fd79857834c887104f5e1e913d2dde21a3cbdab00e6d9bfc089a3"
+      "bytes": 959762,
+      "sha256": "cb2e5985509cf784fa8c72648ef99ecf8c189f20f418e10189773383729bda7e"
     },
     {
       "path": "state/quota-eight-topics-20260924.json",
@@ -36528,8 +36678,8 @@
     },
     {
       "path": "state/resume.json",
-      "bytes": 1200,
-      "sha256": "a7ba64d33da90555121b82c202c8b7c6eec7264600b6dde1afd069c18f1a3d36"
+      "bytes": 1161,
+      "sha256": "b4a4c6b70badd6731ce298bcdb5e410ac805531f957b583aef43b0859bebf591"
     },
     {
       "path": "state/twenty-pairs-20260924.json",
@@ -36538,8 +36688,8 @@
     },
     {
       "path": "state/work-order.json",
-      "bytes": 10028,
-      "sha256": "6e917282e7563830077b8e89ae26dea54c0db25e2de9ac15a1eb5e875cab97cb"
+      "bytes": 10030,
+      "sha256": "3e3af98a4fcec3f8a81db01507aa0c72f6bb6c1b6b6f7f7a6e795f8058e6dde9"
     },
     {
       "path": "workspace.json",

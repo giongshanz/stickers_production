@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-25T07:59:24.993255+00:00",
+  "updated_utc": "2026-09-25T08:15:56.700943+00:00",
   "padding_definition": "Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",
   "assets": [
     {
@@ -16087,6 +16087,174 @@
       "transparent_pixels": 923317,
       "partial_alpha_pixels": 647744,
       "opaque_pixels": 1455
+    },
+    {
+      "id": "polar-bear-scarf",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        142,
+        45,
+        158,
+        41
+      ],
+      "review_edge": false,
+      "transparent_pixels": 790469,
+      "partial_alpha_pixels": 780243,
+      "opaque_pixels": 1804
+    },
+    {
+      "id": "polar-bear-snowflake",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        118,
+        72,
+        176,
+        58
+      ],
+      "review_edge": false,
+      "transparent_pixels": 936878,
+      "partial_alpha_pixels": 633551,
+      "opaque_pixels": 2087
+    },
+    {
+      "id": "polar-bear-fishing",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        152,
+        77,
+        148,
+        73
+      ],
+      "review_edge": false,
+      "transparent_pixels": 865603,
+      "partial_alpha_pixels": 704665,
+      "opaque_pixels": 2248
+    },
+    {
+      "id": "polar-bear-cocoa",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        175,
+        48,
+        161,
+        38
+      ],
+      "review_edge": false,
+      "transparent_pixels": 810290,
+      "partial_alpha_pixels": 761423,
+      "opaque_pixels": 803
+    },
+    {
+      "id": "polar-bear-sled",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        148,
+        103,
+        129,
+        85
+      ],
+      "review_edge": false,
+      "transparent_pixels": 872809,
+      "partial_alpha_pixels": 698076,
+      "opaque_pixels": 1631
+    },
+    {
+      "id": "polar-bear-snowman",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        190,
+        92,
+        143,
+        81
+      ],
+      "review_edge": false,
+      "transparent_pixels": 856111,
+      "partial_alpha_pixels": 714666,
+      "opaque_pixels": 1739
+    },
+    {
+      "id": "polar-bear-sleeping",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        36,
+        273,
+        33,
+        253
+      ],
+      "review_edge": false,
+      "transparent_pixels": 905267,
+      "partial_alpha_pixels": 665260,
+      "opaque_pixels": 1989
+    },
+    {
+      "id": "polar-bear-strawberry-cone",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        213,
+        72,
+        191,
+        58
+      ],
+      "review_edge": false,
+      "transparent_pixels": 882894,
+      "partial_alpha_pixels": 687774,
+      "opaque_pixels": 1848
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updated_utc": "2026-09-25T07:59:24.993255+00:00",
+  "updated_utc": "2026-09-25T08:15:56.700943+00:00",
   "target_topics": 102,
   "target_slots": 816,
   "target_unique": 796,
-  "generated_unique": 766,
-  "missing_unique": 30,
-  "alpha_corners_clear_unique": 766,
+  "generated_unique": 774,
+  "missing_unique": 22,
+  "alpha_corners_clear_unique": 774,
   "needs_alpha_unique": 0,
-  "topics_with_all_images": 98,
-  "generated_topic_slots": 784,
+  "topics_with_all_images": 99,
+  "generated_topic_slots": 793,
   "visual_rework_unique": 25,
   "complete": false,
   "prompt_target_dimensions": [
@@ -23789,8 +23789,29 @@
         "polar-bear-activities"
       ],
       "source": "masters/polar-bear-scarf.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 790469,
+      "partial_alpha_pixels": 780243,
+      "opaque_pixels": 1804,
+      "padding_nonzero_alpha": [
+        142,
+        45,
+        158,
+        41
+      ],
+      "review_edge": false,
+      "sha256": "cbc4a0bb82823de0ee75242ecfae3823194e015c9e018eab3c83e108cd7361a5",
+      "bytes": 896693
     },
     {
       "id": "polar-bear-snowflake",
@@ -23799,8 +23820,29 @@
         "polar-bear-activities"
       ],
       "source": "masters/polar-bear-snowflake.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 936878,
+      "partial_alpha_pixels": 633551,
+      "opaque_pixels": 2087,
+      "padding_nonzero_alpha": [
+        118,
+        72,
+        176,
+        58
+      ],
+      "review_edge": false,
+      "sha256": "38c66a2b084f4f8b89be9199a597ef2b20f62fe64f6f5e5f47d4e5d11521032e",
+      "bytes": 810993
     },
     {
       "id": "polar-bear-fishing",
@@ -23809,8 +23851,29 @@
         "polar-bear-activities"
       ],
       "source": "masters/polar-bear-fishing.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 865603,
+      "partial_alpha_pixels": 704665,
+      "opaque_pixels": 2248,
+      "padding_nonzero_alpha": [
+        152,
+        77,
+        148,
+        73
+      ],
+      "review_edge": false,
+      "sha256": "40813fd8caae7c525958391e55d88940d2bf5a89ee6e3f4da8a74936f88b7b65",
+      "bytes": 823390
     },
     {
       "id": "polar-bear-cocoa",
@@ -23819,8 +23882,29 @@
         "polar-bear-activities"
       ],
       "source": "masters/polar-bear-cocoa.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 810290,
+      "partial_alpha_pixels": 761423,
+      "opaque_pixels": 803,
+      "padding_nonzero_alpha": [
+        175,
+        48,
+        161,
+        38
+      ],
+      "review_edge": false,
+      "sha256": "b985de53fe61e123f00591edb64b226afc836947e37c98cd9dcdb9a620fe0258",
+      "bytes": 891544
     },
     {
       "id": "polar-bear-sled",
@@ -23829,8 +23913,29 @@
         "polar-bear-activities"
       ],
       "source": "masters/polar-bear-sled.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 872809,
+      "partial_alpha_pixels": 698076,
+      "opaque_pixels": 1631,
+      "padding_nonzero_alpha": [
+        148,
+        103,
+        129,
+        85
+      ],
+      "review_edge": false,
+      "sha256": "2530b0b934f485bc1918f34936cc54c2d39f7ed2e60a3bd1fcf6badc32b8ff71",
+      "bytes": 837317
     },
     {
       "id": "polar-bear-snowman",
@@ -23839,8 +23944,29 @@
         "polar-bear-activities"
       ],
       "source": "masters/polar-bear-snowman.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 856111,
+      "partial_alpha_pixels": 714666,
+      "opaque_pixels": 1739,
+      "padding_nonzero_alpha": [
+        190,
+        92,
+        143,
+        81
+      ],
+      "review_edge": false,
+      "sha256": "e8aa7f23100c831858c333bd94597826734d4a43e031de0fe3ae94f85ef0544b",
+      "bytes": 808932
     },
     {
       "id": "polar-bear-sleeping",
@@ -23849,8 +23975,29 @@
         "polar-bear-activities"
       ],
       "source": "masters/polar-bear-sleeping.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 905267,
+      "partial_alpha_pixels": 665260,
+      "opaque_pixels": 1989,
+      "padding_nonzero_alpha": [
+        36,
+        273,
+        33,
+        253
+      ],
+      "review_edge": false,
+      "sha256": "2d323df292cb736db9c311f2acc96d9d255f2ba71cb91623db130cd7e105505e",
+      "bytes": 741953
     },
     {
       "id": "polar-bear-strawberry-cone",
@@ -23860,8 +24007,29 @@
         "fruit-ice-cream"
       ],
       "source": "masters/polar-bear-strawberry-cone.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 882894,
+      "partial_alpha_pixels": 687774,
+      "opaque_pixels": 1848,
+      "padding_nonzero_alpha": [
+        213,
+        72,
+        191,
+        58
+      ],
+      "review_edge": false,
+      "sha256": "467e248331fcbc430555814669f3dfdfb97182af6045b61900043c2e1bc036fd",
+      "bytes": 792329
     },
     {
       "id": "icecream-mango",
@@ -24677,13 +24845,13 @@
     {
       "slug": "polar-bear-activities",
       "name_vi": "Gấu Bắc Cực",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "fruit-ice-cream",
       "name_vi": "Kem trái cây",
-      "generated": 0,
+      "generated": 1,
       "target": 8
     },
     {
@@ -31760,81 +31928,81 @@
       "topic": "polar-bear-activities",
       "name_vi": "Gấu Bắc Cực",
       "id": "polar-bear-scarf",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/polar-bear-activities/polar-bear-scarf.png",
+      "status": "alpha_corners_clear",
+      "sha256": "cbc4a0bb82823de0ee75242ecfae3823194e015c9e018eab3c83e108cd7361a5",
       "review_note": ""
     },
     {
       "topic": "polar-bear-activities",
       "name_vi": "Gấu Bắc Cực",
       "id": "polar-bear-snowflake",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/polar-bear-activities/polar-bear-snowflake.png",
+      "status": "alpha_corners_clear",
+      "sha256": "38c66a2b084f4f8b89be9199a597ef2b20f62fe64f6f5e5f47d4e5d11521032e",
       "review_note": ""
     },
     {
       "topic": "polar-bear-activities",
       "name_vi": "Gấu Bắc Cực",
       "id": "polar-bear-fishing",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/polar-bear-activities/polar-bear-fishing.png",
+      "status": "alpha_corners_clear",
+      "sha256": "40813fd8caae7c525958391e55d88940d2bf5a89ee6e3f4da8a74936f88b7b65",
       "review_note": ""
     },
     {
       "topic": "polar-bear-activities",
       "name_vi": "Gấu Bắc Cực",
       "id": "polar-bear-cocoa",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/polar-bear-activities/polar-bear-cocoa.png",
+      "status": "alpha_corners_clear",
+      "sha256": "b985de53fe61e123f00591edb64b226afc836947e37c98cd9dcdb9a620fe0258",
       "review_note": ""
     },
     {
       "topic": "polar-bear-activities",
       "name_vi": "Gấu Bắc Cực",
       "id": "polar-bear-sled",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/polar-bear-activities/polar-bear-sled.png",
+      "status": "alpha_corners_clear",
+      "sha256": "2530b0b934f485bc1918f34936cc54c2d39f7ed2e60a3bd1fcf6badc32b8ff71",
       "review_note": ""
     },
     {
       "topic": "polar-bear-activities",
       "name_vi": "Gấu Bắc Cực",
       "id": "polar-bear-snowman",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/polar-bear-activities/polar-bear-snowman.png",
+      "status": "alpha_corners_clear",
+      "sha256": "e8aa7f23100c831858c333bd94597826734d4a43e031de0fe3ae94f85ef0544b",
       "review_note": ""
     },
     {
       "topic": "polar-bear-activities",
       "name_vi": "Gấu Bắc Cực",
       "id": "polar-bear-sleeping",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/polar-bear-activities/polar-bear-sleeping.png",
+      "status": "alpha_corners_clear",
+      "sha256": "2d323df292cb736db9c311f2acc96d9d255f2ba71cb91623db130cd7e105505e",
       "review_note": ""
     },
     {
       "topic": "polar-bear-activities",
       "name_vi": "Gấu Bắc Cực",
       "id": "polar-bear-strawberry-cone",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/polar-bear-activities/polar-bear-strawberry-cone.png",
+      "status": "alpha_corners_clear",
+      "sha256": "467e248331fcbc430555814669f3dfdfb97182af6045b61900043c2e1bc036fd",
       "review_note": ""
     },
     {
       "topic": "fruit-ice-cream",
       "name_vi": "Kem trái cây",
       "id": "polar-bear-strawberry-cone",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fruit-ice-cream/polar-bear-strawberry-cone.png",
+      "status": "alpha_corners_clear",
+      "sha256": "467e248331fcbc430555814669f3dfdfb97182af6045b61900043c2e1bc036fd",
       "review_note": ""
     },
     {

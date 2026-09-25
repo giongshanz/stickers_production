@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-25T07:59:31.228352+00:00",
+  "updated_utc": "2026-09-25T08:16:02.780336+00:00",
   "files": [
     {
       "path": ".gitattributes",
@@ -1347,6 +1347,11 @@
       "sha256": "c8cf02c7c2a9a292a8d9a5007b3dd317b77b76c7c687d03bd96d32298dd4dad9"
     },
     {
+      "path": "delivery/stickers/fruit-ice-cream/polar-bear-strawberry-cone.png",
+      "bytes": 792329,
+      "sha256": "467e248331fcbc430555814669f3dfdfb97182af6045b61900043c2e1bc036fd"
+    },
+    {
       "path": "delivery/stickers/garden-insects/dragonfly.png",
       "bytes": 1082769,
       "sha256": "f65256d3160c7a5b0371951187b94c18f33af96a62dbd73b62b8904beed4565a"
@@ -2585,6 +2590,46 @@
       "path": "delivery/stickers/picnic-day/picnic-sandwich-wrap.png",
       "bytes": 1375127,
       "sha256": "2fc188be1b61cb2528b63fb7978faa6f67f836a099bb0de3954c03c5cbfc0f18"
+    },
+    {
+      "path": "delivery/stickers/polar-bear-activities/polar-bear-cocoa.png",
+      "bytes": 891544,
+      "sha256": "b985de53fe61e123f00591edb64b226afc836947e37c98cd9dcdb9a620fe0258"
+    },
+    {
+      "path": "delivery/stickers/polar-bear-activities/polar-bear-fishing.png",
+      "bytes": 823390,
+      "sha256": "40813fd8caae7c525958391e55d88940d2bf5a89ee6e3f4da8a74936f88b7b65"
+    },
+    {
+      "path": "delivery/stickers/polar-bear-activities/polar-bear-scarf.png",
+      "bytes": 896693,
+      "sha256": "cbc4a0bb82823de0ee75242ecfae3823194e015c9e018eab3c83e108cd7361a5"
+    },
+    {
+      "path": "delivery/stickers/polar-bear-activities/polar-bear-sled.png",
+      "bytes": 837317,
+      "sha256": "2530b0b934f485bc1918f34936cc54c2d39f7ed2e60a3bd1fcf6badc32b8ff71"
+    },
+    {
+      "path": "delivery/stickers/polar-bear-activities/polar-bear-sleeping.png",
+      "bytes": 741953,
+      "sha256": "2d323df292cb736db9c311f2acc96d9d255f2ba71cb91623db130cd7e105505e"
+    },
+    {
+      "path": "delivery/stickers/polar-bear-activities/polar-bear-snowflake.png",
+      "bytes": 810993,
+      "sha256": "38c66a2b084f4f8b89be9199a597ef2b20f62fe64f6f5e5f47d4e5d11521032e"
+    },
+    {
+      "path": "delivery/stickers/polar-bear-activities/polar-bear-snowman.png",
+      "bytes": 808932,
+      "sha256": "e8aa7f23100c831858c333bd94597826734d4a43e031de0fe3ae94f85ef0544b"
+    },
+    {
+      "path": "delivery/stickers/polar-bear-activities/polar-bear-strawberry-cone.png",
+      "bytes": 792329,
+      "sha256": "467e248331fcbc430555814669f3dfdfb97182af6045b61900043c2e1bc036fd"
     },
     {
       "path": "delivery/stickers/post-office/airmail-envelope.png",
@@ -3948,8 +3993,8 @@
     },
     {
       "path": "delivery/topic-map.csv",
-      "bytes": 157829,
-      "sha256": "5675a74a30efbd5466fc365cef18120a1fd381dc8ff9de8474a92a57f5b518d2"
+      "bytes": 159077,
+      "sha256": "18cc6611e302bff099018e447837fe021400dfe7cc3a31b0c28d1da2171bccbd"
     },
     {
       "path": "history/delivery/.gitattributes",
@@ -4333,8 +4378,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 421290,
-      "sha256": "ee133e493b9dc46b85cc742f373cc4b9ebf356d293067bdd359b1e8ebd2fb178"
+      "bytes": 425255,
+      "sha256": "37848818100cae60fbf76107b66f25b7f4a1bed5f87d4fdc3bcc2b1136928064"
     },
     {
       "path": "logs/alpha-pilot-20260917.jsonl",
@@ -4358,8 +4403,8 @@
     },
     {
       "path": "logs/generation.jsonl",
-      "bytes": 328870,
-      "sha256": "c699dbd0769be10f611acbe15152425e738d455aed1e56fcb5980207bd0abfcc"
+      "bytes": 333327,
+      "sha256": "a3a7bbd29a19b2a08f80a5ebfd0a579e2bed5c8a101edda2139113c2731a5fce"
     },
     {
       "path": "logs/README.vi.md",
@@ -7035,6 +7080,46 @@
       "path": "masters/planet-venus.png",
       "bytes": 1044616,
       "sha256": "003bfb90dc67bc5484ff754349c1afc1d05d88a1e2b0eb379c666ee86c08a443"
+    },
+    {
+      "path": "masters/polar-bear-cocoa.png",
+      "bytes": 891544,
+      "sha256": "b985de53fe61e123f00591edb64b226afc836947e37c98cd9dcdb9a620fe0258"
+    },
+    {
+      "path": "masters/polar-bear-fishing.png",
+      "bytes": 823390,
+      "sha256": "40813fd8caae7c525958391e55d88940d2bf5a89ee6e3f4da8a74936f88b7b65"
+    },
+    {
+      "path": "masters/polar-bear-scarf.png",
+      "bytes": 896693,
+      "sha256": "cbc4a0bb82823de0ee75242ecfae3823194e015c9e018eab3c83e108cd7361a5"
+    },
+    {
+      "path": "masters/polar-bear-sled.png",
+      "bytes": 837317,
+      "sha256": "2530b0b934f485bc1918f34936cc54c2d39f7ed2e60a3bd1fcf6badc32b8ff71"
+    },
+    {
+      "path": "masters/polar-bear-sleeping.png",
+      "bytes": 741953,
+      "sha256": "2d323df292cb736db9c311f2acc96d9d255f2ba71cb91623db130cd7e105505e"
+    },
+    {
+      "path": "masters/polar-bear-snowflake.png",
+      "bytes": 810993,
+      "sha256": "38c66a2b084f4f8b89be9199a597ef2b20f62fe64f6f5e5f47d4e5d11521032e"
+    },
+    {
+      "path": "masters/polar-bear-snowman.png",
+      "bytes": 808932,
+      "sha256": "e8aa7f23100c831858c333bd94597826734d4a43e031de0fe3ae94f85ef0544b"
+    },
+    {
+      "path": "masters/polar-bear-strawberry-cone.png",
+      "bytes": 792329,
+      "sha256": "467e248331fcbc430555814669f3dfdfb97182af6045b61900043c2e1bc036fd"
     },
     {
       "path": "masters/porcini.png",
@@ -10248,8 +10333,8 @@
     },
     {
       "path": "qa/alpha-padding-audit.json",
-      "bytes": 295006,
-      "sha256": "b70cd0e835a6639c3e2ed740c3147fa7ab67fd7ad7adb73219c3889945de09d5"
+      "bytes": 298106,
+      "sha256": "8303f5da8fa761326e4aefe26956ecc31dafdfb6870eda5d8bd7e1663eb5ff55"
     },
     {
       "path": "qa/alpha-pilot-20260917/before-dark.png",
@@ -13753,8 +13838,8 @@
     },
     {
       "path": "qa/twenty-pairs-20260924/alpha-cleanup.json",
-      "bytes": 78257,
-      "sha256": "35fb0720cdbb14c05dbaf2099e065d6a14ba081ad8a4bd3f25fefed93fc2a9b7"
+      "bytes": 83670,
+      "sha256": "16f308b81f175d7dd9f4c965de22f1f1b6a2658c39653710890c537b64e6d1c4"
     },
     {
       "path": "qa/twenty-pairs-20260924/art-corner-dark.png",
@@ -13778,8 +13863,8 @@
     },
     {
       "path": "qa/twenty-pairs-20260924/CHECKPOINT.vi.md",
-      "bytes": 1421,
-      "sha256": "1883a1044315e15643678ff2846c4df6a96b3fe50db2e0a4967692356e8f31d6"
+      "bytes": 1457,
+      "sha256": "d15151836abd4c4fd8768d3ff5277facbb71c30246dce12de5984dbb8c412f8f"
     },
     {
       "path": "qa/twenty-pairs-20260924/chestnut-season-dark.png",
@@ -13850,6 +13935,16 @@
       "path": "qa/twenty-pairs-20260924/lotus-pond-light.png",
       "bytes": 532398,
       "sha256": "d90501f1ca406edbfff007af5081acd66708db91fbca21db29c3a80aa03a986b"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/polar-bear-activities-dark.png",
+      "bytes": 515145,
+      "sha256": "5ec884cb96da306941b219a2e73b4dc8aa562677effe9cf68b2b4d48864613e6"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/polar-bear-activities-light.png",
+      "bytes": 487619,
+      "sha256": "166a7dd82af479958298138ebe78d2f50f5a200188a85c4fe0dc1424a136b99b"
     },
     {
       "path": "qa/twenty-pairs-20260924/pumpkin-season-dark.png",
@@ -13923,8 +14018,8 @@
     },
     {
       "path": "qa/visual-qa.json",
-      "bytes": 59449,
-      "sha256": "f8c06a6d6f7ea9ba5198d2af45921d8b9ab94ec9982c9cd7383794a09cba47d5"
+      "bytes": 59669,
+      "sha256": "1cd1e8c71ab6e2085114e72bb6510bf79066cd34de0c15825804a477ecccf696"
     },
     {
       "path": "qa/weaving-beater-comb-v2-alpha-dark.png",
@@ -31432,6 +31527,11 @@
       "sha256": "bfba521bb850c15fc095846f7b4e227d665a99a3c546df7c08818e9c0ba65430"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fruit-ice-cream/polar-bear-strawberry-cone.png",
+      "bytes": 810513,
+      "sha256": "d9687eda13456bdc57c48789e816bd588a8c194b0372660fc5bddd10a0dd2a1d"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/happy-hedgehog/hedgehog-apple.png",
       "bytes": 1059659,
       "sha256": "fa02aa7fa0bfe48cae32a35932384970d848bb459c27490755caf5a91152d072"
@@ -31670,6 +31770,46 @@
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lotus-pond/turtle-lotus-leaf.png",
       "bytes": 816223,
       "sha256": "c3e237c0261e2ca9bfb12c9c9337ee82a793ae3819db20c67cc47742701e820e"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/polar-bear-activities/polar-bear-cocoa.png",
+      "bytes": 915131,
+      "sha256": "7a45e832b3e3b6c9c7c4f3549b6a5598ef9f574c6e9cf4387bd77e4b42579f4b"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/polar-bear-activities/polar-bear-fishing.png",
+      "bytes": 842171,
+      "sha256": "87a5a656720579729f29d23ca8116d2934fb0c896fe9b2c3197bbd4b494469c8"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/polar-bear-activities/polar-bear-scarf.png",
+      "bytes": 919426,
+      "sha256": "48cc5e235f36b235f25612b8086b1bd35fcd874d8ee7aa66df13cdc91d99128f"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/polar-bear-activities/polar-bear-sled.png",
+      "bytes": 861813,
+      "sha256": "1f45e936bb27243f37df72faf5c11bc33c13cd827de68f61681b4ea7ed13c317"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/polar-bear-activities/polar-bear-sleeping.png",
+      "bytes": 764963,
+      "sha256": "2c98664a269473f2a6a414d77b68d747a9533da2bc68a2c29d37c55a41fde35b"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/polar-bear-activities/polar-bear-snowflake.png",
+      "bytes": 829668,
+      "sha256": "cf1c4c97b6d4c061b615ff53c80bc8db1f87c34f9c6fa50cad687ab308377a5c"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/polar-bear-activities/polar-bear-snowman.png",
+      "bytes": 829614,
+      "sha256": "3c47cdd91f3c418f4032fde117e8d622f823e2d750f4ec93173824797e274e44"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/polar-bear-activities/polar-bear-strawberry-cone.png",
+      "bytes": 810513,
+      "sha256": "d9687eda13456bdc57c48789e816bd588a8c194b0372660fc5bddd10a0dd2a1d"
     },
     {
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/pumpkin-season/hedgehog-pumpkin-hug.png",
@@ -32317,6 +32457,46 @@
       "sha256": "023b18af3a9a5cc13654912288679c333d1a51faa02f1eafc11d20068edce4de"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/polar-bear-cocoa.png",
+      "bytes": 915131,
+      "sha256": "7a45e832b3e3b6c9c7c4f3549b6a5598ef9f574c6e9cf4387bd77e4b42579f4b"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/polar-bear-fishing.png",
+      "bytes": 842171,
+      "sha256": "87a5a656720579729f29d23ca8116d2934fb0c896fe9b2c3197bbd4b494469c8"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/polar-bear-scarf.png",
+      "bytes": 919426,
+      "sha256": "48cc5e235f36b235f25612b8086b1bd35fcd874d8ee7aa66df13cdc91d99128f"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/polar-bear-sled.png",
+      "bytes": 861813,
+      "sha256": "1f45e936bb27243f37df72faf5c11bc33c13cd827de68f61681b4ea7ed13c317"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/polar-bear-sleeping.png",
+      "bytes": 764963,
+      "sha256": "2c98664a269473f2a6a414d77b68d747a9533da2bc68a2c29d37c55a41fde35b"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/polar-bear-snowflake.png",
+      "bytes": 829668,
+      "sha256": "cf1c4c97b6d4c061b615ff53c80bc8db1f87c34f9c6fa50cad687ab308377a5c"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/polar-bear-snowman.png",
+      "bytes": 829614,
+      "sha256": "3c47cdd91f3c418f4032fde117e8d622f823e2d750f4ec93173824797e274e44"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/polar-bear-strawberry-cone.png",
+      "bytes": 810513,
+      "sha256": "d9687eda13456bdc57c48789e816bd588a8c194b0372660fc5bddd10a0dd2a1d"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/masters/pumpkin-harvest.png",
       "bytes": 1158820,
       "sha256": "648a8dbe4566dcfdacbc1fda2ff874564c7af4a22f100cf6f91037602e1045c4"
@@ -32622,6 +32802,11 @@
       "sha256": "7df1a4ee15b8403a733ae384cbc2e4562b66115326a8eb3f6e139a4966a2614a"
     },
     {
+      "path": "scripts/_tmp_revise_polar_bear_requests.py",
+      "bytes": 1314,
+      "sha256": "b5f953a1b50c82b6d3aaf5db09145da622a65ce5cd5fb41c7c7f657aaad5be4d"
+    },
+    {
       "path": "scripts/_tmp_revise_robot_refs.py",
       "bytes": 891,
       "sha256": "9bddb67a939f696a9914e421c33ccc8f2c8663200b0ffa25551e92f158dfdae7"
@@ -32753,8 +32938,8 @@
     },
     {
       "path": "state/generation-queue.json",
-      "bytes": 969,
-      "sha256": "68a418a1bdcb4569f73af61d81ea085c36d8f3ad5d4164dbfff60f6d129958ec"
+      "bytes": 757,
+      "sha256": "ddafa09b1e77405a5a71deb44925fb562266d70e2f6135227d3a91f4606c0a40"
     },
     {
       "path": "state/imagegen-errors.jsonl",
@@ -32788,8 +32973,8 @@
     },
     {
       "path": "state/progress.json",
-      "bytes": 950433,
-      "sha256": "a1adeb1c4c06490ee2f2fd90f9c0f4a7d394fb9adeb54164ac7105d366c19c7c"
+      "bytes": 955501,
+      "sha256": "47e392a34d6fd79857834c887104f5e1e913d2dde21a3cbdab00e6d9bfc089a3"
     },
     {
       "path": "state/quota-eight-topics-20260924.json",
@@ -35403,43 +35588,43 @@
     },
     {
       "path": "state/requests/polar-bear-cocoa.json",
-      "bytes": 2734,
-      "sha256": "c1fec8c85b625218ae7233a43a07b3bb55aa61c2e9ae74065b0d38bc7ae70b37"
+      "bytes": 2944,
+      "sha256": "1e3613e67d2aa9aa0e57867711cc0e8879a40addcb0ed94edc9405f5d7cdb2c3"
     },
     {
       "path": "state/requests/polar-bear-fishing.json",
-      "bytes": 2788,
-      "sha256": "5c668045fdf632167e3425ecb640743331ce727bba05b5ba18095fe6c680a208"
+      "bytes": 2998,
+      "sha256": "9b0a437d150d01b574ec0047406c447fd6d6288fbd979adfeb772fd8319431ab"
     },
     {
       "path": "state/requests/polar-bear-scarf.json",
-      "bytes": 2728,
-      "sha256": "9bb6e0e42b94c05fc667351fa5f1d9fb2bf5549020cf8b7ba25ce4bca3462544"
+      "bytes": 2938,
+      "sha256": "13b44a0e1dcf9739636c2654055889b19a9a8eff97a2756a042fb7fd68f8811d"
     },
     {
       "path": "state/requests/polar-bear-sled.json",
-      "bytes": 2707,
-      "sha256": "2b231d07fd72f209fb60701ab1682c526989d7c4d1337273c61060a95607dda9"
+      "bytes": 2917,
+      "sha256": "e908415380ccb9d04ac3a0e81438da87ac866035bec95656863a125246b35a5e"
     },
     {
       "path": "state/requests/polar-bear-sleeping.json",
-      "bytes": 2737,
-      "sha256": "41de3ed2b5c2b722b0aa0585e8ed4db5722203fdc20abfaa428947eb344438ce"
+      "bytes": 2947,
+      "sha256": "960d2024ab975d6adacaa6e32f329babe1e1a65536593889a68bc41fd3634595"
     },
     {
       "path": "state/requests/polar-bear-snowflake.json",
-      "bytes": 2748,
-      "sha256": "25bc9456134409ae88eb38702fea31831516c06de6d62be2309c65d1abc13409"
+      "bytes": 2958,
+      "sha256": "f0b8f32aea0ff7e304a1ca020760144fe16a6becec586a568878afc27e622771"
     },
     {
       "path": "state/requests/polar-bear-snowman.json",
-      "bytes": 2782,
-      "sha256": "b239eb053cba3b57fbdd916bcdcd451aa123aae5c9ee1a98af1e053bb6b76386"
+      "bytes": 2992,
+      "sha256": "2436f15d03369b37c399161ca8559b803e66d6c4e9da1556189eaa4cdce450ed"
     },
     {
       "path": "state/requests/polar-bear-strawberry-cone.json",
-      "bytes": 2912,
-      "sha256": "31585fafdb892b83a21c0ee8b473f8900c2effade49d526a3d847a3abc28a33c"
+      "bytes": 3122,
+      "sha256": "1e03a25363bf4190d71b44faaeb7d8e9bff727d0264e483ec2cca17e312daf1b"
     },
     {
       "path": "state/requests/printmaking-baren-v2.json",
@@ -36343,8 +36528,8 @@
     },
     {
       "path": "state/resume.json",
-      "bytes": 1189,
-      "sha256": "44dbe67268b6f4474fcca1ba485d15c8f70ec86ca68121f7146114bb9c87b18c"
+      "bytes": 1200,
+      "sha256": "a7ba64d33da90555121b82c202c8b7c6eec7264600b6dde1afd069c18f1a3d36"
     },
     {
       "path": "state/twenty-pairs-20260924.json",
@@ -36353,8 +36538,8 @@
     },
     {
       "path": "state/work-order.json",
-      "bytes": 10030,
-      "sha256": "8330073f52830dd29fd742a7dc72831c51cefb77d328e4588d2f473f212eb3a3"
+      "bytes": 10028,
+      "sha256": "6e917282e7563830077b8e89ae26dea54c0db25e2de9ac15a1eb5e875cab97cb"
     },
     {
       "path": "workspace.json",

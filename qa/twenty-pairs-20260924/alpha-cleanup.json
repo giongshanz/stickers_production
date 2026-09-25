@@ -1925,8 +1925,137 @@
       "rgb_unchanged": true,
       "dimensions_unchanged": true,
       "alpha_1_to_15_cleared": 13438
+    },
+    {
+      "id": "polar-bear-scarf",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/polar-bear-scarf.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/polar-bear-activities/polar-bear-scarf.png"
+      ],
+      "before_sha256": "48cc5e235f36b235f25612b8086b1bd35fcd874d8ee7aa66df13cdc91d99128f",
+      "after_sha256": "cbc4a0bb82823de0ee75242ecfae3823194e015c9e018eab3c83e108cd7361a5",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 12690
+    },
+    {
+      "id": "polar-bear-snowflake",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/polar-bear-snowflake.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/polar-bear-activities/polar-bear-snowflake.png"
+      ],
+      "before_sha256": "cf1c4c97b6d4c061b615ff53c80bc8db1f87c34f9c6fa50cad687ab308377a5c",
+      "after_sha256": "38c66a2b084f4f8b89be9199a597ef2b20f62fe64f6f5e5f47d4e5d11521032e",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 19210
+    },
+    {
+      "id": "polar-bear-fishing",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/polar-bear-fishing.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/polar-bear-activities/polar-bear-fishing.png"
+      ],
+      "before_sha256": "87a5a656720579729f29d23ca8116d2934fb0c896fe9b2c3197bbd4b494469c8",
+      "after_sha256": "40813fd8caae7c525958391e55d88940d2bf5a89ee6e3f4da8a74936f88b7b65",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 29154
+    },
+    {
+      "id": "polar-bear-cocoa",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/polar-bear-cocoa.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/polar-bear-activities/polar-bear-cocoa.png"
+      ],
+      "before_sha256": "7a45e832b3e3b6c9c7c4f3549b6a5598ef9f574c6e9cf4387bd77e4b42579f4b",
+      "after_sha256": "b985de53fe61e123f00591edb64b226afc836947e37c98cd9dcdb9a620fe0258",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 18469
+    },
+    {
+      "id": "polar-bear-sled",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/polar-bear-sled.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/polar-bear-activities/polar-bear-sled.png"
+      ],
+      "before_sha256": "1f45e936bb27243f37df72faf5c11bc33c13cd827de68f61681b4ea7ed13c317",
+      "after_sha256": "2530b0b934f485bc1918f34936cc54c2d39f7ed2e60a3bd1fcf6badc32b8ff71",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 12271
+    },
+    {
+      "id": "polar-bear-snowman",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/polar-bear-snowman.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/polar-bear-activities/polar-bear-snowman.png"
+      ],
+      "before_sha256": "3c47cdd91f3c418f4032fde117e8d622f823e2d750f4ec93173824797e274e44",
+      "after_sha256": "e8aa7f23100c831858c333bd94597826734d4a43e031de0fe3ae94f85ef0544b",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 10557
+    },
+    {
+      "id": "polar-bear-sleeping",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/polar-bear-sleeping.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/polar-bear-activities/polar-bear-sleeping.png"
+      ],
+      "before_sha256": "2c98664a269473f2a6a414d77b68d747a9533da2bc68a2c29d37c55a41fde35b",
+      "after_sha256": "2d323df292cb736db9c311f2acc96d9d255f2ba71cb91623db130cd7e105505e",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 9731
+    },
+    {
+      "id": "polar-bear-strawberry-cone",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/polar-bear-strawberry-cone.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fruit-ice-cream/polar-bear-strawberry-cone.png",
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/polar-bear-activities/polar-bear-strawberry-cone.png"
+      ],
+      "before_sha256": "d9687eda13456bdc57c48789e816bd588a8c194b0372660fc5bddd10a0dd2a1d",
+      "after_sha256": "467e248331fcbc430555814669f3dfdfb97182af6045b61900043c2e1bc036fd",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 10508
     }
   ],
-  "updated_utc": "2026-09-25T07:57:38.581808+00:00",
+  "updated_utc": "2026-09-25T08:14:30.213684+00:00",
   "operation": "Set alpha 1..15 to zero only, preserving RGB and dimensions."
 }

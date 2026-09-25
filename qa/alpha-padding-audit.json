@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-25T07:31:05.923980+00:00",
+  "updated_utc": "2026-09-25T07:59:24.993255+00:00",
   "padding_definition": "Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",
   "assets": [
     {
@@ -15772,6 +15772,321 @@
       "transparent_pixels": 820930,
       "partial_alpha_pixels": 748925,
       "opaque_pixels": 2661
+    },
+    {
+      "id": "seal-clapping",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        175,
+        103,
+        140,
+        76
+      ],
+      "review_edge": false,
+      "transparent_pixels": 917590,
+      "partial_alpha_pixels": 653431,
+      "opaque_pixels": 1495
+    },
+    {
+      "id": "seal-fish",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        156,
+        108,
+        154,
+        105
+      ],
+      "review_edge": false,
+      "transparent_pixels": 898608,
+      "partial_alpha_pixels": 672594,
+      "opaque_pixels": 1314
+    },
+    {
+      "id": "seal-swim-ring",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        31,
+        221,
+        14,
+        181
+      ],
+      "review_edge": true,
+      "transparent_pixels": 806992,
+      "partial_alpha_pixels": 764304,
+      "opaque_pixels": 1220
+    },
+    {
+      "id": "seal-beach-ball",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        177,
+        96,
+        88,
+        92
+      ],
+      "review_edge": false,
+      "transparent_pixels": 993622,
+      "partial_alpha_pixels": 578365,
+      "opaque_pixels": 529
+    },
+    {
+      "id": "seal-snowball",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        28,
+        224,
+        14,
+        143
+      ],
+      "review_edge": true,
+      "transparent_pixels": 879255,
+      "partial_alpha_pixels": 692276,
+      "opaque_pixels": 985
+    },
+    {
+      "id": "seal-sled",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        37,
+        174,
+        8,
+        138
+      ],
+      "review_edge": true,
+      "transparent_pixels": 820568,
+      "partial_alpha_pixels": 751229,
+      "opaque_pixels": 719
+    },
+    {
+      "id": "seal-sleeping",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        32,
+        286,
+        29,
+        254
+      ],
+      "review_edge": false,
+      "transparent_pixels": 970838,
+      "partial_alpha_pixels": 599851,
+      "opaque_pixels": 1827
+    },
+    {
+      "id": "seal-ice-skates",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        35,
+        166,
+        29,
+        123
+      ],
+      "review_edge": false,
+      "transparent_pixels": 970395,
+      "partial_alpha_pixels": 600518,
+      "opaque_pixels": 1603
+    },
+    {
+      "id": "ice-frozen-pond",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        22,
+        299,
+        18,
+        246
+      ],
+      "review_edge": true,
+      "transparent_pixels": 930130,
+      "partial_alpha_pixels": 641009,
+      "opaque_pixels": 1377
+    },
+    {
+      "id": "ice-fishing-hole",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        123,
+        201,
+        90,
+        198
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1036867,
+      "partial_alpha_pixels": 534480,
+      "opaque_pixels": 1169
+    },
+    {
+      "id": "ice-lantern",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        204,
+        15,
+        203,
+        19
+      ],
+      "review_edge": true,
+      "transparent_pixels": 820819,
+      "partial_alpha_pixels": 750428,
+      "opaque_pixels": 1269
+    },
+    {
+      "id": "ice-skate-pair",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        102,
+        46,
+        95,
+        38
+      ],
+      "review_edge": false,
+      "transparent_pixels": 832825,
+      "partial_alpha_pixels": 738016,
+      "opaque_pixels": 1675
+    },
+    {
+      "id": "ice-sled",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        45,
+        129,
+        8,
+        117
+      ],
+      "review_edge": true,
+      "transparent_pixels": 941999,
+      "partial_alpha_pixels": 629037,
+      "opaque_pixels": 1480
+    },
+    {
+      "id": "ice-snow-crystal",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        89,
+        38,
+        89,
+        53
+      ],
+      "review_edge": false,
+      "transparent_pixels": 827173,
+      "partial_alpha_pixels": 742762,
+      "opaque_pixels": 2581
+    },
+    {
+      "id": "ice-thermos",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        192,
+        42,
+        194,
+        49
+      ],
+      "review_edge": false,
+      "transparent_pixels": 923317,
+      "partial_alpha_pixels": 647744,
+      "opaque_pixels": 1455
     }
   ]
 }

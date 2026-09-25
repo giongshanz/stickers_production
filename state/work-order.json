@@ -371,7 +371,7 @@
     "balloon-star"
   ],
   "last_completed_batch": "qa/eight-topics-20260924/REPORT.vi.md",
-  "next_action": "Continue twenty-pair batch from seal-clapping; 45 unique masters remain.",
+  "next_action": "Continue twenty-pair batch from polar-bear-scarf; 30 unique masters remain.",
   "alpha_pilot_pending_review": {
     "id": "tet-lucky-envelope",
     "candidate": "revisions/border-pilot-20260917/tet-lucky-envelope-geometry-alpha.png",
@@ -382,6 +382,6 @@
   "quota_status": {
     "state": "available_at_last_request",
     "last_success_date": "2026-09-25",
-    "note": "105 of 150 new masters generated so far; availability must be checked from next tool response."
+    "note": "120 of 150 new masters generated so far; availability must be checked from next tool response."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-25T07:31:11.654271+00:00",
+  "updated_utc": "2026-09-25T07:59:31.228352+00:00",
   "files": [
     {
       "path": ".gitattributes",
@@ -1667,6 +1667,46 @@
       "sha256": "0d857dea48e6089b54e154694bdf76199f7c52cf8a433671f27c5df21c3cbbd5"
     },
     {
+      "path": "delivery/stickers/ice-day/ice-fishing-hole.png",
+      "bytes": 923268,
+      "sha256": "33a41ce9b3f0be136b1cdd982f2bcf736ed123b62c11a4806ee31a16ed83a3e7"
+    },
+    {
+      "path": "delivery/stickers/ice-day/ice-frozen-pond.png",
+      "bytes": 983467,
+      "sha256": "b41c94e660f1fc2c0c782b1167e55fd3e5b79156ba7d4242998f7ef8b7f969f7"
+    },
+    {
+      "path": "delivery/stickers/ice-day/ice-lantern.png",
+      "bytes": 1354185,
+      "sha256": "c877c26305919b1cb087e6a322c0e5cf0eb9b94269c3406c30e0c1ec8bbbf490"
+    },
+    {
+      "path": "delivery/stickers/ice-day/ice-skate-pair.png",
+      "bytes": 1278618,
+      "sha256": "dd1cda6ff531a0a490d6e00b43dd44854231e45089f4b60b36f49b59aeca87a3"
+    },
+    {
+      "path": "delivery/stickers/ice-day/ice-sled.png",
+      "bytes": 1065640,
+      "sha256": "a016194e06758f0f46bca91bd9a93f3d46030fc7e34ed1a2c3d8618f2097410d"
+    },
+    {
+      "path": "delivery/stickers/ice-day/ice-snow-crystal.png",
+      "bytes": 1270436,
+      "sha256": "6800acaaa193eefb87737fd4fe2bbdbbe5e0b012c240743aef5a4c2a3a258e04"
+    },
+    {
+      "path": "delivery/stickers/ice-day/ice-thermos.png",
+      "bytes": 987321,
+      "sha256": "713884bdcdf99daefda4b1a24fb4474a742a884a8ee9bd9090128c3d86097c2b"
+    },
+    {
+      "path": "delivery/stickers/ice-day/seal-ice-skates.png",
+      "bytes": 841770,
+      "sha256": "36b2138b69f568c8db4145c8730af02b59d429876dfc9a991666c926eb749cb2"
+    },
+    {
       "path": "delivery/stickers/knitwear/knit-baby-booties.png",
       "bytes": 1064834,
       "sha256": "aa7ea1396180360cec635f768c68e9d3baddf13f2a24313ea5cb6231a768fcdd"
@@ -3027,6 +3067,46 @@
       "sha256": "20203c8d4d6fe08b8070f3155911b81687e5b8b49cc760e2a4f7d25bfeb93f0a"
     },
     {
+      "path": "delivery/stickers/seal-activities/seal-beach-ball.png",
+      "bytes": 847564,
+      "sha256": "0b8f1063e79079048681406e1f65517f23a2fac1bfbbabcb190fddeec8bd54f0"
+    },
+    {
+      "path": "delivery/stickers/seal-activities/seal-clapping.png",
+      "bytes": 902279,
+      "sha256": "f7fe7c0f928f3b92cd26177ad2a0f93e4d6d48b31f23fb409ca2297c8a442c42"
+    },
+    {
+      "path": "delivery/stickers/seal-activities/seal-fish.png",
+      "bytes": 926363,
+      "sha256": "66d2bff3a3444517bda61fdede2fbac9ce6a78e1d8bae1772b601d706dff945d"
+    },
+    {
+      "path": "delivery/stickers/seal-activities/seal-ice-skates.png",
+      "bytes": 841770,
+      "sha256": "36b2138b69f568c8db4145c8730af02b59d429876dfc9a991666c926eb749cb2"
+    },
+    {
+      "path": "delivery/stickers/seal-activities/seal-sled.png",
+      "bytes": 1039162,
+      "sha256": "9d1d835150260f02fc3de2e42b801ea145c4a4c5a7979f0c22115aa7fb178516"
+    },
+    {
+      "path": "delivery/stickers/seal-activities/seal-sleeping.png",
+      "bytes": 864306,
+      "sha256": "4ec53725bbbe15d12b3b6f106794df720c4eed52f9d6a31cbe63bcb777026408"
+    },
+    {
+      "path": "delivery/stickers/seal-activities/seal-snowball.png",
+      "bytes": 962817,
+      "sha256": "ee3b7a7ba3bd039884c1b6ecca186e25aadec4b8a4b20295d113c3be292e4375"
+    },
+    {
+      "path": "delivery/stickers/seal-activities/seal-swim-ring.png",
+      "bytes": 997664,
+      "sha256": "812a4344b06f963f1d783d779d40f38de8c604baadec5cabe205b1dce5aff78d"
+    },
+    {
       "path": "delivery/stickers/sewing-room/fabric-shears.png",
       "bytes": 633457,
       "sha256": "064ff5565cd420191842c5e1781e81b30456bb424468b025371267f698e24f8a"
@@ -3868,8 +3948,8 @@
     },
     {
       "path": "delivery/topic-map.csv",
-      "bytes": 155862,
-      "sha256": "4d047ce7dc38ea6a16f71c9a38a8de63a249ba494e10a6a9c5d99d6cec6511ab"
+      "bytes": 157829,
+      "sha256": "5675a74a30efbd5466fc365cef18120a1fd381dc8ff9de8474a92a57f5b518d2"
     },
     {
       "path": "history/delivery/.gitattributes",
@@ -4253,8 +4333,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 416032,
-      "sha256": "6309eed8324413342f2b52aa98329983245c1503d9c0d63099e4087b09e75ef9"
+      "bytes": 421290,
+      "sha256": "ee133e493b9dc46b85cc742f373cc4b9ebf356d293067bdd359b1e8ebd2fb178"
     },
     {
       "path": "logs/alpha-pilot-20260917.jsonl",
@@ -4278,8 +4358,8 @@
     },
     {
       "path": "logs/generation.jsonl",
-      "bytes": 320793,
-      "sha256": "aee3d5fa8aa328ef832c044b8377b36b8ff78fb313e88a724ffefe56bd0dc3ff"
+      "bytes": 328870,
+      "sha256": "c699dbd0769be10f611acbe15152425e738d455aed1e56fcb5980207bd0abfcc"
     },
     {
       "path": "logs/README.vi.md",
@@ -6077,6 +6157,41 @@
       "sha256": "8a42c8f6972c22efbd864b220d267044b32efaa366ae148266dda4db0959e0c1"
     },
     {
+      "path": "masters/ice-fishing-hole.png",
+      "bytes": 923268,
+      "sha256": "33a41ce9b3f0be136b1cdd982f2bcf736ed123b62c11a4806ee31a16ed83a3e7"
+    },
+    {
+      "path": "masters/ice-frozen-pond.png",
+      "bytes": 983467,
+      "sha256": "b41c94e660f1fc2c0c782b1167e55fd3e5b79156ba7d4242998f7ef8b7f969f7"
+    },
+    {
+      "path": "masters/ice-lantern.png",
+      "bytes": 1354185,
+      "sha256": "c877c26305919b1cb087e6a322c0e5cf0eb9b94269c3406c30e0c1ec8bbbf490"
+    },
+    {
+      "path": "masters/ice-skate-pair.png",
+      "bytes": 1278618,
+      "sha256": "dd1cda6ff531a0a490d6e00b43dd44854231e45089f4b60b36f49b59aeca87a3"
+    },
+    {
+      "path": "masters/ice-sled.png",
+      "bytes": 1065640,
+      "sha256": "a016194e06758f0f46bca91bd9a93f3d46030fc7e34ed1a2c3d8618f2097410d"
+    },
+    {
+      "path": "masters/ice-snow-crystal.png",
+      "bytes": 1270436,
+      "sha256": "6800acaaa193eefb87737fd4fe2bbdbbe5e0b012c240743aef5a4c2a3a258e04"
+    },
+    {
+      "path": "masters/ice-thermos.png",
+      "bytes": 987321,
+      "sha256": "713884bdcdf99daefda4b1a24fb4474a742a884a8ee9bd9090128c3d86097c2b"
+    },
+    {
       "path": "masters/jade-plant-pot.png",
       "bytes": 2193197,
       "sha256": "a5e1c87490d23a23206e82f11005739b25637cf7aabc69fa8598b7eaa592288d"
@@ -7305,6 +7420,46 @@
       "path": "masters/robot-watering-plant.png",
       "bytes": 1006239,
       "sha256": "583e10067bf1da0cafa3c702949395ef68f40a65d893b9c1f0bb9d47c09afa72"
+    },
+    {
+      "path": "masters/seal-beach-ball.png",
+      "bytes": 847564,
+      "sha256": "0b8f1063e79079048681406e1f65517f23a2fac1bfbbabcb190fddeec8bd54f0"
+    },
+    {
+      "path": "masters/seal-clapping.png",
+      "bytes": 902279,
+      "sha256": "f7fe7c0f928f3b92cd26177ad2a0f93e4d6d48b31f23fb409ca2297c8a442c42"
+    },
+    {
+      "path": "masters/seal-fish.png",
+      "bytes": 926363,
+      "sha256": "66d2bff3a3444517bda61fdede2fbac9ce6a78e1d8bae1772b601d706dff945d"
+    },
+    {
+      "path": "masters/seal-ice-skates.png",
+      "bytes": 841770,
+      "sha256": "36b2138b69f568c8db4145c8730af02b59d429876dfc9a991666c926eb749cb2"
+    },
+    {
+      "path": "masters/seal-sled.png",
+      "bytes": 1039162,
+      "sha256": "9d1d835150260f02fc3de2e42b801ea145c4a4c5a7979f0c22115aa7fb178516"
+    },
+    {
+      "path": "masters/seal-sleeping.png",
+      "bytes": 864306,
+      "sha256": "4ec53725bbbe15d12b3b6f106794df720c4eed52f9d6a31cbe63bcb777026408"
+    },
+    {
+      "path": "masters/seal-snowball.png",
+      "bytes": 962817,
+      "sha256": "ee3b7a7ba3bd039884c1b6ecca186e25aadec4b8a4b20295d113c3be292e4375"
+    },
+    {
+      "path": "masters/seal-swim-ring.png",
+      "bytes": 997664,
+      "sha256": "812a4344b06f963f1d783d779d40f38de8c604baadec5cabe205b1dce5aff78d"
     },
     {
       "path": "masters/seam-ripper.png",
@@ -10093,8 +10248,8 @@
     },
     {
       "path": "qa/alpha-padding-audit.json",
-      "bytes": 289289,
-      "sha256": "916f1b55ca2c7ecf51a01aa28c349cf76e7575fb05beee48012ba6a72f4266d9"
+      "bytes": 295006,
+      "sha256": "b70cd0e835a6639c3e2ed740c3147fa7ab67fd7ad7adb73219c3889945de09d5"
     },
     {
       "path": "qa/alpha-pilot-20260917/before-dark.png",
@@ -13598,8 +13753,8 @@
     },
     {
       "path": "qa/twenty-pairs-20260924/alpha-cleanup.json",
-      "bytes": 68635,
-      "sha256": "b8e46eafb9fe2377fbf817f63b33741cf484cb01db43e09c8cab9133d97a0c53"
+      "bytes": 78257,
+      "sha256": "35fb0720cdbb14c05dbaf2099e065d6a14ba081ad8a4bd3f25fefed93fc2a9b7"
     },
     {
       "path": "qa/twenty-pairs-20260924/art-corner-dark.png",
@@ -13623,8 +13778,8 @@
     },
     {
       "path": "qa/twenty-pairs-20260924/CHECKPOINT.vi.md",
-      "bytes": 1354,
-      "sha256": "658523486b390c8a964ecd7b6d79333c99e3a39f9a9d80a75cf3a62ccc8d4656"
+      "bytes": 1421,
+      "sha256": "1883a1044315e15643678ff2846c4df6a96b3fe50db2e0a4967692356e8f31d6"
     },
     {
       "path": "qa/twenty-pairs-20260924/chestnut-season-dark.png",
@@ -13645,6 +13800,16 @@
       "path": "qa/twenty-pairs-20260924/happy-hedgehog-light.png",
       "bytes": 559678,
       "sha256": "5b9e70ba57ddbf5640378719c15b0e49b02d72bdee3fdc34893996f62bab500a"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/ice-day-dark.png",
+      "bytes": 579265,
+      "sha256": "177bc085063e666405f5aef98fffc4f52e5cd98457012ad64d18ec3da1c18694"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/ice-day-light.png",
+      "bytes": 550657,
+      "sha256": "a568a52a412ee44f56962425bd402d5f85895e719b165860c39f3f835fc1666c"
     },
     {
       "path": "qa/twenty-pairs-20260924/knitwear-dark.png",
@@ -13717,6 +13882,16 @@
       "sha256": "fe19a724000103b9f5e3ecf9a4826275c76dfac5a258d274296a8a46770dbb6d"
     },
     {
+      "path": "qa/twenty-pairs-20260924/seal-activities-dark.png",
+      "bytes": 517572,
+      "sha256": "4f848e5d0093a4d8a4fcd524232127066c8beb7a69d58025bdd7c1ec5e322aac"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/seal-activities-light.png",
+      "bytes": 491201,
+      "sha256": "47dfc921e8523b85a81b73970781adec33f56179bc1aeae49ce77597b4ee3963"
+    },
+    {
       "path": "qa/twenty-pairs-20260924/small-robot-dark.png",
       "bytes": 556169,
       "sha256": "45e423c12226b0fed3c76d9ea52fae5e75aff3585329218bf0ed41233fb217a9"
@@ -13748,8 +13923,8 @@
     },
     {
       "path": "qa/visual-qa.json",
-      "bytes": 59122,
-      "sha256": "4b7f7df654502dc451fa170c0b80d3cf092bb2bdc153e76a3c5a667352b7a0ec"
+      "bytes": 59449,
+      "sha256": "f8c06a6d6f7ea9ba5198d2af45921d8b9ab94ec9982c9cd7383794a09cba47d5"
     },
     {
       "path": "qa/weaving-beater-comb-v2-alpha-dark.png",
@@ -31297,6 +31472,46 @@
       "sha256": "0e668f87d7ad16a5238237326953c2aa6f0ff632a2019c8c3a14bb8b607a8270"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/ice-day/ice-fishing-hole.png",
+      "bytes": 935529,
+      "sha256": "e451670ff0b2b35ccd283cc5ff72ef7e776682a4f38d592d9db89349676d7a06"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/ice-day/ice-frozen-pond.png",
+      "bytes": 1000322,
+      "sha256": "82cd7d4274626242f980531e5176685ef872dcff81a42fbbddbf41eb6af91128"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/ice-day/ice-lantern.png",
+      "bytes": 1337586,
+      "sha256": "b30e877c6aab62f51043e3b31fcff0727d24d24fe726610aa2db4e21bb0468a7"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/ice-day/ice-skate-pair.png",
+      "bytes": 1296378,
+      "sha256": "2a3b21b397882635384d48a1533e52491f758126088e26b7a6e187b764fb48ac"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/ice-day/ice-sled.png",
+      "bytes": 1080276,
+      "sha256": "f650eb20633ab1b7f74af527862cc9606429f876ac2709ffbd22aaf1f29c72af"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/ice-day/ice-snow-crystal.png",
+      "bytes": 1287153,
+      "sha256": "4e7eb21cf0fbaabc9f55cb895e1c373b1b8907ea4027d00ca2d3f22428a1a9ab"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/ice-day/ice-thermos.png",
+      "bytes": 996148,
+      "sha256": "32bf77e0a074139b0a383250feab13c66008a63c411c83ee983e2170e69265b6"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/ice-day/seal-ice-skates.png",
+      "bytes": 868241,
+      "sha256": "35943e999b70327a83182a9d95a7f94423752fa6128cf4a6fd99b73a1163e5ca"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/knitwear/knit-baby-booties.png",
       "bytes": 1071764,
       "sha256": "fbc65494e5ebf2ab4229ee88a31c4036ebcdba882f5ecd95bbb2b85d9d9f45f0"
@@ -31577,6 +31792,46 @@
       "sha256": "023b18af3a9a5cc13654912288679c333d1a51faa02f1eafc11d20068edce4de"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/seal-activities/seal-beach-ball.png",
+      "bytes": 869937,
+      "sha256": "05f5c133b2dc8e4b84b71908a91a5e4ded242367c7628b55ddf23eb5fc865a00"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/seal-activities/seal-clapping.png",
+      "bytes": 922460,
+      "sha256": "7a3730094c821245f6c9dd5798ef373a13229b0d3a3b2b92d2be8703b3b87b1f"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/seal-activities/seal-fish.png",
+      "bytes": 949058,
+      "sha256": "6033b4ffddef83f5ee7e1c2954f0e345039bf2fa77446bf8dc4e6c9c3572c592"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/seal-activities/seal-ice-skates.png",
+      "bytes": 868241,
+      "sha256": "35943e999b70327a83182a9d95a7f94423752fa6128cf4a6fd99b73a1163e5ca"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/seal-activities/seal-sled.png",
+      "bytes": 1065499,
+      "sha256": "4b724cd2618c3735a66acf5749dd9bb3a67fe3b7607b16b4f47096a56c59abbf"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/seal-activities/seal-sleeping.png",
+      "bytes": 885454,
+      "sha256": "440d002664c32ea285f661eeee89c5a9c67a5e24a54f5e4ed54332c43f4dbffa"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/seal-activities/seal-snowball.png",
+      "bytes": 986584,
+      "sha256": "d9dcb8dff00fb55046960f96b616c2475d63c7ba160c7c2d87e8ae4167f362ff"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/seal-activities/seal-swim-ring.png",
+      "bytes": 1023921,
+      "sha256": "b29b17724646347a13e83e9e277c8368b332e35d8ef73a9f3cf56594e1752a9d"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/small-robot/robot-bicycle-ride.png",
       "bytes": 1065182,
       "sha256": "7c6776fba1ef8d20663664ee0940d15d99e95efdd0152848298eef40b2b51440"
@@ -31840,6 +32095,41 @@
       "path": "revisions/twenty-pairs-20260924/alpha-before/masters/hedgehog-sleeping.png",
       "bytes": 1279953,
       "sha256": "0e668f87d7ad16a5238237326953c2aa6f0ff632a2019c8c3a14bb8b607a8270"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/ice-fishing-hole.png",
+      "bytes": 935529,
+      "sha256": "e451670ff0b2b35ccd283cc5ff72ef7e776682a4f38d592d9db89349676d7a06"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/ice-frozen-pond.png",
+      "bytes": 1000322,
+      "sha256": "82cd7d4274626242f980531e5176685ef872dcff81a42fbbddbf41eb6af91128"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/ice-lantern.png",
+      "bytes": 1337586,
+      "sha256": "b30e877c6aab62f51043e3b31fcff0727d24d24fe726610aa2db4e21bb0468a7"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/ice-skate-pair.png",
+      "bytes": 1296378,
+      "sha256": "2a3b21b397882635384d48a1533e52491f758126088e26b7a6e187b764fb48ac"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/ice-sled.png",
+      "bytes": 1080276,
+      "sha256": "f650eb20633ab1b7f74af527862cc9606429f876ac2709ffbd22aaf1f29c72af"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/ice-snow-crystal.png",
+      "bytes": 1287153,
+      "sha256": "4e7eb21cf0fbaabc9f55cb895e1c373b1b8907ea4027d00ca2d3f22428a1a9ab"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/ice-thermos.png",
+      "bytes": 996148,
+      "sha256": "32bf77e0a074139b0a383250feab13c66008a63c411c83ee983e2170e69265b6"
     },
     {
       "path": "revisions/twenty-pairs-20260924/alpha-before/masters/knit-baby-booties.png",
@@ -32142,6 +32432,46 @@
       "sha256": "d34825d6a198e80d082e841eea443b0b90c9114e250773fda71a0d13ff9379ec"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/seal-beach-ball.png",
+      "bytes": 869937,
+      "sha256": "05f5c133b2dc8e4b84b71908a91a5e4ded242367c7628b55ddf23eb5fc865a00"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/seal-clapping.png",
+      "bytes": 922460,
+      "sha256": "7a3730094c821245f6c9dd5798ef373a13229b0d3a3b2b92d2be8703b3b87b1f"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/seal-fish.png",
+      "bytes": 949058,
+      "sha256": "6033b4ffddef83f5ee7e1c2954f0e345039bf2fa77446bf8dc4e6c9c3572c592"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/seal-ice-skates.png",
+      "bytes": 868241,
+      "sha256": "35943e999b70327a83182a9d95a7f94423752fa6128cf4a6fd99b73a1163e5ca"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/seal-sled.png",
+      "bytes": 1065499,
+      "sha256": "4b724cd2618c3735a66acf5749dd9bb3a67fe3b7607b16b4f47096a56c59abbf"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/seal-sleeping.png",
+      "bytes": 885454,
+      "sha256": "440d002664c32ea285f661eeee89c5a9c67a5e24a54f5e4ed54332c43f4dbffa"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/seal-snowball.png",
+      "bytes": 986584,
+      "sha256": "d9dcb8dff00fb55046960f96b616c2475d63c7ba160c7c2d87e8ae4167f362ff"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/seal-swim-ring.png",
+      "bytes": 1023921,
+      "sha256": "b29b17724646347a13e83e9e277c8368b332e35d8ef73a9f3cf56594e1752a9d"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/masters/squirrel-acorn.png",
       "bytes": 1138417,
       "sha256": "f12910e2fdbbb645c538b3aa60f45fab08a95c0dbd8328206993b5bc4a0a2f70"
@@ -32282,6 +32612,11 @@
       "sha256": "1fe05d70a70ae2c7b7eefb98ed7e051faa4f5a61cf11ce22a86a67be99d24fce"
     },
     {
+      "path": "scripts/_tmp_revise_ice_refs.py",
+      "bytes": 967,
+      "sha256": "178913c7ac7c4c54d9ea5ca69fa4e616584e7faa108d48490a8e2ed3ccadebd3"
+    },
+    {
       "path": "scripts/_tmp_revise_lotus_refs.py",
       "bytes": 983,
       "sha256": "7df1a4ee15b8403a733ae384cbc2e4562b66115326a8eb3f6e139a4966a2614a"
@@ -32290,6 +32625,11 @@
       "path": "scripts/_tmp_revise_robot_refs.py",
       "bytes": 891,
       "sha256": "9bddb67a939f696a9914e421c33ccc8f2c8663200b0ffa25551e92f158dfdae7"
+    },
+    {
+      "path": "scripts/_tmp_revise_seal_requests.py",
+      "bytes": 1335,
+      "sha256": "b8fde23c1627058927d48987d37d887cf4dacebd7ead76f4bf8e58745db4cb91"
     },
     {
       "path": "scripts/_tmp_revise_turtle_requests.py",
@@ -32413,8 +32753,8 @@
     },
     {
       "path": "state/generation-queue.json",
-      "bytes": 1281,
-      "sha256": "50cc6a0678e233a5a0ab605ae5578ad1c17a605c9db616b908be48df3c4f7e47"
+      "bytes": 969,
+      "sha256": "68a418a1bdcb4569f73af61d81ea085c36d8f3ad5d4164dbfff60f6d129958ec"
     },
     {
       "path": "state/imagegen-errors.jsonl",
@@ -32448,8 +32788,8 @@
     },
     {
       "path": "state/progress.json",
-      "bytes": 941305,
-      "sha256": "e08b9f4269fa0049e7a5892262b6b2e4dfb5ccd3e7ad0b56d70626e8b3ce8fe2"
+      "bytes": 950433,
+      "sha256": "a1adeb1c4c06490ee2f2fd90f9c0f4a7d394fb9adeb54164ac7105d366c19c7c"
     },
     {
       "path": "state/quota-eight-topics-20260924.json",
@@ -34228,38 +34568,38 @@
     },
     {
       "path": "state/requests/ice-fishing-hole.json",
-      "bytes": 2157,
-      "sha256": "d30f9efddb4fe170a20eb94c6ef6eaab0711c943f6ccd91a7ab9ada0fd48a224"
+      "bytes": 2150,
+      "sha256": "49fc87dc788f56cf79630a8bfaf10d517e1518ce5a6853264ec966ca45a5b29f"
     },
     {
       "path": "state/requests/ice-frozen-pond.json",
-      "bytes": 2184,
-      "sha256": "9656b424b118282bb6741ea0e1698bfc9c3d71e659cf560df1fa15301b593d88"
+      "bytes": 2177,
+      "sha256": "eafc5293a87d16d2aa85ffddbf6bb3ce25285c0e145c0818c60fa880379ada32"
     },
     {
       "path": "state/requests/ice-lantern.json",
-      "bytes": 2096,
-      "sha256": "433f3d7c0951c7479726f664a356ff482833a2e49a970d9b749d04e97a7997dc"
+      "bytes": 2089,
+      "sha256": "4bd5e22d47fd774512554543c5bbc4d594580716a23918a3f72861c62f8f82bf"
     },
     {
       "path": "state/requests/ice-skate-pair.json",
-      "bytes": 2147,
-      "sha256": "a6ce9975c1c08a92d82e932a613b44e4f3b203e13725bd4e6d4303e293ae4853"
+      "bytes": 2140,
+      "sha256": "b7dfcc9356b3d05817037a63aaf32fa554a928d2c49180a6b2a3d0677d7e5d8a"
     },
     {
       "path": "state/requests/ice-sled.json",
-      "bytes": 2125,
-      "sha256": "a03daa2705dbb531e6666af695007c1e4e2ea70f9370726149d35a3f8a1b10d3"
+      "bytes": 2118,
+      "sha256": "cdeaba53e2103e6a57259919f0051e25027bb5372739d6ffeabfab0c0b424f70"
     },
     {
       "path": "state/requests/ice-snow-crystal.json",
-      "bytes": 2143,
-      "sha256": "3898d66692a37c5d1d51de8fbb0aa4b0eee904bb57e1feaf7ce2c0de41c53f77"
+      "bytes": 2136,
+      "sha256": "d1e2be1386d6aa6b54c58d8598f8e6759d12260978417bb52c9c3164ba1c965c"
     },
     {
       "path": "state/requests/ice-thermos.json",
-      "bytes": 2110,
-      "sha256": "22d8e7a0e380ebf453f49b168fed2001925a96a28f57f2d2f1d008dd0e1f39be"
+      "bytes": 2103,
+      "sha256": "bd71572e2bf852c4289b911650dc89f476eb59b7f4eafe27f4ff98df19d6e79e"
     },
     {
       "path": "state/requests/icecream-banana.json",
@@ -35423,43 +35763,43 @@
     },
     {
       "path": "state/requests/seal-beach-ball.json",
-      "bytes": 2752,
-      "sha256": "0cbf0a38ac49b420ba9ce3656e274d8469090f929394ac4479706b642a402b45"
+      "bytes": 2977,
+      "sha256": "a40cd79c2df51f2c2dbf1847a92cae45a62c541163cdf4bf1e61a41d5574b873"
     },
     {
       "path": "state/requests/seal-clapping.json",
-      "bytes": 2752,
-      "sha256": "508bb851a18d0d49d5e5ac69db11642f52c3f56556cf985eb6d7b04e986fc910"
+      "bytes": 2977,
+      "sha256": "b2e02779cd6c57a2f436423147223ae468a6ea4e6d4d705ac98730ff7377e7d8"
     },
     {
       "path": "state/requests/seal-fish.json",
-      "bytes": 2704,
-      "sha256": "6096a9574c93c5a4bdf00f2f1078d50876586bcfceded52ba28928611ed578b7"
+      "bytes": 2929,
+      "sha256": "a14176f42d2acd6d2c5291815737035b875239d1dc0e318e48c18df661f28d78"
     },
     {
       "path": "state/requests/seal-ice-skates.json",
-      "bytes": 2848,
-      "sha256": "4722cfd87b4c2269b10bef121193449f9a9889b5237267f1082de361d4c6f095"
+      "bytes": 3073,
+      "sha256": "a1764fdd1dac621b850c5568be2f1ff00ccd893959d496a21990f3092e3dc39c"
     },
     {
       "path": "state/requests/seal-sled.json",
-      "bytes": 2730,
-      "sha256": "b992e54b116455df5c3b517ab3b387c85ac45361b721315b38e47352052226c7"
+      "bytes": 2955,
+      "sha256": "28ac8bf54c293c3b6354217e63dce0cb3a55da8e802cbbf1ccb254702a986085"
     },
     {
       "path": "state/requests/seal-sleeping.json",
-      "bytes": 2772,
-      "sha256": "6a2dbaebb2e5f949d434a3d045552d802baf07672b47bda6e504e5d2e8e74c7d"
+      "bytes": 2997,
+      "sha256": "7d33c7474d9fc53cd192d93dac552982c7a595027b30a2c1f4d4e0da9d1baa97"
     },
     {
       "path": "state/requests/seal-snowball.json",
-      "bytes": 2744,
-      "sha256": "2fad02fd9444146c4be0d864ed933892848fe5d913e2a50857b47cb2864b6813"
+      "bytes": 2969,
+      "sha256": "3e1697e6adcfece6707edfbb70e066f5f1d62e7af1ba6c92b85f4c87ad2621c7"
     },
     {
       "path": "state/requests/seal-swim-ring.json",
-      "bytes": 2757,
-      "sha256": "c49abadf1fd4c3873fa65aa8f3fd64534143044c2faa2f0c23f24bf6eb89b27b"
+      "bytes": 2982,
+      "sha256": "196b056b9714401b53466d56bd83b1ca20352bce15f0e62e6abe0cb74dead69d"
     },
     {
       "path": "state/requests/shipwreck-air-tank.json",
@@ -36003,8 +36343,8 @@
     },
     {
       "path": "state/resume.json",
-      "bytes": 1122,
-      "sha256": "4570661657bd3834ba8430a986aadd4280b9f9f969b1f7abc845adab9729aea7"
+      "bytes": 1189,
+      "sha256": "44dbe67268b6f4474fcca1ba485d15c8f70ec86ca68121f7146114bb9c87b18c"
     },
     {
       "path": "state/twenty-pairs-20260924.json",
@@ -36013,8 +36353,8 @@
     },
     {
       "path": "state/work-order.json",
-      "bytes": 10027,
-      "sha256": "43ffb6cbd8aeb76827b0ab139a7c356366539dd8f1ef3a8ed4e00d256b06c2be"
+      "bytes": 10030,
+      "sha256": "8330073f52830dd29fd742a7dc72831c51cefb77d328e4588d2f473f212eb3a3"
     },
     {
       "path": "workspace.json",

@@ -1,14 +1,14 @@
 {
-  "updated_utc": "2026-09-25T07:31:05.923980+00:00",
+  "updated_utc": "2026-09-25T07:59:24.993255+00:00",
   "target_topics": 102,
   "target_slots": 816,
   "target_unique": 796,
-  "generated_unique": 751,
-  "missing_unique": 45,
-  "alpha_corners_clear_unique": 751,
+  "generated_unique": 766,
+  "missing_unique": 30,
+  "alpha_corners_clear_unique": 766,
   "needs_alpha_unique": 0,
-  "topics_with_all_images": 96,
-  "generated_topic_slots": 768,
+  "topics_with_all_images": 98,
+  "generated_topic_slots": 784,
   "visual_rework_unique": 25,
   "complete": false,
   "prompt_target_dimensions": [
@@ -23323,8 +23323,29 @@
         "seal-activities"
       ],
       "source": "masters/seal-clapping.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 917590,
+      "partial_alpha_pixels": 653431,
+      "opaque_pixels": 1495,
+      "padding_nonzero_alpha": [
+        175,
+        103,
+        140,
+        76
+      ],
+      "review_edge": false,
+      "sha256": "f7fe7c0f928f3b92cd26177ad2a0f93e4d6d48b31f23fb409ca2297c8a442c42",
+      "bytes": 902279
     },
     {
       "id": "seal-fish",
@@ -23333,8 +23354,29 @@
         "seal-activities"
       ],
       "source": "masters/seal-fish.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 898608,
+      "partial_alpha_pixels": 672594,
+      "opaque_pixels": 1314,
+      "padding_nonzero_alpha": [
+        156,
+        108,
+        154,
+        105
+      ],
+      "review_edge": false,
+      "sha256": "66d2bff3a3444517bda61fdede2fbac9ce6a78e1d8bae1772b601d706dff945d",
+      "bytes": 926363
     },
     {
       "id": "seal-swim-ring",
@@ -23343,8 +23385,29 @@
         "seal-activities"
       ],
       "source": "masters/seal-swim-ring.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 806992,
+      "partial_alpha_pixels": 764304,
+      "opaque_pixels": 1220,
+      "padding_nonzero_alpha": [
+        31,
+        221,
+        14,
+        181
+      ],
+      "review_edge": true,
+      "sha256": "812a4344b06f963f1d783d779d40f38de8c604baadec5cabe205b1dce5aff78d",
+      "bytes": 997664
     },
     {
       "id": "seal-beach-ball",
@@ -23353,8 +23416,29 @@
         "seal-activities"
       ],
       "source": "masters/seal-beach-ball.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 993622,
+      "partial_alpha_pixels": 578365,
+      "opaque_pixels": 529,
+      "padding_nonzero_alpha": [
+        177,
+        96,
+        88,
+        92
+      ],
+      "review_edge": false,
+      "sha256": "0b8f1063e79079048681406e1f65517f23a2fac1bfbbabcb190fddeec8bd54f0",
+      "bytes": 847564
     },
     {
       "id": "seal-snowball",
@@ -23363,8 +23447,29 @@
         "seal-activities"
       ],
       "source": "masters/seal-snowball.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 879255,
+      "partial_alpha_pixels": 692276,
+      "opaque_pixels": 985,
+      "padding_nonzero_alpha": [
+        28,
+        224,
+        14,
+        143
+      ],
+      "review_edge": true,
+      "sha256": "ee3b7a7ba3bd039884c1b6ecca186e25aadec4b8a4b20295d113c3be292e4375",
+      "bytes": 962817
     },
     {
       "id": "seal-sled",
@@ -23373,8 +23478,29 @@
         "seal-activities"
       ],
       "source": "masters/seal-sled.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 820568,
+      "partial_alpha_pixels": 751229,
+      "opaque_pixels": 719,
+      "padding_nonzero_alpha": [
+        37,
+        174,
+        8,
+        138
+      ],
+      "review_edge": true,
+      "sha256": "9d1d835150260f02fc3de2e42b801ea145c4a4c5a7979f0c22115aa7fb178516",
+      "bytes": 1039162
     },
     {
       "id": "seal-sleeping",
@@ -23383,8 +23509,29 @@
         "seal-activities"
       ],
       "source": "masters/seal-sleeping.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 970838,
+      "partial_alpha_pixels": 599851,
+      "opaque_pixels": 1827,
+      "padding_nonzero_alpha": [
+        32,
+        286,
+        29,
+        254
+      ],
+      "review_edge": false,
+      "sha256": "4ec53725bbbe15d12b3b6f106794df720c4eed52f9d6a31cbe63bcb777026408",
+      "bytes": 864306
     },
     {
       "id": "seal-ice-skates",
@@ -23394,8 +23541,29 @@
         "ice-day"
       ],
       "source": "masters/seal-ice-skates.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 970395,
+      "partial_alpha_pixels": 600518,
+      "opaque_pixels": 1603,
+      "padding_nonzero_alpha": [
+        35,
+        166,
+        29,
+        123
+      ],
+      "review_edge": false,
+      "sha256": "36b2138b69f568c8db4145c8730af02b59d429876dfc9a991666c926eb749cb2",
+      "bytes": 841770
     },
     {
       "id": "ice-frozen-pond",
@@ -23404,8 +23572,29 @@
         "ice-day"
       ],
       "source": "masters/ice-frozen-pond.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 930130,
+      "partial_alpha_pixels": 641009,
+      "opaque_pixels": 1377,
+      "padding_nonzero_alpha": [
+        22,
+        299,
+        18,
+        246
+      ],
+      "review_edge": true,
+      "sha256": "b41c94e660f1fc2c0c782b1167e55fd3e5b79156ba7d4242998f7ef8b7f969f7",
+      "bytes": 983467
     },
     {
       "id": "ice-fishing-hole",
@@ -23414,8 +23603,29 @@
         "ice-day"
       ],
       "source": "masters/ice-fishing-hole.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1036867,
+      "partial_alpha_pixels": 534480,
+      "opaque_pixels": 1169,
+      "padding_nonzero_alpha": [
+        123,
+        201,
+        90,
+        198
+      ],
+      "review_edge": false,
+      "sha256": "33a41ce9b3f0be136b1cdd982f2bcf736ed123b62c11a4806ee31a16ed83a3e7",
+      "bytes": 923268
     },
     {
       "id": "ice-lantern",
@@ -23424,8 +23634,29 @@
         "ice-day"
       ],
       "source": "masters/ice-lantern.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 820819,
+      "partial_alpha_pixels": 750428,
+      "opaque_pixels": 1269,
+      "padding_nonzero_alpha": [
+        204,
+        15,
+        203,
+        19
+      ],
+      "review_edge": true,
+      "sha256": "c877c26305919b1cb087e6a322c0e5cf0eb9b94269c3406c30e0c1ec8bbbf490",
+      "bytes": 1354185
     },
     {
       "id": "ice-skate-pair",
@@ -23434,8 +23665,29 @@
         "ice-day"
       ],
       "source": "masters/ice-skate-pair.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 832825,
+      "partial_alpha_pixels": 738016,
+      "opaque_pixels": 1675,
+      "padding_nonzero_alpha": [
+        102,
+        46,
+        95,
+        38
+      ],
+      "review_edge": false,
+      "sha256": "dd1cda6ff531a0a490d6e00b43dd44854231e45089f4b60b36f49b59aeca87a3",
+      "bytes": 1278618
     },
     {
       "id": "ice-sled",
@@ -23444,8 +23696,29 @@
         "ice-day"
       ],
       "source": "masters/ice-sled.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 941999,
+      "partial_alpha_pixels": 629037,
+      "opaque_pixels": 1480,
+      "padding_nonzero_alpha": [
+        45,
+        129,
+        8,
+        117
+      ],
+      "review_edge": true,
+      "sha256": "a016194e06758f0f46bca91bd9a93f3d46030fc7e34ed1a2c3d8618f2097410d",
+      "bytes": 1065640
     },
     {
       "id": "ice-snow-crystal",
@@ -23454,8 +23727,29 @@
         "ice-day"
       ],
       "source": "masters/ice-snow-crystal.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 827173,
+      "partial_alpha_pixels": 742762,
+      "opaque_pixels": 2581,
+      "padding_nonzero_alpha": [
+        89,
+        38,
+        89,
+        53
+      ],
+      "review_edge": false,
+      "sha256": "6800acaaa193eefb87737fd4fe2bbdbbe5e0b012c240743aef5a4c2a3a258e04",
+      "bytes": 1270436
     },
     {
       "id": "ice-thermos",
@@ -23464,8 +23758,29 @@
         "ice-day"
       ],
       "source": "masters/ice-thermos.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 923317,
+      "partial_alpha_pixels": 647744,
+      "opaque_pixels": 1455,
+      "padding_nonzero_alpha": [
+        192,
+        42,
+        194,
+        49
+      ],
+      "review_edge": false,
+      "sha256": "713884bdcdf99daefda4b1a24fb4474a742a884a8ee9bd9090128c3d86097c2b",
+      "bytes": 987321
     },
     {
       "id": "polar-bear-scarf",
@@ -24350,13 +24665,13 @@
     {
       "slug": "seal-activities",
       "name_vi": "Hải cẩu",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "ice-day",
       "name_vi": "Ngày trên băng",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
@@ -31301,144 +31616,144 @@
       "topic": "seal-activities",
       "name_vi": "Hải cẩu",
       "id": "seal-clapping",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/seal-activities/seal-clapping.png",
+      "status": "alpha_corners_clear",
+      "sha256": "f7fe7c0f928f3b92cd26177ad2a0f93e4d6d48b31f23fb409ca2297c8a442c42",
       "review_note": ""
     },
     {
       "topic": "seal-activities",
       "name_vi": "Hải cẩu",
       "id": "seal-fish",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/seal-activities/seal-fish.png",
+      "status": "alpha_corners_clear",
+      "sha256": "66d2bff3a3444517bda61fdede2fbac9ce6a78e1d8bae1772b601d706dff945d",
       "review_note": ""
     },
     {
       "topic": "seal-activities",
       "name_vi": "Hải cẩu",
       "id": "seal-swim-ring",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/seal-activities/seal-swim-ring.png",
+      "status": "alpha_corners_clear",
+      "sha256": "812a4344b06f963f1d783d779d40f38de8c604baadec5cabe205b1dce5aff78d",
       "review_note": ""
     },
     {
       "topic": "seal-activities",
       "name_vi": "Hải cẩu",
       "id": "seal-beach-ball",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/seal-activities/seal-beach-ball.png",
+      "status": "alpha_corners_clear",
+      "sha256": "0b8f1063e79079048681406e1f65517f23a2fac1bfbbabcb190fddeec8bd54f0",
       "review_note": ""
     },
     {
       "topic": "seal-activities",
       "name_vi": "Hải cẩu",
       "id": "seal-snowball",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/seal-activities/seal-snowball.png",
+      "status": "alpha_corners_clear",
+      "sha256": "ee3b7a7ba3bd039884c1b6ecca186e25aadec4b8a4b20295d113c3be292e4375",
       "review_note": ""
     },
     {
       "topic": "seal-activities",
       "name_vi": "Hải cẩu",
       "id": "seal-sled",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/seal-activities/seal-sled.png",
+      "status": "alpha_corners_clear",
+      "sha256": "9d1d835150260f02fc3de2e42b801ea145c4a4c5a7979f0c22115aa7fb178516",
       "review_note": ""
     },
     {
       "topic": "seal-activities",
       "name_vi": "Hải cẩu",
       "id": "seal-sleeping",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/seal-activities/seal-sleeping.png",
+      "status": "alpha_corners_clear",
+      "sha256": "4ec53725bbbe15d12b3b6f106794df720c4eed52f9d6a31cbe63bcb777026408",
       "review_note": ""
     },
     {
       "topic": "seal-activities",
       "name_vi": "Hải cẩu",
       "id": "seal-ice-skates",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/seal-activities/seal-ice-skates.png",
+      "status": "alpha_corners_clear",
+      "sha256": "36b2138b69f568c8db4145c8730af02b59d429876dfc9a991666c926eb749cb2",
       "review_note": ""
     },
     {
       "topic": "ice-day",
       "name_vi": "Ngày trên băng",
       "id": "seal-ice-skates",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/ice-day/seal-ice-skates.png",
+      "status": "alpha_corners_clear",
+      "sha256": "36b2138b69f568c8db4145c8730af02b59d429876dfc9a991666c926eb749cb2",
       "review_note": ""
     },
     {
       "topic": "ice-day",
       "name_vi": "Ngày trên băng",
       "id": "ice-frozen-pond",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/ice-day/ice-frozen-pond.png",
+      "status": "alpha_corners_clear",
+      "sha256": "b41c94e660f1fc2c0c782b1167e55fd3e5b79156ba7d4242998f7ef8b7f969f7",
       "review_note": ""
     },
     {
       "topic": "ice-day",
       "name_vi": "Ngày trên băng",
       "id": "ice-fishing-hole",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/ice-day/ice-fishing-hole.png",
+      "status": "alpha_corners_clear",
+      "sha256": "33a41ce9b3f0be136b1cdd982f2bcf736ed123b62c11a4806ee31a16ed83a3e7",
       "review_note": ""
     },
     {
       "topic": "ice-day",
       "name_vi": "Ngày trên băng",
       "id": "ice-lantern",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/ice-day/ice-lantern.png",
+      "status": "alpha_corners_clear",
+      "sha256": "c877c26305919b1cb087e6a322c0e5cf0eb9b94269c3406c30e0c1ec8bbbf490",
       "review_note": ""
     },
     {
       "topic": "ice-day",
       "name_vi": "Ngày trên băng",
       "id": "ice-skate-pair",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/ice-day/ice-skate-pair.png",
+      "status": "alpha_corners_clear",
+      "sha256": "dd1cda6ff531a0a490d6e00b43dd44854231e45089f4b60b36f49b59aeca87a3",
       "review_note": ""
     },
     {
       "topic": "ice-day",
       "name_vi": "Ngày trên băng",
       "id": "ice-sled",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/ice-day/ice-sled.png",
+      "status": "alpha_corners_clear",
+      "sha256": "a016194e06758f0f46bca91bd9a93f3d46030fc7e34ed1a2c3d8618f2097410d",
       "review_note": ""
     },
     {
       "topic": "ice-day",
       "name_vi": "Ngày trên băng",
       "id": "ice-snow-crystal",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/ice-day/ice-snow-crystal.png",
+      "status": "alpha_corners_clear",
+      "sha256": "6800acaaa193eefb87737fd4fe2bbdbbe5e0b012c240743aef5a4c2a3a258e04",
       "review_note": ""
     },
     {
       "topic": "ice-day",
       "name_vi": "Ngày trên băng",
       "id": "ice-thermos",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/ice-day/ice-thermos.png",
+      "status": "alpha_corners_clear",
+      "sha256": "713884bdcdf99daefda4b1a24fb4474a742a884a8ee9bd9090128c3d86097c2b",
       "review_note": ""
     },
     {

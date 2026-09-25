@@ -1684,8 +1684,249 @@
       "rgb_unchanged": true,
       "dimensions_unchanged": true,
       "alpha_1_to_15_cleared": 25542
+    },
+    {
+      "id": "seal-clapping",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/seal-clapping.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/seal-activities/seal-clapping.png"
+      ],
+      "before_sha256": "7a3730094c821245f6c9dd5798ef373a13229b0d3a3b2b92d2be8703b3b87b1f",
+      "after_sha256": "f7fe7c0f928f3b92cd26177ad2a0f93e4d6d48b31f23fb409ca2297c8a442c42",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 10747
+    },
+    {
+      "id": "seal-fish",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/seal-fish.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/seal-activities/seal-fish.png"
+      ],
+      "before_sha256": "6033b4ffddef83f5ee7e1c2954f0e345039bf2fa77446bf8dc4e6c9c3572c592",
+      "after_sha256": "66d2bff3a3444517bda61fdede2fbac9ce6a78e1d8bae1772b601d706dff945d",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 9724
+    },
+    {
+      "id": "seal-swim-ring",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/seal-swim-ring.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/seal-activities/seal-swim-ring.png"
+      ],
+      "before_sha256": "b29b17724646347a13e83e9e277c8368b332e35d8ef73a9f3cf56594e1752a9d",
+      "after_sha256": "812a4344b06f963f1d783d779d40f38de8c604baadec5cabe205b1dce5aff78d",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 15833
+    },
+    {
+      "id": "seal-beach-ball",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/seal-beach-ball.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/seal-activities/seal-beach-ball.png"
+      ],
+      "before_sha256": "05f5c133b2dc8e4b84b71908a91a5e4ded242367c7628b55ddf23eb5fc865a00",
+      "after_sha256": "0b8f1063e79079048681406e1f65517f23a2fac1bfbbabcb190fddeec8bd54f0",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 14077
+    },
+    {
+      "id": "seal-snowball",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/seal-snowball.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/seal-activities/seal-snowball.png"
+      ],
+      "before_sha256": "d9dcb8dff00fb55046960f96b616c2475d63c7ba160c7c2d87e8ae4167f362ff",
+      "after_sha256": "ee3b7a7ba3bd039884c1b6ecca186e25aadec4b8a4b20295d113c3be292e4375",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 20453
+    },
+    {
+      "id": "seal-sled",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/seal-sled.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/seal-activities/seal-sled.png"
+      ],
+      "before_sha256": "4b724cd2618c3735a66acf5749dd9bb3a67fe3b7607b16b4f47096a56c59abbf",
+      "after_sha256": "9d1d835150260f02fc3de2e42b801ea145c4a4c5a7979f0c22115aa7fb178516",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 19181
+    },
+    {
+      "id": "seal-sleeping",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/seal-sleeping.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/seal-activities/seal-sleeping.png"
+      ],
+      "before_sha256": "440d002664c32ea285f661eeee89c5a9c67a5e24a54f5e4ed54332c43f4dbffa",
+      "after_sha256": "4ec53725bbbe15d12b3b6f106794df720c4eed52f9d6a31cbe63bcb777026408",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 10410
+    },
+    {
+      "id": "seal-ice-skates",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/seal-ice-skates.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/ice-day/seal-ice-skates.png",
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/seal-activities/seal-ice-skates.png"
+      ],
+      "before_sha256": "35943e999b70327a83182a9d95a7f94423752fa6128cf4a6fd99b73a1163e5ca",
+      "after_sha256": "36b2138b69f568c8db4145c8730af02b59d429876dfc9a991666c926eb749cb2",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 13961
+    },
+    {
+      "id": "ice-frozen-pond",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/ice-frozen-pond.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/ice-day/ice-frozen-pond.png"
+      ],
+      "before_sha256": "82cd7d4274626242f980531e5176685ef872dcff81a42fbbddbf41eb6af91128",
+      "after_sha256": "b41c94e660f1fc2c0c782b1167e55fd3e5b79156ba7d4242998f7ef8b7f969f7",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 10017
+    },
+    {
+      "id": "ice-fishing-hole",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/ice-fishing-hole.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/ice-day/ice-fishing-hole.png"
+      ],
+      "before_sha256": "e451670ff0b2b35ccd283cc5ff72ef7e776682a4f38d592d9db89349676d7a06",
+      "after_sha256": "33a41ce9b3f0be136b1cdd982f2bcf736ed123b62c11a4806ee31a16ed83a3e7",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 21645
+    },
+    {
+      "id": "ice-lantern",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/ice-lantern.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/ice-day/ice-lantern.png"
+      ],
+      "before_sha256": "b30e877c6aab62f51043e3b31fcff0727d24d24fe726610aa2db4e21bb0468a7",
+      "after_sha256": "c877c26305919b1cb087e6a322c0e5cf0eb9b94269c3406c30e0c1ec8bbbf490",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 18738
+    },
+    {
+      "id": "ice-skate-pair",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/ice-skate-pair.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/ice-day/ice-skate-pair.png"
+      ],
+      "before_sha256": "2a3b21b397882635384d48a1533e52491f758126088e26b7a6e187b764fb48ac",
+      "after_sha256": "dd1cda6ff531a0a490d6e00b43dd44854231e45089f4b60b36f49b59aeca87a3",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 18783
+    },
+    {
+      "id": "ice-sled",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/ice-sled.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/ice-day/ice-sled.png"
+      ],
+      "before_sha256": "f650eb20633ab1b7f74af527862cc9606429f876ac2709ffbd22aaf1f29c72af",
+      "after_sha256": "a016194e06758f0f46bca91bd9a93f3d46030fc7e34ed1a2c3d8618f2097410d",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 31853
+    },
+    {
+      "id": "ice-snow-crystal",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/ice-snow-crystal.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/ice-day/ice-snow-crystal.png"
+      ],
+      "before_sha256": "4e7eb21cf0fbaabc9f55cb895e1c373b1b8907ea4027d00ca2d3f22428a1a9ab",
+      "after_sha256": "6800acaaa193eefb87737fd4fe2bbdbbe5e0b012c240743aef5a4c2a3a258e04",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 53373
+    },
+    {
+      "id": "ice-thermos",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/ice-thermos.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/ice-day/ice-thermos.png"
+      ],
+      "before_sha256": "32bf77e0a074139b0a383250feab13c66008a63c411c83ee983e2170e69265b6",
+      "after_sha256": "713884bdcdf99daefda4b1a24fb4474a742a884a8ee9bd9090128c3d86097c2b",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 13438
     }
   ],
-  "updated_utc": "2026-09-25T07:30:02.989641+00:00",
+  "updated_utc": "2026-09-25T07:57:38.581808+00:00",
   "operation": "Set alpha 1..15 to zero only, preserving RGB and dimensions."
 }

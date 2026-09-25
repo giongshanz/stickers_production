@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-25T10:16:32.202521+00:00",
+  "updated_utc": "2026-09-25T10:31:52.752197+00:00",
   "files": [
     {
       "path": ".gitattributes",
@@ -1265,6 +1265,36 @@
       "path": "delivery/stickers/fox-autumn-adventures/fox-umbrella.png",
       "bytes": 957018,
       "sha256": "48fcae3c549af7aa15f2b30a15778c41dcde79abdcda97b3a9ac6be671332c2d"
+    },
+    {
+      "path": "delivery/stickers/fox-explorer/explorer-fox-backpack.png",
+      "bytes": 1023363,
+      "sha256": "709eac4d0d17455493651f465574bce09383dd7fcf20381b2cecdc37826a67f7"
+    },
+    {
+      "path": "delivery/stickers/fox-explorer/explorer-fox-binoculars.png",
+      "bytes": 1140841,
+      "sha256": "d78465b4a35131056dd00447880bba6c20297a9648fa959eaccb65bd6451f494"
+    },
+    {
+      "path": "delivery/stickers/fox-explorer/explorer-fox-compass.png",
+      "bytes": 1186528,
+      "sha256": "63bb33130bf7a5677efd1adc9dd25b9a323240187928587cfb76c0304dc81ff3"
+    },
+    {
+      "path": "delivery/stickers/fox-explorer/explorer-fox-map.png",
+      "bytes": 1120526,
+      "sha256": "72eec6f1b9bd21e9c6e743d2343c5d903f73b41172e5267ef7427163de424dc2"
+    },
+    {
+      "path": "delivery/stickers/fox-explorer/explorer-fox-photo.png",
+      "bytes": 1073995,
+      "sha256": "f521436278ba59f1bc753b7d020a92f366b844ea783a3b5cbcbb1462d98577b1"
+    },
+    {
+      "path": "delivery/stickers/fox-explorer/explorer-fox-telescope.png",
+      "bytes": 1101357,
+      "sha256": "c9a32e4825b5129462bd4afb90c69da72304c51c47a5701fa08485a800688a73"
     },
     {
       "path": "delivery/stickers/freshwater-wetland/wetland-beaver.png",
@@ -4028,8 +4058,8 @@
     },
     {
       "path": "delivery/topic-map.csv",
-      "bytes": 159986,
-      "sha256": "32b4b4a28394b48bd6fee69b2ffa702adf283da850a30dce6afa56ae22259a32"
+      "bytes": 160772,
+      "sha256": "af43b3847e18d888d133fc3d405ff274e2c12032aa90f4a66a669917c03693a0"
     },
     {
       "path": "history/delivery/.gitattributes",
@@ -4413,8 +4443,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 427093,
-      "sha256": "9ecacd6df0cbe9f4d53f0eb6239197a99116b993ab4b75d910769c1941962bac"
+      "bytes": 429480,
+      "sha256": "f52c58cab148c22337c944593aca4ab1a5738e3106926d04e1f5940566c42c72"
     },
     {
       "path": "logs/alpha-pilot-20260917.jsonl",
@@ -4438,8 +4468,8 @@
     },
     {
       "path": "logs/generation.jsonl",
-      "bytes": 337183,
-      "sha256": "ce16cf2f84f6ed623cb4a4e58896b0e8bfb20c0b9e6f2d9696f7555eb048ee46"
+      "bytes": 340535,
+      "sha256": "05dc1935f34a5a0f037b972d5fc1861a72fdf65a453c2ddd4621746b6bf96c3a"
     },
     {
       "path": "logs/README.vi.md",
@@ -5650,6 +5680,36 @@
       "path": "masters/excavation-trowel.png",
       "bytes": 711553,
       "sha256": "f05d3c861089d265fa2a306b9f1adfc6164b6dfa64c72b9514d5bd3b33883a8a"
+    },
+    {
+      "path": "masters/explorer-fox-backpack.png",
+      "bytes": 1023363,
+      "sha256": "709eac4d0d17455493651f465574bce09383dd7fcf20381b2cecdc37826a67f7"
+    },
+    {
+      "path": "masters/explorer-fox-binoculars.png",
+      "bytes": 1140841,
+      "sha256": "d78465b4a35131056dd00447880bba6c20297a9648fa959eaccb65bd6451f494"
+    },
+    {
+      "path": "masters/explorer-fox-compass.png",
+      "bytes": 1186528,
+      "sha256": "63bb33130bf7a5677efd1adc9dd25b9a323240187928587cfb76c0304dc81ff3"
+    },
+    {
+      "path": "masters/explorer-fox-map.png",
+      "bytes": 1120526,
+      "sha256": "72eec6f1b9bd21e9c6e743d2343c5d903f73b41172e5267ef7427163de424dc2"
+    },
+    {
+      "path": "masters/explorer-fox-photo.png",
+      "bytes": 1073995,
+      "sha256": "f521436278ba59f1bc753b7d020a92f366b844ea783a3b5cbcbb1462d98577b1"
+    },
+    {
+      "path": "masters/explorer-fox-telescope.png",
+      "bytes": 1101357,
+      "sha256": "c9a32e4825b5129462bd4afb90c69da72304c51c47a5701fa08485a800688a73"
     },
     {
       "path": "masters/fabric-shears.png",
@@ -10403,8 +10463,8 @@
     },
     {
       "path": "qa/alpha-padding-audit.json",
-      "bytes": 300805,
-      "sha256": "1b4aa52e585433bf29468145636c5775974ba3badc554f20c6b009fc7bd92aac"
+      "bytes": 303127,
+      "sha256": "659fab5c6126db3c4963cc0f0009710ea20994ca31999c26525dbc318c6abca6"
     },
     {
       "path": "qa/alpha-pilot-20260917/before-dark.png",
@@ -13908,8 +13968,8 @@
     },
     {
       "path": "qa/twenty-pairs-20260924/alpha-cleanup.json",
-      "bytes": 88199,
-      "sha256": "d5d748f1a89922003d011d37f9599366ae7f0cf21f8a7634d3557d7b8b5c8dc7"
+      "bytes": 92145,
+      "sha256": "7c85d230ed8fb56a954cb78fd354e1caeab40c691d2b74399a03b1d537f5ff02"
     },
     {
       "path": "qa/twenty-pairs-20260924/art-corner-dark.png",
@@ -13933,8 +13993,8 @@
     },
     {
       "path": "qa/twenty-pairs-20260924/CHECKPOINT.vi.md",
-      "bytes": 1491,
-      "sha256": "56a0b64c15254f69221b3ebc0d39b13c7ba44aea2584d56f615390cc0164be08"
+      "bytes": 1679,
+      "sha256": "2d943217266fdda8caa9819de8cbda7eca2146f7e7932ecfc4af15b6c6391130"
     },
     {
       "path": "qa/twenty-pairs-20260924/chestnut-season-dark.png",
@@ -13945,6 +14005,16 @@
       "path": "qa/twenty-pairs-20260924/chestnut-season-light.png",
       "bytes": 633304,
       "sha256": "1b3d6993eb2cb3e5f85e0857263eada34a2f54cdbee053b144771e98659dc70a"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/fox-explorer-dark.png",
+      "bytes": 477566,
+      "sha256": "b6e03985d12d5446b1ef2ec484d435e79699c40cff95cb4cdf8c5754de049894"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/fox-explorer-light.png",
+      "bytes": 455256,
+      "sha256": "86a5f9da9bf7953787555699900f2d8e66361602a3779b4a8ec651e6227c5184"
     },
     {
       "path": "qa/twenty-pairs-20260924/fruit-ice-cream-dark.png",
@@ -14098,8 +14168,8 @@
     },
     {
       "path": "qa/visual-qa.json",
-      "bytes": 59843,
-      "sha256": "db7b39f8f15693293a54ff36e4cfda2c22e9daa541dfeee9ea9ed15f3619e704"
+      "bytes": 60556,
+      "sha256": "8dc5f7904f4eb4d4935eba5c0f33558d26cae4a48a9549bd3dcd2fe00b335673"
     },
     {
       "path": "qa/weaving-beater-comb-v2-alpha-dark.png",
@@ -31492,6 +31562,11 @@
       "sha256": "c0ae7a3a7095e3ae5764c55dc5ad98c669c9b8caf1bfa214c96486b8dd12878f"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/_needs-alpha/fox-explorer/explorer-fox-telescope.png",
+      "bytes": 1120589,
+      "sha256": "f1cb047896b15e3e8d1634562db0e7eecb8bbddb63f1b64dbb0dda09f106e6d9"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/art-corner/art-clay-pot.png",
       "bytes": 836060,
       "sha256": "84a3df4607c10d63e08890b4fa535ec4683ae8c12179bb8a8e52f034ce8260ca"
@@ -31605,6 +31680,31 @@
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/chestnut-season/squirrel-chestnut-basket.png",
       "bytes": 1136873,
       "sha256": "bfba521bb850c15fc095846f7b4e227d665a99a3c546df7c08818e9c0ba65430"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fox-explorer/explorer-fox-backpack.png",
+      "bytes": 1038418,
+      "sha256": "226e9dacf7e71547769a7ee7284114e4b4312fb6b4039e6590cb76426c84162d"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fox-explorer/explorer-fox-binoculars.png",
+      "bytes": 1159706,
+      "sha256": "59a625f71df6843bf2cc0bce11a9e33f6bacb835c504727355f3df572ab94058"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fox-explorer/explorer-fox-compass.png",
+      "bytes": 1202820,
+      "sha256": "b68f57cb6f68a60152a5c9b954d6d8efe269116ca6f67c2ead6839dee757b69c"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fox-explorer/explorer-fox-map.png",
+      "bytes": 1135183,
+      "sha256": "c66df6c121751f89cf65a0f9dfa33ec1fb51849484a382096a474d975353d99a"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fox-explorer/explorer-fox-photo.png",
+      "bytes": 1094559,
+      "sha256": "492fa556bfe627215f399c572255b9cc1b74e390fb4747388d1981219df2cc01"
     },
     {
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fruit-ice-cream/icecream-banana.png",
@@ -32312,6 +32412,36 @@
       "sha256": "407ff95d0cfe8da940548d16fcee890e586a994bbca35f424fd87dbcb289e123"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/explorer-fox-backpack.png",
+      "bytes": 1038418,
+      "sha256": "226e9dacf7e71547769a7ee7284114e4b4312fb6b4039e6590cb76426c84162d"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/explorer-fox-binoculars.png",
+      "bytes": 1159706,
+      "sha256": "59a625f71df6843bf2cc0bce11a9e33f6bacb835c504727355f3df572ab94058"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/explorer-fox-compass.png",
+      "bytes": 1202820,
+      "sha256": "b68f57cb6f68a60152a5c9b954d6d8efe269116ca6f67c2ead6839dee757b69c"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/explorer-fox-map.png",
+      "bytes": 1135183,
+      "sha256": "c66df6c121751f89cf65a0f9dfa33ec1fb51849484a382096a474d975353d99a"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/explorer-fox-photo.png",
+      "bytes": 1094559,
+      "sha256": "492fa556bfe627215f399c572255b9cc1b74e390fb4747388d1981219df2cc01"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/explorer-fox-telescope.png",
+      "bytes": 1120589,
+      "sha256": "f1cb047896b15e3e8d1634562db0e7eecb8bbddb63f1b64dbb0dda09f106e6d9"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/masters/hedgehog-apple.png",
       "bytes": 1059659,
       "sha256": "fa02aa7fa0bfe48cae32a35932384970d848bb459c27490755caf5a91152d072"
@@ -32942,6 +33072,11 @@
       "sha256": "1fe05d70a70ae2c7b7eefb98ed7e051faa4f5a61cf11ce22a86a67be99d24fce"
     },
     {
+      "path": "scripts/_tmp_revise_fox_requests.py",
+      "bytes": 1303,
+      "sha256": "7a8e8cb3c8a91e1c726cd7c180cce0962362bca6be331ad5f1d1f353566e7d75"
+    },
+    {
       "path": "scripts/_tmp_revise_ice_refs.py",
       "bytes": 967,
       "sha256": "178913c7ac7c4c54d9ea5ca69fa4e616584e7faa108d48490a8e2ed3ccadebd3"
@@ -33088,13 +33223,13 @@
     },
     {
       "path": "state/generation-queue.json",
-      "bytes": 590,
-      "sha256": "236971a8aa6ec89e0706043b344222b004f43eebe23e3886cb71df506aad9634"
+      "bytes": 422,
+      "sha256": "9424bbe97e562816d9ed9e1785babd60fe53879dc526dfba7e8f0c0341df455b"
     },
     {
       "path": "state/imagegen-errors.jsonl",
-      "bytes": 255,
-      "sha256": "d7f8721357b08aaf0c79730da43cd942fb18bec8dfea56862cc79b2d13f33f5f"
+      "bytes": 517,
+      "sha256": "c1eefe29b6cc30ec461ac4042cda5966e1f81f33f3cfae2fbbbfebf721007047"
     },
     {
       "path": "state/imagegen-quota-20260918-second.json",
@@ -33123,8 +33258,8 @@
     },
     {
       "path": "state/progress.json",
-      "bytes": 959762,
-      "sha256": "cb2e5985509cf784fa8c72648ef99ecf8c189f20f418e10189773383729bda7e"
+      "bytes": 963409,
+      "sha256": "d51cde92c0aa6e89a06f41baac52b3c84c28cbe875808ba0e434cf07d3e91981"
     },
     {
       "path": "state/quota-eight-topics-20260924.json",
@@ -34323,38 +34458,38 @@
     },
     {
       "path": "state/requests/explorer-fox-backpack.json",
-      "bytes": 2702,
-      "sha256": "4a4029ea89a23328ab00b451a372f829f41bbe7cdeb3a27009a13433e10338f2"
+      "bytes": 2903,
+      "sha256": "71b6ba44664096938686627de2bff39574953c98bfdd18eb972e488d4027f76c"
     },
     {
       "path": "state/requests/explorer-fox-binoculars.json",
-      "bytes": 2718,
-      "sha256": "93db79a034040ad8f8bb8288c41172911c8eba59d5d7763aaf375ed17b7228fb"
+      "bytes": 2919,
+      "sha256": "cb18dbbf088fa3394ffa4a9d65abec30c2f0fb0d707bf3f0d8c812fb5e380390"
     },
     {
       "path": "state/requests/explorer-fox-compass.json",
-      "bytes": 2703,
-      "sha256": "6e2f1f960268c64320bc78804b87820473b335cf804abb1369cfb5310d210ff2"
+      "bytes": 2904,
+      "sha256": "481f92accf42a268f9f455e5e49f092aa4f42b7bd6e45ed788a7b95b91de382d"
     },
     {
       "path": "state/requests/explorer-fox-map.json",
-      "bytes": 2739,
-      "sha256": "f7e8eee54d3856f06a67d98cced46ea36316b4c32563d4940055c608c48e111a"
+      "bytes": 2940,
+      "sha256": "96a3263b253a04662e289c6694252920f1fb498454de7b9ce594988ac49b3c84"
     },
     {
       "path": "state/requests/explorer-fox-photo.json",
-      "bytes": 2703,
-      "sha256": "32be55593285b1aae5acd17902b991e36c3ef72373e22edeabe6240f7bae98b5"
+      "bytes": 2904,
+      "sha256": "a6eb3953b010e84d3116bf33b8f2d552f43ed96cfa3883f65e3512f2c5d0d2c0"
     },
     {
       "path": "state/requests/explorer-fox-sleeping.json",
-      "bytes": 2724,
-      "sha256": "ec114d2b8c08cad3192330a74bc18455b8d818cb930a2ccee9538add2156896c"
+      "bytes": 2925,
+      "sha256": "8e0cf9275856c84ef4048c310ba26e7d52b4f1bf24331e818dbef51994ba9779"
     },
     {
       "path": "state/requests/explorer-fox-telescope.json",
-      "bytes": 2699,
-      "sha256": "1746540f12d31f8ee61ecbb45d5fca2c966314f93c78f7704319110fac203527"
+      "bytes": 2900,
+      "sha256": "ab70cf3f3fa337495f09904afe5a136105cb17dbea2303bf60a106dec0f5018a"
     },
     {
       "path": "state/requests/fairy-acorn-house.json",
@@ -34548,8 +34683,8 @@
     },
     {
       "path": "state/requests/fox-hot-air-balloon.json",
-      "bytes": 2867,
-      "sha256": "28c3e1e1583a9cb415fa42451df1bea0ad251bbe92c8365e7c56fc0990e44f08"
+      "bytes": 3068,
+      "sha256": "cd55670695878875fe9d388a35e61494e960d96e4842788802c2d915249e8ce2"
     },
     {
       "path": "state/requests/fox-hot-cocoa.json",
@@ -36678,8 +36813,8 @@
     },
     {
       "path": "state/resume.json",
-      "bytes": 1161,
-      "sha256": "b4a4c6b70badd6731ce298bcdb5e410ac805531f957b583aef43b0859bebf591"
+      "bytes": 992,
+      "sha256": "939cfba77be6eb16be2ef7376e7e9593adacb888b75864f09b7e09190bca7e99"
     },
     {
       "path": "state/twenty-pairs-20260924.json",
@@ -36688,8 +36823,8 @@
     },
     {
       "path": "state/work-order.json",
-      "bytes": 10030,
-      "sha256": "3e3af98a4fcec3f8a81db01507aa0c72f6bb6c1b6b6f7f7a6e795f8058e6dde9"
+      "bytes": 10192,
+      "sha256": "1f3aae3f986603768fce755c4bed3212f9919f107c3d1a7adcc9085748e35517"
     },
     {
       "path": "workspace.json",

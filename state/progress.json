@@ -1,14 +1,14 @@
 {
-  "updated_utc": "2026-09-25T10:16:24.869834+00:00",
+  "updated_utc": "2026-09-25T10:31:46.429933+00:00",
   "target_topics": 102,
   "target_slots": 816,
   "target_unique": 796,
-  "generated_unique": 781,
-  "missing_unique": 15,
-  "alpha_corners_clear_unique": 781,
+  "generated_unique": 787,
+  "missing_unique": 9,
+  "alpha_corners_clear_unique": 787,
   "needs_alpha_unique": 0,
   "topics_with_all_images": 100,
-  "generated_topic_slots": 800,
+  "generated_topic_slots": 806,
   "visual_rework_unique": 25,
   "complete": false,
   "prompt_target_dimensions": [
@@ -24255,8 +24255,29 @@
         "fox-explorer"
       ],
       "source": "masters/explorer-fox-map.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 830474,
+      "partial_alpha_pixels": 740939,
+      "opaque_pixels": 1103,
+      "padding_nonzero_alpha": [
+        98,
+        82,
+        128,
+        66
+      ],
+      "review_edge": false,
+      "sha256": "72eec6f1b9bd21e9c6e743d2343c5d903f73b41172e5267ef7427163de424dc2",
+      "bytes": 1120526
     },
     {
       "id": "explorer-fox-binoculars",
@@ -24265,8 +24286,29 @@
         "fox-explorer"
       ],
       "source": "masters/explorer-fox-binoculars.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 743824,
+      "partial_alpha_pixels": 827761,
+      "opaque_pixels": 931,
+      "padding_nonzero_alpha": [
+        89,
+        85,
+        69,
+        78
+      ],
+      "review_edge": false,
+      "sha256": "d78465b4a35131056dd00447880bba6c20297a9648fa959eaccb65bd6451f494",
+      "bytes": 1140841
     },
     {
       "id": "explorer-fox-backpack",
@@ -24275,8 +24317,29 @@
         "fox-explorer"
       ],
       "source": "masters/explorer-fox-backpack.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 802714,
+      "partial_alpha_pixels": 767649,
+      "opaque_pixels": 2153,
+      "padding_nonzero_alpha": [
+        80,
+        115,
+        56,
+        99
+      ],
+      "review_edge": false,
+      "sha256": "709eac4d0d17455493651f465574bce09383dd7fcf20381b2cecdc37826a67f7",
+      "bytes": 1023363
     },
     {
       "id": "explorer-fox-compass",
@@ -24285,8 +24348,29 @@
         "fox-explorer"
       ],
       "source": "masters/explorer-fox-compass.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 734117,
+      "partial_alpha_pixels": 838121,
+      "opaque_pixels": 278,
+      "padding_nonzero_alpha": [
+        87,
+        49,
+        54,
+        58
+      ],
+      "review_edge": false,
+      "sha256": "63bb33130bf7a5677efd1adc9dd25b9a323240187928587cfb76c0304dc81ff3",
+      "bytes": 1186528
     },
     {
       "id": "explorer-fox-telescope",
@@ -24295,8 +24379,29 @@
         "fox-explorer"
       ],
       "source": "masters/explorer-fox-telescope.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 741829,
+      "partial_alpha_pixels": 828649,
+      "opaque_pixels": 2038,
+      "padding_nonzero_alpha": [
+        54,
+        60,
+        23,
+        67
+      ],
+      "review_edge": true,
+      "sha256": "c9a32e4825b5129462bd4afb90c69da72304c51c47a5701fa08485a800688a73",
+      "bytes": 1101357
     },
     {
       "id": "explorer-fox-photo",
@@ -24305,8 +24410,29 @@
         "fox-explorer"
       ],
       "source": "masters/explorer-fox-photo.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 766941,
+      "partial_alpha_pixels": 803535,
+      "opaque_pixels": 2040,
+      "padding_nonzero_alpha": [
+        194,
+        57,
+        78,
+        58
+      ],
+      "review_edge": false,
+      "sha256": "f521436278ba59f1bc753b7d020a92f366b844ea783a3b5cbcbb1462d98577b1",
+      "bytes": 1073995
     },
     {
       "id": "explorer-fox-sleeping",
@@ -25004,7 +25130,7 @@
     {
       "slug": "fox-explorer",
       "name_vi": "Cáo khám phá",
-      "generated": 0,
+      "generated": 6,
       "target": 8
     },
     {
@@ -32219,54 +32345,54 @@
       "topic": "fox-explorer",
       "name_vi": "Cáo khám phá",
       "id": "explorer-fox-map",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fox-explorer/explorer-fox-map.png",
+      "status": "alpha_corners_clear",
+      "sha256": "72eec6f1b9bd21e9c6e743d2343c5d903f73b41172e5267ef7427163de424dc2",
       "review_note": ""
     },
     {
       "topic": "fox-explorer",
       "name_vi": "Cáo khám phá",
       "id": "explorer-fox-binoculars",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fox-explorer/explorer-fox-binoculars.png",
+      "status": "alpha_corners_clear",
+      "sha256": "d78465b4a35131056dd00447880bba6c20297a9648fa959eaccb65bd6451f494",
       "review_note": ""
     },
     {
       "topic": "fox-explorer",
       "name_vi": "Cáo khám phá",
       "id": "explorer-fox-backpack",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fox-explorer/explorer-fox-backpack.png",
+      "status": "alpha_corners_clear",
+      "sha256": "709eac4d0d17455493651f465574bce09383dd7fcf20381b2cecdc37826a67f7",
       "review_note": ""
     },
     {
       "topic": "fox-explorer",
       "name_vi": "Cáo khám phá",
       "id": "explorer-fox-compass",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fox-explorer/explorer-fox-compass.png",
+      "status": "alpha_corners_clear",
+      "sha256": "63bb33130bf7a5677efd1adc9dd25b9a323240187928587cfb76c0304dc81ff3",
       "review_note": ""
     },
     {
       "topic": "fox-explorer",
       "name_vi": "Cáo khám phá",
       "id": "explorer-fox-telescope",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fox-explorer/explorer-fox-telescope.png",
+      "status": "alpha_corners_clear",
+      "sha256": "c9a32e4825b5129462bd4afb90c69da72304c51c47a5701fa08485a800688a73",
       "review_note": ""
     },
     {
       "topic": "fox-explorer",
       "name_vi": "Cáo khám phá",
       "id": "explorer-fox-photo",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/fox-explorer/explorer-fox-photo.png",
+      "status": "alpha_corners_clear",
+      "sha256": "f521436278ba59f1bc753b7d020a92f366b844ea783a3b5cbcbb1462d98577b1",
       "review_note": ""
     },
     {

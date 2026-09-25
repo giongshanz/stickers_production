@@ -371,7 +371,7 @@
     "balloon-star"
   ],
   "last_completed_batch": "qa/eight-topics-20260924/REPORT.vi.md",
-  "next_action": "Continue twenty-pair batch from explorer-fox-map; 15 unique masters remain.",
+  "next_action": "Resume twenty-pair batch from explorer-fox-sleeping after imagegen quota resets; 9 unique masters remain.",
   "alpha_pilot_pending_review": {
     "id": "tet-lucky-envelope",
     "candidate": "revisions/border-pilot-20260917/tet-lucky-envelope-geometry-alpha.png",
@@ -380,8 +380,11 @@
     "master_unchanged": true
   },
   "quota_status": {
-    "state": "available_at_last_request",
+    "state": "usage_limit_reached",
+    "failed_id": "explorer-fox-sleeping",
+    "resets_at_unix": 1790334727,
+    "resets_at_utc": "2026-09-25T11:12:07Z",
     "last_success_date": "2026-09-25",
-    "note": "135 of 150 new masters generated so far; availability must be checked from next tool response."
+    "note": "Built-in imagegen returned HTTP 429; stop generation until quota is available. No alternate account or tool."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-25T10:16:24.869834+00:00",
+  "updated_utc": "2026-09-25T10:31:46.429933+00:00",
   "padding_definition": "Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",
   "assets": [
     {
@@ -16402,6 +16402,132 @@
       "transparent_pixels": 1035973,
       "partial_alpha_pixels": 534841,
       "opaque_pixels": 1702
+    },
+    {
+      "id": "explorer-fox-map",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        98,
+        82,
+        128,
+        66
+      ],
+      "review_edge": false,
+      "transparent_pixels": 830474,
+      "partial_alpha_pixels": 740939,
+      "opaque_pixels": 1103
+    },
+    {
+      "id": "explorer-fox-binoculars",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        89,
+        85,
+        69,
+        78
+      ],
+      "review_edge": false,
+      "transparent_pixels": 743824,
+      "partial_alpha_pixels": 827761,
+      "opaque_pixels": 931
+    },
+    {
+      "id": "explorer-fox-backpack",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        80,
+        115,
+        56,
+        99
+      ],
+      "review_edge": false,
+      "transparent_pixels": 802714,
+      "partial_alpha_pixels": 767649,
+      "opaque_pixels": 2153
+    },
+    {
+      "id": "explorer-fox-compass",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        87,
+        49,
+        54,
+        58
+      ],
+      "review_edge": false,
+      "transparent_pixels": 734117,
+      "partial_alpha_pixels": 838121,
+      "opaque_pixels": 278
+    },
+    {
+      "id": "explorer-fox-telescope",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        54,
+        60,
+        23,
+        67
+      ],
+      "review_edge": true,
+      "transparent_pixels": 741829,
+      "partial_alpha_pixels": 828649,
+      "opaque_pixels": 2038
+    },
+    {
+      "id": "explorer-fox-photo",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        194,
+        57,
+        78,
+        58
+      ],
+      "review_edge": false,
+      "transparent_pixels": 766941,
+      "partial_alpha_pixels": 803535,
+      "opaque_pixels": 2040
     }
   ]
 }

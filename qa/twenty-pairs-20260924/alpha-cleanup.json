@@ -2166,8 +2166,104 @@
       "rgb_unchanged": true,
       "dimensions_unchanged": true,
       "alpha_1_to_15_cleared": 7482
+    },
+    {
+      "id": "explorer-fox-map",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/explorer-fox-map.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fox-explorer/explorer-fox-map.png"
+      ],
+      "before_sha256": "c66df6c121751f89cf65a0f9dfa33ec1fb51849484a382096a474d975353d99a",
+      "after_sha256": "72eec6f1b9bd21e9c6e743d2343c5d903f73b41172e5267ef7427163de424dc2",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 27999
+    },
+    {
+      "id": "explorer-fox-binoculars",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/explorer-fox-binoculars.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fox-explorer/explorer-fox-binoculars.png"
+      ],
+      "before_sha256": "59a625f71df6843bf2cc0bce11a9e33f6bacb835c504727355f3df572ab94058",
+      "after_sha256": "d78465b4a35131056dd00447880bba6c20297a9648fa959eaccb65bd6451f494",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 15291
+    },
+    {
+      "id": "explorer-fox-backpack",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/explorer-fox-backpack.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fox-explorer/explorer-fox-backpack.png"
+      ],
+      "before_sha256": "226e9dacf7e71547769a7ee7284114e4b4312fb6b4039e6590cb76426c84162d",
+      "after_sha256": "709eac4d0d17455493651f465574bce09383dd7fcf20381b2cecdc37826a67f7",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 13714
+    },
+    {
+      "id": "explorer-fox-compass",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/explorer-fox-compass.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fox-explorer/explorer-fox-compass.png"
+      ],
+      "before_sha256": "b68f57cb6f68a60152a5c9b954d6d8efe269116ca6f67c2ead6839dee757b69c",
+      "after_sha256": "63bb33130bf7a5677efd1adc9dd25b9a323240187928587cfb76c0304dc81ff3",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 27886
+    },
+    {
+      "id": "explorer-fox-telescope",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/explorer-fox-telescope.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/_needs-alpha/fox-explorer/explorer-fox-telescope.png"
+      ],
+      "before_sha256": "f1cb047896b15e3e8d1634562db0e7eecb8bbddb63f1b64dbb0dda09f106e6d9",
+      "after_sha256": "c9a32e4825b5129462bd4afb90c69da72304c51c47a5701fa08485a800688a73",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 20349
+    },
+    {
+      "id": "explorer-fox-photo",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/explorer-fox-photo.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/fox-explorer/explorer-fox-photo.png"
+      ],
+      "before_sha256": "492fa556bfe627215f399c572255b9cc1b74e390fb4747388d1981219df2cc01",
+      "after_sha256": "f521436278ba59f1bc753b7d020a92f366b844ea783a3b5cbcbb1462d98577b1",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 20466
     }
   ],
-  "updated_utc": "2026-09-25T10:14:40.383644+00:00",
+  "updated_utc": "2026-09-25T10:29:46.907530+00:00",
   "operation": "Set alpha 1..15 to zero only, preserving RGB and dimensions."
 }

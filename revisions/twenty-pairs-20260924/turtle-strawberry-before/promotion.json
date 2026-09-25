@@ -1,0 +1,14 @@
+{
+  "timestamp_utc": "2026-09-25T06:44:04.938312+00:00",
+  "id": "turtle-strawberry",
+  "reason": "First output closely copied the frog reference face. Replacement has a shorter turtle snout, four clawed legs and more legible segmented shell.",
+  "old_master": "revisions/twenty-pairs-20260924/turtle-strawberry-before/master.png",
+  "old_sha256": "404174ac501cf53761f5abc3fddf3bb9927b33d10c505d90dfb9112ae40300f3",
+  "archived_deliveries": [
+    "revisions/twenty-pairs-20260924/turtle-strawberry-before/delivery/stickers/little-turtle/turtle-strawberry.png"
+  ],
+  "candidate": "revisions/twenty-pairs-20260924/turtle-strawberry-v2.png",
+  "new_master": "masters/turtle-strawberry.png",
+  "new_sha256": "164b8ad2f91e91dd2fc13ecc09c0fc79b35d801fb2671f89ed8cb0c5f055f8a0",
+  "request": "state/requests/turtle-strawberry-v2.json"
+}

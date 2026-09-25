@@ -1,14 +1,14 @@
 {
-  "updated_utc": "2026-09-25T06:31:30.998078+00:00",
+  "updated_utc": "2026-09-25T07:06:37.044549+00:00",
   "target_topics": 102,
   "target_slots": 816,
   "target_unique": 796,
-  "generated_unique": 721,
-  "missing_unique": 75,
-  "alpha_corners_clear_unique": 721,
+  "generated_unique": 736,
+  "missing_unique": 60,
+  "alpha_corners_clear_unique": 736,
   "needs_alpha_unique": 0,
-  "topics_with_all_images": 92,
-  "generated_topic_slots": 736,
+  "topics_with_all_images": 94,
+  "generated_topic_slots": 752,
   "visual_rework_unique": 25,
   "complete": false,
   "prompt_target_dimensions": [
@@ -22391,8 +22391,29 @@
         "little-turtle"
       ],
       "source": "masters/turtle-strawberry.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 923010,
+      "partial_alpha_pixels": 648061,
+      "opaque_pixels": 1445,
+      "padding_nonzero_alpha": [
+        199,
+        107,
+        180,
+        83
+      ],
+      "review_edge": false,
+      "sha256": "49d32f495b3fc55e6065ae240ace84a434e73c7c9a95ebfe53b5583a47d896c4",
+      "bytes": 827417
     },
     {
       "id": "turtle-rain-leaf",
@@ -22401,8 +22422,29 @@
         "little-turtle"
       ],
       "source": "masters/turtle-rain-leaf.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 782095,
+      "partial_alpha_pixels": 788496,
+      "opaque_pixels": 1925,
+      "padding_nonzero_alpha": [
+        132,
+        88,
+        99,
+        108
+      ],
+      "review_edge": false,
+      "sha256": "fca7ed1841dcba17aca4e400fe5ecfc96b61ecd65a2decf5559c1fee7b8d4b47",
+      "bytes": 1043210
     },
     {
       "id": "turtle-map",
@@ -22411,8 +22453,29 @@
         "little-turtle"
       ],
       "source": "masters/turtle-map.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 944313,
+      "partial_alpha_pixels": 626887,
+      "opaque_pixels": 1316,
+      "padding_nonzero_alpha": [
+        135,
+        173,
+        84,
+        176
+      ],
+      "review_edge": false,
+      "sha256": "cd4ae329b9d786b2b564cdc73d56706f76a6a5586e25f27266c03c54894e8c30",
+      "bytes": 832817
     },
     {
       "id": "turtle-water-lily",
@@ -22421,8 +22484,29 @@
         "little-turtle"
       ],
       "source": "masters/turtle-water-lily.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 988090,
+      "partial_alpha_pixels": 583189,
+      "opaque_pixels": 1237,
+      "padding_nonzero_alpha": [
+        151,
+        140,
+        106,
+        138
+      ],
+      "review_edge": false,
+      "sha256": "8b044f3b0332063316082f8df830ad51d8347bb18addff2d2c6fba96acebfae0",
+      "bytes": 793111
     },
     {
       "id": "turtle-pond-dive",
@@ -22431,8 +22515,29 @@
         "little-turtle"
       ],
       "source": "masters/turtle-pond-dive.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1014129,
+      "partial_alpha_pixels": 556547,
+      "opaque_pixels": 1840,
+      "padding_nonzero_alpha": [
+        125,
+        192,
+        72,
+        206
+      ],
+      "review_edge": false,
+      "sha256": "fff898090adfaa5cef88cda06735d4108ce57dc5430ba1d7a8b22fb1c948bac0",
+      "bytes": 731301
     },
     {
       "id": "turtle-butterfly",
@@ -22441,8 +22546,29 @@
         "little-turtle"
       ],
       "source": "masters/turtle-butterfly.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 893985,
+      "partial_alpha_pixels": 676743,
+      "opaque_pixels": 1788,
+      "padding_nonzero_alpha": [
+        97,
+        136,
+        69,
+        122
+      ],
+      "review_edge": false,
+      "sha256": "ed1d907e26229422d80dc0414a876e4ecb05179d51e199087f18e031681aff3b",
+      "bytes": 841390
     },
     {
       "id": "turtle-sleeping",
@@ -22451,8 +22577,29 @@
         "little-turtle"
       ],
       "source": "masters/turtle-sleeping.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 918286,
+      "partial_alpha_pixels": 652537,
+      "opaque_pixels": 1693,
+      "padding_nonzero_alpha": [
+        109,
+        217,
+        54,
+        241
+      ],
+      "review_edge": false,
+      "sha256": "bd35e37be38d04562a969e03a74a9a932fd8bfae668c65e21e8cede7d59fb4ae",
+      "bytes": 795850
     },
     {
       "id": "turtle-lotus-leaf",
@@ -22462,8 +22609,29 @@
         "lotus-pond"
       ],
       "source": "masters/turtle-lotus-leaf.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 938251,
+      "partial_alpha_pixels": 632902,
+      "opaque_pixels": 1363,
+      "padding_nonzero_alpha": [
+        87,
+        199,
+        77,
+        192
+      ],
+      "review_edge": false,
+      "sha256": "1f1d995f8cc688132d85295a58a1c051814d8f56f9156123ff0f675dc6fd762b",
+      "bytes": 799307
     },
     {
       "id": "lotus-pink-bloom",
@@ -22472,8 +22640,29 @@
         "lotus-pond"
       ],
       "source": "masters/lotus-pink-bloom.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 700920,
+      "partial_alpha_pixels": 869782,
+      "opaque_pixels": 1814,
+      "padding_nonzero_alpha": [
+        77,
+        70,
+        80,
+        56
+      ],
+      "review_edge": false,
+      "sha256": "87567dc686689a7adc20b39ade575c116e1f1be5a9e5638fc57d72c34f2b6f59",
+      "bytes": 1374430
     },
     {
       "id": "lotus-white-bud",
@@ -22482,8 +22671,29 @@
         "lotus-pond"
       ],
       "source": "masters/lotus-white-bud.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1113233,
+      "partial_alpha_pixels": 458467,
+      "opaque_pixels": 816,
+      "padding_nonzero_alpha": [
+        233,
+        86,
+        230,
+        71
+      ],
+      "review_edge": false,
+      "sha256": "826fc91815218a8a9ebc8d1aca77585dbd297f266a86d1a112e17909db5ab068",
+      "bytes": 779653
     },
     {
       "id": "lotus-seed-pod",
@@ -22492,8 +22702,29 @@
         "lotus-pond"
       ],
       "source": "masters/lotus-seed-pod.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 994790,
+      "partial_alpha_pixels": 576149,
+      "opaque_pixels": 1577,
+      "padding_nonzero_alpha": [
+        231,
+        65,
+        146,
+        63
+      ],
+      "review_edge": false,
+      "sha256": "bca85b0bd2bfaa1df0a0c8321ff6d9ef662179008e49aaf99f0f6f51c9404065",
+      "bytes": 974882
     },
     {
       "id": "lotus-floating-leaf",
@@ -22502,8 +22733,29 @@
         "lotus-pond"
       ],
       "source": "masters/lotus-floating-leaf.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 782306,
+      "partial_alpha_pixels": 789472,
+      "opaque_pixels": 738,
+      "padding_nonzero_alpha": [
+        56,
+        164,
+        55,
+        165
+      ],
+      "review_edge": false,
+      "sha256": "421ea601507047dc4285151c0665979b57a8ef4ae5424fb44a02916d57379d6c",
+      "bytes": 1071889
     },
     {
       "id": "lotus-dragonfly",
@@ -22512,8 +22764,29 @@
         "lotus-pond"
       ],
       "source": "masters/lotus-dragonfly.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 880488,
+      "partial_alpha_pixels": 690029,
+      "opaque_pixels": 1999,
+      "padding_nonzero_alpha": [
+        154,
+        17,
+        129,
+        23
+      ],
+      "review_edge": true,
+      "sha256": "a9f44bcb3dca8ba8239a6db1bced8159a7ee856896ad4b72c235468985c696cc",
+      "bytes": 1144213
     },
     {
       "id": "lotus-frog",
@@ -22522,8 +22795,29 @@
         "lotus-pond"
       ],
       "source": "masters/lotus-frog.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 872228,
+      "partial_alpha_pixels": 698901,
+      "opaque_pixels": 1387,
+      "padding_nonzero_alpha": [
+        63,
+        180,
+        61,
+        173
+      ],
+      "review_edge": false,
+      "sha256": "f69d3b3cee926d1270b14dab3eeaa3b52892cb2d4e06df9c6bb452c760dbcd73",
+      "bytes": 944895
     },
     {
       "id": "lotus-pond-fish",
@@ -22532,8 +22826,29 @@
         "lotus-pond"
       ],
       "source": "masters/lotus-pond-fish.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 878245,
+      "partial_alpha_pixels": 692208,
+      "opaque_pixels": 2063,
+      "padding_nonzero_alpha": [
+        115,
+        115,
+        86,
+        107
+      ],
+      "review_edge": false,
+      "sha256": "dc3fd5f68e6e110b2ed2fb66f0617cd6b375154a504e85d9f7700b7e6c0b7c90",
+      "bytes": 1198362
     },
     {
       "id": "robot-watering-plant",
@@ -23696,13 +24011,13 @@
     {
       "slug": "little-turtle",
       "name_vi": "Rùa nhỏ",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "lotus-pond",
       "name_vi": "Ao sen",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
@@ -30383,144 +30698,144 @@
       "topic": "little-turtle",
       "name_vi": "Rùa nhỏ",
       "id": "turtle-strawberry",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/little-turtle/turtle-strawberry.png",
+      "status": "alpha_corners_clear",
+      "sha256": "49d32f495b3fc55e6065ae240ace84a434e73c7c9a95ebfe53b5583a47d896c4",
       "review_note": ""
     },
     {
       "topic": "little-turtle",
       "name_vi": "Rùa nhỏ",
       "id": "turtle-rain-leaf",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/little-turtle/turtle-rain-leaf.png",
+      "status": "alpha_corners_clear",
+      "sha256": "fca7ed1841dcba17aca4e400fe5ecfc96b61ecd65a2decf5559c1fee7b8d4b47",
       "review_note": ""
     },
     {
       "topic": "little-turtle",
       "name_vi": "Rùa nhỏ",
       "id": "turtle-map",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/little-turtle/turtle-map.png",
+      "status": "alpha_corners_clear",
+      "sha256": "cd4ae329b9d786b2b564cdc73d56706f76a6a5586e25f27266c03c54894e8c30",
       "review_note": ""
     },
     {
       "topic": "little-turtle",
       "name_vi": "Rùa nhỏ",
       "id": "turtle-water-lily",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/little-turtle/turtle-water-lily.png",
+      "status": "alpha_corners_clear",
+      "sha256": "8b044f3b0332063316082f8df830ad51d8347bb18addff2d2c6fba96acebfae0",
       "review_note": ""
     },
     {
       "topic": "little-turtle",
       "name_vi": "Rùa nhỏ",
       "id": "turtle-pond-dive",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/little-turtle/turtle-pond-dive.png",
+      "status": "alpha_corners_clear",
+      "sha256": "fff898090adfaa5cef88cda06735d4108ce57dc5430ba1d7a8b22fb1c948bac0",
       "review_note": ""
     },
     {
       "topic": "little-turtle",
       "name_vi": "Rùa nhỏ",
       "id": "turtle-butterfly",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/little-turtle/turtle-butterfly.png",
+      "status": "alpha_corners_clear",
+      "sha256": "ed1d907e26229422d80dc0414a876e4ecb05179d51e199087f18e031681aff3b",
       "review_note": ""
     },
     {
       "topic": "little-turtle",
       "name_vi": "Rùa nhỏ",
       "id": "turtle-sleeping",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/little-turtle/turtle-sleeping.png",
+      "status": "alpha_corners_clear",
+      "sha256": "bd35e37be38d04562a969e03a74a9a932fd8bfae668c65e21e8cede7d59fb4ae",
       "review_note": ""
     },
     {
       "topic": "little-turtle",
       "name_vi": "Rùa nhỏ",
       "id": "turtle-lotus-leaf",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/little-turtle/turtle-lotus-leaf.png",
+      "status": "alpha_corners_clear",
+      "sha256": "1f1d995f8cc688132d85295a58a1c051814d8f56f9156123ff0f675dc6fd762b",
       "review_note": ""
     },
     {
       "topic": "lotus-pond",
       "name_vi": "Ao sen",
       "id": "turtle-lotus-leaf",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/lotus-pond/turtle-lotus-leaf.png",
+      "status": "alpha_corners_clear",
+      "sha256": "1f1d995f8cc688132d85295a58a1c051814d8f56f9156123ff0f675dc6fd762b",
       "review_note": ""
     },
     {
       "topic": "lotus-pond",
       "name_vi": "Ao sen",
       "id": "lotus-pink-bloom",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/lotus-pond/lotus-pink-bloom.png",
+      "status": "alpha_corners_clear",
+      "sha256": "87567dc686689a7adc20b39ade575c116e1f1be5a9e5638fc57d72c34f2b6f59",
       "review_note": ""
     },
     {
       "topic": "lotus-pond",
       "name_vi": "Ao sen",
       "id": "lotus-white-bud",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/lotus-pond/lotus-white-bud.png",
+      "status": "alpha_corners_clear",
+      "sha256": "826fc91815218a8a9ebc8d1aca77585dbd297f266a86d1a112e17909db5ab068",
       "review_note": ""
     },
     {
       "topic": "lotus-pond",
       "name_vi": "Ao sen",
       "id": "lotus-seed-pod",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/lotus-pond/lotus-seed-pod.png",
+      "status": "alpha_corners_clear",
+      "sha256": "bca85b0bd2bfaa1df0a0c8321ff6d9ef662179008e49aaf99f0f6f51c9404065",
       "review_note": ""
     },
     {
       "topic": "lotus-pond",
       "name_vi": "Ao sen",
       "id": "lotus-floating-leaf",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/lotus-pond/lotus-floating-leaf.png",
+      "status": "alpha_corners_clear",
+      "sha256": "421ea601507047dc4285151c0665979b57a8ef4ae5424fb44a02916d57379d6c",
       "review_note": ""
     },
     {
       "topic": "lotus-pond",
       "name_vi": "Ao sen",
       "id": "lotus-dragonfly",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/lotus-pond/lotus-dragonfly.png",
+      "status": "alpha_corners_clear",
+      "sha256": "a9f44bcb3dca8ba8239a6db1bced8159a7ee856896ad4b72c235468985c696cc",
       "review_note": ""
     },
     {
       "topic": "lotus-pond",
       "name_vi": "Ao sen",
       "id": "lotus-frog",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/lotus-pond/lotus-frog.png",
+      "status": "alpha_corners_clear",
+      "sha256": "f69d3b3cee926d1270b14dab3eeaa3b52892cb2d4e06df9c6bb452c760dbcd73",
       "review_note": ""
     },
     {
       "topic": "lotus-pond",
       "name_vi": "Ao sen",
       "id": "lotus-pond-fish",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/lotus-pond/lotus-pond-fish.png",
+      "status": "alpha_corners_clear",
+      "sha256": "dc3fd5f68e6e110b2ed2fb66f0617cd6b375154a504e85d9f7700b7e6c0b7c90",
       "review_note": ""
     },
     {

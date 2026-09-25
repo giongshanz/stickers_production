@@ -1202,8 +1202,249 @@
       "rgb_unchanged": true,
       "dimensions_unchanged": true,
       "alpha_1_to_15_cleared": 29890
+    },
+    {
+      "id": "turtle-strawberry",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/turtle-strawberry.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/little-turtle/turtle-strawberry.png"
+      ],
+      "before_sha256": "164b8ad2f91e91dd2fc13ecc09c0fc79b35d801fb2671f89ed8cb0c5f055f8a0",
+      "after_sha256": "49d32f495b3fc55e6065ae240ace84a434e73c7c9a95ebfe53b5583a47d896c4",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 9361
+    },
+    {
+      "id": "turtle-rain-leaf",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/turtle-rain-leaf.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/little-turtle/turtle-rain-leaf.png"
+      ],
+      "before_sha256": "4120cd0776d8e09d8e6854179987a074b27ce56da08fac9739a070717c6ef3de",
+      "after_sha256": "fca7ed1841dcba17aca4e400fe5ecfc96b61ecd65a2decf5559c1fee7b8d4b47",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 23216
+    },
+    {
+      "id": "turtle-map",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/turtle-map.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/little-turtle/turtle-map.png"
+      ],
+      "before_sha256": "b086a071186abe296e7fb5954d16a442014bc4a92acc91d1bdd44ded5a5b5528",
+      "after_sha256": "cd4ae329b9d786b2b564cdc73d56706f76a6a5586e25f27266c03c54894e8c30",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 13579
+    },
+    {
+      "id": "turtle-water-lily",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/turtle-water-lily.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/little-turtle/turtle-water-lily.png"
+      ],
+      "before_sha256": "b1023da8a7f903021f30eead26e8607b6d206e01e086d0bd01746dc2379b5df0",
+      "after_sha256": "8b044f3b0332063316082f8df830ad51d8347bb18addff2d2c6fba96acebfae0",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 15775
+    },
+    {
+      "id": "turtle-pond-dive",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/turtle-pond-dive.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/little-turtle/turtle-pond-dive.png"
+      ],
+      "before_sha256": "4a56f7ce71e0994f2711bc43b136012dcfe946b905298b65270d767a15c30445",
+      "after_sha256": "fff898090adfaa5cef88cda06735d4108ce57dc5430ba1d7a8b22fb1c948bac0",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 14378
+    },
+    {
+      "id": "turtle-butterfly",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/turtle-butterfly.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/little-turtle/turtle-butterfly.png"
+      ],
+      "before_sha256": "b6d35093bf7fe90c4b6f8f6ae11bccb3814862cffddbbfd2642d67d5f660aaf4",
+      "after_sha256": "ed1d907e26229422d80dc0414a876e4ecb05179d51e199087f18e031681aff3b",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 12424
+    },
+    {
+      "id": "turtle-sleeping",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/turtle-sleeping.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/little-turtle/turtle-sleeping.png"
+      ],
+      "before_sha256": "8bfc593de21eb692029c31f98b2e7d3bc4ba617382b733fa66386739b82fe232",
+      "after_sha256": "bd35e37be38d04562a969e03a74a9a932fd8bfae668c65e21e8cede7d59fb4ae",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 9735
+    },
+    {
+      "id": "turtle-lotus-leaf",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/turtle-lotus-leaf.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/little-turtle/turtle-lotus-leaf.png",
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lotus-pond/turtle-lotus-leaf.png"
+      ],
+      "before_sha256": "c3e237c0261e2ca9bfb12c9c9337ee82a793ae3819db20c67cc47742701e820e",
+      "after_sha256": "1f1d995f8cc688132d85295a58a1c051814d8f56f9156123ff0f675dc6fd762b",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 15472
+    },
+    {
+      "id": "lotus-pink-bloom",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lotus-pink-bloom.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lotus-pond/lotus-pink-bloom.png"
+      ],
+      "before_sha256": "693a1e3d5cf27eb54699a9aa0136e72545823e45b39dd5a702bb1a3f414aa4ea",
+      "after_sha256": "87567dc686689a7adc20b39ade575c116e1f1be5a9e5638fc57d72c34f2b6f59",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 24654
+    },
+    {
+      "id": "lotus-white-bud",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lotus-white-bud.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lotus-pond/lotus-white-bud.png"
+      ],
+      "before_sha256": "99297bc1ea87f6e862dbc07c12493e29b8d0dfb611864fd6f26f1f7187ae2679",
+      "after_sha256": "826fc91815218a8a9ebc8d1aca77585dbd297f266a86d1a112e17909db5ab068",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 13220
+    },
+    {
+      "id": "lotus-seed-pod",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lotus-seed-pod.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lotus-pond/lotus-seed-pod.png"
+      ],
+      "before_sha256": "65924b87217198f6649eaa90cf151b5246adc2a694c2bbdb1f58e9bdadc4bf46",
+      "after_sha256": "bca85b0bd2bfaa1df0a0c8321ff6d9ef662179008e49aaf99f0f6f51c9404065",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 12000
+    },
+    {
+      "id": "lotus-floating-leaf",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lotus-floating-leaf.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lotus-pond/lotus-floating-leaf.png"
+      ],
+      "before_sha256": "fd998f9cad2639113af53fc306a107efa65c472f0b3054ae15f57ae88ee585f5",
+      "after_sha256": "421ea601507047dc4285151c0665979b57a8ef4ae5424fb44a02916d57379d6c",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 11080
+    },
+    {
+      "id": "lotus-dragonfly",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lotus-dragonfly.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lotus-pond/lotus-dragonfly.png"
+      ],
+      "before_sha256": "874adb328f6f072dc5cf4c06d06916ef72d4524b6a8395c2daf758007307c816",
+      "after_sha256": "a9f44bcb3dca8ba8239a6db1bced8159a7ee856896ad4b72c235468985c696cc",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 36822
+    },
+    {
+      "id": "lotus-frog",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lotus-frog.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lotus-pond/lotus-frog.png"
+      ],
+      "before_sha256": "393cc6bdd6b1e0066adc80ceb45e91d22d805121c017df0cb9e3af4a19415282",
+      "after_sha256": "f69d3b3cee926d1270b14dab3eeaa3b52892cb2d4e06df9c6bb452c760dbcd73",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 8719
+    },
+    {
+      "id": "lotus-pond-fish",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lotus-pond-fish.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lotus-pond/lotus-pond-fish.png"
+      ],
+      "before_sha256": "70f67f4c6c5ef91a1cc4b7e6486f6e07369e0bc8c50d6024a1773d5a145cba37",
+      "after_sha256": "dc3fd5f68e6e110b2ed2fb66f0617cd6b375154a504e85d9f7700b7e6c0b7c90",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 29224
     }
   ],
-  "updated_utc": "2026-09-25T06:30:21.575187+00:00",
+  "updated_utc": "2026-09-25T07:05:23.987507+00:00",
   "operation": "Set alpha 1..15 to zero only, preserving RGB and dimensions."
 }

@@ -718,7 +718,22 @@
     "knit-earmuffs",
     "knit-shawl",
     "knit-baby-booties",
-    "knit-yarn-basket"
+    "knit-yarn-basket",
+    "turtle-strawberry",
+    "turtle-rain-leaf",
+    "turtle-map",
+    "turtle-water-lily",
+    "turtle-pond-dive",
+    "turtle-butterfly",
+    "turtle-sleeping",
+    "turtle-lotus-leaf",
+    "lotus-pink-bloom",
+    "lotus-white-bud",
+    "lotus-seed-pod",
+    "lotus-floating-leaf",
+    "lotus-dragonfly",
+    "lotus-frog",
+    "lotus-pond-fish"
   ],
   "style_reference": "references/Stickers",
   "subject_check": "See rework_candidates; other reviewed subjects provisionally accepted",
@@ -884,5 +899,5 @@
   "final_three_topics_20260923_note": "Completed and visually reviewed all 24 selected masters across Winter Sports, Gloves and Tea. Winter Sports contains eight isolated functional equipment compositions: crossed alpine skis and poles, snowboard, figure skates, curling stone with brush, bobsled, snowshoes, ski helmet with goggles, and hockey stick with puck. Gloves contains eight matching functional pairs with distinct materials and constructions: knitted mittens, leather driving, rubber cleaning, oven mitts, gardening, boxing, goalkeeper and fingerless knit. Tea contains eight isolated accessories: cast-iron teapot, porcelain cup, matcha bowl, bamboo whisk, leaf caddy, mesh strainer, serving tray and loose-leaf pouch. Reviewed light and dark contact sheets for construction, silhouette, complete parts, padding, cut margin and transparency. All selected files are 1254 x 1254 RGBA. Authorized alpha-only cleanup removed alpha values 1..15 while preserving RGB and dimensions. Acceptance remains provisional pending in-game-scale QA; the previous 25 explicit rework candidates remain open.",
   "seven_topics_20260924_note": "Completed and visually reviewed all 56 selected masters across Red Panda Daily Life, Fox Autumn Adventures, Hamster Kitchen, Panda Bakery, Koala Bedtime, Little Dragon Magic and Birthday Cake Collection. Each character topic contains eight activity variants with a consistent character design; the cake collection contains eight clearly distinct cake constructions and decorations without anthropomorphic features. Reviewed all seven collections on light and dark contact sheets for subject readability, anatomy, prop connection, complete silhouettes, cake construction, padding, cut margins and transparency. Red Panda remains rust-red with a cream face mask and ringed tail; Fox has a narrow muzzle, triangular ears and cream-tipped tail; Hamster remains golden with a white belly; Panda retains charcoal markings; Koala retains warm-gray fur, fluffy ears and oval nose; Dragon remains moss-green with cream belly and golden horns and wing membranes. All selected files are 1254 x 1254 RGBA. Authorized alpha-only cleanup removed alpha values 1..15 while preserving RGB and dimensions. Acceptance remains provisional pending in-game-scale QA; the previous 25 explicit rework candidates remain open.",
   "eight_topics_20260924_note": "Completed and visually reviewed all 64 selected masters across Otter River Life, Sloth Cozy Day, Owl Night Study, Little Bee Adventures, Snail Garden Journey, Baby Elephant Playtime, Monkey Jungle Adventures and Little Ghost Halloween. Each topic contains eight variants with a consistent character design. Reviewed all eight collections on light and dark contact sheets for subject readability, anatomy, prop connection, complete silhouettes, padding, cut margins and transparency. All selected files are 1254 x 1254 RGBA. Authorized alpha-only cleanup removed alpha values 1..15 while preserving RGB and dimensions. No new rework candidate was added. Acceptance remains provisional pending in-game-scale QA; the previous 25 explicit rework candidates remain open.",
-  "twenty_pairs_20260924_note": "Production underway for 20 user-approved topics in ten one-sticker-sharing pairs. Completed topics are provisionally reviewed on light and dark contact sheets as listed in qa/twenty-pairs-20260924/CHECKPOINT.vi.md. Chestnut-leaf-cluster was replaced because the original looked like oak leaves and acorns; see revisions/twenty-pairs-20260924/chestnut-leaf-cluster-before. All newly selected alpha cleanup preserves RGB and canvas dimensions. In-game-scale QA and the 25 earlier visual rework candidates remain open."
+  "twenty_pairs_20260924_note": "Production underway for 20 user-approved topics in ten one-sticker-sharing pairs. Completed topics are provisionally reviewed on light and dark contact sheets as listed in qa/twenty-pairs-20260924/CHECKPOINT.vi.md. Chestnut-leaf-cluster was replaced because the original looked like oak leaves and acorns; see revisions/twenty-pairs-20260924/chestnut-leaf-cluster-before. Turtle-strawberry was replaced because the original looked too frog-like; see revisions/twenty-pairs-20260924/turtle-strawberry-before. All newly selected alpha cleanup preserves RGB and canvas dimensions. In-game-scale QA and the 25 earlier visual rework candidates remain open."
 }

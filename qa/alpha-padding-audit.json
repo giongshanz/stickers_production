@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-25T06:31:30.998078+00:00",
+  "updated_utc": "2026-09-25T07:06:37.044549+00:00",
   "padding_definition": "Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",
   "assets": [
     {
@@ -15142,6 +15142,321 @@
       "transparent_pixels": 756453,
       "partial_alpha_pixels": 814458,
       "opaque_pixels": 1605
+    },
+    {
+      "id": "turtle-strawberry",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        199,
+        107,
+        180,
+        83
+      ],
+      "review_edge": false,
+      "transparent_pixels": 923010,
+      "partial_alpha_pixels": 648061,
+      "opaque_pixels": 1445
+    },
+    {
+      "id": "turtle-rain-leaf",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        132,
+        88,
+        99,
+        108
+      ],
+      "review_edge": false,
+      "transparent_pixels": 782095,
+      "partial_alpha_pixels": 788496,
+      "opaque_pixels": 1925
+    },
+    {
+      "id": "turtle-map",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        135,
+        173,
+        84,
+        176
+      ],
+      "review_edge": false,
+      "transparent_pixels": 944313,
+      "partial_alpha_pixels": 626887,
+      "opaque_pixels": 1316
+    },
+    {
+      "id": "turtle-water-lily",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        151,
+        140,
+        106,
+        138
+      ],
+      "review_edge": false,
+      "transparent_pixels": 988090,
+      "partial_alpha_pixels": 583189,
+      "opaque_pixels": 1237
+    },
+    {
+      "id": "turtle-pond-dive",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        125,
+        192,
+        72,
+        206
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1014129,
+      "partial_alpha_pixels": 556547,
+      "opaque_pixels": 1840
+    },
+    {
+      "id": "turtle-butterfly",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        97,
+        136,
+        69,
+        122
+      ],
+      "review_edge": false,
+      "transparent_pixels": 893985,
+      "partial_alpha_pixels": 676743,
+      "opaque_pixels": 1788
+    },
+    {
+      "id": "turtle-sleeping",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        109,
+        217,
+        54,
+        241
+      ],
+      "review_edge": false,
+      "transparent_pixels": 918286,
+      "partial_alpha_pixels": 652537,
+      "opaque_pixels": 1693
+    },
+    {
+      "id": "turtle-lotus-leaf",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        87,
+        199,
+        77,
+        192
+      ],
+      "review_edge": false,
+      "transparent_pixels": 938251,
+      "partial_alpha_pixels": 632902,
+      "opaque_pixels": 1363
+    },
+    {
+      "id": "lotus-pink-bloom",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        77,
+        70,
+        80,
+        56
+      ],
+      "review_edge": false,
+      "transparent_pixels": 700920,
+      "partial_alpha_pixels": 869782,
+      "opaque_pixels": 1814
+    },
+    {
+      "id": "lotus-white-bud",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        233,
+        86,
+        230,
+        71
+      ],
+      "review_edge": false,
+      "transparent_pixels": 1113233,
+      "partial_alpha_pixels": 458467,
+      "opaque_pixels": 816
+    },
+    {
+      "id": "lotus-seed-pod",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        231,
+        65,
+        146,
+        63
+      ],
+      "review_edge": false,
+      "transparent_pixels": 994790,
+      "partial_alpha_pixels": 576149,
+      "opaque_pixels": 1577
+    },
+    {
+      "id": "lotus-floating-leaf",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        56,
+        164,
+        55,
+        165
+      ],
+      "review_edge": false,
+      "transparent_pixels": 782306,
+      "partial_alpha_pixels": 789472,
+      "opaque_pixels": 738
+    },
+    {
+      "id": "lotus-dragonfly",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        154,
+        17,
+        129,
+        23
+      ],
+      "review_edge": true,
+      "transparent_pixels": 880488,
+      "partial_alpha_pixels": 690029,
+      "opaque_pixels": 1999
+    },
+    {
+      "id": "lotus-frog",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        63,
+        180,
+        61,
+        173
+      ],
+      "review_edge": false,
+      "transparent_pixels": 872228,
+      "partial_alpha_pixels": 698901,
+      "opaque_pixels": 1387
+    },
+    {
+      "id": "lotus-pond-fish",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        115,
+        115,
+        86,
+        107
+      ],
+      "review_edge": false,
+      "transparent_pixels": 878245,
+      "partial_alpha_pixels": 692208,
+      "opaque_pixels": 2063
     }
   ]
 }

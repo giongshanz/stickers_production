@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-25T06:31:36.818171+00:00",
+  "updated_utc": "2026-09-25T07:06:43.142810+00:00",
   "files": [
     {
       "path": ".gitattributes",
@@ -1947,6 +1947,86 @@
       "sha256": "6b8500bc99281e226a4dc805775da1960ac32c37adeeb016578fd3ed8178f05f"
     },
     {
+      "path": "delivery/stickers/little-turtle/turtle-butterfly.png",
+      "bytes": 841390,
+      "sha256": "ed1d907e26229422d80dc0414a876e4ecb05179d51e199087f18e031681aff3b"
+    },
+    {
+      "path": "delivery/stickers/little-turtle/turtle-lotus-leaf.png",
+      "bytes": 799307,
+      "sha256": "1f1d995f8cc688132d85295a58a1c051814d8f56f9156123ff0f675dc6fd762b"
+    },
+    {
+      "path": "delivery/stickers/little-turtle/turtle-map.png",
+      "bytes": 832817,
+      "sha256": "cd4ae329b9d786b2b564cdc73d56706f76a6a5586e25f27266c03c54894e8c30"
+    },
+    {
+      "path": "delivery/stickers/little-turtle/turtle-pond-dive.png",
+      "bytes": 731301,
+      "sha256": "fff898090adfaa5cef88cda06735d4108ce57dc5430ba1d7a8b22fb1c948bac0"
+    },
+    {
+      "path": "delivery/stickers/little-turtle/turtle-rain-leaf.png",
+      "bytes": 1043210,
+      "sha256": "fca7ed1841dcba17aca4e400fe5ecfc96b61ecd65a2decf5559c1fee7b8d4b47"
+    },
+    {
+      "path": "delivery/stickers/little-turtle/turtle-sleeping.png",
+      "bytes": 795850,
+      "sha256": "bd35e37be38d04562a969e03a74a9a932fd8bfae668c65e21e8cede7d59fb4ae"
+    },
+    {
+      "path": "delivery/stickers/little-turtle/turtle-strawberry.png",
+      "bytes": 827417,
+      "sha256": "49d32f495b3fc55e6065ae240ace84a434e73c7c9a95ebfe53b5583a47d896c4"
+    },
+    {
+      "path": "delivery/stickers/little-turtle/turtle-water-lily.png",
+      "bytes": 793111,
+      "sha256": "8b044f3b0332063316082f8df830ad51d8347bb18addff2d2c6fba96acebfae0"
+    },
+    {
+      "path": "delivery/stickers/lotus-pond/lotus-dragonfly.png",
+      "bytes": 1144213,
+      "sha256": "a9f44bcb3dca8ba8239a6db1bced8159a7ee856896ad4b72c235468985c696cc"
+    },
+    {
+      "path": "delivery/stickers/lotus-pond/lotus-floating-leaf.png",
+      "bytes": 1071889,
+      "sha256": "421ea601507047dc4285151c0665979b57a8ef4ae5424fb44a02916d57379d6c"
+    },
+    {
+      "path": "delivery/stickers/lotus-pond/lotus-frog.png",
+      "bytes": 944895,
+      "sha256": "f69d3b3cee926d1270b14dab3eeaa3b52892cb2d4e06df9c6bb452c760dbcd73"
+    },
+    {
+      "path": "delivery/stickers/lotus-pond/lotus-pink-bloom.png",
+      "bytes": 1374430,
+      "sha256": "87567dc686689a7adc20b39ade575c116e1f1be5a9e5638fc57d72c34f2b6f59"
+    },
+    {
+      "path": "delivery/stickers/lotus-pond/lotus-pond-fish.png",
+      "bytes": 1198362,
+      "sha256": "dc3fd5f68e6e110b2ed2fb66f0617cd6b375154a504e85d9f7700b7e6c0b7c90"
+    },
+    {
+      "path": "delivery/stickers/lotus-pond/lotus-seed-pod.png",
+      "bytes": 974882,
+      "sha256": "bca85b0bd2bfaa1df0a0c8321ff6d9ef662179008e49aaf99f0f6f51c9404065"
+    },
+    {
+      "path": "delivery/stickers/lotus-pond/lotus-white-bud.png",
+      "bytes": 779653,
+      "sha256": "826fc91815218a8a9ebc8d1aca77585dbd297f266a86d1a112e17909db5ab068"
+    },
+    {
+      "path": "delivery/stickers/lotus-pond/turtle-lotus-leaf.png",
+      "bytes": 799307,
+      "sha256": "1f1d995f8cc688132d85295a58a1c051814d8f56f9156123ff0f675dc6fd762b"
+    },
+    {
       "path": "delivery/stickers/marching-band/band-shako.png",
       "bytes": 971943,
       "sha256": "b42e614cba17f8160149cc8a408dae78ccf091e02211ac29574198a04e587530"
@@ -3708,8 +3788,8 @@
     },
     {
       "path": "delivery/topic-map.csv",
-      "bytes": 151861,
-      "sha256": "ccbb39eedc793ea0720155f43d599016bf5c298c4b44a45bb34ee7d2e35bcfce"
+      "bytes": 153874,
+      "sha256": "19555271c1feafaaf5259b7bcc0a1675ad477338aaddf6ec3a5fe21eaff7f550"
     },
     {
       "path": "history/delivery/.gitattributes",
@@ -4093,8 +4173,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 405447,
-      "sha256": "497014bea558145db876a546260a87d8a502adfb8c08002326fe65fe3ce5962e"
+      "bytes": 410703,
+      "sha256": "cc75a982bb8f2d6a20c375cb65ab55c59b479f52e01c9466ed48eb7c30a9e78b"
     },
     {
       "path": "logs/alpha-pilot-20260917.jsonl",
@@ -4118,8 +4198,8 @@
     },
     {
       "path": "logs/generation.jsonl",
-      "bytes": 304364,
-      "sha256": "c9314ffa2f357ecdd443a6e2edccd61a75d2307ccb4b224a1337dc2ac83d2ec4"
+      "bytes": 312578,
+      "sha256": "e95aaaa57782b1931222ef1d421d437e7fae26bc8ff8549fb4b1113d3989f44d"
     },
     {
       "path": "logs/README.vi.md",
@@ -6147,6 +6227,41 @@
       "sha256": "7eca10fc7c044203714e6c45b44e2978c2f6d5606761d0f42a176369e9379be1"
     },
     {
+      "path": "masters/lotus-dragonfly.png",
+      "bytes": 1144213,
+      "sha256": "a9f44bcb3dca8ba8239a6db1bced8159a7ee856896ad4b72c235468985c696cc"
+    },
+    {
+      "path": "masters/lotus-floating-leaf.png",
+      "bytes": 1071889,
+      "sha256": "421ea601507047dc4285151c0665979b57a8ef4ae5424fb44a02916d57379d6c"
+    },
+    {
+      "path": "masters/lotus-frog.png",
+      "bytes": 944895,
+      "sha256": "f69d3b3cee926d1270b14dab3eeaa3b52892cb2d4e06df9c6bb452c760dbcd73"
+    },
+    {
+      "path": "masters/lotus-pink-bloom.png",
+      "bytes": 1374430,
+      "sha256": "87567dc686689a7adc20b39ade575c116e1f1be5a9e5638fc57d72c34f2b6f59"
+    },
+    {
+      "path": "masters/lotus-pond-fish.png",
+      "bytes": 1198362,
+      "sha256": "dc3fd5f68e6e110b2ed2fb66f0617cd6b375154a504e85d9f7700b7e6c0b7c90"
+    },
+    {
+      "path": "masters/lotus-seed-pod.png",
+      "bytes": 974882,
+      "sha256": "bca85b0bd2bfaa1df0a0c8321ff6d9ef662179008e49aaf99f0f6f51c9404065"
+    },
+    {
+      "path": "masters/lotus-white-bud.png",
+      "bytes": 779653,
+      "sha256": "826fc91815218a8a9ebc8d1aca77585dbd297f266a86d1a112e17909db5ab068"
+    },
+    {
       "path": "masters/maracas.png",
       "bytes": 914693,
       "sha256": "4b8a15759d5d259b6dcf6d978c3a79c45c5c333ac571e3679cb9bf565ae7257f"
@@ -7505,6 +7620,46 @@
       "path": "masters/triangle-instrument.png",
       "bytes": 678111,
       "sha256": "4f96a9398377045604f013064a092b6e03065967f236cfd3189fac6615077693"
+    },
+    {
+      "path": "masters/turtle-butterfly.png",
+      "bytes": 841390,
+      "sha256": "ed1d907e26229422d80dc0414a876e4ecb05179d51e199087f18e031681aff3b"
+    },
+    {
+      "path": "masters/turtle-lotus-leaf.png",
+      "bytes": 799307,
+      "sha256": "1f1d995f8cc688132d85295a58a1c051814d8f56f9156123ff0f675dc6fd762b"
+    },
+    {
+      "path": "masters/turtle-map.png",
+      "bytes": 832817,
+      "sha256": "cd4ae329b9d786b2b564cdc73d56706f76a6a5586e25f27266c03c54894e8c30"
+    },
+    {
+      "path": "masters/turtle-pond-dive.png",
+      "bytes": 731301,
+      "sha256": "fff898090adfaa5cef88cda06735d4108ce57dc5430ba1d7a8b22fb1c948bac0"
+    },
+    {
+      "path": "masters/turtle-rain-leaf.png",
+      "bytes": 1043210,
+      "sha256": "fca7ed1841dcba17aca4e400fe5ecfc96b61ecd65a2decf5559c1fee7b8d4b47"
+    },
+    {
+      "path": "masters/turtle-sleeping.png",
+      "bytes": 795850,
+      "sha256": "bd35e37be38d04562a969e03a74a9a932fd8bfae668c65e21e8cede7d59fb4ae"
+    },
+    {
+      "path": "masters/turtle-strawberry.png",
+      "bytes": 827417,
+      "sha256": "49d32f495b3fc55e6065ae240ace84a434e73c7c9a95ebfe53b5583a47d896c4"
+    },
+    {
+      "path": "masters/turtle-water-lily.png",
+      "bytes": 793111,
+      "sha256": "8b044f3b0332063316082f8df830ad51d8347bb18addff2d2c6fba96acebfae0"
     },
     {
       "path": "masters/underwater-camera.png",
@@ -9783,8 +9938,8 @@
     },
     {
       "path": "qa/alpha-padding-audit.json",
-      "bytes": 277763,
-      "sha256": "68e34b16feb60638a61a491cb49e64d97666e05192d9434ae40a10f29a382f66"
+      "bytes": 283530,
+      "sha256": "bfa672828e945f7fc5d3480f8e703b1e9b12e92b89bc63186f19c0c0433a1ed6"
     },
     {
       "path": "qa/alpha-pilot-20260917/before-dark.png",
@@ -13288,8 +13443,8 @@
     },
     {
       "path": "qa/twenty-pairs-20260924/alpha-cleanup.json",
-      "bytes": 49169,
-      "sha256": "e7adc3e3614abbf4f259a749abc93ec7076b49f65382b3856670f2e9942bac42"
+      "bytes": 58907,
+      "sha256": "d9eaeacaeed1a1863ac22d11c764a3d9eb3c458619e0ba6a4c69ab2647d54e4c"
     },
     {
       "path": "qa/twenty-pairs-20260924/art-corner-dark.png",
@@ -13303,8 +13458,8 @@
     },
     {
       "path": "qa/twenty-pairs-20260924/CHECKPOINT.vi.md",
-      "bytes": 1074,
-      "sha256": "504bb2c350aaa26d4d27614523ac49023ad0adffb4e17283d8bf7b7667c52f64"
+      "bytes": 1312,
+      "sha256": "65478b2796cabcb037f10ea8806d8db6662a507320370b39b303dda42b8559bc"
     },
     {
       "path": "qa/twenty-pairs-20260924/chestnut-season-dark.png",
@@ -13345,6 +13500,26 @@
       "path": "qa/twenty-pairs-20260924/lakeside-camping-light.png",
       "bytes": 521747,
       "sha256": "278bc3ad230476370e213d24fc9dc0e3d7faa504265e9207514ac963c49788e4"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/little-turtle-dark.png",
+      "bytes": 521639,
+      "sha256": "4151d89180ac06125376ad6e3c8650c4dd0a9130a6e91942a5624838f8e2e1c5"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/little-turtle-light.png",
+      "bytes": 494614,
+      "sha256": "77e061fd519d5d330e421e3488d4665a82f2e18d0d91a8cd1f4a8b1f14ef7fb1"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/lotus-pond-dark.png",
+      "bytes": 561307,
+      "sha256": "a6955f920f3d0244130034c39d92b6e32a7e8a672e14e77c2d2ba557301f4c49"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/lotus-pond-light.png",
+      "bytes": 532398,
+      "sha256": "d90501f1ca406edbfff007af5081acd66708db91fbca21db29c3a80aa03a986b"
     },
     {
       "path": "qa/twenty-pairs-20260924/pumpkin-season-dark.png",
@@ -13398,8 +13573,8 @@
     },
     {
       "path": "qa/visual-qa.json",
-      "bytes": 58254,
-      "sha256": "f961d9f0d23d37a8e0c8543865b43f1cc5c1827c34e3036fb178965e9863ded3"
+      "bytes": 58753,
+      "sha256": "523bd67bf828ef81c9b8a00af078c39ee792866054b15324f5a12e3ca9d3fac9"
     },
     {
       "path": "qa/weaving-beater-comb-v2-alpha-dark.png",
@@ -30987,6 +31162,86 @@
       "sha256": "82ad1aa2661609b3fa0726437e6ccd9e532469354850916d974535364013dc4d"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/little-turtle/turtle-butterfly.png",
+      "bytes": 864139,
+      "sha256": "b6d35093bf7fe90c4b6f8f6ae11bccb3814862cffddbbfd2642d67d5f660aaf4"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/little-turtle/turtle-lotus-leaf.png",
+      "bytes": 816223,
+      "sha256": "c3e237c0261e2ca9bfb12c9c9337ee82a793ae3819db20c67cc47742701e820e"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/little-turtle/turtle-map.png",
+      "bytes": 851336,
+      "sha256": "b086a071186abe296e7fb5954d16a442014bc4a92acc91d1bdd44ded5a5b5528"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/little-turtle/turtle-pond-dive.png",
+      "bytes": 752622,
+      "sha256": "4a56f7ce71e0994f2711bc43b136012dcfe946b905298b65270d767a15c30445"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/little-turtle/turtle-rain-leaf.png",
+      "bytes": 1065300,
+      "sha256": "4120cd0776d8e09d8e6854179987a074b27ce56da08fac9739a070717c6ef3de"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/little-turtle/turtle-sleeping.png",
+      "bytes": 819108,
+      "sha256": "8bfc593de21eb692029c31f98b2e7d3bc4ba617382b733fa66386739b82fe232"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/little-turtle/turtle-strawberry.png",
+      "bytes": 843809,
+      "sha256": "164b8ad2f91e91dd2fc13ecc09c0fc79b35d801fb2671f89ed8cb0c5f055f8a0"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/little-turtle/turtle-water-lily.png",
+      "bytes": 812033,
+      "sha256": "b1023da8a7f903021f30eead26e8607b6d206e01e086d0bd01746dc2379b5df0"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lotus-pond/lotus-dragonfly.png",
+      "bytes": 1144060,
+      "sha256": "874adb328f6f072dc5cf4c06d06916ef72d4524b6a8395c2daf758007307c816"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lotus-pond/lotus-floating-leaf.png",
+      "bytes": 1088689,
+      "sha256": "fd998f9cad2639113af53fc306a107efa65c472f0b3054ae15f57ae88ee585f5"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lotus-pond/lotus-frog.png",
+      "bytes": 963338,
+      "sha256": "393cc6bdd6b1e0066adc80ceb45e91d22d805121c017df0cb9e3af4a19415282"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lotus-pond/lotus-pink-bloom.png",
+      "bytes": 1379513,
+      "sha256": "693a1e3d5cf27eb54699a9aa0136e72545823e45b39dd5a702bb1a3f414aa4ea"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lotus-pond/lotus-pond-fish.png",
+      "bytes": 1204001,
+      "sha256": "70f67f4c6c5ef91a1cc4b7e6486f6e07369e0bc8c50d6024a1773d5a145cba37"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lotus-pond/lotus-seed-pod.png",
+      "bytes": 981091,
+      "sha256": "65924b87217198f6649eaa90cf151b5246adc2a694c2bbdb1f58e9bdadc4bf46"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lotus-pond/lotus-white-bud.png",
+      "bytes": 788444,
+      "sha256": "99297bc1ea87f6e862dbc07c12493e29b8d0dfb611864fd6f26f1f7187ae2679"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lotus-pond/turtle-lotus-leaf.png",
+      "bytes": 816223,
+      "sha256": "c3e237c0261e2ca9bfb12c9c9337ee82a793ae3819db20c67cc47742701e820e"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/pumpkin-season/hedgehog-pumpkin-hug.png",
       "bytes": 1114349,
       "sha256": "1c8f9e595798cc96235c156769b1ce714bd03d99ad3f875a89e3e7159e6b831b"
@@ -31407,6 +31662,41 @@
       "sha256": "d941afb7dc8c0baa0e70bffef95857e8cc9a63d343c2d71dc8f1bf489a4d4fd7"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/lotus-dragonfly.png",
+      "bytes": 1144060,
+      "sha256": "874adb328f6f072dc5cf4c06d06916ef72d4524b6a8395c2daf758007307c816"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/lotus-floating-leaf.png",
+      "bytes": 1088689,
+      "sha256": "fd998f9cad2639113af53fc306a107efa65c472f0b3054ae15f57ae88ee585f5"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/lotus-frog.png",
+      "bytes": 963338,
+      "sha256": "393cc6bdd6b1e0066adc80ceb45e91d22d805121c017df0cb9e3af4a19415282"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/lotus-pink-bloom.png",
+      "bytes": 1379513,
+      "sha256": "693a1e3d5cf27eb54699a9aa0136e72545823e45b39dd5a702bb1a3f414aa4ea"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/lotus-pond-fish.png",
+      "bytes": 1204001,
+      "sha256": "70f67f4c6c5ef91a1cc4b7e6486f6e07369e0bc8c50d6024a1773d5a145cba37"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/lotus-seed-pod.png",
+      "bytes": 981091,
+      "sha256": "65924b87217198f6649eaa90cf151b5246adc2a694c2bbdb1f58e9bdadc4bf46"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/lotus-white-bud.png",
+      "bytes": 788444,
+      "sha256": "99297bc1ea87f6e862dbc07c12493e29b8d0dfb611864fd6f26f1f7187ae2679"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/masters/mouse-color-pencil-box.png",
       "bytes": 1073961,
       "sha256": "efb08ca37ae945ce54ef8c0952953c8197c25a339159167e4a85758d80f7fe3b"
@@ -31562,6 +31852,46 @@
       "sha256": "118581fb51c17672dca6d6748e7235c469f3b02cdc6bbed611fe5467c95bf0ec"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/turtle-butterfly.png",
+      "bytes": 864139,
+      "sha256": "b6d35093bf7fe90c4b6f8f6ae11bccb3814862cffddbbfd2642d67d5f660aaf4"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/turtle-lotus-leaf.png",
+      "bytes": 816223,
+      "sha256": "c3e237c0261e2ca9bfb12c9c9337ee82a793ae3819db20c67cc47742701e820e"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/turtle-map.png",
+      "bytes": 851336,
+      "sha256": "b086a071186abe296e7fb5954d16a442014bc4a92acc91d1bdd44ded5a5b5528"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/turtle-pond-dive.png",
+      "bytes": 752622,
+      "sha256": "4a56f7ce71e0994f2711bc43b136012dcfe946b905298b65270d767a15c30445"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/turtle-rain-leaf.png",
+      "bytes": 1065300,
+      "sha256": "4120cd0776d8e09d8e6854179987a074b27ce56da08fac9739a070717c6ef3de"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/turtle-sleeping.png",
+      "bytes": 819108,
+      "sha256": "8bfc593de21eb692029c31f98b2e7d3bc4ba617382b733fa66386739b82fe232"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/turtle-strawberry.png",
+      "bytes": 843809,
+      "sha256": "164b8ad2f91e91dd2fc13ecc09c0fc79b35d801fb2671f89ed8cb0c5f055f8a0"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/turtle-water-lily.png",
+      "bytes": 812033,
+      "sha256": "b1023da8a7f903021f30eead26e8607b6d206e01e086d0bd01746dc2379b5df0"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/chestnut-leaf-cluster-before/delivery/stickers/chestnut-season/chestnut-leaf-cluster.png",
       "bytes": 1109827,
       "sha256": "9f2d78d95f5e45151844b16267fa2535007e608fc02ac899c92cd4ba51ab9e7a"
@@ -31582,6 +31912,26 @@
       "sha256": "16d74ad7aed152b9350f7c63be8264d29120239de8849412d631676cc5c8603b"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/turtle-strawberry-before/delivery/stickers/little-turtle/turtle-strawberry.png",
+      "bytes": 1097484,
+      "sha256": "404174ac501cf53761f5abc3fddf3bb9927b33d10c505d90dfb9112ae40300f3"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/turtle-strawberry-before/master.png",
+      "bytes": 1097484,
+      "sha256": "404174ac501cf53761f5abc3fddf3bb9927b33d10c505d90dfb9112ae40300f3"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/turtle-strawberry-before/promotion.json",
+      "bytes": 845,
+      "sha256": "a5d290868f526ced429aecb636f409d2d2a7fa60395e01fedb4876745c24dc33"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/turtle-strawberry-v2.png",
+      "bytes": 843809,
+      "sha256": "164b8ad2f91e91dd2fc13ecc09c0fc79b35d801fb2671f89ed8cb0c5f055f8a0"
+    },
+    {
       "path": "scripts/_tmp_add_twenty_pairs.py",
       "bytes": 24384,
       "sha256": "92588c2983d1a98c3dea74efe3f86433131084b65fc13884badabe3fc8e95b36"
@@ -31595,6 +31945,21 @@
       "path": "scripts/_tmp_promote_chestnut.py",
       "bytes": 1959,
       "sha256": "2abb8e5801e26276c3751467ae02efdd0604c26cceb9a81c767cfb4c0b8af7aa"
+    },
+    {
+      "path": "scripts/_tmp_promote_turtle.py",
+      "bytes": 1963,
+      "sha256": "1fe05d70a70ae2c7b7eefb98ed7e051faa4f5a61cf11ce22a86a67be99d24fce"
+    },
+    {
+      "path": "scripts/_tmp_revise_lotus_refs.py",
+      "bytes": 983,
+      "sha256": "7df1a4ee15b8403a733ae384cbc2e4562b66115326a8eb3f6e139a4966a2614a"
+    },
+    {
+      "path": "scripts/_tmp_revise_turtle_requests.py",
+      "bytes": 1552,
+      "sha256": "726034939837cd9dca657bda3704261d8d1de47efbf18a308406d513fdba4ec5"
     },
     {
       "path": "scripts/alpha_clean_twenty_pairs.py",
@@ -31628,8 +31993,8 @@
     },
     {
       "path": "scripts/checkpoint_twenty_pairs.py",
-      "bytes": 6683,
-      "sha256": "9842e1c5bb25389166365ac6c5937f8af70060cacf6373ad7ca055d857d5ee26"
+      "bytes": 7027,
+      "sha256": "894a01cfdde59096654cb5f74bd3603015d0086159238c3d31b023c8b769cc7e"
     },
     {
       "path": "scripts/clean_generated_white_margin.py",
@@ -31713,8 +32078,8 @@
     },
     {
       "path": "state/generation-queue.json",
-      "bytes": 1983,
-      "sha256": "b52e93009250b9db075bf70f38409dc8686faa12e11db006c78e975f824c1a11"
+      "bytes": 1635,
+      "sha256": "1c427950c9dbaef1ebf912bc09f2206fe7bc4a5b6defb651a0543c9bba4d9fa8"
     },
     {
       "path": "state/imagegen-errors.jsonl",
@@ -31748,8 +32113,8 @@
     },
     {
       "path": "state/progress.json",
-      "bytes": 922962,
-      "sha256": "f3c4ad7e11ec27c7e954f869096be9a077928aff4bd306b1f03a00294e14d439"
+      "bytes": 932150,
+      "sha256": "e62f2c899b0289370a7fd22f6190a9015908c150ce5dd88890fafdbc3883b56f"
     },
     {
       "path": "state/quota-eight-topics-20260924.json",
@@ -33838,13 +34203,13 @@
     },
     {
       "path": "state/requests/lotus-dragonfly.json",
-      "bytes": 2087,
-      "sha256": "f4234f66003ffc2dba1729d13fcbf258a9f9ed3db8c5873a3432ed35e249dc18"
+      "bytes": 2093,
+      "sha256": "3b39dac9cf38197d66aaa5250f950bb6c354fc6fb26a646a00bf50d7ffd1df81"
     },
     {
       "path": "state/requests/lotus-floating-leaf.json",
-      "bytes": 2119,
-      "sha256": "c6c742dade668dfc92f6140d4d841eaea2cfe0fc366f8c14d7ea667ff20aedc2"
+      "bytes": 2125,
+      "sha256": "43d5fcba7e3e280a4dcfc71526f1518a2eb92a8c06aa104f2bae18ccdfd80b16"
     },
     {
       "path": "state/requests/lotus-frog.json",
@@ -33853,23 +34218,23 @@
     },
     {
       "path": "state/requests/lotus-pink-bloom.json",
-      "bytes": 2132,
-      "sha256": "380f64625de501043427347fd53aaaf65961f9b7afae00cb0cf30e5322be60aa"
+      "bytes": 2138,
+      "sha256": "f836e866cbf4b11e0cab1eac70b075a0df7012cd0e2db7c5b00b808657dc99ee"
     },
     {
       "path": "state/requests/lotus-pond-fish.json",
-      "bytes": 2121,
-      "sha256": "0737e42aac544b1c86099a15e872f1086ab3686faad83443cd2a9923766776fc"
+      "bytes": 2116,
+      "sha256": "5474983e6b8040e36da418f05c3397e7d1e7c90797133a326d2db35c5b223391"
     },
     {
       "path": "state/requests/lotus-seed-pod.json",
-      "bytes": 2104,
-      "sha256": "dc38440d1e3eedd10bbdcbaedc5af8a750516a8210cbabea480f121dae127a58"
+      "bytes": 2110,
+      "sha256": "0c991574f49df092e074cc66a8123e5d4674b293def3ab68d6a6b7d9f6b55be7"
     },
     {
       "path": "state/requests/lotus-white-bud.json",
-      "bytes": 2077,
-      "sha256": "9fb3a3a5f7fd90bf987ef9770c4f0b748df7f32c4c3ab0bfd533b7a44e04c2af"
+      "bytes": 2083,
+      "sha256": "34e68146468d4f499af0022c3491afd7edf676a5ecaaa33b2fccdd596adf5cc5"
     },
     {
       "path": "state/requests/mezze-dolma.json",
@@ -35058,33 +35423,38 @@
     },
     {
       "path": "state/requests/turtle-butterfly.json",
-      "bytes": 2745,
-      "sha256": "898b4e53ca19a32e86c808fa125d731a318308193ddb624674e746ac6e99205c"
+      "bytes": 3077,
+      "sha256": "53cab2e6a4817e4851d9a5633fb9c4fc391fca02bcfadda6a01cfabcc16b5d7e"
     },
     {
       "path": "state/requests/turtle-lotus-leaf.json",
-      "bytes": 2835,
-      "sha256": "1b235ba56403a8337d925518a43ba79ab08a81cbd37de759f5ac7225701bed9a"
+      "bytes": 3167,
+      "sha256": "bb59e00b388492de2deff95eaf6f276404d442eb78d728227348cc091a172e53"
     },
     {
       "path": "state/requests/turtle-map.json",
-      "bytes": 2739,
-      "sha256": "b15624a1ab351bb3b916896f1d4c1b0cd385f36a23eeb9d0cf3d50f404e7fc7b"
+      "bytes": 3071,
+      "sha256": "e8ba1c3067dd0660a1a7179ec9e28218538207b15b65432c3feec50a9ece5d59"
     },
     {
       "path": "state/requests/turtle-pond-dive.json",
-      "bytes": 2761,
-      "sha256": "97b75c4b3bff4de0cd2ed974d232241f8b48ef49335bdadc202cccd63cde4bd3"
+      "bytes": 3093,
+      "sha256": "a8fa0184d5f3b1e7ed98443013f736bd564a0b721040b29e979a2fba148cd692"
     },
     {
       "path": "state/requests/turtle-rain-leaf.json",
-      "bytes": 2773,
-      "sha256": "59b45fbfb43af7bf6793ba82cde6dd4712e746b0ced288fac42b174bb43d2c09"
+      "bytes": 3105,
+      "sha256": "476f4e5c437f8190c976e6fe806da47ca195c5093d55cd71d826c828aed5b3ff"
     },
     {
       "path": "state/requests/turtle-sleeping.json",
-      "bytes": 2744,
-      "sha256": "1165330cfe87294b4a3d7daf0bba67615fbddd0426ee3a164e998f4940def0a9"
+      "bytes": 3076,
+      "sha256": "06ab35412af48b9a6be4d538449186adcf36862dedee5bb57a4dc95f18f8f98c"
+    },
+    {
+      "path": "state/requests/turtle-strawberry-v2.json",
+      "bytes": 3102,
+      "sha256": "0de110cfafbb6f0ff3d5987dbce9da996fa6deca32c29d8f57b1310e42c2c090"
     },
     {
       "path": "state/requests/turtle-strawberry.json",
@@ -35093,8 +35463,8 @@
     },
     {
       "path": "state/requests/turtle-water-lily.json",
-      "bytes": 2716,
-      "sha256": "2fcf9e0507778acefbce3522648b92baaa772eb0d90a3164c2b80db54bbb77f5"
+      "bytes": 3048,
+      "sha256": "3fe63ba08c4b2da77ae95f10024985a5af28e3a20a3f981378ab7130b22aca3e"
     },
     {
       "path": "state/requests/vineyard-carafe.json",
@@ -35298,8 +35668,8 @@
     },
     {
       "path": "state/resume.json",
-      "bytes": 1162,
-      "sha256": "b95d2e2c40a0a758b8b4b94094522c1c9bdcf249e04f7905913b90e79cae0c31"
+      "bytes": 1161,
+      "sha256": "94d5840ba54f5f49772a12174c97aad65dc5d2998751cdd9ead3d53710d8e6fb"
     },
     {
       "path": "state/twenty-pairs-20260924.json",
@@ -35308,8 +35678,8 @@
     },
     {
       "path": "state/work-order.json",
-      "bytes": 10030,
-      "sha256": "e3e736f6526fc29a356a89d9b55c199d60dc48a3d1539abd0948cae88fc18928"
+      "bytes": 10033,
+      "sha256": "2682b1cfdcb524fe3ab15797fadd5a465e3656fa31b5f7a418dba9c0b8dafb7b"
     },
     {
       "path": "workspace.json",

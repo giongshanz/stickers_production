@@ -8,7 +8,7 @@
   "prompt": "Generate ONE new individual sticker in the exact illustrative style of the supplied original desktop sticker references. References are style only, not subjects to copy.\nArt direction: hand-painted 2D casual-game illustration with restrained local contrast, warm mid-light colors, thin warm locally colored outlines, simple matte painted volumes, just two or three quiet same-hue shadow patches. Modest detail and small broad paint marks. Soft illustrative volume matching the reference artwork. No shiny 3D toy appearance, deep dark crevices, harsh light, or dense surface texture. Do not anthropomorphize objects.\nEntire subject centered and fully visible with clear padding on all sides; a narrow clean white sticker-cut margin follows the silhouette. No scene, floor shadow, text, letters, brand or watermark.\nDeliver a PNG with a TRANSPARENT BACKGROUND: empty canvas outside the sticker, actual alpha transparency.\nSquare canvas, target 512 x 512. Entire sticker visible with clear padding.\nSUBJECT: One blue dragonfly perched on a short lotus stem. Draw only the named object or explicitly connected small set, keeping functional construction and a clean readable silhouette. No face or limbs on objects, no person, broad scene, ground, floor shadow, readable text, brand or watermark. References guide only restrained warm hand-painted style, not the exact subject. Keep the complete narrow white cut margin inside transparent padding.",
   "referenced_image_paths": [
     "references/Stickers/3_Flowers/Flower_3.png",
-    "references/Stickers/Frog/4-frog_4.png"
+    "references/Stickers/8-Gardening/8-Gardening_1.png"
   ],
   "paths_relative_to": "workspace root",
   "target_dimensions": [
@@ -18,5 +18,5 @@
   "target_only": true,
   "scripted_resizing": false,
   "tool": "built-in imagegen",
-  "note": "View the referenced images, then resolve their paths against the current workspace root when calling the image tool."
+  "note": "Exact final original style references selected for this subject; no frog reference for non-frog lotus objects."
 }

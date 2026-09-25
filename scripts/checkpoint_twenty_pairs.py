@@ -45,6 +45,8 @@ qa["twenty_pairs_20260924_note"] = (
     "Completed topics are provisionally reviewed on light and dark contact sheets as listed in "
     "qa/twenty-pairs-20260924/CHECKPOINT.vi.md. Chestnut-leaf-cluster was replaced because the "
     "original looked like oak leaves and acorns; see revisions/twenty-pairs-20260924/chestnut-leaf-cluster-before. "
+    "Turtle-strawberry was replaced because the original looked too frog-like; see "
+    "revisions/twenty-pairs-20260924/turtle-strawberry-before. "
     "All newly selected alpha cleanup preserves RGB and canvas dimensions. In-game-scale QA and the "
     "25 earlier visual rework candidates remain open."
 )
@@ -101,6 +103,7 @@ report = f"""# Checkpoint 20 topic — {today}
 - Topic đã xem sheet sáng/tối trong lượt checkpoint này: {reviewed_names or 'chưa có'}.
 - ID tiếp theo: `{missing[0] if missing else 'không còn'}`.
 - `chestnut-leaf-cluster` đã thay bản vì bản đầu có lá và quả giống sồi; bản cũ, delivery cũ và hash được lưu trong `revisions/twenty-pairs-20260924/chestnut-leaf-cluster-before/`.
+- `turtle-strawberry` đã thay bản vì bản đầu có mặt giống ếch; ảnh cũ, delivery cũ và hash được lưu trong `revisions/twenty-pairs-20260924/turtle-strawberry-before/`.
 - Alpha-only cleanup chỉ đặt alpha 1..15 về 0, giữ nguyên RGB và kích thước. Xem `qa/twenty-pairs-20260924/alpha-cleanup.json`.
 - 25 rework cũ và QA ở kích thước game vẫn đang mở.
 {('- Imagegen báo HTTP 429 `usage_limit_reached` ở `' + missing[0] + '`. Dự kiến reset ' + reset_local.strftime('%H:%M:%S %d/%m/%Y') + ' giờ Việt Nam; dừng tạo ảnh cho tới khi quota khả dụng.' if args.quota_reached and reset_local else ('- Imagegen báo HTTP 429 `usage_limit_reached`; dừng tạo ảnh cho tới khi quota khả dụng.' if args.quota_reached else ''))}

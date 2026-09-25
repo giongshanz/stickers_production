@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-24T12:03:46.959092+00:00",
+  "updated_utc": "2026-09-25T06:31:30.998078+00:00",
   "padding_definition": "Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",
   "assets": [
     {
@@ -14974,6 +14974,174 @@
       "transparent_pixels": 841207,
       "partial_alpha_pixels": 730060,
       "opaque_pixels": 1249
+    },
+    {
+      "id": "lamb-red-scarf",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        70,
+        67,
+        95,
+        66
+      ],
+      "review_edge": false,
+      "transparent_pixels": 817512,
+      "partial_alpha_pixels": 753330,
+      "opaque_pixels": 1674
+    },
+    {
+      "id": "knit-pom-hat",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        131,
+        48,
+        138,
+        41
+      ],
+      "review_edge": false,
+      "transparent_pixels": 760719,
+      "partial_alpha_pixels": 810415,
+      "opaque_pixels": 1382
+    },
+    {
+      "id": "knit-cream-sweater",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        41,
+        114,
+        41,
+        112
+      ],
+      "review_edge": false,
+      "transparent_pixels": 628638,
+      "partial_alpha_pixels": 942175,
+      "opaque_pixels": 1703
+    },
+    {
+      "id": "knit-striped-socks",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        99,
+        66,
+        81,
+        62
+      ],
+      "review_edge": false,
+      "transparent_pixels": 794891,
+      "partial_alpha_pixels": 776576,
+      "opaque_pixels": 1049
+    },
+    {
+      "id": "knit-earmuffs",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        71,
+        78,
+        76,
+        71
+      ],
+      "review_edge": false,
+      "transparent_pixels": 801182,
+      "partial_alpha_pixels": 769156,
+      "opaque_pixels": 2178
+    },
+    {
+      "id": "knit-shawl",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        32,
+        125,
+        16,
+        105
+      ],
+      "review_edge": true,
+      "transparent_pixels": 782619,
+      "partial_alpha_pixels": 788503,
+      "opaque_pixels": 1394
+    },
+    {
+      "id": "knit-baby-booties",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        125,
+        178,
+        134,
+        172
+      ],
+      "review_edge": false,
+      "transparent_pixels": 929381,
+      "partial_alpha_pixels": 642067,
+      "opaque_pixels": 1068
+    },
+    {
+      "id": "knit-yarn-basket",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        82,
+        101,
+        84,
+        96
+      ],
+      "review_edge": false,
+      "transparent_pixels": 756453,
+      "partial_alpha_pixels": 814458,
+      "opaque_pixels": 1605
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updated_utc": "2026-09-24T12:03:46.959092+00:00",
+  "updated_utc": "2026-09-25T06:31:30.998078+00:00",
   "target_topics": 102,
   "target_slots": 816,
   "target_unique": 796,
-  "generated_unique": 713,
-  "missing_unique": 83,
-  "alpha_corners_clear_unique": 713,
+  "generated_unique": 721,
+  "missing_unique": 75,
+  "alpha_corners_clear_unique": 721,
   "needs_alpha_unique": 0,
-  "topics_with_all_images": 90,
-  "generated_topic_slots": 727,
+  "topics_with_all_images": 92,
+  "generated_topic_slots": 736,
   "visual_rework_unique": 25,
   "complete": false,
   "prompt_target_dimensions": [
@@ -22143,8 +22143,29 @@
         "knitwear"
       ],
       "source": "masters/lamb-red-scarf.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 817512,
+      "partial_alpha_pixels": 753330,
+      "opaque_pixels": 1674,
+      "padding_nonzero_alpha": [
+        70,
+        67,
+        95,
+        66
+      ],
+      "review_edge": false,
+      "sha256": "66ba3105360831541a06954cd30a2e30ae371a040d0594072843a2eae9ffdfc1",
+      "bytes": 1047261
     },
     {
       "id": "knit-pom-hat",
@@ -22153,8 +22174,29 @@
         "knitwear"
       ],
       "source": "masters/knit-pom-hat.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 760719,
+      "partial_alpha_pixels": 810415,
+      "opaque_pixels": 1382,
+      "padding_nonzero_alpha": [
+        131,
+        48,
+        138,
+        41
+      ],
+      "review_edge": false,
+      "sha256": "58cb7792ad9a87584c784f00ae1aa4bc954d1742910940f21a592ba4aa082515",
+      "bytes": 1229846
     },
     {
       "id": "knit-cream-sweater",
@@ -22163,8 +22205,29 @@
         "knitwear"
       ],
       "source": "masters/knit-cream-sweater.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 628638,
+      "partial_alpha_pixels": 942175,
+      "opaque_pixels": 1703,
+      "padding_nonzero_alpha": [
+        41,
+        114,
+        41,
+        112
+      ],
+      "review_edge": false,
+      "sha256": "67b09c2dcdfce597266e35fc12b1ceb6aad3aafef3abffed2cf928e84603250e",
+      "bytes": 1224096
     },
     {
       "id": "knit-striped-socks",
@@ -22173,8 +22236,29 @@
         "knitwear"
       ],
       "source": "masters/knit-striped-socks.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 794891,
+      "partial_alpha_pixels": 776576,
+      "opaque_pixels": 1049,
+      "padding_nonzero_alpha": [
+        99,
+        66,
+        81,
+        62
+      ],
+      "review_edge": false,
+      "sha256": "455eb90544bf792ddf7666924e5017401a510a69c5638d2a8b71bcb6a48f54af",
+      "bytes": 1323851
     },
     {
       "id": "knit-earmuffs",
@@ -22183,8 +22267,29 @@
         "knitwear"
       ],
       "source": "masters/knit-earmuffs.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 801182,
+      "partial_alpha_pixels": 769156,
+      "opaque_pixels": 2178,
+      "padding_nonzero_alpha": [
+        71,
+        78,
+        76,
+        71
+      ],
+      "review_edge": false,
+      "sha256": "0953152bd40f76753d04f7b33d5080f77c9f0080e878ab0169d1189e2b74ca7c",
+      "bytes": 1215123
     },
     {
       "id": "knit-shawl",
@@ -22193,8 +22298,29 @@
         "knitwear"
       ],
       "source": "masters/knit-shawl.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 782619,
+      "partial_alpha_pixels": 788503,
+      "opaque_pixels": 1394,
+      "padding_nonzero_alpha": [
+        32,
+        125,
+        16,
+        105
+      ],
+      "review_edge": true,
+      "sha256": "040f59ad40718ea45ac31840c52e27e2e39130e9a4150bb2a3529a67f9ac8125",
+      "bytes": 1307555
     },
     {
       "id": "knit-baby-booties",
@@ -22203,8 +22329,29 @@
         "knitwear"
       ],
       "source": "masters/knit-baby-booties.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 929381,
+      "partial_alpha_pixels": 642067,
+      "opaque_pixels": 1068,
+      "padding_nonzero_alpha": [
+        125,
+        178,
+        134,
+        172
+      ],
+      "review_edge": false,
+      "sha256": "aa7ea1396180360cec635f768c68e9d3baddf13f2a24313ea5cb6231a768fcdd",
+      "bytes": 1064834
     },
     {
       "id": "knit-yarn-basket",
@@ -22213,8 +22360,29 @@
         "knitwear"
       ],
       "source": "masters/knit-yarn-basket.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 756453,
+      "partial_alpha_pixels": 814458,
+      "opaque_pixels": 1605,
+      "padding_nonzero_alpha": [
+        82,
+        101,
+        84,
+        96
+      ],
+      "review_edge": false,
+      "sha256": "9db628adbd0e208b3b928f5ec124c6c60833b671b770a92566c9a7885cbef2f2",
+      "bytes": 1395852
     },
     {
       "id": "turtle-strawberry",
@@ -23516,13 +23684,13 @@
     {
       "slug": "winter-lamb",
       "name_vi": "Cừu mùa đông",
-      "generated": 7,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "knitwear",
       "name_vi": "Đồ len",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
@@ -30134,81 +30302,81 @@
       "topic": "winter-lamb",
       "name_vi": "Cừu mùa đông",
       "id": "lamb-red-scarf",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/winter-lamb/lamb-red-scarf.png",
+      "status": "alpha_corners_clear",
+      "sha256": "66ba3105360831541a06954cd30a2e30ae371a040d0594072843a2eae9ffdfc1",
       "review_note": ""
     },
     {
       "topic": "knitwear",
       "name_vi": "Đồ len",
       "id": "lamb-red-scarf",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/knitwear/lamb-red-scarf.png",
+      "status": "alpha_corners_clear",
+      "sha256": "66ba3105360831541a06954cd30a2e30ae371a040d0594072843a2eae9ffdfc1",
       "review_note": ""
     },
     {
       "topic": "knitwear",
       "name_vi": "Đồ len",
       "id": "knit-pom-hat",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/knitwear/knit-pom-hat.png",
+      "status": "alpha_corners_clear",
+      "sha256": "58cb7792ad9a87584c784f00ae1aa4bc954d1742910940f21a592ba4aa082515",
       "review_note": ""
     },
     {
       "topic": "knitwear",
       "name_vi": "Đồ len",
       "id": "knit-cream-sweater",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/knitwear/knit-cream-sweater.png",
+      "status": "alpha_corners_clear",
+      "sha256": "67b09c2dcdfce597266e35fc12b1ceb6aad3aafef3abffed2cf928e84603250e",
       "review_note": ""
     },
     {
       "topic": "knitwear",
       "name_vi": "Đồ len",
       "id": "knit-striped-socks",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/knitwear/knit-striped-socks.png",
+      "status": "alpha_corners_clear",
+      "sha256": "455eb90544bf792ddf7666924e5017401a510a69c5638d2a8b71bcb6a48f54af",
       "review_note": ""
     },
     {
       "topic": "knitwear",
       "name_vi": "Đồ len",
       "id": "knit-earmuffs",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/knitwear/knit-earmuffs.png",
+      "status": "alpha_corners_clear",
+      "sha256": "0953152bd40f76753d04f7b33d5080f77c9f0080e878ab0169d1189e2b74ca7c",
       "review_note": ""
     },
     {
       "topic": "knitwear",
       "name_vi": "Đồ len",
       "id": "knit-shawl",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/knitwear/knit-shawl.png",
+      "status": "alpha_corners_clear",
+      "sha256": "040f59ad40718ea45ac31840c52e27e2e39130e9a4150bb2a3529a67f9ac8125",
       "review_note": ""
     },
     {
       "topic": "knitwear",
       "name_vi": "Đồ len",
       "id": "knit-baby-booties",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/knitwear/knit-baby-booties.png",
+      "status": "alpha_corners_clear",
+      "sha256": "aa7ea1396180360cec635f768c68e9d3baddf13f2a24313ea5cb6231a768fcdd",
       "review_note": ""
     },
     {
       "topic": "knitwear",
       "name_vi": "Đồ len",
       "id": "knit-yarn-basket",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/knitwear/knit-yarn-basket.png",
+      "status": "alpha_corners_clear",
+      "sha256": "9db628adbd0e208b3b928f5ec124c6c60833b671b770a92566c9a7885cbef2f2",
       "review_note": ""
     },
     {

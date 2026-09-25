@@ -1073,8 +1073,137 @@
       "rgb_unchanged": true,
       "dimensions_unchanged": true,
       "alpha_1_to_15_cleared": 14191
+    },
+    {
+      "id": "lamb-red-scarf",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/lamb-red-scarf.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/knitwear/lamb-red-scarf.png",
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/winter-lamb/lamb-red-scarf.png"
+      ],
+      "before_sha256": "b3844eaf59d9f31725a3c4f76d7947503e7cea41018335ceb9628b270ee6624c",
+      "after_sha256": "66ba3105360831541a06954cd30a2e30ae371a040d0594072843a2eae9ffdfc1",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 12611
+    },
+    {
+      "id": "knit-pom-hat",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/knit-pom-hat.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/knitwear/knit-pom-hat.png"
+      ],
+      "before_sha256": "ec0f06725feda85afe7577510f23d51f358ace2239d7ce401a79461e072a2118",
+      "after_sha256": "58cb7792ad9a87584c784f00ae1aa4bc954d1742910940f21a592ba4aa082515",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 13789
+    },
+    {
+      "id": "knit-cream-sweater",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/knit-cream-sweater.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/knitwear/knit-cream-sweater.png"
+      ],
+      "before_sha256": "10adf3b3458a1fb28b028b5f8f362845c7863ef201e6cf73466cd78e86992778",
+      "after_sha256": "67b09c2dcdfce597266e35fc12b1ceb6aad3aafef3abffed2cf928e84603250e",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 11759
+    },
+    {
+      "id": "knit-striped-socks",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/knit-striped-socks.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/knitwear/knit-striped-socks.png"
+      ],
+      "before_sha256": "b3cef0d0d606c884d11e677353ec891751b4822ca467e0edcff42e1a290d448b",
+      "after_sha256": "455eb90544bf792ddf7666924e5017401a510a69c5638d2a8b71bcb6a48f54af",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 19496
+    },
+    {
+      "id": "knit-earmuffs",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/knit-earmuffs.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/knitwear/knit-earmuffs.png"
+      ],
+      "before_sha256": "744fd40b913041fa3f25bb1d4254464bd0a4f7235635ab824507f3f93975f2fb",
+      "after_sha256": "0953152bd40f76753d04f7b33d5080f77c9f0080e878ab0169d1189e2b74ca7c",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 17240
+    },
+    {
+      "id": "knit-shawl",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/knit-shawl.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/knitwear/knit-shawl.png"
+      ],
+      "before_sha256": "9d05a12af642505faca36e52f09fd16f33cd4f8f3944b16190b0a060c65de870",
+      "after_sha256": "040f59ad40718ea45ac31840c52e27e2e39130e9a4150bb2a3529a67f9ac8125",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 9641
+    },
+    {
+      "id": "knit-baby-booties",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/knit-baby-booties.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/knitwear/knit-baby-booties.png"
+      ],
+      "before_sha256": "fbc65494e5ebf2ab4229ee88a31c4036ebcdba882f5ecd95bbb2b85d9d9f45f0",
+      "after_sha256": "aa7ea1396180360cec635f768c68e9d3baddf13f2a24313ea5cb6231a768fcdd",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 9707
+    },
+    {
+      "id": "knit-yarn-basket",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/knit-yarn-basket.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/knitwear/knit-yarn-basket.png"
+      ],
+      "before_sha256": "4987488f535bb5121a804a5bb05a559e1b2dbaf9412f18506025375b3850998c",
+      "after_sha256": "9db628adbd0e208b3b928f5ec124c6c60833b671b770a92566c9a7885cbef2f2",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 29890
     }
   ],
-  "updated_utc": "2026-09-24T12:02:47.405570+00:00",
+  "updated_utc": "2026-09-25T06:30:21.575187+00:00",
   "operation": "Set alpha 1..15 to zero only, preserving RGB and dimensions."
 }

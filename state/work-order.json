@@ -371,7 +371,7 @@
     "balloon-star"
   ],
   "last_completed_batch": "qa/eight-topics-20260924/REPORT.vi.md",
-  "next_action": "Resume twenty-pair batch from lamb-red-scarf after imagegen quota resets; 83 unique masters remain.",
+  "next_action": "Continue twenty-pair batch from turtle-strawberry; 75 unique masters remain.",
   "alpha_pilot_pending_review": {
     "id": "tet-lucky-envelope",
     "candidate": "revisions/border-pilot-20260917/tet-lucky-envelope-geometry-alpha.png",
@@ -380,11 +380,8 @@
     "master_unchanged": true
   },
   "quota_status": {
-    "state": "usage_limit_reached",
-    "failed_id": "lamb-red-scarf",
-    "resets_at_unix": 1790255495,
-    "resets_at_utc": "2026-09-24T13:11:35Z",
-    "last_success_date": "2026-09-24",
-    "note": "Built-in imagegen returned HTTP 429; stop generation until quota is available. No alternate account or tool."
+    "state": "available_at_last_request",
+    "last_success_date": "2026-09-25",
+    "note": "75 of 150 new masters generated so far; availability must be checked from next tool response."
   }
 }

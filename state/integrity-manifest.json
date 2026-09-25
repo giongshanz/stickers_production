@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-24T12:03:52.177177+00:00",
+  "updated_utc": "2026-09-25T06:31:36.818171+00:00",
   "files": [
     {
       "path": ".gitattributes",
@@ -1625,6 +1625,46 @@
       "path": "delivery/stickers/honey-breakfast/honey-waffles.png",
       "bytes": 2122200,
       "sha256": "0d857dea48e6089b54e154694bdf76199f7c52cf8a433671f27c5df21c3cbbd5"
+    },
+    {
+      "path": "delivery/stickers/knitwear/knit-baby-booties.png",
+      "bytes": 1064834,
+      "sha256": "aa7ea1396180360cec635f768c68e9d3baddf13f2a24313ea5cb6231a768fcdd"
+    },
+    {
+      "path": "delivery/stickers/knitwear/knit-cream-sweater.png",
+      "bytes": 1224096,
+      "sha256": "67b09c2dcdfce597266e35fc12b1ceb6aad3aafef3abffed2cf928e84603250e"
+    },
+    {
+      "path": "delivery/stickers/knitwear/knit-earmuffs.png",
+      "bytes": 1215123,
+      "sha256": "0953152bd40f76753d04f7b33d5080f77c9f0080e878ab0169d1189e2b74ca7c"
+    },
+    {
+      "path": "delivery/stickers/knitwear/knit-pom-hat.png",
+      "bytes": 1229846,
+      "sha256": "58cb7792ad9a87584c784f00ae1aa4bc954d1742910940f21a592ba4aa082515"
+    },
+    {
+      "path": "delivery/stickers/knitwear/knit-shawl.png",
+      "bytes": 1307555,
+      "sha256": "040f59ad40718ea45ac31840c52e27e2e39130e9a4150bb2a3529a67f9ac8125"
+    },
+    {
+      "path": "delivery/stickers/knitwear/knit-striped-socks.png",
+      "bytes": 1323851,
+      "sha256": "455eb90544bf792ddf7666924e5017401a510a69c5638d2a8b71bcb6a48f54af"
+    },
+    {
+      "path": "delivery/stickers/knitwear/knit-yarn-basket.png",
+      "bytes": 1395852,
+      "sha256": "9db628adbd0e208b3b928f5ec124c6c60833b671b770a92566c9a7885cbef2f2"
+    },
+    {
+      "path": "delivery/stickers/knitwear/lamb-red-scarf.png",
+      "bytes": 1047261,
+      "sha256": "66ba3105360831541a06954cd30a2e30ae371a040d0594072843a2eae9ffdfc1"
     },
     {
       "path": "delivery/stickers/koala-bedtime/koala-bedtime-reading.png",
@@ -3557,6 +3597,11 @@
       "sha256": "18d539ac36ad4547ca7d7cdcf65ff16474aa4edbb4e788620f8faff7fdc0c000"
     },
     {
+      "path": "delivery/stickers/winter-lamb/lamb-red-scarf.png",
+      "bytes": 1047261,
+      "sha256": "66ba3105360831541a06954cd30a2e30ae371a040d0594072843a2eae9ffdfc1"
+    },
+    {
       "path": "delivery/stickers/winter-lamb/lamb-sled.png",
       "bytes": 1016944,
       "sha256": "60181e0c3ec54cc9b6ee96cac0178a139ad99d87ad80c8e089ba9402f521f602"
@@ -3663,8 +3708,8 @@
     },
     {
       "path": "delivery/topic-map.csv",
-      "bytes": 150763,
-      "sha256": "906910a652c698e5593c6ec2e8e8738e1cef20f11f77aa5bc6610a6dc3eebd5c"
+      "bytes": 151861,
+      "sha256": "ccbb39eedc793ea0720155f43d599016bf5c298c4b44a45bb34ee7d2e35bcfce"
     },
     {
       "path": "history/delivery/.gitattributes",
@@ -4048,8 +4093,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 403129,
-      "sha256": "19a2cf8a14cbb6a23bd8fe8d9ab2428e9530adb9c85d2d5b36a8de998992cb1f"
+      "bytes": 405447,
+      "sha256": "497014bea558145db876a546260a87d8a502adfb8c08002326fe65fe3ce5962e"
     },
     {
       "path": "logs/alpha-pilot-20260917.jsonl",
@@ -4073,8 +4118,8 @@
     },
     {
       "path": "logs/generation.jsonl",
-      "bytes": 300003,
-      "sha256": "0e7c38264848dc162fa9cb4b62311a02a20465577d516e835cd2ada56a8a7e73"
+      "bytes": 304364,
+      "sha256": "c9314ffa2f357ecdd443a6e2edccd61a75d2307ccb4b224a1337dc2ac83d2ec4"
     },
     {
       "path": "logs/README.vi.md",
@@ -5847,6 +5892,41 @@
       "sha256": "85ced29c55dc829a4dcb93517f6523e67e0c86b55a32da3fc714b5247a454144"
     },
     {
+      "path": "masters/knit-baby-booties.png",
+      "bytes": 1064834,
+      "sha256": "aa7ea1396180360cec635f768c68e9d3baddf13f2a24313ea5cb6231a768fcdd"
+    },
+    {
+      "path": "masters/knit-cream-sweater.png",
+      "bytes": 1224096,
+      "sha256": "67b09c2dcdfce597266e35fc12b1ceb6aad3aafef3abffed2cf928e84603250e"
+    },
+    {
+      "path": "masters/knit-earmuffs.png",
+      "bytes": 1215123,
+      "sha256": "0953152bd40f76753d04f7b33d5080f77c9f0080e878ab0169d1189e2b74ca7c"
+    },
+    {
+      "path": "masters/knit-pom-hat.png",
+      "bytes": 1229846,
+      "sha256": "58cb7792ad9a87584c784f00ae1aa4bc954d1742910940f21a592ba4aa082515"
+    },
+    {
+      "path": "masters/knit-shawl.png",
+      "bytes": 1307555,
+      "sha256": "040f59ad40718ea45ac31840c52e27e2e39130e9a4150bb2a3529a67f9ac8125"
+    },
+    {
+      "path": "masters/knit-striped-socks.png",
+      "bytes": 1323851,
+      "sha256": "455eb90544bf792ddf7666924e5017401a510a69c5638d2a8b71bcb6a48f54af"
+    },
+    {
+      "path": "masters/knit-yarn-basket.png",
+      "bytes": 1395852,
+      "sha256": "9db628adbd0e208b3b928f5ec124c6c60833b671b770a92566c9a7885cbef2f2"
+    },
+    {
       "path": "masters/koala-bedtime-reading.png",
       "bytes": 1150480,
       "sha256": "187ea89917c43851a622e8ae759f42cbb445a857f5ee6ecc2e0c8b379f943e4f"
@@ -5975,6 +6055,11 @@
       "path": "masters/lamb-mittens.png",
       "bytes": 1017473,
       "sha256": "18d539ac36ad4547ca7d7cdcf65ff16474aa4edbb4e788620f8faff7fdc0c000"
+    },
+    {
+      "path": "masters/lamb-red-scarf.png",
+      "bytes": 1047261,
+      "sha256": "66ba3105360831541a06954cd30a2e30ae371a040d0594072843a2eae9ffdfc1"
     },
     {
       "path": "masters/lamb-sled.png",
@@ -9698,8 +9783,8 @@
     },
     {
       "path": "qa/alpha-padding-audit.json",
-      "bytes": 274699,
-      "sha256": "8d1870e2d579cfbc12882cf63429e578289de2db64fbc1f3a1f91c7f42b0fe58"
+      "bytes": 277763,
+      "sha256": "68e34b16feb60638a61a491cb49e64d97666e05192d9434ae40a10f29a382f66"
     },
     {
       "path": "qa/alpha-pilot-20260917/before-dark.png",
@@ -13203,8 +13288,8 @@
     },
     {
       "path": "qa/twenty-pairs-20260924/alpha-cleanup.json",
-      "bytes": 43967,
-      "sha256": "f0cdf841ad554904679194f7bdaaa425ed1bfd144960c33aa891aaff714258f9"
+      "bytes": 49169,
+      "sha256": "e7adc3e3614abbf4f259a749abc93ec7076b49f65382b3856670f2e9942bac42"
     },
     {
       "path": "qa/twenty-pairs-20260924/art-corner-dark.png",
@@ -13218,8 +13303,8 @@
     },
     {
       "path": "qa/twenty-pairs-20260924/CHECKPOINT.vi.md",
-      "bytes": 1193,
-      "sha256": "1019265b23d7a245de1680a694a8e25f28eab4083590b8cf4a20c9e19d841f36"
+      "bytes": 1074,
+      "sha256": "504bb2c350aaa26d4d27614523ac49023ad0adffb4e17283d8bf7b7667c52f64"
     },
     {
       "path": "qa/twenty-pairs-20260924/chestnut-season-dark.png",
@@ -13240,6 +13325,16 @@
       "path": "qa/twenty-pairs-20260924/happy-hedgehog-light.png",
       "bytes": 559678,
       "sha256": "5b9e70ba57ddbf5640378719c15b0e49b02d72bdee3fdc34893996f62bab500a"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/knitwear-dark.png",
+      "bytes": 667554,
+      "sha256": "1ff91a0f3d6b00ee03982896c6746c150d886f94220c288518e5d0e31123b9cf"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/knitwear-light.png",
+      "bytes": 637357,
+      "sha256": "22a9c8eccf1f1a816d78bf92debd901b89f7216a95a868cb66a9bd5beb7fbf02"
     },
     {
       "path": "qa/twenty-pairs-20260924/lakeside-camping-dark.png",
@@ -13293,18 +13388,18 @@
     },
     {
       "path": "qa/twenty-pairs-20260924/winter-lamb-dark.png",
-      "bytes": 489502,
-      "sha256": "0d32d23c0435785994f98b775ab8131ef43f25d9cf1bbc385ddaacc77c837186"
+      "bytes": 559268,
+      "sha256": "47f4f16bbb29a3e4763ca5d79aff32c3673b964d87f0cdcbff957e2f2c94bc3d"
     },
     {
       "path": "qa/twenty-pairs-20260924/winter-lamb-light.png",
-      "bytes": 467746,
-      "sha256": "3ab376bea86cb20e1e0a9183ad640ea8838884db149497072e29243307695c92"
+      "bytes": 534311,
+      "sha256": "e3aab68b22d6aa75d21a1f6393cf7cb24c6e85a392ca8433d668e29dcd8e9bb0"
     },
     {
       "path": "qa/visual-qa.json",
-      "bytes": 57907,
-      "sha256": "5ae907f4ff145828dcc2ae7814285947453ecefbf47435862ee89a2ac63b406b"
+      "bytes": 58254,
+      "sha256": "f961d9f0d23d37a8e0c8543865b43f1cc5c1827c34e3036fb178965e9863ded3"
     },
     {
       "path": "qa/weaving-beater-comb-v2-alpha-dark.png",
@@ -30812,6 +30907,46 @@
       "sha256": "0e668f87d7ad16a5238237326953c2aa6f0ff632a2019c8c3a14bb8b607a8270"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/knitwear/knit-baby-booties.png",
+      "bytes": 1071764,
+      "sha256": "fbc65494e5ebf2ab4229ee88a31c4036ebcdba882f5ecd95bbb2b85d9d9f45f0"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/knitwear/knit-cream-sweater.png",
+      "bytes": 1248524,
+      "sha256": "10adf3b3458a1fb28b028b5f8f362845c7863ef201e6cf73466cd78e86992778"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/knitwear/knit-earmuffs.png",
+      "bytes": 1228472,
+      "sha256": "744fd40b913041fa3f25bb1d4254464bd0a4f7235635ab824507f3f93975f2fb"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/knitwear/knit-pom-hat.png",
+      "bytes": 1232964,
+      "sha256": "ec0f06725feda85afe7577510f23d51f358ace2239d7ce401a79461e072a2118"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/knitwear/knit-shawl.png",
+      "bytes": 1327460,
+      "sha256": "9d05a12af642505faca36e52f09fd16f33cd4f8f3944b16190b0a060c65de870"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/knitwear/knit-striped-socks.png",
+      "bytes": 1323581,
+      "sha256": "b3cef0d0d606c884d11e677353ec891751b4822ca467e0edcff42e1a290d448b"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/knitwear/knit-yarn-basket.png",
+      "bytes": 1401680,
+      "sha256": "4987488f535bb5121a804a5bb05a559e1b2dbaf9412f18506025375b3850998c"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/knitwear/lamb-red-scarf.png",
+      "bytes": 1059728,
+      "sha256": "b3844eaf59d9f31725a3c4f76d7947503e7cea41018335ceb9628b270ee6624c"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/lakeside-camping/lakeside-campfire.png",
       "bytes": 791347,
       "sha256": "452195a5c095f1f19bda4f5da8407e646d3759cf17b15e0476b6d542121816ba"
@@ -31022,6 +31157,11 @@
       "sha256": "1b6f07ef8d14fcf46b74a54cfde9cb6ef10b0e9fd10cb178be1f24ebfea2da89"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/winter-lamb/lamb-red-scarf.png",
+      "bytes": 1059728,
+      "sha256": "b3844eaf59d9f31725a3c4f76d7947503e7cea41018335ceb9628b270ee6624c"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/winter-lamb/lamb-sled.png",
       "bytes": 1035347,
       "sha256": "cd88326b8c3f44c251550812c54fe445a329f172f44c974fb9a0eefa698642b1"
@@ -31157,6 +31297,41 @@
       "sha256": "0e668f87d7ad16a5238237326953c2aa6f0ff632a2019c8c3a14bb8b607a8270"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/knit-baby-booties.png",
+      "bytes": 1071764,
+      "sha256": "fbc65494e5ebf2ab4229ee88a31c4036ebcdba882f5ecd95bbb2b85d9d9f45f0"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/knit-cream-sweater.png",
+      "bytes": 1248524,
+      "sha256": "10adf3b3458a1fb28b028b5f8f362845c7863ef201e6cf73466cd78e86992778"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/knit-earmuffs.png",
+      "bytes": 1228472,
+      "sha256": "744fd40b913041fa3f25bb1d4254464bd0a4f7235635ab824507f3f93975f2fb"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/knit-pom-hat.png",
+      "bytes": 1232964,
+      "sha256": "ec0f06725feda85afe7577510f23d51f358ace2239d7ce401a79461e072a2118"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/knit-shawl.png",
+      "bytes": 1327460,
+      "sha256": "9d05a12af642505faca36e52f09fd16f33cd4f8f3944b16190b0a060c65de870"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/knit-striped-socks.png",
+      "bytes": 1323581,
+      "sha256": "b3cef0d0d606c884d11e677353ec891751b4822ca467e0edcff42e1a290d448b"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/knit-yarn-basket.png",
+      "bytes": 1401680,
+      "sha256": "4987488f535bb5121a804a5bb05a559e1b2dbaf9412f18506025375b3850998c"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/masters/lakeside-campfire.png",
       "bytes": 791347,
       "sha256": "452195a5c095f1f19bda4f5da8407e646d3759cf17b15e0476b6d542121816ba"
@@ -31200,6 +31375,11 @@
       "path": "revisions/twenty-pairs-20260924/alpha-before/masters/lamb-mittens.png",
       "bytes": 1036091,
       "sha256": "1b6f07ef8d14fcf46b74a54cfde9cb6ef10b0e9fd10cb178be1f24ebfea2da89"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/lamb-red-scarf.png",
+      "bytes": 1059728,
+      "sha256": "b3844eaf59d9f31725a3c4f76d7947503e7cea41018335ceb9628b270ee6624c"
     },
     {
       "path": "revisions/twenty-pairs-20260924/alpha-before/masters/lamb-sled.png",
@@ -31448,8 +31628,8 @@
     },
     {
       "path": "scripts/checkpoint_twenty_pairs.py",
-      "bytes": 6102,
-      "sha256": "15777c47805bbfa160b804f883d7234db2abcae6ca8d970a83d9471e891bd7c8"
+      "bytes": 6683,
+      "sha256": "9842e1c5bb25389166365ac6c5937f8af70060cacf6373ad7ca055d857d5ee26"
     },
     {
       "path": "scripts/clean_generated_white_margin.py",
@@ -31533,8 +31713,8 @@
     },
     {
       "path": "state/generation-queue.json",
-      "bytes": 2165,
-      "sha256": "3870242a66cda48726239f265abda448e2ed7fc1041cd3d83ec7aa7eff05acf9"
+      "bytes": 1983,
+      "sha256": "b52e93009250b9db075bf70f38409dc8686faa12e11db006c78e975f824c1a11"
     },
     {
       "path": "state/imagegen-errors.jsonl",
@@ -31568,8 +31748,8 @@
     },
     {
       "path": "state/progress.json",
-      "bytes": 918042,
-      "sha256": "3191aacbb40eae9b17f4e9bc1d9b438c704d6dc3f944063e2a0fe5fd8c95f947"
+      "bytes": 922962,
+      "sha256": "f3c4ad7e11ec27c7e954f869096be9a077928aff4bd306b1f03a00294e14d439"
     },
     {
       "path": "state/quota-eight-topics-20260924.json",
@@ -33423,8 +33603,8 @@
     },
     {
       "path": "state/requests/knit-cream-sweater.json",
-      "bytes": 2099,
-      "sha256": "777293dea3470ef33f40d8f07a33a62974652ceec76b58307928a7213da8e68e"
+      "bytes": 2077,
+      "sha256": "39ed2203f43ef0acebf2f65a072dd175bdb5a127604f4cb8cddde19dc9ab0c48"
     },
     {
       "path": "state/requests/knit-earmuffs.json",
@@ -33433,8 +33613,8 @@
     },
     {
       "path": "state/requests/knit-pom-hat.json",
-      "bytes": 2115,
-      "sha256": "b177f336227288928813564091b9aeecbf7f84645e59faa85f2b1e8176536b20"
+      "bytes": 2093,
+      "sha256": "62e3c0dc69dfa9efaf30ce9362b0302af161d840fd7933775a185fc95733b148"
     },
     {
       "path": "state/requests/knit-shawl.json",
@@ -33443,8 +33623,8 @@
     },
     {
       "path": "state/requests/knit-striped-socks.json",
-      "bytes": 2089,
-      "sha256": "8df1252c203069ed44c40e4327c38279b4d9632ff069ac823b56d0868f2e0fe6"
+      "bytes": 2067,
+      "sha256": "5001f402cb6c4acaacbdc7c1f990ae67703f5c8771c29cc66b9e8d0c756702c1"
     },
     {
       "path": "state/requests/knit-yarn-basket.json",
@@ -33538,8 +33718,8 @@
     },
     {
       "path": "state/requests/lamb-red-scarf.json",
-      "bytes": 2760,
-      "sha256": "4580e874d35c0d7618b23bbc780f54cb5fab6baa423b32917501071ee59a4826"
+      "bytes": 2737,
+      "sha256": "e1b85ac0f22d1eb9e8f298bad94df91af4ea52adfc48cfb80bd612a63270459a"
     },
     {
       "path": "state/requests/lamb-sled.json",
@@ -35118,8 +35298,8 @@
     },
     {
       "path": "state/resume.json",
-      "bytes": 1156,
-      "sha256": "d855a5c5619fb7c8079878fb72cb872eb2fe67fecc20f00111bcf23d328c21ce"
+      "bytes": 1162,
+      "sha256": "b95d2e2c40a0a758b8b4b94094522c1c9bdcf249e04f7905913b90e79cae0c31"
     },
     {
       "path": "state/twenty-pairs-20260924.json",
@@ -35128,8 +35308,8 @@
     },
     {
       "path": "state/work-order.json",
-      "bytes": 10179,
-      "sha256": "491d2528b53590d4c90d3593d1c89143776e373b8273818b09fd42573255707a"
+      "bytes": 10030,
+      "sha256": "e3e736f6526fc29a356a89d9b55c199d60dc48a3d1539abd0948cae88fc18928"
     },
     {
       "path": "workspace.json",

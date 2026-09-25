@@ -5,6 +5,7 @@ import argparse
 import json
 from datetime import datetime, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 BATCH = ROOT / "state" / "twenty-pairs-20260924.json"
@@ -15,7 +16,14 @@ REPORT = ROOT / "qa" / "twenty-pairs-20260924" / "CHECKPOINT.vi.md"
 parser = argparse.ArgumentParser()
 parser.add_argument("--reviewed-slugs", nargs="*", default=[])
 parser.add_argument("--quota-reached", action="store_true")
+parser.add_argument("--quota-reset-unix", type=int)
 args = parser.parse_args()
+today = datetime.now(ZoneInfo("Asia/Ho_Chi_Minh")).date().isoformat()
+reset_utc = (
+    datetime.fromtimestamp(args.quota_reset_unix, timezone.utc)
+    if args.quota_reset_unix else None
+)
+reset_local = reset_utc.astimezone(ZoneInfo("Asia/Ho_Chi_Minh")) if reset_utc else None
 
 batch = json.loads(BATCH.read_text(encoding="utf-8"))
 topics = batch["topics"]
@@ -58,15 +66,15 @@ work["quota_status"] = (
     {
         "state": "usage_limit_reached",
         "failed_id": missing[0],
-        "resets_at_unix": 1790255495,
-        "resets_at_utc": "2026-09-24T13:11:35Z",
-        "last_success_date": "2026-09-24",
+        "resets_at_unix": args.quota_reset_unix,
+        "resets_at_utc": reset_utc.isoformat().replace("+00:00", "Z") if reset_utc else None,
+        "last_success_date": today,
         "note": "Built-in imagegen returned HTTP 429; stop generation until quota is available. No alternate account or tool.",
     }
     if args.quota_reached else
     {
         "state": "available_at_last_request",
-        "last_success_date": "2026-09-24",
+        "last_success_date": today,
         "note": f"{len(generated)} of 150 new masters generated so far; availability must be checked from next tool response.",
     }
 )
@@ -79,13 +87,13 @@ if args.quota_reached:
             "id": missing[0],
             "error_type": "usage_limit_reached",
             "http_status": 429,
-            "resets_at_unix": 1790255495,
+            "resets_at_unix": args.quota_reset_unix,
             "note": "Built-in imagegen returned a usage limit response; no image was saved for this ID.",
         }, ensure_ascii=False) + "\n")
 
 completed_names = ", ".join(topic["name_vi"] for topic in complete_topics)
 reviewed_names = ", ".join(next(t["name_vi"] for t in topics if t["slug"] == slug) for slug in args.reviewed_slugs)
-report = f"""# Checkpoint 20 topic — 24/09/2026
+report = f"""# Checkpoint 20 topic — {today}
 
 - Mục tiêu: 20 topic, 160 slot, 150 master mới, 10 sticker dùng chung.
 - Đã có: {len(generated)}/150 master mới; còn {len(missing)}. Topic đủ ảnh: {len(complete_topics)}/20.
@@ -95,7 +103,7 @@ report = f"""# Checkpoint 20 topic — 24/09/2026
 - `chestnut-leaf-cluster` đã thay bản vì bản đầu có lá và quả giống sồi; bản cũ, delivery cũ và hash được lưu trong `revisions/twenty-pairs-20260924/chestnut-leaf-cluster-before/`.
 - Alpha-only cleanup chỉ đặt alpha 1..15 về 0, giữ nguyên RGB và kích thước. Xem `qa/twenty-pairs-20260924/alpha-cleanup.json`.
 - 25 rework cũ và QA ở kích thước game vẫn đang mở.
-{('- Imagegen báo HTTP 429 `usage_limit_reached` ở `' + missing[0] + '`. Dự kiến reset 20:11:35 ngày 24/09/2026 giờ Việt Nam; dừng tạo ảnh cho tới khi quota khả dụng.' if args.quota_reached else '')}
+{('- Imagegen báo HTTP 429 `usage_limit_reached` ở `' + missing[0] + '`. Dự kiến reset ' + reset_local.strftime('%H:%M:%S %d/%m/%Y') + ' giờ Việt Nam; dừng tạo ảnh cho tới khi quota khả dụng.' if args.quota_reached and reset_local else ('- Imagegen báo HTTP 429 `usage_limit_reached`; dừng tạo ảnh cho tới khi quota khả dụng.' if args.quota_reached else ''))}
 """
 REPORT.parent.mkdir(parents=True, exist_ok=True)
 REPORT.write_text(report, encoding="utf-8")

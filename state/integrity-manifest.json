@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-25T07:06:43.142810+00:00",
+  "updated_utc": "2026-09-25T07:31:11.654271+00:00",
   "files": [
     {
       "path": ".gitattributes",
@@ -265,6 +265,46 @@
       "path": "delivery/stickers/beekeeping/honeycomb-frame.png",
       "bytes": 1256286,
       "sha256": "8a42c8f6972c22efbd864b220d267044b32efaa366ae148266dda4db0959e0c1"
+    },
+    {
+      "path": "delivery/stickers/bicycles/bicycle-basket-flowers.png",
+      "bytes": 1212814,
+      "sha256": "934a5e045c50705409f596132d31b9927beba80bf405f167a51e291e5e48123b"
+    },
+    {
+      "path": "delivery/stickers/bicycles/bicycle-cargo.png",
+      "bytes": 1115310,
+      "sha256": "379f3a1a3cfdf07e7652b8edd67f76e3a3daf158f9283137fbf2c8e93647dc8b"
+    },
+    {
+      "path": "delivery/stickers/bicycles/bicycle-city.png",
+      "bytes": 1204696,
+      "sha256": "6e1e9ec85b87917d7c62d3c64536a622101777431a7b059e09981f9344d1f576"
+    },
+    {
+      "path": "delivery/stickers/bicycles/bicycle-folding.png",
+      "bytes": 1179748,
+      "sha256": "47c04d1f37e415caa67aae7494a42a492d826334f02a99a9ff55a2ebc8c4b841"
+    },
+    {
+      "path": "delivery/stickers/bicycles/bicycle-kids.png",
+      "bytes": 1214911,
+      "sha256": "573d9580d2f87731ca4e651576cae7cebba40d4d70285861b3df2a39f3b3929a"
+    },
+    {
+      "path": "delivery/stickers/bicycles/bicycle-mountain.png",
+      "bytes": 1280691,
+      "sha256": "f21faf55d9054912d1c0b5742725d09a832343852813497bff90e02f43356a3a"
+    },
+    {
+      "path": "delivery/stickers/bicycles/bicycle-tandem.png",
+      "bytes": 1017481,
+      "sha256": "1b2a9efb603791293b3d4dfb131ae8c9ddbc68f57534adc524f66e438ef4a9da"
+    },
+    {
+      "path": "delivery/stickers/bicycles/robot-bicycle-ride.png",
+      "bytes": 1049409,
+      "sha256": "c3f62ca804120b339edda7b7af8148b2c1a709f102a0ac62a011035460c5099b"
     },
     {
       "path": "delivery/stickers/birthday-cake-collection/cake-chocolate.png",
@@ -3107,6 +3147,46 @@
       "sha256": "3aabc225f0292fcbe20caed7702775e9b55521dd779d3c01afc02ce0b8450589"
     },
     {
+      "path": "delivery/stickers/small-robot/robot-bicycle-ride.png",
+      "bytes": 1049409,
+      "sha256": "c3f62ca804120b339edda7b7af8148b2c1a709f102a0ac62a011035460c5099b"
+    },
+    {
+      "path": "delivery/stickers/small-robot/robot-cleaning.png",
+      "bytes": 969773,
+      "sha256": "8c24f5e7ea50c7577d1a76be9e7fc41fdca23c7b86dee8e193f036687dbe1cb6"
+    },
+    {
+      "path": "delivery/stickers/small-robot/robot-greeting.png",
+      "bytes": 962356,
+      "sha256": "7d69f8d84a96c11174db3af65b4bc9f77c0c28d3be4be02aa897483695e2aba4"
+    },
+    {
+      "path": "delivery/stickers/small-robot/robot-lightbulb.png",
+      "bytes": 1028879,
+      "sha256": "14e9490551c06cb17364003ba8934564be14fd3f76401fb7d9d8bbe4416f03b6"
+    },
+    {
+      "path": "delivery/stickers/small-robot/robot-reading-manual.png",
+      "bytes": 949434,
+      "sha256": "cf10aaa21c6c1f7f5b6968e2d11f9183e571c5f90174f4373088613a4a29fc11"
+    },
+    {
+      "path": "delivery/stickers/small-robot/robot-sleep-mode.png",
+      "bytes": 960475,
+      "sha256": "9c5bdc14f32564245957b9a9f985b79edb27ea37f195bd6fb62d318f41efb646"
+    },
+    {
+      "path": "delivery/stickers/small-robot/robot-toolbox.png",
+      "bytes": 1137030,
+      "sha256": "e1ea61080dd8f4ebb3baffaf584c343cc76e713d6cf6e51efc4d2eed3fe0e5af"
+    },
+    {
+      "path": "delivery/stickers/small-robot/robot-watering-plant.png",
+      "bytes": 1006239,
+      "sha256": "583e10067bf1da0cafa3c702949395ef68f40a65d893b9c1f0bb9d47c09afa72"
+    },
+    {
       "path": "delivery/stickers/snail-garden-journey/snail-flower-crown.png",
       "bytes": 1055287,
       "sha256": "73a10eba3a97cbec5fdd199c9a0f702f189866b29938bf20db8d7ab2522493dd"
@@ -3788,8 +3868,8 @@
     },
     {
       "path": "delivery/topic-map.csv",
-      "bytes": 153874,
-      "sha256": "19555271c1feafaaf5259b7bcc0a1675ad477338aaddf6ec3a5fe21eaff7f550"
+      "bytes": 155862,
+      "sha256": "4d047ce7dc38ea6a16f71c9a38a8de63a249ba494e10a6a9c5d99d6cec6511ab"
     },
     {
       "path": "history/delivery/.gitattributes",
@@ -4173,8 +4253,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 410703,
-      "sha256": "cc75a982bb8f2d6a20c375cb65ab55c59b479f52e01c9466ed48eb7c30a9e78b"
+      "bytes": 416032,
+      "sha256": "6309eed8324413342f2b52aa98329983245c1503d9c0d63099e4087b09e75ef9"
     },
     {
       "path": "logs/alpha-pilot-20260917.jsonl",
@@ -4198,8 +4278,8 @@
     },
     {
       "path": "logs/generation.jsonl",
-      "bytes": 312578,
-      "sha256": "e95aaaa57782b1931222ef1d421d437e7fae26bc8ff8549fb4b1113d3989f44d"
+      "bytes": 320793,
+      "sha256": "aee3d5fa8aa328ef832c044b8377b36b8ff78fb313e88a724ffefe56bd0dc3ff"
     },
     {
       "path": "logs/README.vi.md",
@@ -4520,6 +4600,41 @@
       "path": "masters/beekeeper-veil-hat.png",
       "bytes": 2012340,
       "sha256": "b6bacd3a81d031e01921b16dab4959084ee9f7bc76f253edd66283502680861f"
+    },
+    {
+      "path": "masters/bicycle-basket-flowers.png",
+      "bytes": 1212814,
+      "sha256": "934a5e045c50705409f596132d31b9927beba80bf405f167a51e291e5e48123b"
+    },
+    {
+      "path": "masters/bicycle-cargo.png",
+      "bytes": 1115310,
+      "sha256": "379f3a1a3cfdf07e7652b8edd67f76e3a3daf158f9283137fbf2c8e93647dc8b"
+    },
+    {
+      "path": "masters/bicycle-city.png",
+      "bytes": 1204696,
+      "sha256": "6e1e9ec85b87917d7c62d3c64536a622101777431a7b059e09981f9344d1f576"
+    },
+    {
+      "path": "masters/bicycle-folding.png",
+      "bytes": 1179748,
+      "sha256": "47c04d1f37e415caa67aae7494a42a492d826334f02a99a9ff55a2ebc8c4b841"
+    },
+    {
+      "path": "masters/bicycle-kids.png",
+      "bytes": 1214911,
+      "sha256": "573d9580d2f87731ca4e651576cae7cebba40d4d70285861b3df2a39f3b3929a"
+    },
+    {
+      "path": "masters/bicycle-mountain.png",
+      "bytes": 1280691,
+      "sha256": "f21faf55d9054912d1c0b5742725d09a832343852813497bff90e02f43356a3a"
+    },
+    {
+      "path": "masters/bicycle-tandem.png",
+      "bytes": 1017481,
+      "sha256": "1b2a9efb603791293b3d4dfb131ae8c9ddbc68f57534adc524f66e438ef4a9da"
     },
     {
       "path": "masters/bongos.png",
@@ -7150,6 +7265,46 @@
       "path": "masters/rhinoceros-beetle.png",
       "bytes": 954004,
       "sha256": "8a1dc103721100e520a88fcb7a365c73c2a16935d743072b1467a1329f5d0a76"
+    },
+    {
+      "path": "masters/robot-bicycle-ride.png",
+      "bytes": 1049409,
+      "sha256": "c3f62ca804120b339edda7b7af8148b2c1a709f102a0ac62a011035460c5099b"
+    },
+    {
+      "path": "masters/robot-cleaning.png",
+      "bytes": 969773,
+      "sha256": "8c24f5e7ea50c7577d1a76be9e7fc41fdca23c7b86dee8e193f036687dbe1cb6"
+    },
+    {
+      "path": "masters/robot-greeting.png",
+      "bytes": 962356,
+      "sha256": "7d69f8d84a96c11174db3af65b4bc9f77c0c28d3be4be02aa897483695e2aba4"
+    },
+    {
+      "path": "masters/robot-lightbulb.png",
+      "bytes": 1028879,
+      "sha256": "14e9490551c06cb17364003ba8934564be14fd3f76401fb7d9d8bbe4416f03b6"
+    },
+    {
+      "path": "masters/robot-reading-manual.png",
+      "bytes": 949434,
+      "sha256": "cf10aaa21c6c1f7f5b6968e2d11f9183e571c5f90174f4373088613a4a29fc11"
+    },
+    {
+      "path": "masters/robot-sleep-mode.png",
+      "bytes": 960475,
+      "sha256": "9c5bdc14f32564245957b9a9f985b79edb27ea37f195bd6fb62d318f41efb646"
+    },
+    {
+      "path": "masters/robot-toolbox.png",
+      "bytes": 1137030,
+      "sha256": "e1ea61080dd8f4ebb3baffaf584c343cc76e713d6cf6e51efc4d2eed3fe0e5af"
+    },
+    {
+      "path": "masters/robot-watering-plant.png",
+      "bytes": 1006239,
+      "sha256": "583e10067bf1da0cafa3c702949395ef68f40a65d893b9c1f0bb9d47c09afa72"
     },
     {
       "path": "masters/seam-ripper.png",
@@ -9938,8 +10093,8 @@
     },
     {
       "path": "qa/alpha-padding-audit.json",
-      "bytes": 283530,
-      "sha256": "bfa672828e945f7fc5d3480f8e703b1e9b12e92b89bc63186f19c0c0433a1ed6"
+      "bytes": 289289,
+      "sha256": "916f1b55ca2c7ecf51a01aa28c349cf76e7575fb05beee48012ba6a72f4266d9"
     },
     {
       "path": "qa/alpha-pilot-20260917/before-dark.png",
@@ -13443,8 +13598,8 @@
     },
     {
       "path": "qa/twenty-pairs-20260924/alpha-cleanup.json",
-      "bytes": 58907,
-      "sha256": "d9eaeacaeed1a1863ac22d11c764a3d9eb3c458619e0ba6a4c69ab2647d54e4c"
+      "bytes": 68635,
+      "sha256": "b8e46eafb9fe2377fbf817f63b33741cf484cb01db43e09c8cab9133d97a0c53"
     },
     {
       "path": "qa/twenty-pairs-20260924/art-corner-dark.png",
@@ -13457,9 +13612,19 @@
       "sha256": "a0ab56026154605005e70f01c2d5b5e62a9e229cf15461e9da8091c7a79b58de"
     },
     {
+      "path": "qa/twenty-pairs-20260924/bicycles-dark.png",
+      "bytes": 685000,
+      "sha256": "aa418e271cb5facb798c23028b95b14bb82a8cba92345f5aac73e0dafa5b4c8a"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/bicycles-light.png",
+      "bytes": 649393,
+      "sha256": "28b7adb83014b3fb6635d6928cd59bf3a3fd28f3c88209212468e44e79ea471c"
+    },
+    {
       "path": "qa/twenty-pairs-20260924/CHECKPOINT.vi.md",
-      "bytes": 1312,
-      "sha256": "65478b2796cabcb037f10ea8806d8db6662a507320370b39b303dda42b8559bc"
+      "bytes": 1354,
+      "sha256": "658523486b390c8a964ecd7b6d79333c99e3a39f9a9d80a75cf3a62ccc8d4656"
     },
     {
       "path": "qa/twenty-pairs-20260924/chestnut-season-dark.png",
@@ -13552,6 +13717,16 @@
       "sha256": "fe19a724000103b9f5e3ecf9a4826275c76dfac5a258d274296a8a46770dbb6d"
     },
     {
+      "path": "qa/twenty-pairs-20260924/small-robot-dark.png",
+      "bytes": 556169,
+      "sha256": "45e423c12226b0fed3c76d9ea52fae5e75aff3585329218bf0ed41233fb217a9"
+    },
+    {
+      "path": "qa/twenty-pairs-20260924/small-robot-light.png",
+      "bytes": 528580,
+      "sha256": "82c89c11f4c9608542368c361c765c0a7b1ef469ae94f98ee86b29cee876bac0"
+    },
+    {
       "path": "qa/twenty-pairs-20260924/squirrel-forest-dark.png",
       "bytes": 664925,
       "sha256": "c6c1f83b31c90c9df5c1cc47fe8e0bafd8d278961ec43c9e828de55eb416cfdb"
@@ -13573,8 +13748,8 @@
     },
     {
       "path": "qa/visual-qa.json",
-      "bytes": 58753,
-      "sha256": "523bd67bf828ef81c9b8a00af078c39ee792866054b15324f5a12e3ca9d3fac9"
+      "bytes": 59122,
+      "sha256": "4b7f7df654502dc451fa170c0b80d3cf092bb2bdc153e76a3c5a667352b7a0ec"
     },
     {
       "path": "qa/weaving-beater-comb-v2-alpha-dark.png",
@@ -31007,6 +31182,46 @@
       "sha256": "efb08ca37ae945ce54ef8c0952953c8197c25a339159167e4a85758d80f7fe3b"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/bicycles/bicycle-basket-flowers.png",
+      "bytes": 1240977,
+      "sha256": "f7a4048434eb89f0e29818769ae8ca9aaf9bf72f8ccb841c77bf1686c9f08d0a"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/bicycles/bicycle-cargo.png",
+      "bytes": 1143129,
+      "sha256": "54a490db2219e71fa7eef8fbce538246a2dea61ba89e29557ad15e5eae0cc9ff"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/bicycles/bicycle-city.png",
+      "bytes": 1241447,
+      "sha256": "b2e5676afebab92edf8ad4e009d3ecf49947327843e4ff199600da5665815d82"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/bicycles/bicycle-folding.png",
+      "bytes": 1214273,
+      "sha256": "81886ed0f9f56c35b3f2fe55a569c3b00c8ac0e53d8a586ef005df5e2cf658cb"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/bicycles/bicycle-kids.png",
+      "bytes": 1237319,
+      "sha256": "3461349dbcf2ae8506c72f0d7fdd061975f7009e5de6bd0b8f7321da8de7540c"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/bicycles/bicycle-mountain.png",
+      "bytes": 1310141,
+      "sha256": "1f6f6f35dac84bf69397ba23960264c95cfd3731b1a91fc618bda3bdef5956ed"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/bicycles/bicycle-tandem.png",
+      "bytes": 1046099,
+      "sha256": "7473ef3220ddd57818489b15c6cbbd51af563b5053a996012f2a324230d8de36"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/bicycles/robot-bicycle-ride.png",
+      "bytes": 1065182,
+      "sha256": "7c6776fba1ef8d20663664ee0940d15d99e95efdd0152848298eef40b2b51440"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/chestnut-season/chestnut-branch.png",
       "bytes": 1309970,
       "sha256": "db953b3eceef500c5329377ba7cc791a084d90448948149c1704836f6f8ed4fe"
@@ -31362,6 +31577,46 @@
       "sha256": "023b18af3a9a5cc13654912288679c333d1a51faa02f1eafc11d20068edce4de"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/small-robot/robot-bicycle-ride.png",
+      "bytes": 1065182,
+      "sha256": "7c6776fba1ef8d20663664ee0940d15d99e95efdd0152848298eef40b2b51440"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/small-robot/robot-cleaning.png",
+      "bytes": 984050,
+      "sha256": "866705b20cdc85ca76da4dfe565c6407955cc0d0585a1dc9802abdfdb9d89bd2"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/small-robot/robot-greeting.png",
+      "bytes": 978539,
+      "sha256": "90989a6fc6f805bd8cd0955af6c27af4ee011d75fc4149f2179dd67c864eab70"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/small-robot/robot-lightbulb.png",
+      "bytes": 1046785,
+      "sha256": "6708daf494dde6ba842ed31193e076b18dcc4747577a66612d464dff276bff24"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/small-robot/robot-reading-manual.png",
+      "bytes": 965384,
+      "sha256": "bbf05f263800138b2873e0c763eb9b6ceffc1ef1bfd7aec82a8f197e13dda7be"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/small-robot/robot-sleep-mode.png",
+      "bytes": 969077,
+      "sha256": "8647bc6b5894f736cff9e4dd08fd09839204848302679c2173ca65568dbae8cf"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/small-robot/robot-toolbox.png",
+      "bytes": 1156634,
+      "sha256": "0ecce310438a5a5cc72cecb504a2643c208a87a57f92b23705f5f45e2c5b62b4"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/small-robot/robot-watering-plant.png",
+      "bytes": 1023197,
+      "sha256": "d34825d6a198e80d082e841eea443b0b90c9114e250773fda71a0d13ff9379ec"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/squirrel-forest/squirrel-acorn.png",
       "bytes": 1138417,
       "sha256": "f12910e2fdbbb645c538b3aa60f45fab08a95c0dbd8328206993b5bc4a0a2f70"
@@ -31475,6 +31730,41 @@
       "path": "revisions/twenty-pairs-20260924/alpha-before/masters/art-watercolor-palette.png",
       "bytes": 1288348,
       "sha256": "c210822ef4440454bc798d5fce4d932dc9aa9d26b93b1d6f78853dd5786ae7db"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/bicycle-basket-flowers.png",
+      "bytes": 1240977,
+      "sha256": "f7a4048434eb89f0e29818769ae8ca9aaf9bf72f8ccb841c77bf1686c9f08d0a"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/bicycle-cargo.png",
+      "bytes": 1143129,
+      "sha256": "54a490db2219e71fa7eef8fbce538246a2dea61ba89e29557ad15e5eae0cc9ff"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/bicycle-city.png",
+      "bytes": 1241447,
+      "sha256": "b2e5676afebab92edf8ad4e009d3ecf49947327843e4ff199600da5665815d82"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/bicycle-folding.png",
+      "bytes": 1214273,
+      "sha256": "81886ed0f9f56c35b3f2fe55a569c3b00c8ac0e53d8a586ef005df5e2cf658cb"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/bicycle-kids.png",
+      "bytes": 1237319,
+      "sha256": "3461349dbcf2ae8506c72f0d7fdd061975f7009e5de6bd0b8f7321da8de7540c"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/bicycle-mountain.png",
+      "bytes": 1310141,
+      "sha256": "1f6f6f35dac84bf69397ba23960264c95cfd3731b1a91fc618bda3bdef5956ed"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/bicycle-tandem.png",
+      "bytes": 1046099,
+      "sha256": "7473ef3220ddd57818489b15c6cbbd51af563b5053a996012f2a324230d8de36"
     },
     {
       "path": "revisions/twenty-pairs-20260924/alpha-before/masters/chestnut-branch.png",
@@ -31812,6 +32102,46 @@
       "sha256": "94b5d8244f5467c398184f95d018130d9c9f123395c965c59d52df938bcf4933"
     },
     {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/robot-bicycle-ride.png",
+      "bytes": 1065182,
+      "sha256": "7c6776fba1ef8d20663664ee0940d15d99e95efdd0152848298eef40b2b51440"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/robot-cleaning.png",
+      "bytes": 984050,
+      "sha256": "866705b20cdc85ca76da4dfe565c6407955cc0d0585a1dc9802abdfdb9d89bd2"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/robot-greeting.png",
+      "bytes": 978539,
+      "sha256": "90989a6fc6f805bd8cd0955af6c27af4ee011d75fc4149f2179dd67c864eab70"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/robot-lightbulb.png",
+      "bytes": 1046785,
+      "sha256": "6708daf494dde6ba842ed31193e076b18dcc4747577a66612d464dff276bff24"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/robot-reading-manual.png",
+      "bytes": 965384,
+      "sha256": "bbf05f263800138b2873e0c763eb9b6ceffc1ef1bfd7aec82a8f197e13dda7be"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/robot-sleep-mode.png",
+      "bytes": 969077,
+      "sha256": "8647bc6b5894f736cff9e4dd08fd09839204848302679c2173ca65568dbae8cf"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/robot-toolbox.png",
+      "bytes": 1156634,
+      "sha256": "0ecce310438a5a5cc72cecb504a2643c208a87a57f92b23705f5f45e2c5b62b4"
+    },
+    {
+      "path": "revisions/twenty-pairs-20260924/alpha-before/masters/robot-watering-plant.png",
+      "bytes": 1023197,
+      "sha256": "d34825d6a198e80d082e841eea443b0b90c9114e250773fda71a0d13ff9379ec"
+    },
+    {
       "path": "revisions/twenty-pairs-20260924/alpha-before/masters/squirrel-acorn.png",
       "bytes": 1138417,
       "sha256": "f12910e2fdbbb645c538b3aa60f45fab08a95c0dbd8328206993b5bc4a0a2f70"
@@ -31957,6 +32287,11 @@
       "sha256": "7df1a4ee15b8403a733ae384cbc2e4562b66115326a8eb3f6e139a4966a2614a"
     },
     {
+      "path": "scripts/_tmp_revise_robot_refs.py",
+      "bytes": 891,
+      "sha256": "9bddb67a939f696a9914e421c33ccc8f2c8663200b0ffa25551e92f158dfdae7"
+    },
+    {
       "path": "scripts/_tmp_revise_turtle_requests.py",
       "bytes": 1552,
       "sha256": "726034939837cd9dca657bda3704261d8d1de47efbf18a308406d513fdba4ec5"
@@ -32078,8 +32413,8 @@
     },
     {
       "path": "state/generation-queue.json",
-      "bytes": 1635,
-      "sha256": "1c427950c9dbaef1ebf912bc09f2206fe7bc4a5b6defb651a0543c9bba4d9fa8"
+      "bytes": 1281,
+      "sha256": "50cc6a0678e233a5a0ab605ae5578ad1c17a605c9db616b908be48df3c4f7e47"
     },
     {
       "path": "state/imagegen-errors.jsonl",
@@ -32113,8 +32448,8 @@
     },
     {
       "path": "state/progress.json",
-      "bytes": 932150,
-      "sha256": "e62f2c899b0289370a7fd22f6190a9015908c150ce5dd88890fafdbc3883b56f"
+      "bytes": 941305,
+      "sha256": "e08b9f4269fa0049e7a5892262b6b2e4dfb5ccd3e7ad0b56d70626e8b3ce8fe2"
     },
     {
       "path": "state/quota-eight-topics-20260924.json",
@@ -35048,43 +35383,43 @@
     },
     {
       "path": "state/requests/robot-bicycle-ride.json",
-      "bytes": 2870,
-      "sha256": "54ec6d04f99463582c40a4a6aeeee27362af84e7ebcd04f74042b3c543862974"
+      "bytes": 2900,
+      "sha256": "edc47e98a4a2cf0b3043645609b64161e1a769ed774664f292e1156af5b7a8f0"
     },
     {
       "path": "state/requests/robot-cleaning.json",
-      "bytes": 2797,
-      "sha256": "6dd9aa33d841510ea1b4f761eba6c4ed2b24c9e3d65a4be24d3ce0b913f50d1d"
+      "bytes": 2827,
+      "sha256": "e36a983a8c71014af40417b42892863bc1f91f3aca00b5d1427c9fb07aecd4aa"
     },
     {
       "path": "state/requests/robot-greeting.json",
-      "bytes": 2775,
-      "sha256": "4768d4e34cb42aa3b3c63a271e143d5979335e4c0e7ae1e42a31397254ca8a80"
+      "bytes": 2805,
+      "sha256": "af8a3b245eb1afea58bbbc95e5267e2ff75caeae5a7663ab3d478433fd75f9f4"
     },
     {
       "path": "state/requests/robot-lightbulb.json",
-      "bytes": 2800,
-      "sha256": "94b512b0684d7cd31d41d2b2d83fbeaaf1442231d77a7aef6128a2bf3fbd90de"
+      "bytes": 2830,
+      "sha256": "34d343a499d75630707eea9c4e44bd5a6d3db12469d460aeacf1d0d72f636ab3"
     },
     {
       "path": "state/requests/robot-reading-manual.json",
-      "bytes": 2803,
-      "sha256": "8012ae1a1e982e3b0d36d13ce3979765e675ebbebe16ab1cff30275598779535"
+      "bytes": 2833,
+      "sha256": "b4cf9c684f80f565a6a71844eadbc6439e6264aa2d32101222f6154dfd9cbf3d"
     },
     {
       "path": "state/requests/robot-sleep-mode.json",
-      "bytes": 2805,
-      "sha256": "1b6c9d1f07d5ab1643b0f42670b7c11791cffd9b466abf2c97647a8f27131001"
+      "bytes": 2835,
+      "sha256": "ef03beb137dad394637b2486f3ccd5223a2ba8a5b33c3120ac2a107cd8a76b77"
     },
     {
       "path": "state/requests/robot-toolbox.json",
-      "bytes": 2814,
-      "sha256": "0974dca2ed2cd73bf3a728f7d842f9ce7da8cfe0441fe7ce4c5ca335c1b20830"
+      "bytes": 2844,
+      "sha256": "6778ee468182004730a5d688c3ea6b141f5b5610429994c66c4d09d77fd972f1"
     },
     {
       "path": "state/requests/robot-watering-plant.json",
-      "bytes": 2839,
-      "sha256": "5a74fbc1fc70dc8545deb6b09f79427613ee9b82c5dd91af3d8c07ed41db3c87"
+      "bytes": 2869,
+      "sha256": "9ed05c9f9b7e4780ca81f0a2c874f87f26099f3b7b254630761e16cdb4f07893"
     },
     {
       "path": "state/requests/seal-beach-ball.json",
@@ -35668,8 +36003,8 @@
     },
     {
       "path": "state/resume.json",
-      "bytes": 1161,
-      "sha256": "94d5840ba54f5f49772a12174c97aad65dc5d2998751cdd9ead3d53710d8e6fb"
+      "bytes": 1122,
+      "sha256": "4570661657bd3834ba8430a986aadd4280b9f9f969b1f7abc845adab9729aea7"
     },
     {
       "path": "state/twenty-pairs-20260924.json",
@@ -35678,8 +36013,8 @@
     },
     {
       "path": "state/work-order.json",
-      "bytes": 10033,
-      "sha256": "2682b1cfdcb524fe3ab15797fadd5a465e3656fa31b5f7a418dba9c0b8dafb7b"
+      "bytes": 10027,
+      "sha256": "43ffb6cbd8aeb76827b0ab139a7c356366539dd8f1ef3a8ed4e00d256b06c2be"
     },
     {
       "path": "workspace.json",

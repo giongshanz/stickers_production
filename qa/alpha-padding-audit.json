@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-25T07:06:37.044549+00:00",
+  "updated_utc": "2026-09-25T07:31:05.923980+00:00",
   "padding_definition": "Bounding box of all nonzero alpha pixels; read-only audit, no PNG edits.",
   "assets": [
     {
@@ -15457,6 +15457,321 @@
       "transparent_pixels": 878245,
       "partial_alpha_pixels": 692208,
       "opaque_pixels": 2063
+    },
+    {
+      "id": "robot-watering-plant",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        193,
+        70,
+        211,
+        65
+      ],
+      "review_edge": false,
+      "transparent_pixels": 976753,
+      "partial_alpha_pixels": 594368,
+      "opaque_pixels": 1395
+    },
+    {
+      "id": "robot-reading-manual",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        220,
+        33,
+        236,
+        28
+      ],
+      "review_edge": false,
+      "transparent_pixels": 973512,
+      "partial_alpha_pixels": 597498,
+      "opaque_pixels": 1506
+    },
+    {
+      "id": "robot-toolbox",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        132,
+        30,
+        132,
+        32
+      ],
+      "review_edge": false,
+      "transparent_pixels": 880129,
+      "partial_alpha_pixels": 692044,
+      "opaque_pixels": 343
+    },
+    {
+      "id": "robot-lightbulb",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        226,
+        37,
+        88,
+        47
+      ],
+      "review_edge": false,
+      "transparent_pixels": 940217,
+      "partial_alpha_pixels": 630362,
+      "opaque_pixels": 1937
+    },
+    {
+      "id": "robot-cleaning",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        310,
+        15,
+        297,
+        28
+      ],
+      "review_edge": true,
+      "transparent_pixels": 1006503,
+      "partial_alpha_pixels": 564734,
+      "opaque_pixels": 1279
+    },
+    {
+      "id": "robot-greeting",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        119,
+        54,
+        139,
+        51
+      ],
+      "review_edge": false,
+      "transparent_pixels": 956875,
+      "partial_alpha_pixels": 613500,
+      "opaque_pixels": 2141
+    },
+    {
+      "id": "robot-sleep-mode",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        208,
+        91,
+        227,
+        68
+      ],
+      "review_edge": false,
+      "transparent_pixels": 979169,
+      "partial_alpha_pixels": 592547,
+      "opaque_pixels": 800
+    },
+    {
+      "id": "robot-bicycle-ride",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        222,
+        18,
+        215,
+        20
+      ],
+      "review_edge": true,
+      "transparent_pixels": 964661,
+      "partial_alpha_pixels": 606072,
+      "opaque_pixels": 1783
+    },
+    {
+      "id": "bicycle-city",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        40,
+        123,
+        28,
+        126
+      ],
+      "review_edge": false,
+      "transparent_pixels": 813135,
+      "partial_alpha_pixels": 758112,
+      "opaque_pixels": 1269
+    },
+    {
+      "id": "bicycle-mountain",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        18,
+        152,
+        14,
+        85
+      ],
+      "review_edge": true,
+      "transparent_pixels": 778935,
+      "partial_alpha_pixels": 790297,
+      "opaque_pixels": 3284
+    },
+    {
+      "id": "bicycle-cargo",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        38,
+        149,
+        30,
+        109
+      ],
+      "review_edge": false,
+      "transparent_pixels": 877735,
+      "partial_alpha_pixels": 691764,
+      "opaque_pixels": 3017
+    },
+    {
+      "id": "bicycle-kids",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        64,
+        85,
+        69,
+        83
+      ],
+      "review_edge": false,
+      "transparent_pixels": 821334,
+      "partial_alpha_pixels": 748726,
+      "opaque_pixels": 2456
+    },
+    {
+      "id": "bicycle-folding",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        110,
+        147,
+        87,
+        172
+      ],
+      "review_edge": false,
+      "transparent_pixels": 846869,
+      "partial_alpha_pixels": 723925,
+      "opaque_pixels": 1722
+    },
+    {
+      "id": "bicycle-tandem",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        13,
+        248,
+        10,
+        245
+      ],
+      "review_edge": true,
+      "transparent_pixels": 959749,
+      "partial_alpha_pixels": 612379,
+      "opaque_pixels": 388
+    },
+    {
+      "id": "bicycle-basket-flowers",
+      "width": 1254,
+      "height": 1254,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "padding_nonzero_alpha": [
+        39,
+        119,
+        25,
+        107
+      ],
+      "review_edge": true,
+      "transparent_pixels": 820930,
+      "partial_alpha_pixels": 748925,
+      "opaque_pixels": 2661
     }
   ]
 }

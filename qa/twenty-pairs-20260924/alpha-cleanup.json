@@ -1443,8 +1443,249 @@
       "rgb_unchanged": true,
       "dimensions_unchanged": true,
       "alpha_1_to_15_cleared": 29224
+    },
+    {
+      "id": "robot-watering-plant",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/robot-watering-plant.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/small-robot/robot-watering-plant.png"
+      ],
+      "before_sha256": "d34825d6a198e80d082e841eea443b0b90c9114e250773fda71a0d13ff9379ec",
+      "after_sha256": "583e10067bf1da0cafa3c702949395ef68f40a65d893b9c1f0bb9d47c09afa72",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 16597
+    },
+    {
+      "id": "robot-reading-manual",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/robot-reading-manual.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/small-robot/robot-reading-manual.png"
+      ],
+      "before_sha256": "bbf05f263800138b2873e0c763eb9b6ceffc1ef1bfd7aec82a8f197e13dda7be",
+      "after_sha256": "cf10aaa21c6c1f7f5b6968e2d11f9183e571c5f90174f4373088613a4a29fc11",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 17291
+    },
+    {
+      "id": "robot-toolbox",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/robot-toolbox.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/small-robot/robot-toolbox.png"
+      ],
+      "before_sha256": "0ecce310438a5a5cc72cecb504a2643c208a87a57f92b23705f5f45e2c5b62b4",
+      "after_sha256": "e1ea61080dd8f4ebb3baffaf584c343cc76e713d6cf6e51efc4d2eed3fe0e5af",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 24434
+    },
+    {
+      "id": "robot-lightbulb",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/robot-lightbulb.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/small-robot/robot-lightbulb.png"
+      ],
+      "before_sha256": "6708daf494dde6ba842ed31193e076b18dcc4747577a66612d464dff276bff24",
+      "after_sha256": "14e9490551c06cb17364003ba8934564be14fd3f76401fb7d9d8bbe4416f03b6",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 23624
+    },
+    {
+      "id": "robot-cleaning",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/robot-cleaning.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/small-robot/robot-cleaning.png"
+      ],
+      "before_sha256": "866705b20cdc85ca76da4dfe565c6407955cc0d0585a1dc9802abdfdb9d89bd2",
+      "after_sha256": "8c24f5e7ea50c7577d1a76be9e7fc41fdca23c7b86dee8e193f036687dbe1cb6",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 16550
+    },
+    {
+      "id": "robot-greeting",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/robot-greeting.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/small-robot/robot-greeting.png"
+      ],
+      "before_sha256": "90989a6fc6f805bd8cd0955af6c27af4ee011d75fc4149f2179dd67c864eab70",
+      "after_sha256": "7d69f8d84a96c11174db3af65b4bc9f77c0c28d3be4be02aa897483695e2aba4",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 27385
+    },
+    {
+      "id": "robot-sleep-mode",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/robot-sleep-mode.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/small-robot/robot-sleep-mode.png"
+      ],
+      "before_sha256": "8647bc6b5894f736cff9e4dd08fd09839204848302679c2173ca65568dbae8cf",
+      "after_sha256": "9c5bdc14f32564245957b9a9f985b79edb27ea37f195bd6fb62d318f41efb646",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 11728
+    },
+    {
+      "id": "robot-bicycle-ride",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/robot-bicycle-ride.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/bicycles/robot-bicycle-ride.png",
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/small-robot/robot-bicycle-ride.png"
+      ],
+      "before_sha256": "7c6776fba1ef8d20663664ee0940d15d99e95efdd0152848298eef40b2b51440",
+      "after_sha256": "c3f62ca804120b339edda7b7af8148b2c1a709f102a0ac62a011035460c5099b",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 17460
+    },
+    {
+      "id": "bicycle-city",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/bicycle-city.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/bicycles/bicycle-city.png"
+      ],
+      "before_sha256": "b2e5676afebab92edf8ad4e009d3ecf49947327843e4ff199600da5665815d82",
+      "after_sha256": "6e1e9ec85b87917d7c62d3c64536a622101777431a7b059e09981f9344d1f576",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 25746
+    },
+    {
+      "id": "bicycle-mountain",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/bicycle-mountain.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/bicycles/bicycle-mountain.png"
+      ],
+      "before_sha256": "1f6f6f35dac84bf69397ba23960264c95cfd3731b1a91fc618bda3bdef5956ed",
+      "after_sha256": "f21faf55d9054912d1c0b5742725d09a832343852813497bff90e02f43356a3a",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 73388
+    },
+    {
+      "id": "bicycle-cargo",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/bicycle-cargo.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/bicycles/bicycle-cargo.png"
+      ],
+      "before_sha256": "54a490db2219e71fa7eef8fbce538246a2dea61ba89e29557ad15e5eae0cc9ff",
+      "after_sha256": "379f3a1a3cfdf07e7652b8edd67f76e3a3daf158f9283137fbf2c8e93647dc8b",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 28840
+    },
+    {
+      "id": "bicycle-kids",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/bicycle-kids.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/bicycles/bicycle-kids.png"
+      ],
+      "before_sha256": "3461349dbcf2ae8506c72f0d7fdd061975f7009e5de6bd0b8f7321da8de7540c",
+      "after_sha256": "573d9580d2f87731ca4e651576cae7cebba40d4d70285861b3df2a39f3b3929a",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 30886
+    },
+    {
+      "id": "bicycle-folding",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/bicycle-folding.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/bicycles/bicycle-folding.png"
+      ],
+      "before_sha256": "81886ed0f9f56c35b3f2fe55a569c3b00c8ac0e53d8a586ef005df5e2cf658cb",
+      "after_sha256": "47c04d1f37e415caa67aae7494a42a492d826334f02a99a9ff55a2ebc8c4b841",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 17514
+    },
+    {
+      "id": "bicycle-tandem",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/bicycle-tandem.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/bicycles/bicycle-tandem.png"
+      ],
+      "before_sha256": "7473ef3220ddd57818489b15c6cbbd51af563b5053a996012f2a324230d8de36",
+      "after_sha256": "1b2a9efb603791293b3d4dfb131ae8c9ddbc68f57534adc524f66e438ef4a9da",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 37648
+    },
+    {
+      "id": "bicycle-basket-flowers",
+      "master_before": "revisions/twenty-pairs-20260924/alpha-before/masters/bicycle-basket-flowers.png",
+      "delivery_before": [
+        "revisions/twenty-pairs-20260924/alpha-before/delivery/stickers/bicycles/bicycle-basket-flowers.png"
+      ],
+      "before_sha256": "f7a4048434eb89f0e29818769ae8ca9aaf9bf72f8ccb841c77bf1686c9f08d0a",
+      "after_sha256": "934a5e045c50705409f596132d31b9927beba80bf405f167a51e291e5e48123b",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "rgb_unchanged": true,
+      "dimensions_unchanged": true,
+      "alpha_1_to_15_cleared": 25542
     }
   ],
-  "updated_utc": "2026-09-25T07:05:23.987507+00:00",
+  "updated_utc": "2026-09-25T07:30:02.989641+00:00",
   "operation": "Set alpha 1..15 to zero only, preserving RGB and dimensions."
 }

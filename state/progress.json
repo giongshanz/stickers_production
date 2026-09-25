@@ -1,14 +1,14 @@
 {
-  "updated_utc": "2026-09-25T07:06:37.044549+00:00",
+  "updated_utc": "2026-09-25T07:31:05.923980+00:00",
   "target_topics": 102,
   "target_slots": 816,
   "target_unique": 796,
-  "generated_unique": 736,
-  "missing_unique": 60,
-  "alpha_corners_clear_unique": 736,
+  "generated_unique": 751,
+  "missing_unique": 45,
+  "alpha_corners_clear_unique": 751,
   "needs_alpha_unique": 0,
-  "topics_with_all_images": 94,
-  "generated_topic_slots": 752,
+  "topics_with_all_images": 96,
+  "generated_topic_slots": 768,
   "visual_rework_unique": 25,
   "complete": false,
   "prompt_target_dimensions": [
@@ -22857,8 +22857,29 @@
         "small-robot"
       ],
       "source": "masters/robot-watering-plant.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 976753,
+      "partial_alpha_pixels": 594368,
+      "opaque_pixels": 1395,
+      "padding_nonzero_alpha": [
+        193,
+        70,
+        211,
+        65
+      ],
+      "review_edge": false,
+      "sha256": "583e10067bf1da0cafa3c702949395ef68f40a65d893b9c1f0bb9d47c09afa72",
+      "bytes": 1006239
     },
     {
       "id": "robot-reading-manual",
@@ -22867,8 +22888,29 @@
         "small-robot"
       ],
       "source": "masters/robot-reading-manual.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 973512,
+      "partial_alpha_pixels": 597498,
+      "opaque_pixels": 1506,
+      "padding_nonzero_alpha": [
+        220,
+        33,
+        236,
+        28
+      ],
+      "review_edge": false,
+      "sha256": "cf10aaa21c6c1f7f5b6968e2d11f9183e571c5f90174f4373088613a4a29fc11",
+      "bytes": 949434
     },
     {
       "id": "robot-toolbox",
@@ -22877,8 +22919,29 @@
         "small-robot"
       ],
       "source": "masters/robot-toolbox.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 880129,
+      "partial_alpha_pixels": 692044,
+      "opaque_pixels": 343,
+      "padding_nonzero_alpha": [
+        132,
+        30,
+        132,
+        32
+      ],
+      "review_edge": false,
+      "sha256": "e1ea61080dd8f4ebb3baffaf584c343cc76e713d6cf6e51efc4d2eed3fe0e5af",
+      "bytes": 1137030
     },
     {
       "id": "robot-lightbulb",
@@ -22887,8 +22950,29 @@
         "small-robot"
       ],
       "source": "masters/robot-lightbulb.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 940217,
+      "partial_alpha_pixels": 630362,
+      "opaque_pixels": 1937,
+      "padding_nonzero_alpha": [
+        226,
+        37,
+        88,
+        47
+      ],
+      "review_edge": false,
+      "sha256": "14e9490551c06cb17364003ba8934564be14fd3f76401fb7d9d8bbe4416f03b6",
+      "bytes": 1028879
     },
     {
       "id": "robot-cleaning",
@@ -22897,8 +22981,29 @@
         "small-robot"
       ],
       "source": "masters/robot-cleaning.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 1006503,
+      "partial_alpha_pixels": 564734,
+      "opaque_pixels": 1279,
+      "padding_nonzero_alpha": [
+        310,
+        15,
+        297,
+        28
+      ],
+      "review_edge": true,
+      "sha256": "8c24f5e7ea50c7577d1a76be9e7fc41fdca23c7b86dee8e193f036687dbe1cb6",
+      "bytes": 969773
     },
     {
       "id": "robot-greeting",
@@ -22907,8 +23012,29 @@
         "small-robot"
       ],
       "source": "masters/robot-greeting.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 956875,
+      "partial_alpha_pixels": 613500,
+      "opaque_pixels": 2141,
+      "padding_nonzero_alpha": [
+        119,
+        54,
+        139,
+        51
+      ],
+      "review_edge": false,
+      "sha256": "7d69f8d84a96c11174db3af65b4bc9f77c0c28d3be4be02aa897483695e2aba4",
+      "bytes": 962356
     },
     {
       "id": "robot-sleep-mode",
@@ -22917,8 +23043,29 @@
         "small-robot"
       ],
       "source": "masters/robot-sleep-mode.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 979169,
+      "partial_alpha_pixels": 592547,
+      "opaque_pixels": 800,
+      "padding_nonzero_alpha": [
+        208,
+        91,
+        227,
+        68
+      ],
+      "review_edge": false,
+      "sha256": "9c5bdc14f32564245957b9a9f985b79edb27ea37f195bd6fb62d318f41efb646",
+      "bytes": 960475
     },
     {
       "id": "robot-bicycle-ride",
@@ -22928,8 +23075,29 @@
         "bicycles"
       ],
       "source": "masters/robot-bicycle-ride.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 964661,
+      "partial_alpha_pixels": 606072,
+      "opaque_pixels": 1783,
+      "padding_nonzero_alpha": [
+        222,
+        18,
+        215,
+        20
+      ],
+      "review_edge": true,
+      "sha256": "c3f62ca804120b339edda7b7af8148b2c1a709f102a0ac62a011035460c5099b",
+      "bytes": 1049409
     },
     {
       "id": "bicycle-city",
@@ -22938,8 +23106,29 @@
         "bicycles"
       ],
       "source": "masters/bicycle-city.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 813135,
+      "partial_alpha_pixels": 758112,
+      "opaque_pixels": 1269,
+      "padding_nonzero_alpha": [
+        40,
+        123,
+        28,
+        126
+      ],
+      "review_edge": false,
+      "sha256": "6e1e9ec85b87917d7c62d3c64536a622101777431a7b059e09981f9344d1f576",
+      "bytes": 1204696
     },
     {
       "id": "bicycle-mountain",
@@ -22948,8 +23137,29 @@
         "bicycles"
       ],
       "source": "masters/bicycle-mountain.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 778935,
+      "partial_alpha_pixels": 790297,
+      "opaque_pixels": 3284,
+      "padding_nonzero_alpha": [
+        18,
+        152,
+        14,
+        85
+      ],
+      "review_edge": true,
+      "sha256": "f21faf55d9054912d1c0b5742725d09a832343852813497bff90e02f43356a3a",
+      "bytes": 1280691
     },
     {
       "id": "bicycle-cargo",
@@ -22958,8 +23168,29 @@
         "bicycles"
       ],
       "source": "masters/bicycle-cargo.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 877735,
+      "partial_alpha_pixels": 691764,
+      "opaque_pixels": 3017,
+      "padding_nonzero_alpha": [
+        38,
+        149,
+        30,
+        109
+      ],
+      "review_edge": false,
+      "sha256": "379f3a1a3cfdf07e7652b8edd67f76e3a3daf158f9283137fbf2c8e93647dc8b",
+      "bytes": 1115310
     },
     {
       "id": "bicycle-kids",
@@ -22968,8 +23199,29 @@
         "bicycles"
       ],
       "source": "masters/bicycle-kids.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 821334,
+      "partial_alpha_pixels": 748726,
+      "opaque_pixels": 2456,
+      "padding_nonzero_alpha": [
+        64,
+        85,
+        69,
+        83
+      ],
+      "review_edge": false,
+      "sha256": "573d9580d2f87731ca4e651576cae7cebba40d4d70285861b3df2a39f3b3929a",
+      "bytes": 1214911
     },
     {
       "id": "bicycle-folding",
@@ -22978,8 +23230,29 @@
         "bicycles"
       ],
       "source": "masters/bicycle-folding.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 846869,
+      "partial_alpha_pixels": 723925,
+      "opaque_pixels": 1722,
+      "padding_nonzero_alpha": [
+        110,
+        147,
+        87,
+        172
+      ],
+      "review_edge": false,
+      "sha256": "47c04d1f37e415caa67aae7494a42a492d826334f02a99a9ff55a2ebc8c4b841",
+      "bytes": 1179748
     },
     {
       "id": "bicycle-tandem",
@@ -22988,8 +23261,29 @@
         "bicycles"
       ],
       "source": "masters/bicycle-tandem.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 959749,
+      "partial_alpha_pixels": 612379,
+      "opaque_pixels": 388,
+      "padding_nonzero_alpha": [
+        13,
+        248,
+        10,
+        245
+      ],
+      "review_edge": true,
+      "sha256": "1b2a9efb603791293b3d4dfb131ae8c9ddbc68f57534adc524f66e438ef4a9da",
+      "bytes": 1017481
     },
     {
       "id": "bicycle-basket-flowers",
@@ -22998,8 +23292,29 @@
         "bicycles"
       ],
       "source": "masters/bicycle-basket-flowers.png",
-      "status": "missing",
-      "review_note": ""
+      "status": "alpha_corners_clear",
+      "review_note": "",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparent_pixels": 820930,
+      "partial_alpha_pixels": 748925,
+      "opaque_pixels": 2661,
+      "padding_nonzero_alpha": [
+        39,
+        119,
+        25,
+        107
+      ],
+      "review_edge": true,
+      "sha256": "934a5e045c50705409f596132d31b9927beba80bf405f167a51e291e5e48123b",
+      "bytes": 1212814
     },
     {
       "id": "seal-clapping",
@@ -24023,13 +24338,13 @@
     {
       "slug": "small-robot",
       "name_vi": "Robot nhỏ",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
       "slug": "bicycles",
       "name_vi": "Xe đạp",
-      "generated": 0,
+      "generated": 8,
       "target": 8
     },
     {
@@ -30842,144 +31157,144 @@
       "topic": "small-robot",
       "name_vi": "Robot nhỏ",
       "id": "robot-watering-plant",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/small-robot/robot-watering-plant.png",
+      "status": "alpha_corners_clear",
+      "sha256": "583e10067bf1da0cafa3c702949395ef68f40a65d893b9c1f0bb9d47c09afa72",
       "review_note": ""
     },
     {
       "topic": "small-robot",
       "name_vi": "Robot nhỏ",
       "id": "robot-reading-manual",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/small-robot/robot-reading-manual.png",
+      "status": "alpha_corners_clear",
+      "sha256": "cf10aaa21c6c1f7f5b6968e2d11f9183e571c5f90174f4373088613a4a29fc11",
       "review_note": ""
     },
     {
       "topic": "small-robot",
       "name_vi": "Robot nhỏ",
       "id": "robot-toolbox",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/small-robot/robot-toolbox.png",
+      "status": "alpha_corners_clear",
+      "sha256": "e1ea61080dd8f4ebb3baffaf584c343cc76e713d6cf6e51efc4d2eed3fe0e5af",
       "review_note": ""
     },
     {
       "topic": "small-robot",
       "name_vi": "Robot nhỏ",
       "id": "robot-lightbulb",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/small-robot/robot-lightbulb.png",
+      "status": "alpha_corners_clear",
+      "sha256": "14e9490551c06cb17364003ba8934564be14fd3f76401fb7d9d8bbe4416f03b6",
       "review_note": ""
     },
     {
       "topic": "small-robot",
       "name_vi": "Robot nhỏ",
       "id": "robot-cleaning",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/small-robot/robot-cleaning.png",
+      "status": "alpha_corners_clear",
+      "sha256": "8c24f5e7ea50c7577d1a76be9e7fc41fdca23c7b86dee8e193f036687dbe1cb6",
       "review_note": ""
     },
     {
       "topic": "small-robot",
       "name_vi": "Robot nhỏ",
       "id": "robot-greeting",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/small-robot/robot-greeting.png",
+      "status": "alpha_corners_clear",
+      "sha256": "7d69f8d84a96c11174db3af65b4bc9f77c0c28d3be4be02aa897483695e2aba4",
       "review_note": ""
     },
     {
       "topic": "small-robot",
       "name_vi": "Robot nhỏ",
       "id": "robot-sleep-mode",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/small-robot/robot-sleep-mode.png",
+      "status": "alpha_corners_clear",
+      "sha256": "9c5bdc14f32564245957b9a9f985b79edb27ea37f195bd6fb62d318f41efb646",
       "review_note": ""
     },
     {
       "topic": "small-robot",
       "name_vi": "Robot nhỏ",
       "id": "robot-bicycle-ride",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/small-robot/robot-bicycle-ride.png",
+      "status": "alpha_corners_clear",
+      "sha256": "c3f62ca804120b339edda7b7af8148b2c1a709f102a0ac62a011035460c5099b",
       "review_note": ""
     },
     {
       "topic": "bicycles",
       "name_vi": "Xe đạp",
       "id": "robot-bicycle-ride",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/bicycles/robot-bicycle-ride.png",
+      "status": "alpha_corners_clear",
+      "sha256": "c3f62ca804120b339edda7b7af8148b2c1a709f102a0ac62a011035460c5099b",
       "review_note": ""
     },
     {
       "topic": "bicycles",
       "name_vi": "Xe đạp",
       "id": "bicycle-city",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/bicycles/bicycle-city.png",
+      "status": "alpha_corners_clear",
+      "sha256": "6e1e9ec85b87917d7c62d3c64536a622101777431a7b059e09981f9344d1f576",
       "review_note": ""
     },
     {
       "topic": "bicycles",
       "name_vi": "Xe đạp",
       "id": "bicycle-mountain",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/bicycles/bicycle-mountain.png",
+      "status": "alpha_corners_clear",
+      "sha256": "f21faf55d9054912d1c0b5742725d09a832343852813497bff90e02f43356a3a",
       "review_note": ""
     },
     {
       "topic": "bicycles",
       "name_vi": "Xe đạp",
       "id": "bicycle-cargo",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/bicycles/bicycle-cargo.png",
+      "status": "alpha_corners_clear",
+      "sha256": "379f3a1a3cfdf07e7652b8edd67f76e3a3daf158f9283137fbf2c8e93647dc8b",
       "review_note": ""
     },
     {
       "topic": "bicycles",
       "name_vi": "Xe đạp",
       "id": "bicycle-kids",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/bicycles/bicycle-kids.png",
+      "status": "alpha_corners_clear",
+      "sha256": "573d9580d2f87731ca4e651576cae7cebba40d4d70285861b3df2a39f3b3929a",
       "review_note": ""
     },
     {
       "topic": "bicycles",
       "name_vi": "Xe đạp",
       "id": "bicycle-folding",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/bicycles/bicycle-folding.png",
+      "status": "alpha_corners_clear",
+      "sha256": "47c04d1f37e415caa67aae7494a42a492d826334f02a99a9ff55a2ebc8c4b841",
       "review_note": ""
     },
     {
       "topic": "bicycles",
       "name_vi": "Xe đạp",
       "id": "bicycle-tandem",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/bicycles/bicycle-tandem.png",
+      "status": "alpha_corners_clear",
+      "sha256": "1b2a9efb603791293b3d4dfb131ae8c9ddbc68f57534adc524f66e438ef4a9da",
       "review_note": ""
     },
     {
       "topic": "bicycles",
       "name_vi": "Xe đạp",
       "id": "bicycle-basket-flowers",
-      "file": null,
-      "status": "missing",
-      "sha256": null,
+      "file": "delivery/stickers/bicycles/bicycle-basket-flowers.png",
+      "status": "alpha_corners_clear",
+      "sha256": "934a5e045c50705409f596132d31b9927beba80bf405f167a51e291e5e48123b",
       "review_note": ""
     },
     {
